@@ -1,0 +1,6 @@
+owner = TIM
+controller = TIM
+add_core = TIM
+terrain = desert
+trade_goods = wool
+life_rating = 20

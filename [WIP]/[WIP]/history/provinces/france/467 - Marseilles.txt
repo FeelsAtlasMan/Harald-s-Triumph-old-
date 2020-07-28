@@ -1,0 +1,13 @@
+owner = BRG
+controller = BRG
+add_core = BRG
+add_core = ITA
+add_core = LOM
+trade_goods = fruit
+life_rating = 30
+terrain = marseille
+state_building = {
+	level = 1
+	building = clipper_shipyard
+	upgrade = yes
+}

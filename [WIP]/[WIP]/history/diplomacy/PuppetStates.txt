@@ -1,0 +1,131 @@
+#Timurd Vassals/Substates
+substate = {
+	first = TIM
+	second = AKK
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = TIM
+	second = CND
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = TIM
+	second = BLC
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = TIM
+	second = PNJ
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = TIM
+	second = URF
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+substate = {
+	first = TIM
+	second = KWT
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+#Asia Minor
+vassal = {
+	first = BYZ
+	second = TUR
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+#Hungary and Romania
+vassal = {
+	first = HUN
+	second = MOL
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+substate = {
+	first = HUN
+	second = BZN
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+#East Coast Company and Hudson Bay Company
+vassal = {
+	first = NRD
+	second = RPL
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = NRD
+	second = CAL
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+substate = {
+	first = RPL
+	second = MTC
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+#Gouvernement of Ireland and Wales
+vassal = {
+	first = LIR
+	second = ULS
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = NRD
+	second = WHA
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = LIR
+	second = MNS
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = LIR
+	second = SLN
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+substate = {
+	first = NRD
+	second = LIR
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+#Swedish Batlic Gouvernement
+substate = {
+	first = SWE
+	second = UBD
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}

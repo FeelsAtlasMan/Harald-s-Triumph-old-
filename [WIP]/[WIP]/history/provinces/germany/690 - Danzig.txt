@@ -1,0 +1,6 @@
+owner = BOH
+controller = BOH
+add_core = MEC
+trade_goods = fish
+life_rating = 40
+terrain = danzig

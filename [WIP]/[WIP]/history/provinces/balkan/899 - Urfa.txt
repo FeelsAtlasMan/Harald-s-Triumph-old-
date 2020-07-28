@@ -1,0 +1,6 @@
+owner = URF
+controller = URF
+add_core = URF
+add_core = KDS
+trade_goods = grain
+life_rating = 35

@@ -1,0 +1,6 @@
+owner = TIM
+controller = TIM
+add_core = BLC
+trade_goods = fish
+terrain = mountain
+life_rating = 31

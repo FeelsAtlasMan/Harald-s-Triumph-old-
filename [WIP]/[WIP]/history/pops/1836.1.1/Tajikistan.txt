@@ -1,0 +1,209 @@
+#Mawarannahr Region (200000) #see Kazakhstan.txt, Uzbekistan.txt, Kirghizstan.txt and Turkmenistan.txt for balance of region 
+#under the rule of Kokand in 1836  
+#Khujand (200000/50000 POPS) #now part of Tajikistan  
+1201 = {
+	aristocrats = {
+		culture = uzbek
+		religion = sunni
+		size = 775
+	}
+
+	clergymen = {
+		culture = uzbek
+		religion = sunni
+		size = 400
+	}
+
+	artisans = {
+		culture = uzbek
+		religion = sunni
+		size = 2000
+	}
+
+	soldiers = {
+		culture = uzbek
+		religion = sunni
+		size = 400
+	}
+
+	farmers = {
+		culture = uzbek
+		religion = sunni
+		size = 26425
+	}
+
+	aristocrats = {
+		culture = persian
+		religion = shiite
+		size = 175
+	}
+
+	clergymen = {
+		culture = persian
+		religion = shiite
+		size = 75
+	}
+
+	artisans = {
+		culture = persian
+		religion = shiite
+		size = 500
+	}
+
+	soldiers = {
+		culture = persian
+		religion = shiite
+		size = 100
+	}
+
+	farmers = {
+		culture = persian
+		religion = shiite
+		size = 19150
+	}
+}
+#Badakhshan Region (212000) 
+#under the rule of Kokand in 1836  
+#Kulob (120000/30000 POPS)   
+1207 = {
+	aristocrats = {
+		culture = persian
+		religion = shiite
+		size = 575
+	}
+
+	clergymen = {
+		culture = persian
+		religion = shiite
+		size = 275
+	}
+
+	artisans = {
+		culture = persian
+		religion = shiite
+		size = 1450
+	}
+
+	soldiers = {
+		culture = persian
+		religion = shiite
+		size = 250
+	}
+
+	farmers = {
+		culture = persian
+		religion = shiite
+		size = 10000
+	}
+	
+    aristocrats = {
+		culture = uzbek
+		religion = shiite
+		size = 575
+	}
+
+	clergymen = {
+		culture = uzbek
+		religion = shiite
+		size = 275
+	}
+
+	farmers = {
+		culture = uzbek
+		religion = shiite
+		size = 17450
+	}
+
+	slaves = {
+		culture = persian
+		religion = shiite
+		size = 2000
+	}
+
+	slaves = {
+		culture = uighur
+		religion = sunni
+		size = 4000
+	}
+}
+#Khorugh (92000/23000 POPS)   
+1208 = {
+	aristocrats = {
+		culture = persian
+		religion = shiite
+		size = 350
+	}
+	
+	bureaucrats = {
+		culture = persian
+		religion = shiite
+		size = 150
+	}
+
+	clergymen = {
+		culture = persian
+		religion = shiite
+		size = 175
+	}
+
+	artisans = {
+		culture = persian
+		religion = shiite
+		size = 850
+	}
+	
+	officers = {
+		culture = persian
+		religion = shiite
+		size = 100
+	}
+
+	soldiers = {
+		culture = persian
+		religion = shiite
+		size = 1000
+	}
+
+	farmers = {
+		culture = persian
+		religion = shiite
+		size = 25450
+	}
+
+	aristocrats = {
+		culture = uzbek
+		religion = sunni
+		size = 75
+	}
+
+	clergymen = {
+		culture = uzbek
+		religion = sunni
+		size = 75
+	}
+
+	artisans = {
+		culture = uzbek
+		religion = sunni
+		size = 175
+	}
+
+	soldiers = {
+		culture = uzbek
+		religion = sunni
+		size = 500
+	}
+
+	farmers = {
+		culture = uzbek
+		religion = sunni
+		size = 3650
+	}
+
+	slaves = {
+		culture = uighur
+		religion = sunni
+		size = 5000
+	}
+
+}

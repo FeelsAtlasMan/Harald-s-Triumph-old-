@@ -1,0 +1,5 @@
+owner = MAH
+controller = MAH
+add_core = BER
+trade_goods = fish
+life_rating = 32

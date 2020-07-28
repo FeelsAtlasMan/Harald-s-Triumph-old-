@@ -1,0 +1,5 @@
+owner = MAH
+controller = MAH
+add_core = NAG
+trade_goods = grain
+life_rating = 32

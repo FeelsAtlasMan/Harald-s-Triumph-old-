@@ -1,0 +1,6 @@
+owner = MAH
+controller = MAH
+add_core = RAJ
+trade_goods = timber
+life_rating = 32
+terrain = jaipur

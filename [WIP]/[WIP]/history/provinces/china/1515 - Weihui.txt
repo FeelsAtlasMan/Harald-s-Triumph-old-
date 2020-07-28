@@ -1,0 +1,6 @@
+owner = MNG
+controller = MNG
+add_core = CHI
+add_core = MNG
+trade_goods = wool
+life_rating = 32

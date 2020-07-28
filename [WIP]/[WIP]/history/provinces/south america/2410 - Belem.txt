@@ -1,0 +1,5 @@
+owner = GUY
+controller = GUY
+add_core = GUY
+trade_goods = fish
+life_rating = 35

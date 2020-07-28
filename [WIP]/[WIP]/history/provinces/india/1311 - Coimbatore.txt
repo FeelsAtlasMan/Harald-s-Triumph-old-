@@ -1,0 +1,5 @@
+owner = KRN
+controller = KRN
+add_core = KRN
+trade_goods = cattle
+life_rating = 32

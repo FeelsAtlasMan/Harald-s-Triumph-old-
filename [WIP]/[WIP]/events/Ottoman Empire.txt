@@ -1,0 +1,104 @@
+#########################################################
+#														#
+#        		Ottoman Empire Reform Events			#
+#														#
+#########################################################
+
+#Egypt conquer the Shilluk
+country_event = {
+	id = 98642
+	title = "EVTNAME98642"
+	desc = "EVTDESC98642"
+	picture = "Shilluk_village2"
+
+	fire_only_once = yes
+	
+	trigger = {
+		any_neighbor_country = { tag = SHK }
+		owns = 1830
+		owns = 1831
+		owns = 1840
+		war = no
+		year = 1845
+		NOT = { alliance_with = SHK }
+		1832 = {
+			owner = {
+				exists = yes
+				ai = yes
+				civilized = no
+			}
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 36
+	}
+
+	
+	option = {
+		name = "EVT98642OPTA"
+		1832 = { secede_province = THIS any_pop = { reduce_pop = 0.8 } }
+		ai_chance = { factor = 100 }
+	}
+
+	option = {
+		name = "EVT98642OPTB"
+		ai_chance = { factor = 0 }
+	}
+}
+
+#The rise of Al-Zubayr Rahma Mansur and the conquest of South Sudan
+country_event = {
+	id = 98646
+	title = "EVTNAME98646"
+	desc = "EVTDESC98646"
+	picture = "yao_slave"
+
+	fire_only_once = yes
+	
+	trigger = {
+		owns = 1832
+		owns = 1827
+		1844 = { empty = yes }
+		1847 = { empty = yes }
+	}
+	
+	mean_time_to_happen = { months = 1 }
+
+	
+	option = {
+		name = "EVT98646OPTA"
+		1844 = { 
+			life_rating = 20
+			add_core = SUD
+			secede_province = THIS 
+			slaves = { reduce_pop = 1.2 }
+			any_pop = { limit = { has_pop_culture = sudanese } reduce_pop = 1.2 }
+			any_pop = { literacy = -0.99 }
+		}
+		1845 = {
+			life_rating = 20
+			add_core = SUD
+			secede_province = THIS 
+			slaves = { reduce_pop = 1.2 }
+			any_pop = { limit = { has_pop_culture = sudanese } reduce_pop = 1.2 }
+			any_pop = { literacy = -0.99 }
+		}
+		1846 = {
+			life_rating = 20
+			add_core = SUD
+			secede_province = THIS 
+			slaves = { reduce_pop = 1.2 }
+			any_pop = { limit = { has_pop_culture = sudanese } reduce_pop = 1.2 }
+			any_pop = { literacy = -0.99 }
+		}
+		1847 = {
+			life_rating = 20
+			add_core = SUD
+			secede_province = THIS 
+			slaves = { reduce_pop = 1.2 }
+			any_pop = { limit = { has_pop_culture = sudanese } reduce_pop = 1.2 }
+			any_pop = { literacy = -0.99 }
+		}
+	}
+}

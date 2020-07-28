@@ -1,0 +1,6 @@
+owner = BZN
+controller = BZN
+add_core = BZN
+add_core = ROM
+trade_goods = wool
+life_rating = 35

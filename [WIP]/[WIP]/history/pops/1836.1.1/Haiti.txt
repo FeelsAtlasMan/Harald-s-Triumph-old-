@@ -1,0 +1,85 @@
+#Hispanola Region (516000) #see Dominican Republic.txt for balance of region
+#Ruled by Haiti 1836
+#Port au Prince (312000/78000 POPS)
+2213 = {
+	aristocrats = {
+		culture = north_german
+		religion = protestant
+		size = 825
+	}
+	
+	officers = {
+		culture = north_german
+		religion = protestant
+		size = 150
+	}
+
+	clergymen = {
+		culture = north_german
+		religion = protestant
+		size = 175
+	}
+
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 4050
+	}
+
+	soldiers = {
+		culture = north_german
+		religion = protestant
+		size = 100
+	}
+
+	farmers = {
+		culture = afro_germanic
+		religion = protestant
+		size = 30000
+	}
+	
+	farmers = {
+		culture = north_german
+		religion = protestant
+		size = 38300
+	}
+}
+#Cap Haitien (204000/51000 POPS)
+2215 = {
+	aristocrats = {
+		culture = north_german
+		religion = protestant
+		size = 550
+	}
+
+	clergymen = {
+		culture = north_german
+		religion = protestant
+		size = 75
+	}
+
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 2550
+	}
+
+	soldiers = {
+		culture = north_german
+		religion = protestant
+		size = 200
+	}
+
+	farmers = {
+		culture = afro_germanic
+		religion = protestant
+		size = 10000
+	}
+	
+	farmers = {
+		culture = north_german
+		religion = protestant
+		size = 36825
+	}
+
+}

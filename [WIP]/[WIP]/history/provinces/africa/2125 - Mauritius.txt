@@ -1,0 +1,7 @@
+owner = EGY
+controller = EGY
+add_core = MAU
+trade_goods = fruit
+life_rating = 35
+colonial = 2
+terrain = mountain

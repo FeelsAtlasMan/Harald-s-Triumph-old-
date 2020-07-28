@@ -1,0 +1,6 @@
+owner = MAH
+controller = MAH
+add_core = PNJ
+trade_goods = cattle
+life_rating = 32
+

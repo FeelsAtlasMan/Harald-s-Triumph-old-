@@ -1,0 +1,8 @@
+owner = FDA
+controller = FDA
+add_core = FDA
+add_core = UNM
+trade_goods = cattle
+life_rating = 30
+terrain = new_world_semidesert
+

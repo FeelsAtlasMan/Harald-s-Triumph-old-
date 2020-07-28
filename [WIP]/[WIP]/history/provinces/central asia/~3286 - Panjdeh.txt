@@ -1,0 +1,6 @@
+owner = TIM
+controller = TIM
+add_core = TIM
+terrain = deserthills
+trade_goods = wool
+life_rating = 35

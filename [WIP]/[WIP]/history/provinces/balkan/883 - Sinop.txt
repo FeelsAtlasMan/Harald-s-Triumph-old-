@@ -1,0 +1,6 @@
+owner = CND
+controller = CND
+add_core = CND
+add_core = PNT
+trade_goods = fish
+life_rating = 35
