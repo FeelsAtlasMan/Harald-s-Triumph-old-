@@ -129,3 +129,18 @@ substate = {
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }
+
+#Oirat Tributes
+vassal = {
+	first = OIR
+	second = ALT
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = OIR
+	second = BRY
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
