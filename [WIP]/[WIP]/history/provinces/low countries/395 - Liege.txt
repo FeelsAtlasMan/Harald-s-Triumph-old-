@@ -1,6 +1,6 @@
-owner = WLL
-controller = WLL
-add_core = WLL
+owner = LIG
+controller = LIG
+add_core = LIG
 add_core = GER
 trade_goods = iron
 life_rating = 35

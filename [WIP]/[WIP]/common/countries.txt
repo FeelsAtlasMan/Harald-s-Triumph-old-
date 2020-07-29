@@ -54,6 +54,8 @@ WUL             ="countries/Franconia.txt"
 KOL             ="countries/Köln.txt"
 AAC             ="countries/Aachen.txt"
 KHR             ="countries/Khorasan.txt"
+LIG             ="countries/Liege.txt"
+TRR             ="countries/Trier.txt"
 
 
 ##HFM New Nations
