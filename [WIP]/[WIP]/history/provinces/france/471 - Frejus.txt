@@ -4,4 +4,4 @@ add_core = BRG
 add_core = ITA
 add_core = LOM
 trade_goods = silk
-life_rating = 30
+life_rating = 35

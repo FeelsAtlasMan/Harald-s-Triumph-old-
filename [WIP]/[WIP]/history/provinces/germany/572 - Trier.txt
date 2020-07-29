@@ -3,4 +3,4 @@ controller = TRR
 add_core = TRR
 add_core = GER
 trade_goods = iron
-life_rating = 40
+life_rating = 35

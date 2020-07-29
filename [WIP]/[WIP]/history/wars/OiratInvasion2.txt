@@ -1,0 +1,24 @@
+name = "Oirat Invasion of Kyrgyzstan"
+
+1836.1.1 = {
+	add_attacker = OIR
+	add_defender = KOK
+	
+	# actor
+	# receiver
+	# casus_belli - cb type
+	# country - 3rd party
+	# state_province_id - target state capital
+	war_goal = {
+		casus_belli = unification_casus_belli
+		actor = OIR
+		receiver = KOK
+	}
+	
+	war_goal = {
+		casus_belli = status_quo
+		actor = KOK
+		receiver = OIR
+	}
+
+}

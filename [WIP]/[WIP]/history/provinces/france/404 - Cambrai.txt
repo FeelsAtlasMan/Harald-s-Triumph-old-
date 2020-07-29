@@ -3,5 +3,5 @@ controller = WLL
 add_core = WLL
 add_core = GER
 trade_goods = coal
-life_rating = 30
+life_rating = 35
 

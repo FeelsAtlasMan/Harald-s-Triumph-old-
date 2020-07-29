@@ -3,7 +3,7 @@ controller = BRG
 add_core = BRG
 add_core = WUR
 trade_goods = iron
-life_rating = 34
+life_rating = 35
 terrain = bern
 fort = 1
 

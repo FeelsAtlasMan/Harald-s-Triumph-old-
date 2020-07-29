@@ -3,5 +3,5 @@ controller = BOH
 add_core = BOH
 add_core = CZH
 trade_goods = coal
-life_rating = 40
+life_rating = 35
 

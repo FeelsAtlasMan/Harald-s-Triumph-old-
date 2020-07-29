@@ -3,7 +3,7 @@ controller = NRD
 add_core = NRD
 add_core = ENG
 trade_goods = fish
-life_rating = 40
+life_rating = 35
 terrain = liverpool
 railroad = 1
 state_building = {
@@ -11,19 +11,4 @@ state_building = {
 	building = fabric_factory
 	upgrade = yes
 }
-state_building = {
-	level = 2
-	building = steel_factory
-	upgrade = yes
-}
-state_building = {
-	level = 3
-	building = regular_clothes_factory
-	upgrade = yes
-}
-state_building = {
-	level = 2
-	building = liquor_distillery
-	upgrade = yes
-}
-naval_base = 2
+
