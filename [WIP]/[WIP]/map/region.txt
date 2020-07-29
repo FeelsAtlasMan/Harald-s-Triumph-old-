@@ -189,7 +189,9 @@ NET_385 = { 385 383 384 386 } #Friesland
 
 BEL_387 = { 387 390 391 3291 } #Flanders
 
-BEL_394 = { 394 392 395 398 404} #Wallonia
+BEL_394 = { 394 392 395 404} #Wallonia
+
+LUX_397 = { 397 396 398 3292 3293 } #Luxemburg
 
 
 ### France
@@ -290,7 +292,7 @@ HES_2560 = { 564 565 566 567 568 2560 3257 3270 } #Hessen
 
 PRU_570 = { 570 573 574 571 } #Palatinate
 
-PRU_575 = { 575 576 577 572 397 396 3281 } #Rheinland
+PRU_575 = { 575 576 577 572 3281 } #Rheinland
 
 PRU_578 = { 578 579 2561 3265 } #Eastern Rheinland
 

@@ -944,6 +944,70 @@
 		size = 27775
 	}
 }
+
+#Diedenhofen-Staney 
+3293 = {
+	aristocrats = {
+		culture = french
+		religion = catholic
+		size =50
+	}
+
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 125
+	}
+
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 1000
+	}
+
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 150
+	}
+
+	farmers = {
+		culture = french
+		religion = protestant
+		size = 8825
+	}
+
+	aristocrats = {
+		culture = swiss_german
+		religion = protestant
+		size = 150
+	}
+
+	clergymen = {
+		culture = swiss_german
+		religion = protestant
+		size = 175
+	}
+
+	artisans = {
+		culture = swiss_german
+		religion = protestant
+		size = 700
+	}
+
+	soldiers = {
+		culture = swiss_german
+		religion = protestant
+		size = 200
+	}
+
+	farmers = {
+		culture = swiss_german
+		religion = protestant
+		size = 9275
+	}
+}
+
 #Verdun (320000/80000 POPS)
 413 = {
 	aristocrats = {
