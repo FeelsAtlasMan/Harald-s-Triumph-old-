@@ -70,7 +70,7 @@ interchangeable_parts = 1
 
 set_country_flag = catholic_country
 
-ruling_party = WLL_conservative
+ruling_party = RHI_conservative
 upper_house = {
 	fascist = 0
 	liberal = 28
