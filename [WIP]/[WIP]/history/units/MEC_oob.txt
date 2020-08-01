@@ -1,10 +1,69 @@
 army = {
-	name = "Mecklenburgische Armee"
-	location = 545
+	name = "1st Army"
+	location = 544
 	regiment = {
-		name= "1. Mecklenburgische Infanterie-Brigade"
+		name= "Infantry"
 		type = infantry
 		home = 545
 	}
+	
+	regiment = {
+		name= "Infantry"
+		type = infantry
+		home = 544
+	}
+	
+	regiment = {
+		name= "Infantry"
+		type = infantry
+		home = 548
+	}
+	
+	regiment = {
+		name= "Infantry"
+		type = infantry
+		home = 547
+	}
+	
+	regiment = {
+		name= "Cuirassiers"
+		type = cuirassier
+		home = 549
+	}
+	
+	regiment = {
+		name= "Cuirassiers"
+		type = cuirassier
+		home = 549
+	}
+}
+
+army = {
+	name = "2nd Army"
+	location = 546
+	regiment = {
+		name= "Infantry"
+		type = infantry
+		home = 681
+	}
+	
+	regiment = {
+		name= "Infantry"
+		type = infantry
+		home = 679
+	}
+	
+	regiment = {
+		name= "Infantry"
+		type = infantry
+		home = 546
+	}
+	
+	regiment = {
+		name= "Cuirassiers"
+		type = cuirassier
+		home = 546
+	}
+	
 }
 

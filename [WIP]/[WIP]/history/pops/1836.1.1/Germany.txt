@@ -1510,19 +1510,19 @@
 	aristocrats = {
 		culture = swiss_german
 		religion = protestant
-		size = 500 
+		size = 2500 
 	}
 
 	clergymen = {
 		culture = swiss_german
 		religion = protestant
-		size = 400 
+		size = 2400 
 	}
 
 	artisans = {
 		culture = swiss_german
 		religion = protestant
-		size = 3350
+		size = 22350
 	}
 
 	soldiers = {
@@ -1534,19 +1534,19 @@
 	farmers = {
 		culture = swiss_german
 		religion = protestant
-		size = 39750
+		size = 5750
 	}
 
 	clergymen = {
 		culture = swiss_german
 		religion = catholic
-		size = 100      
+		size = 500      
 	}
 
 	artisans = {
 		culture = swiss_german
 		religion = catholic
-		size = 750      
+		size = 2750      
 	}
 
 	soldiers = {
@@ -1558,19 +1558,19 @@
 	farmers = {
 		culture = swiss_german
 		religion = catholic
-		size = 9050       
+		size = 2050       
 	}
 
 	clergymen = {
 		culture = ashkenazi
 		religion = jewish
-		size = 5     
+		size = 55     
 	}
 
 	artisans = {
 		culture = ashkenazi
 		religion = jewish
-		size = 195    
+		size = 3195    
 	}
 }
 #Halle (445000/111250 POPS)
@@ -1598,11 +1598,17 @@
 		religion = protestant
 		size = 1000
 	}
+	
+	craftsmen = {
+		culture = swiss_german
+		religion = protestant
+		size = 4900 
+	}
 
 	farmers = {
 		culture = swiss_german
 		religion = protestant
-		size = 91925 
+		size = 87025 
 	}
 
 	clergymen = {
@@ -1909,11 +1915,17 @@
 		religion = protestant
 		size = 1100 
 	}
+	
+	craftsmen = {
+		culture = swiss_german
+		religion = protestant
+		size = 2000
+	}
 
 	farmers = {
 		culture = swiss_german
 		religion = protestant
-		size = 89000
+		size = 87000
 	}
 
 	clergymen = {
@@ -1940,10 +1952,16 @@
 		size = 900
 	}
 	
+	craftsmen = {
+		culture = western_slavic
+		religion = catholic
+		size = 800 
+	}
+	
 	farmers = {
 		culture = western_slavic
 		religion = catholic
-		size = 1800 
+		size = 1000 
 	}
 }
 #Chemnitz (280000/70000 POPS)
@@ -2029,11 +2047,17 @@
 		religion = protestant
 		size = 1000
 	}
+	
+	craftsmen = {
+		culture = swiss_german
+		religion = protestant
+		size = 3625 
+	}
 
 	farmers = {
 		culture = swiss_german
 		religion = protestant
-		size = 83625 
+		size = 80000
 	}
 
 	clergymen = {
@@ -2054,19 +2078,19 @@
 	aristocrats = {
 		culture = swiss_german
 		religion = protestant
-		size = 725 
+		size = 1725 
 	}
 
 	bureaucrats = {
 		culture = swiss_german
 		religion = protestant
-		size = 125 
+		size = 1125 
 	}
 
 	officers = {
 		culture = swiss_german
 		religion = protestant
-		size = 75 
+		size = 175 
 	}
 
 	clergymen = {
@@ -2078,7 +2102,7 @@
 	artisans = {
 		culture = swiss_german
 		religion = protestant
-		size = 3650
+		size = 15650
 	}
 
 	soldiers = {
@@ -2086,11 +2110,17 @@
 		religion = protestant
 		size = 1000
 	}
+	
+	craftsmen = {
+		culture = swiss_german
+		religion = protestant
+		size = 11750
+	}
 
 	farmers = {
 		culture = swiss_german
 		religion = protestant
-		size = 66750
+		size = 90120
 	}
 }
 #under the rule of Saxe-Meiningen 1836  
@@ -5187,8 +5217,8 @@
 	}
 }
 
-#under the rule of Reuss 1836  
-#Greiz (208000/52000 POPS)
+#under the rule of Thuringia 1836  
+#Naumburg (208000/52000 POPS)
 3255 = {
 	aristocrats = {
 		culture = swiss_german
@@ -5230,57 +5260,55 @@
 	farmers = {
 		culture = swiss_german
 		religion = protestant
-		size = 23350 
+		size = 43350 
 	}
 }
 
-#under the rule of Schwarzburg 1836  
-#Schwarzburg (208000/52000 POPS)
+#under the rule of Thuringia 1836  
+#Mühlhausen (208000/52000 POPS)
 3256 = {
 	aristocrats = {
 		culture = swiss_german
 		religion = protestant
 		size = 510 
 	}
-
 	bureaucrats = {
 		culture = swiss_german
 		religion = protestant
 		size = 90 
 	}
-
 	officers = {
 		culture = swiss_german
 		religion = protestant
 		size = 50 
 	}
-
 	clergymen = {
 		culture = swiss_german
 		religion = protestant
 		size = 500 
 	}
-
 	artisans = {
 		culture = swiss_german
 		religion = protestant
-		size = 2600
+		size = 4600
 	}
-
 	soldiers = {
 		culture = swiss_german
 		religion = protestant
 		size= 1000
 
 	}
-
+	craftsmen = {
+		culture = swiss_german
+		religion = protestant
+		size = 1350 
+	}
 	farmers = {
 		culture = swiss_german
 		religion = protestant
-		size = 15350 
+		size = 63000
 	}
 }
-
 #under the rule of Waldeck 1836  
 #Waldeck (208000/52000 POPS)
 3257 = {

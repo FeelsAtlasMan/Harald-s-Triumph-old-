@@ -1,4 +1,4 @@
-capital = 558
+capital = 562
 primary_culture = swiss_german
 culture = north_german
 culture = south_german

@@ -8,7 +8,7 @@ plurality = 15.0
 nationalvalue = nv_order
 literacy = 0.7
 civilized = yes
-prestige = 0
+prestige = 5
 
 # Political reforms
 slavery = no_slavery
@@ -87,7 +87,7 @@ schools = industrial_tech_school
 consciousness = 2
 nonstate_consciousness = 0
 
-oob = "BAV_oob.txt"
+oob = "WUL_oob.txt"
 1861.1.1 = {
 	oob = "/1861/BAV_oob.txt"
 }

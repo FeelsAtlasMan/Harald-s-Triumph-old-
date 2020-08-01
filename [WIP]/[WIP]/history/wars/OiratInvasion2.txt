@@ -10,7 +10,7 @@ name = "Oirat Invasion of Kyrgyzstan"
 	# country - 3rd party
 	# state_province_id - target state capital
 	war_goal = {
-		casus_belli = unification_casus_belli
+		casus_belli = conquest
 		actor = OIR
 		receiver = KOK
 	}

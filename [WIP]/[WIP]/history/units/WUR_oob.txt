@@ -1,13 +1,4 @@
 leader = {
-	name = "Fredrich Wilhelm"
-	date = 1819.1.1
-	type = land
-	personality = impetuous
-	background = cavalry_school
-	prestige = 0.2
-}
-
-leader = {
 	name = "Ferdinand Gottleb"
 	date = 1820.1.1
 	type = land
@@ -36,14 +27,14 @@ leader = {
 
 army = {
 	name = "1. Division"
-	location = 589
+	location = 410
 	regiment = {
-		name = "1. Reiter-Regiment König Karl" #Anachronistic by 30 years
+		name = "1. Reiter-Regiment" #Anachronistic by 30 years
 		type = cavalry
 		home = 589
 	}
 	regiment = {
-		name = "1. Infanterie-Regiment Königin Olga" #Anachronistic by 30 years
+		name = "1. Infanterie-Regiment" #Anachronistic by 30 years
 		type = infantry
 		home = 589
 	}
@@ -52,20 +43,45 @@ army = {
 		type = infantry
 		home = 589
 	}
-}
-
-army = {
-	name = "2. Division"
-	location = 593
-	regiment = {
+        regiment = {
 		name = "7. Infanterie-Regiment"
 		type = infantry
 		home = 593
 	}
 	regiment = {
-		name = "1. Bataillon FußArtillerie"
+		name = "1. Bataillon Fußartillerie"
 		type = artillery
 		home = 593
+	}
+}
+
+army = {
+	name = "2. Division"
+	location = 603
+	regiment = {
+		name = "1. Schweizer Jägerregiment"
+		type = infantry
+		home = 603
+	}
+	regiment = {
+		name = "2. Schweizer Jägerregiment"
+		type = infantry
+		home = 603
+	}
+	regiment = {
+		name = "3. Schweizer Jägerregiment"
+		type = engineer
+		home = 611
+	}
+	regiment = {
+		name = "Reiterregiment"
+		type = dragoon
+		home = 586
+	}
+	regiment = {
+		name = "1. Bataillon Fußartillerie"
+		type = artillery
+		home = 571
 	}
 }
 
