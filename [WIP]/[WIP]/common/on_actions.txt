@@ -96,16 +96,21 @@ on_election_tick = {
 # in events specified below, so can be executed several times
 # for each acquired state.
 on_colony_to_state = 
-{
-	100 = 70000
-	100 = 70001
+{             
+	#100 = 70000
+	#100 = 70001
+	100 = 426699 
 }
+
 on_state_conquest = {
-	100 = 70000
+	#100 = 70000
+	
+	100 = 426661
 }
 
 on_colony_to_state_free_slaves =
-{
+{               
+	#100 = 426699 
 }
 
 on_debtor_default =

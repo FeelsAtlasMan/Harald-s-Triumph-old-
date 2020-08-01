@@ -1792,8 +1792,8 @@
 	}
 
 	artisans = {
-		culture = south_italian
-		religion = catholic
+		culture = normandos
+		religion = orthodox
 		size = 7000
 	}
 
@@ -1806,8 +1806,15 @@
 	farmers = {
 		culture = south_italian
 		religion = catholic
-		size = 136175
+		size = 108940
 	}
+
+	farmers = {
+		culture = normandos
+		religion = orthodox
+		size = 27235
+	}	
+	
 }
 #Gaeta (436000/109000 POPS)
 2567 = {
@@ -1872,8 +1879,14 @@
 	artisans = {
 		culture = south_italian
 		religion = catholic
-		size = 7500
+		size = 4500
 	}
+	
+	artisans = {
+		culture = normandos
+		religion = orthodox
+		size = 3000
+	}	
 
 	soldiers = {
 		culture = south_italian
@@ -1884,13 +1897,13 @@
 	farmers = {
 		culture = south_italian
 		religion = catholic
-		size = 123800
+		size = 44730
 	}
 	
 	farmers = {
-		culture = greek
-		religion = catholic
-		size = 4000
+		culture = normandos
+		religion = orthodox
+		size = 83070
 	}
 }
 #Foggia (572000/143000 POPS)
@@ -1922,8 +1935,15 @@
 	farmers = {
 		culture = south_italian
 		religion = catholic
-		size = 128800
+		size = 101752
 	}
+
+	farmers = {
+		culture = normandos
+		religion = orthodox
+		size = 27048
+	}	
+	
 }
 #Brindisi (280000/70000 POPS)
 758 = {
@@ -1934,39 +1954,39 @@
 	}
 
 	clergymen = {
-		culture = south_italian
+		culture = north_italian
 		religion = catholic
 		size = 700
 	}
 
 	artisans = {
-		culture = south_italian
-		religion = catholic
+		culture = normandos
+		religion = orthodox
 		size = 3500
 	}
 
 	soldiers = {
-		culture = south_italian
+		culture = north_italian
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = south_italian
+		culture = normandos
 		religion = catholic
-		size = 54500
+		size = 47790
 	}
 	
 	farmers = {
-		culture = greek
+		culture = normandos
 		religion = catholic
 		size = 4000
 	}
 	
 	farmers = {
-		culture = greek
-		religion = orthodox
-		size = 4500
+		culture = south_italian
+		religion = catholic
+		size = 11210
 	}
 }
 #Calabria-Basilicata Region (1488000)
@@ -1974,95 +1994,95 @@
 #Reggio (572000/143000 POPS)
 759 = {
 	aristocrats = {
-		culture = south_italian
+		culture = normandos
 		religion = catholic
 		size = 3500
 	}
 
 	bureaucrats = {
-		culture = south_italian
+		culture = normandos
 		religion = catholic
 		size = 475
 	}
 
 	officers = {
-		culture = south_italian
+		culture = normandos
 		religion = catholic
 		size = 375
 	}
 
 	clergymen = {
-		culture = south_italian
+		culture = normandos
 		religion = catholic
 		size = 1450
 	}
 
 	artisans = {
-		culture = south_italian
-		religion = catholic
+		culture = normandos
+		religion = orthodox
 		size = 7500
 	}
 
 	soldiers = {
-		culture = south_italian
-		religion = catholic
+		culture = normandos
+		religion = orthodox
 		size = 2000
 	}
 
 	farmers = {
-		culture = south_italian
-		religion = catholic
+		culture = normandos
+		religion = orthodox
 		size = 119700
 	}
 	
 	farmers = {
-		culture = greek
-		religion = orthodox
+		culture = south_italian
+		religion = catholic
 		size = 6000
 	}
 	
 	farmers = {
-		culture = greek
-		religion = orthodox
+		culture = siqilli
+		religion = sunni
 		size = 2000
 	}
 }
 #Catanzaro (344000/86000 POPS)
 760 = {
 	aristocrats = {
-		culture = south_italian
+		culture = normandos
 		religion = catholic
 		size = 2200
 	}
 
 	clergymen = {
-		culture = south_italian
+		culture = normandos
 		religion = catholic
 		size = 875
 	}
 
 	artisans = {
-		culture = south_italian
-		religion = catholic
+		culture = normandos
+		religion = orthodox
 		size = 4250
 	}
 
 	soldiers = {
-		culture = south_italian
-		religion = catholic
+		culture = normandos
+		religion = orthodox
 		size = 1100
 	}
 
 	farmers = {
 		culture = south_italian
 		religion = catholic
-		size = 76125
+		size = 31073
 	}
 	
 	farmers = {
-		culture = greek
+		culture = normandos
 		religion = orthodox
-		size = 3550
+		size = 48602
 	}
 }
 #Potenza (572000/143000 POPS)
@@ -2094,108 +2114,116 @@
 	farmers = {
 		culture = south_italian
 		religion = catholic
-		size = 129325
+		size = 68543
 	}
+
+	farmers = {
+		culture = normandos
+		religion = orthodox
+		size = 60782
+	}	
+	
 }
 #Sicily Region (1816000)
 #under the rule of Two Sicilies in 1836
 #Palermo (744000/186000 POPS)
 762 = {
 	aristocrats = {
-		culture = south_italian
+		culture = normandos
 		religion = catholic
 		size = 5200
 	}
 
 	bureaucrats = {
-		culture = south_italian
+		culture = normandos
 		religion = catholic
 		size = 825
 	}
 
 	officers = {
-		culture = south_italian
-		religion = catholic
+		culture = normandos
+		religion = orthodox
 		size = 500
 	}
 
 	clergymen = {
-		culture = south_italian
-		religion = catholic
+		culture = normandos
+		religion = orthodox
 		size = 1900
 	}
 
 	artisans = {
-		culture = south_italian
-		religion = catholic
+		culture = normandos
+		religion = orthodox
 		size = 10000
 	}
 
 	artisans = {
-		culture = south_italian
-		religion = catholic
+		culture = normandos
+		religion = orthodox
 		size = 10000
 	}
 
 	artisans = {
-		culture = south_italian
-		religion = catholic
+		culture = siqilli
+		religion = sunni
 		size = 8000
 	}
 
 	soldiers = {
-		culture = south_italian
-		religion = catholic
+		culture = normandos
+		religion = orthodox
 		size = 2000
 	}
 
 	farmers = {
-		culture = south_italian
-		religion = catholic
-		size = 143125
+		culture = normandos
+		religion = orthodox
+		size = 81737
 	}
 	
 	farmers = {
-		culture = greek
-		religion = orthodox
-		size = 4450
-	}
+		culture = siqilli
+		religion = sunni
+		size = 65838
+	}	
+	
 }
 #Messina (352000/88000 POPS)
 763 = {
 	aristocrats = {
-		culture = south_italian
+		culture = normandos
 		religion = catholic
 		size = 2450
 	}
 
 	clergymen = {
-		culture = south_italian
+		culture = normandos
 		religion = catholic
 		size = 900
 	}
 
 	artisans = {
-		culture = south_italian
-		religion = catholic
+		culture = normandos
+		religion = orthodox
 		size = 8500
 	}
 
 	soldiers = {
-		culture = south_italian
-		religion = catholic
+		culture = normandos
+		religion = orthodox
 		size = 1100
 	}
 
 	farmers = {
-		culture = south_italian
-		religion = catholic
+		culture = normandos
+		religion = orthodox
 		size = 73150
 	}
 	
 	farmers = {
-		culture = greek
-		religion = orthodox
+		culture = siqilli
+		religion = sunni
 		size = 2000
 	}
 	
@@ -2203,52 +2231,53 @@
 #Catania (720000/180000 POPS)
 764 = {
 	aristocrats = {
-		culture = south_italian
+		culture = normandos
 		religion = catholic
 		size = 5000
 	}
 
 	clergymen = {
-		culture = south_italian
+		culture = normandos
 		religion = catholic
 		size = 700
 	}
 
 	artisans = {
-		culture = south_italian
-		religion = catholic
+		culture = normandos
+		religion = orthodox
 		size = 10000
 	}
 
 	artisans = {
-		culture = south_italian
-		religion = catholic
+		culture = normandos
+		religion = orthodox
 		size = 10000
 	}
 
 	artisans = {
-		culture = south_italian
-		religion = catholic
+		culture = siqilli
+		religion = sunni
 		size = 1100
 	}
 
 	soldiers = {
-		culture = south_italian
-		religion = catholic
+		culture = normandos
+		religion = orthodox
 		size = 2000
 	}
 
 	farmers = {
-		culture = south_italian
-		religion = catholic
-		size = 141000
+		culture = normandos
+		religion = orthodox
+		size = 61060
 	}
 	
 	farmers = {
-		culture = greek
-		religion = orthodox
-		size = 1000
-	}
+		culture = siqilli
+		religion = sunni
+		size = 80940
+	}	
+	
 }
 #Sardinia Region (524000)
 #under the rule of Sardinia in 1836
