@@ -3275,4 +3275,12 @@ ai_warships_cooldown = {
 foreign_weapons_imported = {
 	icon = 9
 }
-
+being_annexed = {
+	icon = 17
+}
+already_annexed = {
+	icon = 7
+}
+statehood_choice = {
+	icon = 7
+}
