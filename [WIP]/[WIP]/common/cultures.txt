@@ -1082,6 +1082,23 @@ levantine = {
 		}
 		radicalism = 10
 	}
+	normandos = {
+		color = { 78  149  185 }
+		first_names = { Adamantios Alexandros Anastasios Andreas Andra Antonios Aristidis Athanasios Augustinos Arbehan Bazile Benizelos Bram Charalambos
+		Charilaos Dalpheusse Dimitrios Diomidis Eleftherios Elyie Emmanouil Epameinontas Evripidis Freton Gennaios Georgios Ilias
+		Ionnis Kitsos Klovis Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
+		Nikolaos Odysseas Othon Panagiotis Pavlos Petros Sofoklis Sotiris Spyridion Spyros
+		Staikos Stefanos Stylianos Themistoklis Theodoros Tharyvoulos Tzannis Vasos Viktor Zinovios
+		}
+
+		last_names = { Charalambis Christakis-Zografos Danglis Dousmanis Foumis Gonatas Hatzianestis Kallergis Kanaris Katsimiros
+		Kolokotronis Kondylis Kountouriotis Kriezis Makriyannis Manos Mavrocordatos Mavrovouniotis Metaxas Mouskos
+		Nider Othonaios Palaskas Pangalos Papadiamantopoulos Papadopoulos Papagos Papoulas Parakevopouolos Plapoutas
+		Plastiras Sapountzakis Sarafis Smolenskis Sofoulis Soutsos Spyromilios Staikopoulos Stanotas "tes Elladas"
+		Trikoupis Tsakalotos Tsolakoglou Typaldos-Alfonsatos Tzavelas Vassos Venizelos Voulgaris Zaimis Zymvrakakis
+		}
+		radicalism = 10
+	}	
 	georgian = {
 		color = {128 207 128}
 		first_names = { Akaki Alexander Andria Bagrat Besarion David Dimitri Eduard Ekvtime Evgeni
@@ -1363,6 +1380,15 @@ arab = {
 		}
 		radicalism = 10
 	}
+	siqilli = {
+		color = {120 183 40}
+		first_names = { "Ibn Muhammad" Abdullah "Abbas said" Ismail Mansur Rahman Jawhar Abdallahi Hassan Malusi Tahir Wiraj Amsalu Nijam Bakri
+		}
+
+		last_names = { Ahmad Ali Zubayr Digna Azrak Hammuda al-Tasashi Nujumi "al-Siqilli"
+		}
+		radicalism = 10
+	}	
 }
 
 iranian_turanian = {
