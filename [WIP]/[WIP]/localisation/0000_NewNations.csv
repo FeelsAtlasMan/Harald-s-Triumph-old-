@@ -44,7 +44,7 @@ MUS_socialist;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 MUS_communist;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 MUS_fascist;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 KRM;Karamanoglu;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-KRM_ADJ;Anatolian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+KRM_ADJ;Karamani;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 KRM_conservative;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 KRM_liberal;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 KRM_reactionary;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
@@ -62,6 +62,7 @@ AKK_socialist;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 AKK_communist;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 AKK_fascist;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 TIM_absolute_monarchy;The Timurid Empire;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TIM_hms_government;The Timurid Empire;;;;;;;;;;;;x
 TIM_prussian_monarchy;The Timurid Empire;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 TIM;Timurids;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 TIM_ADJ;Timurid;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
@@ -73,7 +74,7 @@ TIM_socialist;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 TIM_communist;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 TIM_fascist;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 DUL;Dulkadiroglu;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-DUL_ADJ;Anatolian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+DUL_ADJ;Dulkadiri;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 DUL_conservative;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 DUL_liberal;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 DUL_reactionary;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
@@ -81,7 +82,7 @@ DUL_anarcho_liberal;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 DUL_socialist;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 DUL_communist;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 DUL_fascist;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-CND;Candar;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+CND;Candaroglu;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 CND_ADJ;Candari;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 CND_conservative;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 CND_liberal;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
@@ -117,7 +118,7 @@ MEC_anarcho_liberal;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 MEC_socialist;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 MEC_communist;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 MEC_fascist;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-LIR;Leinster;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+LIR;Lordship of Ireland;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 LIR_colonial_company;Lordship of Ireland;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 LIR_ADJ;Irish;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 LIR_conservative;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
@@ -154,8 +155,8 @@ ULS_anarcho_liberal;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 ULS_socialist;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 ULS_communist;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 ULS_fascist;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-FDA;Fédération d'Sallia;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-FDA_ADJ;Americain;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+FDA;Fédération d'Sallie;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+FDA_ADJ;Sallien;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 FDA_conservative;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 FDA_liberal;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 FDA_reactionary;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
@@ -193,6 +194,8 @@ CST;Castile;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 CST_ADJ;Castilian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 INC;Inca;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 INC_absolute_monarchy;The Incan Empire;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+INC_hms_government;The Incan Empire;;;;;;;;;;;;x
+INC_prussian_constitutionalism;The Incan Empire;;;;;;;;;;;;x
 INC_ADJ;Incan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 TUA;Kel Ahaggar;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 TUA_ADJ;Tuareg;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
@@ -202,25 +205,36 @@ ANU;Andalusia;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 ANU_ADJ;Andalusian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 KOK;Kyrgyz Khanate;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 KOK_absolute_monarchy;Kyrgyz Khanate;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+KOK_hms_government;Kyrgyz Khanate;;;;;;;;;;;;x
+KOK_prussian_constitutionalism;Kyrgyz Khanate;;;;;;;;;;;;x
 KOK_ADJ;Kyrgyz;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 BRG;Burgundy;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 BRG_ADJ;Burgundian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-BRG_conservative;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-BRG_liberal;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-BRG_reactionary;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-BRG_anarcho_liberal;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-BRG_socialist;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-BRG_communist;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-BRG_fascist;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+BRG_conservative;Partij af Freideins;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+BRG_liberal;Partij af Freihals;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+BRG_reactionary;Partij af Reaktioners;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+BRG_anarcho_liberal;Partij af Radikals;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+BRG_socialist;Burgundthiuda;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+BRG_communist;Burgundthiuda Radikals;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+BRG_fascist;Fraujinassus af Burgundthiuda;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 KOL;Cologne;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 KOL_ADJ;Colognian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 FRI;Frisia;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 FRI_ADJ;Frisian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-AAC;Aachen;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+AAC;German Parliament of Aachen;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+AAC_conservative;Deutsche Mehrheitspartei;;;;;;;;;;;;;x
+AAC_liberal;Vereinigung deutscher Konstitutionalisten;;;;;;;;;;;;;x
+AAC_reactionary;Absolutistische Fraktion;;;;;;;;;;;;;x
+AAC_anarcho_liberal;Republikanische Volksvereinigung;;;;;;;;;;;;;x
+AAC_socialist;Sozialisten;;;;;;;;;;;;;x
+AAC_communist;Kommunisten;;;;;;;;;;;;;x
+AAC_fascist;Faschisten;;;;;;;;;;;;;x
 AAC_ADJ;Aachener;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 WUL;Franconia;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 WUL_ADJ;Franconian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 KZN_absolute_monarchy;Khanate of Kazan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+KZN_hms_government;Khanate of Kazan;;;;;;;;;;;;x
+KZN_prussian_constitutionalism;Khanate of Kazan;;;;;;;;;;;;x
 KZN;Kazan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 KZN_ADJ;Kazani;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 NEN;Batavia;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
@@ -230,19 +244,30 @@ WUR_ADJ;Swabian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 BOH;Bohemia;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 BOH_ADJ;Bohemian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 CRI_absolute_monarchy;Khanate of Crimea;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+CRI_hms_government;Khanate of Crimea;;;;;;;;;;;;x
+CRI_prussian_constitutionalism;Khanate of Crimea;;;;;;;;;;;;x
 AKH_absolute_monarchy;Khanate of Astrakhan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+AKH_hms_government;Khanate of Astrakhan;;;;;;;;;;;;x
+AKH_prussian_constitutionalism;Khanate of Astrakhan;;;;;;;;;;;;x
 SIB_absolute_monarchy;Khanate of Sibir;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-URA;Perm;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-URA_absolute_monarchy;Perm;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-URA_ADJ;Perm;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+SIB_hms_government;Khanate of Sibir;;;;;;;;;;;;x
+SIB_prussian_constitutionalism;Khanate of Sibir;;;;;;;;;;;;x
+URA;Great Perm;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+URA_ADJ;Permian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 OIR;Oirat;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-OIR_absolute_monarchy;Oirat Great-Khanate;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+OIR_absolute_monarchy;Oirat Khaganate;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+OIR_hms_government;Oirat Khaganate;;;;;;;;;;;;x
+OIR_prussian_constitutionalism;Oirat Khaganate;;;;;;;;;;;;x
 OIR_ADJ;Oirat;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 ALT;Altai Union;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 ALT_absolute_monarchy;Khanate of Tuva;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+ALT_hms_government;Khanate of Tuva;;;;;;;;;;;;x
+ALT_prussian_constitutionalism;Khanate of Tuva;;;;;;;;;;;;x
 ALT_ADJ;Altai-Tatar;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 BRY;Buryatia;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 BRY_absolute_monarchy;Buryat Khanate;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+BRY_hms_government;Buryat Khanate;;;;;;;;;;;;x
+BRY_prussian_constitutionalism;Buryat Khanate;;;;;;;;;;;;x
 BRY_ADJ;Buryat-Mongol;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 CAT;Catalonia-Aragon;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 CAT_ADJ;Catalonian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
@@ -252,3 +277,32 @@ LIG;Liege;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 LIG_ADJ;Liegian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 ERF;Erfurt;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 ERF_ADJ;Erfurter;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+BZN;Burzenland;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+BZN_ADJ;Burzian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+UKR;Kiev;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+UKR_ADJ;Kievian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+VEN;Venice;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+VEN_ADJ;Venetian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+SIC;Naples;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+SIC_ADJ;Naples;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+BSQ;Basque Country;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+BSQ_absolute_monarchy;Navarra;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+BSQ_hms_government;Navarra;;;;;;;;;;;;x
+BSQ_prussian_constitutionalism;Navarra;;;;;;;;;;;;x
+BSQ_ADJ;Basque;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+UBD;Svenska Baltiska Stater;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+UBD_ADJ;Baltic;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+MNG;Ming Empire;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+MNG_ADJ;Baltic;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+MAH;Marathi Empire;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+MAH_ADJ;Marathi Empire;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+PNJ;Punjab;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+PNJ_absolute_monarchy;Ostan-e Punjab;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+PNJ_hms_government;Punjab;;;;;;;;;;;;x
+PNJ_prussian_constitutionalism;Punjab;;;;;;;;;;;;x
+PNJ_ADJ;Punjabian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+BLC;Baluchistan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+BLC_absolute_monarchy;Ostanha-ye Baluchestan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+BLC_hms_government;Baluchistan;;;;;;;;;;;;x
+BLC_prussian_constitutionalism;Baluchistan;;;;;;;;;;;;x
+BLC_ADJ;Baluchi;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
