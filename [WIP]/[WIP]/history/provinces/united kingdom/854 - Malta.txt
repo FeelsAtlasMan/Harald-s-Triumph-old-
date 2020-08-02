@@ -1,9 +1,9 @@
-owner = EGY
-controller = EGY
+owner = KNI
+controller = KNI
+add_core = KNI
 add_core = MLT
-trade_goods = fish
-life_rating = 32
+trade_goods = precious_goods
+life_rating = 40
 naval_base = 1
-colonial = 2
 terrain = malta
 

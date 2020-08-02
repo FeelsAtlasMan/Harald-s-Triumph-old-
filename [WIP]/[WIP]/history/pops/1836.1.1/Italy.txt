@@ -1676,13 +1676,13 @@
 #Naples (1304000/326000 POPS)
 754 = {
 	aristocrats = {
-		culture = south_italian
+		culture = south_german
 		religion = catholic
 		size = 8250
 	}
 
 	bureaucrats = {
-		culture = south_italian
+		culture = south_german
 		religion = catholic
 		size = 825
 	}
@@ -1792,7 +1792,7 @@
 	}
 
 	artisans = {
-		culture = normandos
+		culture = griko
 		religion = orthodox
 		size = 7000
 	}
@@ -1810,7 +1810,7 @@
 	}
 
 	farmers = {
-		culture = normandos
+		culture = griko
 		religion = orthodox
 		size = 27235
 	}	
@@ -1883,7 +1883,7 @@
 	}
 	
 	artisans = {
-		culture = normandos
+		culture = griko
 		religion = orthodox
 		size = 3000
 	}	
@@ -1901,7 +1901,7 @@
 	}
 	
 	farmers = {
-		culture = normandos
+		culture = griko
 		religion = orthodox
 		size = 83070
 	}
@@ -1939,7 +1939,7 @@
 	}
 
 	farmers = {
-		culture = normandos
+		culture = griko
 		religion = orthodox
 		size = 27048
 	}	
@@ -1960,7 +1960,7 @@
 	}
 
 	artisans = {
-		culture = normandos
+		culture = griko
 		religion = orthodox
 		size = 3500
 	}
@@ -1972,13 +1972,13 @@
 	}
 
 	farmers = {
-		culture = normandos
+		culture = griko
 		religion = catholic
 		size = 47790
 	}
 	
 	farmers = {
-		culture = normandos
+		culture = griko
 		religion = catholic
 		size = 4000
 	}
@@ -1994,43 +1994,43 @@
 #Reggio (572000/143000 POPS)
 759 = {
 	aristocrats = {
-		culture = normandos
+		culture = french
 		religion = catholic
 		size = 3500
 	}
 
 	bureaucrats = {
-		culture = normandos
+		culture = french
 		religion = catholic
 		size = 475
 	}
 
 	officers = {
-		culture = normandos
+		culture = norman
 		religion = catholic
 		size = 375
 	}
 
 	clergymen = {
-		culture = normandos
+		culture = griko
 		religion = catholic
 		size = 1450
 	}
 
 	artisans = {
-		culture = normandos
+		culture = griko
 		religion = orthodox
 		size = 7500
 	}
 
 	soldiers = {
-		culture = normandos
-		religion = orthodox
+		culture = norman
+		religion = catholic
 		size = 2000
 	}
 
 	farmers = {
-		culture = normandos
+		culture = griko
 		religion = orthodox
 		size = 119700
 	}
@@ -2050,25 +2050,25 @@
 #Catanzaro (344000/86000 POPS)
 760 = {
 	aristocrats = {
-		culture = normandos
+		culture = griko
 		religion = catholic
 		size = 2200
 	}
 
 	clergymen = {
-		culture = normandos
+		culture = griko
 		religion = catholic
 		size = 875
 	}
 
 	artisans = {
-		culture = normandos
+		culture = griko
 		religion = orthodox
 		size = 4250
 	}
 
 	soldiers = {
-		culture = normandos
+		culture = griko
 		religion = orthodox
 		size = 1100
 	}
@@ -2080,7 +2080,7 @@
 	}
 	
 	farmers = {
-		culture = normandos
+		culture = griko
 		religion = orthodox
 		size = 48602
 	}
@@ -2118,7 +2118,7 @@
 	}
 
 	farmers = {
-		culture = normandos
+		culture = griko
 		religion = orthodox
 		size = 60782
 	}	
@@ -2129,37 +2129,37 @@
 #Palermo (744000/186000 POPS)
 762 = {
 	aristocrats = {
-		culture = normandos
+		culture = french
 		religion = catholic
 		size = 5200
 	}
 
 	bureaucrats = {
-		culture = normandos
+		culture = french
 		religion = catholic
 		size = 825
 	}
 
 	officers = {
-		culture = normandos
-		religion = orthodox
+		culture = norman
+		religion = catholic
 		size = 500
 	}
 
 	clergymen = {
-		culture = normandos
+		culture = griko
 		religion = orthodox
 		size = 1900
 	}
 
 	artisans = {
-		culture = normandos
+		culture = griko
 		religion = orthodox
 		size = 10000
 	}
 
 	artisans = {
-		culture = normandos
+		culture = griko
 		religion = orthodox
 		size = 10000
 	}
@@ -2167,17 +2167,17 @@
 	artisans = {
 		culture = siqilli
 		religion = sunni
-		size = 8000
+		size = 10000
 	}
 
 	soldiers = {
-		culture = normandos
-		religion = orthodox
-		size = 2000
+		culture = norman
+		religion = catholic
+		size = 6000
 	}
 
 	farmers = {
-		culture = normandos
+		culture = griko
 		religion = orthodox
 		size = 81737
 	}
@@ -2185,38 +2185,38 @@
 	farmers = {
 		culture = siqilli
 		religion = sunni
-		size = 65838
+		size = 75838
 	}	
 	
 }
 #Messina (352000/88000 POPS)
 763 = {
 	aristocrats = {
-		culture = normandos
+		culture = french
 		religion = catholic
 		size = 2450
 	}
 
 	clergymen = {
-		culture = normandos
+		culture = griko
 		religion = catholic
 		size = 900
 	}
 
 	artisans = {
-		culture = normandos
+		culture = griko
 		religion = orthodox
 		size = 8500
 	}
 
 	soldiers = {
-		culture = normandos
-		religion = orthodox
+		culture = norman
+		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = normandos
+		culture = griko
 		religion = orthodox
 		size = 73150
 	}
@@ -2224,32 +2224,32 @@
 	farmers = {
 		culture = siqilli
 		religion = sunni
-		size = 2000
+		size = 5000
 	}
 	
 }
 #Catania (720000/180000 POPS)
 764 = {
 	aristocrats = {
-		culture = normandos
+		culture = french
 		religion = catholic
 		size = 5000
 	}
 
 	clergymen = {
-		culture = normandos
+		culture = griko
 		religion = catholic
 		size = 700
 	}
 
 	artisans = {
-		culture = normandos
+		culture = griko
 		religion = orthodox
 		size = 10000
 	}
 
 	artisans = {
-		culture = normandos
+		culture = griko
 		religion = orthodox
 		size = 10000
 	}
@@ -2261,13 +2261,13 @@
 	}
 
 	soldiers = {
-		culture = normandos
-		religion = orthodox
-		size = 2000
+		culture = norman
+		religion = catholic
+		size = 3000
 	}
 
 	farmers = {
-		culture = normandos
+		culture = griko
 		religion = orthodox
 		size = 61060
 	}

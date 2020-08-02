@@ -25,7 +25,11 @@
 		religion = catholic
 		size = 200
 	}
-
+	aristocrats = {
+		culture = french
+		religion = catholic
+		size = 5000
+	}
 	bureaucrats = {
 		culture = maltese
 		religion = catholic
