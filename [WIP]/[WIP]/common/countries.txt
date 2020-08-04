@@ -59,6 +59,7 @@ TRR             ="countries/Trier.txt"
 ERF             ="countries/Erfurt.txt"
 NAP 			="countries/Naples.txt"
 KNI 			="countries/Knights.txt"
+CMN		        ="countries/Kunsag.txt"
 
 ##HFM New Nations
 #ATB	= "countries/Saxe-Altenburg.txt"

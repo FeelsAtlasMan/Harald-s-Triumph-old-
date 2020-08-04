@@ -23,7 +23,7 @@
 	artisans = {
 		culture = hungarian
 		religion = catholic
-		size = 3100
+		size = 2100
 	}
 
 	soldiers = {
@@ -47,7 +47,7 @@
 	artisans = {
 		culture = slovene
 		religion = catholic
-		size = 1600
+		size = 600
 	}
 
 	soldiers = {
@@ -72,6 +72,12 @@
 		culture = slovene
 		religion = catholic
 		size = 25000
+	}
+	
+	artisans = {
+		culture = south_german
+		religion = catholic
+		size = 3600
 	}
 	
 }
@@ -157,7 +163,7 @@
 	farmers = {
 		culture = slovene
 		religion = catholic
-		size = 39075
+		size = 30000
 	}
 	
 	farmers = {
@@ -176,6 +182,18 @@
 		culture = hungarian
 		religion = catholic
 		size = 1975
+	}
+	
+	farmers = {
+		culture = north_italian
+		religion = catholic
+		size = 8075
+	}
+	
+	farmers = {
+		culture = romansh
+		religion = catholic
+		size = 1000
 	}
 
 }

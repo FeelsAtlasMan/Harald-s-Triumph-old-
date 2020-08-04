@@ -189,7 +189,19 @@
 	farmers = {
 		culture = romanian
 		religion = orthodox
-		size = 43800 
+		size = 14000 
+	}
+	
+	soldiers = {
+		culture = tatar
+		religion = sunni
+		size = 6600
+	}
+
+	farmers = {
+		culture = tatar
+		religion = sunni
+		size = 23800 
 	}
 	
 	serfs = {
@@ -956,7 +968,7 @@
 	}
 	
 	serfs = {
-		culture = ukrainian
+		culture = romanian
 		religion = orthodox
 		size = 50000
 	}
@@ -2908,7 +2920,7 @@
 	serfs = {
 		culture = ukrainian
 		religion = orthodox
-		size = 42000
+		size = 22000
 	}
 
 	aristocrats = {
@@ -2974,7 +2986,7 @@
 	farmers = {
 		culture = romanian
 		religion = orthodox
-		size = 32625
+		size = 52625
 	}
 }
 #Nikolaev (248000/62000 POPS)

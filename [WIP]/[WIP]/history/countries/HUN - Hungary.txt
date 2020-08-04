@@ -1,5 +1,7 @@
-capital = 641
+capital = 633
 primary_culture = hungarian
+culture = cuman
+culture = jassic
 religion = catholic
 government = absolute_monarchy
 plurality = 0.0

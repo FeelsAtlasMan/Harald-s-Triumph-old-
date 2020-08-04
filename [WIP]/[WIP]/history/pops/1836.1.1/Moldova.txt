@@ -53,7 +53,19 @@
 	farmers = {
 		culture = romanian
 		religion = orthodox
-		size = 46750 
+		size = 33000 
+	}
+	
+	soldiers = {
+		culture = tatar
+		religion = sunni
+		size = 7750
+	}
+
+	farmers = {
+		culture = tatar
+		religion = sunni
+		size = 6750 
 	}
 	
 	serfs = {
@@ -175,11 +187,17 @@
 	farmers = {
 		culture = romanian
 		religion = orthodox
-		size = 45675
+		size = 40000
+	}
+	
+	farmers = {
+		culture = tatar
+		religion = sunni
+		size = 5675
 	}
 	
 	serfs = {
-		culture = romanian
+		culture = ukrainian
 		religion = orthodox
 		size = 20000
 	}
