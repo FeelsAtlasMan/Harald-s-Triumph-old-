@@ -21,15 +21,17 @@
 	}
 
 	aristocrats = {
-		culture = maltese
+		culture = french
 		religion = catholic
 		size = 200
 	}
+	
 	aristocrats = {
-		culture = french
-		religion = catholic
+		culture = misri
+		religion = sunni
 		size = 5000
 	}
+	
 	bureaucrats = {
 		culture = maltese
 		religion = catholic

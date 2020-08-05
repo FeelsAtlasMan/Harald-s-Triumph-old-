@@ -283,7 +283,7 @@
 	artisans = {
 		culture = croat
 		religion = catholic
-		size = 250
+		size = 1250
 	}
 
 	soldiers = {
@@ -337,7 +337,7 @@
 	farmers = {
 		culture = serb
 		religion = orthodox
-		size = 8225
+		size = 2225
 	}
 	
 	farmers = {
@@ -349,25 +349,25 @@
 	aristocrats = {
 		culture = north_italian
 		religion = catholic
-		size = 50
+		size = 350
 	}
 	
 	officers = {
 		culture = north_italian
 		religion = catholic
-		size = 10
+		size = 210
 	}
 
 	clergymen = {
 		culture = north_italian
 		religion = catholic
-		size = 50
+		size = 250
 	}
 
 	artisans = {
 		culture = north_italian
 		religion = catholic
-		size = 100
+		size = 3400
 	}
 
 	soldiers = {
@@ -379,7 +379,7 @@
 	farmers = {
 		culture = north_italian
 		religion = catholic
-		size = 100
+		size = 1100
 	}
 
 }

@@ -1,7 +1,7 @@
-owner = BYZ
-controller = BYZ
-add_core = BYZ
-add_core = GRE
+owner = KNI
+controller = KNI
+add_core = KNI
+add_core = SIC
 trade_goods = fish
 life_rating = 35
-terrain = small_island
+terrain = urban

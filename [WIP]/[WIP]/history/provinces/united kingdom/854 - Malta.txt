@@ -1,5 +1,5 @@
-owner = KNI
-controller = KNI
+owner = EGY
+controller = EGY
 add_core = KNI
 add_core = MLT
 trade_goods = precious_goods

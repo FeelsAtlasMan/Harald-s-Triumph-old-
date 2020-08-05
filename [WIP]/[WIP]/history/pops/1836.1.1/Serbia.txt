@@ -27,7 +27,7 @@
 	}
 	
 	farmers = {
-		culture = serb
+		culture = croat
 		religion = catholic
 		size = 500
 	}
@@ -205,8 +205,8 @@
 	}
 	
 	farmers = {
-		culture = serb
-		religion = croat
+		culture = croat
+		religion = catholic
 		size = 1000 
 	}
 
@@ -337,7 +337,13 @@
 	farmers = {
 		culture = serb
 		religion = orthodox
-		size = 55925
+		size = 53000
+	}
+	
+	farmers = {
+		culture = hungarian
+		religion = catholic
+		size = 2925
 	}
 	
 	farmers = {
@@ -375,7 +381,13 @@
 	farmers = {
 		culture = serb
 		religion = orthodox
-		size = 30360
+		size = 26000
+	}
+	
+	farmers = {
+		culture = bulgarian
+		religion = orthodox
+		size = 4360
 	}
 
 	clergymen = {
@@ -432,6 +444,12 @@
 		culture = serb
 		religion = orthodox
 		size = 40200
+	}
+	
+	farmers = {
+		culture = bulgarian
+		religion = orthodox
+		size = 2200
 	}
 }
 #Uzice (72000/18000 POPS)
@@ -491,32 +509,8 @@
 	farmers = {
 		culture = bulgarian
 		religion = orthodox
-		size = 48300
+		size = 18300
 	}	
-	
-	soldiers = {
-		culture = serb
-		religion = orthodox
-		size = 100
-	}
-
-	clergymen = {
-		culture = serb
-		religion = orthodox
-		size = 100
-	}
-
-	artisans = {
-		culture = serb
-		religion = orthodox
-		size = 150
-	}
-
-	farmers = {
-		culture = serb
-		religion = orthodox
-		size = 9800
-	}
 
 	aristocrats = {
 		culture = serb
@@ -539,25 +533,25 @@
 	clergymen = {
 		culture = serb
 		religion = orthodox
-		size = 100
+		size = 200
 	}
 
 	artisans = {
 		culture = serb
 		religion = orthodox
-		size = 3000
+		size = 3150
 	}
 
 	soldiers = {
 		culture = serb
 		religion = orthodox
-		size = 1100
+		size = 1200
 	}
 
 	farmers = {
 		culture = serb
 		religion = orthodox
-		size = 3450
+		size = 43250
 	}
 }
 #Leskovac (220000/55000 POPS)
@@ -584,7 +578,7 @@
 	farmers = {
 		culture = bulgarian
 		religion = orthodox
-		size = 38425
+		size = 30425
 	}
 	
 	soldiers = {
@@ -638,7 +632,7 @@
 	farmers = {
 		culture = serb
 		religion = orthodox
-		size = 4575
+		size = 12575
 	}
 }
 #Kosovo-Sanjak Region (466000)
