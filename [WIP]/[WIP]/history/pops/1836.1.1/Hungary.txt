@@ -29,7 +29,7 @@
 	artisans = {
 		culture = slovak
 		religion = catholic
-		size = 1500
+		size = 1000
 	}
 
 	soldiers = {
@@ -77,7 +77,7 @@
 	artisans = {
 		culture = hungarian
 		religion = catholic
-		size = 1100
+		size = 1600
 	}
 
 	soldiers = {
@@ -288,25 +288,25 @@
 	}
 
 	clergymen = {
-		culture = croat
+		culture = serbo-croat
 		religion = catholic
 		size = 50 
 	}
 
 	artisans = {
-		culture = croat
+		culture = serbo-croat
 		religion = catholic
 		size = 350
 	}
 
 	soldiers = {
-		culture = croat
+		culture = serbo-croat
 		religion = catholic
 		size = 75
 	}
 
 	serfs = {
-		culture = croat
+		culture = serbo-croat
 		religion = catholic
 		size = 6525 
 	}
@@ -382,73 +382,73 @@
 	}
 
 	aristocrats = {
-		culture = croat
+		culture = serbo-croat
 		religion = catholic
 		size = 500 
 	}
 
 	bureaucrats = {
-		culture = croat
+		culture = serbo-croat
 		religion = catholic
 		size = 75 
 	}
 
 	officers = {
-		culture = croat
+		culture = serbo-croat
 		religion = catholic
 		size = 30 
 	}
 
 	clergymen = {
-		culture = croat
+		culture = serbo-croat
 		religion = catholic
 		size = 175
 	}
 
 	artisans = {
-		culture = croat
+		culture = serbo-croat
 		religion = catholic
 		size = 1100 
 	}
 
 	soldiers = {
-		culture = croat
+		culture = serbo-croat
 		religion = catholic
 		size = 250
 	}
 
 	farmers = {
-		culture = croat
+		culture = serbo-croat
 		religion = catholic
 		size = 18545
 	}
 
 	officers = {
-		culture = croat
+		culture = serbo-croat
 		religion = catholic
 		size = 15 
 	}
 
 	clergymen = {
-		culture = croat
+		culture = serbo-croat
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = croat
+		culture = serbo-croat
 		religion = catholic
 		size = 400 
 	}
 
 	soldiers = {
-		culture = croat
+		culture = serbo-croat
 		religion = catholic
 		size = 75
 	}
 
 	farmers = {
-		culture = croat
+		culture = serbo-croat
 		religion = catholic
 		size = 7435 
 	}

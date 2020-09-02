@@ -41,6 +41,7 @@ centralization = unitary
 colonial_policy = no_colonies 
 
 set_country_flag = catholic_country
+set_country_flag = HRE_country
 
 ruling_party = BAD_conservative_2
 upper_house = {

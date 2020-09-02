@@ -43,6 +43,7 @@ colonial_policy = no_colonies
 
 
 set_country_flag = protestant_country
+set_country_flag = HRE_country
 
 ruling_party = HED_reactionary
 upper_house = {

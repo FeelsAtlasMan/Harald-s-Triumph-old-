@@ -57,8 +57,8 @@ KHR             ="countries/Khorasan.txt"
 LIG             ="countries/Liege.txt"
 TRR             ="countries/Trier.txt"
 ERF             ="countries/Erfurt.txt"
-NAP 			="countries/Naples.txt"
-KNI 			="countries/Knights.txt"
+NAP 		    ="countries/Naples.txt"
+KNI 		    ="countries/Knights.txt"
 CMN		        ="countries/Kunsag.txt"
 
 ##HFM New Nations

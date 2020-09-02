@@ -91,4 +91,7 @@ nonstate_consciousness = 1
 
 schools = industrial_tech_school
 
+set_country_flag = HRE_country
+set_country_flag = catholic_country
+
 oob = "BRG_oob.txt"

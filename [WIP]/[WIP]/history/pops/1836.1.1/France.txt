@@ -56,25 +56,25 @@
 	}
 	
 	artisans = {
-		culture = north_german
+		culture = dutch
 		religion = protestant
 		size = 7000
 	}
 	
 	soldiers = {
-		culture = north_german
+		culture = dutch
 		religion = protestant
 		size = 3000
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = dutch
 		religion = protestant
 		size = 3000
 	}
 	
 	labourers = {
-		culture = north_german
+		culture = dutch
 		religion = protestant
 		size = 50500
 	}
@@ -82,55 +82,55 @@
 #Dunkirk (396000/99000 POPS)
 400 = {
 	aristocrats = {
-		culture = north_german
+		culture = dutch
 		religion = protestant
 		size = 800
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = dutch
 		religion = protestant
 		size = 850
 	}
 
 	artisans = {
-		culture = north_german
+		culture = dutch
 		religion = protestant
 		size = 5000
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = dutch
 		religion = protestant
 		size = 3000
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = dutch
 		religion = protestant
 		size = 3000
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = dutch
 		religion = protestant
 		size = 3000
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = dutch
 		religion = protestant
 		size = 3000
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = dutch
 		religion = protestant
 		size = 1000
 	}
 
 	farmers = {
-		culture = north_german
+		culture = dutch
 		religion = protestant
 		size = 63550
 	}
@@ -186,7 +186,7 @@
 	}
 
 	farmers = {
-		culture = north_german
+		culture = dutch
 		religion = protestant
 		size = 30125
 	}
@@ -353,25 +353,25 @@
 	}
 	
 	aristocrats = {
-		culture = north_german
+		culture = dutch
 		religion = protestant
 		size = 600
 	}
 	
 	clergymen = {
-		culture = north_german
+		culture = dutch
 		religion = protestant
 		size = 100
 	}
 	
 	artisans = {
-		culture = north_german
+		culture = dutch
 		religion = protestant
 		size = 3500
 	}
 	
 	farmers = {
-		culture = north_german
+		culture = dutch
 		religion = protestant
 		size = 25500
 	}
@@ -1652,13 +1652,13 @@
 	}
 	
 	craftsmen = {
-		culture = north_german
+		culture = dutch
 		religion = catholic
 		size = 4000
 	}
 	
 	clergymen = {
-		culture = north_german
+		culture = dutch
 		religion = catholic
 		size = 100
 	}

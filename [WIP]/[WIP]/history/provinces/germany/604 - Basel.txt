@@ -1,5 +1,5 @@
 owner = BRG
-controller = BRG
+controller = WUR
 add_core = BRG
 add_core = WUR
 trade_goods = fruit

@@ -70,6 +70,7 @@ high_pressure_steam_engine = 1
 interchangeable_parts = 1
 
 set_country_flag = catholic_country
+set_country_flag = HRE_country
 
 ruling_party = WLL_conservative
 upper_house = {

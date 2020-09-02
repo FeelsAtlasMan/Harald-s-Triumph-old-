@@ -41,6 +41,7 @@ centralization = unitary
 colonial_policy = no_colonies 
 
 set_country_flag = protestant_country
+set_country_flag = HRE_country
 
 #Technologies
 post_napoleonic_thought = 1

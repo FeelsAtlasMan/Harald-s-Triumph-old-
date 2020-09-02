@@ -308,7 +308,7 @@ BAV_595 = { 595 596 597 598 } #Franconia
 
 BAV_599 = { 599 600 601 602 } #Bavaria
 
-BAV_613 = { 613 3279 622 } #Salzburg
+BAV_613 = { 613 3279 622 } #Ostmark
 
 SWI_606 = { 606 605 604 3272 } #Swiss Mittelland
 

@@ -1,0 +1,90 @@
+#Influence Event
+country_event = {
+        id = 666000
+        title = "EVTNAME666000" 
+        desc = "EVTDESC666000"
+      
+        trigger = {
+                has_country_flag = HRE_country
+				is_greater_power = no
+        }
+		
+	    mean_time_to_happen = {
+		months = 6
+		}
+		
+        option = {
+		        name = "EVT666000OPTA"
+		        any_greater_power = {
+				limit = {
+				NOT = {
+	                is_sphere_leader_of = THIS
+				}
+            }
+				}
+		        diplomatic_influence = {
+	            who = THIS 
+		        value = -100 
+            }
+	    }
+	}
+
+#War in the Alps
+country_event = {
+	id = 666001
+	title = "EVTNAME666001" 
+	desc = "EVTDESC666001"
+	picture = "volksraad"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA666001"
+		SAX = { country_event = 666002 }
+		ai_chance = { factor = 90 }
+	}
+	
+	option = {
+		name = "EVTOPTB666001"
+		#BRG = { country_event = 666003 }
+		ai_chance = { factor = 10 }
+	}
+}
+
+#Parliament demands intervention
+country_event = {
+	id = 666002
+	title = "EVTNAME666002" 
+	desc = "EVTDESC666002"
+	picture = "Vormaerz"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA666002"
+		prestige = 5
+		diplomatic_influence = {
+	            who = BRG 
+		        value = 200 
+            }
+		relation = {
+	            who = BRG
+	            value = 100
+            }
+		#BRG = { country_event = 666003 }
+		#WUR = { country_event = 666004 }
+		ai_chance = { factor = 60 }
+	}
+	
+	option = {
+		name = "EVTOPTB99201"
+		prestige = -5
+		diplomatic_influence = {
+	            who = BRG 
+		        value = -100 
+            }
+		#BRG = { country_event = 66605 }
+		ai_chance = { factor = 40 }
+	}
+}
+	
