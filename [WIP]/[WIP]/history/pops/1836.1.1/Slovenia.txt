@@ -185,7 +185,7 @@
 	}
 	
 	farmers = {
-		culture = north_italian
+		culture = venetian
 		religion = catholic
 		size = 8075
 	}
@@ -196,4 +196,59 @@
 		size = 1000
 	}
 
+}
+
+#Murska Sobota
+3294 = {
+	aristocrats = {
+		culture = cuman
+		religion = catholic
+		size = 250
+	}
+	clergymen = {
+		culture = cuman
+		religion = catholic
+		size = 100
+	}
+	artisans = {
+		culture = slovene
+		religion = catholic
+		size = 1000
+	}
+	soldiers = {
+		culture = slovene
+		religion = catholic
+		size = 100
+	}
+	farmers = {
+		culture = slovene
+		religion = catholic
+		size = 4500
+	}
+	
+	aristocrats = {
+		culture = hungarian
+		religion = catholic
+		size = 150
+	}
+	clergymen = {
+		culture = hungarian
+		religion = catholic
+		size = 10
+	}
+	farmers = {
+		culture = hungarian
+		religion = catholic
+		size = 3000
+	}
+	farmers = {
+		culture = cuman
+		religion = catholic
+		size = 5000
+	}
+	artisans = {
+		culture = south_german
+		religion = catholic
+		size = 500
+	}
 }

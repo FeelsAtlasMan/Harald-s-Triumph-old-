@@ -3,55 +3,55 @@
 #Pola (188000/47000 POPS) #now part of Croatia 
 770 = {
 	aristocrats = {
-		culture = north_italian
+		culture = venetian
 		religion = catholic
 		size = 750
 	}
 
 	clergymen = {
-		culture = north_italian
+		culture = venetian
 		religion = catholic
 		size = 200
 	}
 
 	artisans = {
-		culture = north_italian
+		culture = venetian
 		religion = catholic
 		size = 1450
 	}
 
 	soldiers = {
-		culture = north_italian
+		culture = venetian
 		religion = catholic
 		size = 225
 	}
 
 	farmers = {
-		culture = north_italian
+		culture = venetian
 		religion = catholic
 		size = 20875
 	}
 
 	clergymen = {
-		culture = serbo-croat
+		culture = chakavian
 		religion = catholic
 		size = 225
 	}
 
 	artisans = {
-		culture = serbo-croat
+		culture = chakavian
 		religion = catholic
 		size = 900
 	}
 
 	soldiers = {
-		culture = serbo-croat
+		culture = chakavian
 		religion = catholic
 		size = 250
 	}
 
 	farmers = {
-		culture = serbo-croat
+		culture = chakavian
 		religion = catholic
 		size = 20625
 	}
@@ -67,13 +67,13 @@
 #Zagreb (224000/56000 POPS)
 771 = {
 	aristocrats = {
-		culture = serbo-croat
+		culture = kaykavian
 		religion = catholic
 		size = 450
 	}
 
 	bureaucrats = {
-		culture = serbo-croat
+		culture = kaykavian
 		religion = catholic
 		size = 250
 	}
@@ -85,38 +85,38 @@
 	}
 
 	officers = {
-		culture = serbo-croat
+		culture = kaykavian
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = serbo-croat
+		culture = kaykavian
 		religion = catholic
 		size = 450
 	}
 
 	artisans = {
-		culture = serbo-croat
+		culture = kaykavian
 		religion = catholic
 		size = 2500
 	}
 
 	soldiers = {
-		culture = serbo-croat
+		culture = kaykavian
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = serbo-croat
+		culture = kaykavian
 		religion = catholic
 		size = 26050
 	}
 	
 	farmers = {
-		culture = serbo-croat
-		religion = sunni
+		culture = kaykavian
+		religion = catholic
 		size = 300
 	}
 	
@@ -127,7 +127,7 @@
 	}
 	
 	serfs = {
-		culture = serbo-croat
+		culture = kaykavian
 		religion = catholic
 		size = 12000
 	}
@@ -201,55 +201,55 @@
 #Sisak (116000/29000 POPS)
 772 = {
 	aristocrats = {
-		culture = serbo-croat
+		culture = kaykavian
 		religion = catholic
 		size = 350
 	}
 
 	clergymen = {
-		culture = serbo-croat
+		culture = kaykavian
 		religion = catholic
 		size = 175
 	}
 
 	artisans = {
-		culture = serbo-croat
+		culture = kaykavian
 		religion = catholic
 		size = 900
 	}
 
 	soldiers = {
-		culture = serbo-croat
+		culture = kaykavian
 		religion = catholic
 		size = 175
 	}
 
 	farmers = {
-		culture = serbo-croat
+		culture = kaykavian
 		religion = catholic
 		size = 16300
 	}
 
 	clergymen = {
-		culture = serbo-croat
+		culture = chakavian
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = serbo-croat
+		culture = chakavian
 		religion = orthodox
 		size = 550
 	}
 
 	soldiers = {
-		culture = serbo-croat
+		culture = chakavian
 		religion = orthodox
 		size = 125
 	}
 
 	serfs = {
-		culture = serbo-croat
+		culture = chakavian
 		religion = orthodox
 		size = 10225
 	}
@@ -257,55 +257,55 @@
 #Karlovac (184000/46000 POPS)
 773 = {
 	aristocrats = {
-		culture = serbo-croat
+		culture = chakavian
 		religion = catholic
 		size = 550
 	}
 
 	clergymen = {
-		culture = serbo-croat
+		culture = chakavian
 		religion = catholic
 		size = 350
 	}
 
 	artisans = {
-		culture = serbo-croat
+		culture = chakavian
 		religion = catholic
 		size = 1700
 	}
 
 	soldiers = {
-		culture = serbo-croat
+		culture = chakavian
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = serbo-croat
+		culture = chakavian
 		religion = catholic
 		size = 30400
 	}
 
 	clergymen = {
-		culture = serbo-croat
+		culture = kaykavian
 		religion = orthodox
 		size = 125
 	}
 
 	artisans = {
-		culture = serbo-croat
+		culture = kaykavian
 		religion = orthodox
 		size = 600
 	}
 
 	soldiers = {
-		culture = serbo-croat
+		culture = kaykavian
 		religion = orthodox
 		size = 150
 	}
 
 	serfs = {
-		culture = serbo-croat
+		culture = kaykavian
 		religion = orthodox
 		size = 11125
 	}
@@ -313,61 +313,61 @@
 #Senj (96000/24000 POPS)
 774 = {
 	aristocrats = {
-		culture = serbo-croat
+		culture = chakavian
 		religion = catholic
 		size = 275
 	}
 
 	clergymen = {
-		culture = serbo-croat
+		culture = chakavian
 		religion = catholic
 		size = 125
 	}
 	
 	bureaucrats = {
-		culture = serbo-croat
+		culture = chakavian
 		religion = catholic
 		size = 200
 	}
 
 	artisans = {
-		culture = serbo-croat
+		culture = chakavian
 		religion = catholic
 		size = 650
 	}
 
 	soldiers = {
-		culture = serbo-croat
+		culture = chakavian
 		religion = catholic
 		size = 125
 	}
 
 	farmers = {
-		culture = serbo-croat
+		culture = chakavian
 		religion = catholic
 		size = 11325
 	}
 
 	clergymen = {
-		culture = serbo-croat
+		culture = chakavian
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = serbo-croat
+		culture = chakavian
 		religion = orthodox
 		size = 550
 	}
 
 	soldiers = {
-		culture = serbo-croat
+		culture = chakavian
 		religion = orthodox
 		size = 125
 	}
 
 	serfs = {
-		culture = serbo-croat
+		culture = chakavian
 		religion = orthodox
 		size = 10225
 	}
@@ -375,31 +375,31 @@
 #Varadzin (68000/17000 POPS)
 775 = {
 	aristocrats = {
-		culture = serbo-croat
+		culture = kaykavian
 		religion = catholic
 		size = 200
 	}
 
 	clergymen = {
-		culture = serbo-croat
+		culture = kaykavian
 		religion = catholic
 		size = 175
 	}
 
 	artisans = {
-		culture = serbo-croat
+		culture = kaykavian
 		religion = catholic
 		size = 850
 	}
 
 	soldiers = {
-		culture = serbo-croat
+		culture = kaykavian
 		religion = catholic
 		size = 175
 	}
 
 	farmers = {
-		culture = serbo-croat
+		culture = kaykavian
 		religion = catholic
 		size = 10600
 	}
@@ -413,49 +413,49 @@
 #Bjelovar (52000/13000 POPS)
 776 = {
 	clergymen = {
-		culture = serbo-croat
+		culture = kaykavian
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = serbo-croat
+		culture = kaykavian
 		religion = catholic
 		size = 150
 	}
 
 	soldiers = {
-		culture = serbo-croat
+		culture = kaykavian
 		religion = catholic
 		size = 25
 	}
 
 	farmers = {
-		culture = serbo-croat
+		culture = kaykavian
 		religion = catholic
 		size = 4675
 	}
 
 	clergymen = {
-		culture = serbo-croat
+		culture = kaykavian
 		religion = orthodox
 		size = 50
 	}
 
 	artisans = {
-		culture = serbo-croat
+		culture = kaykavian
 		religion = orthodox
 		size = 250
 	}
 
 	soldiers = {
-		culture = serbo-croat
+		culture = kaykavian
 		religion = orthodox
 		size = 75
 	}
 
 	serfs = {
-		culture = serbo-croat
+		culture = kaykavian
 		religion = orthodox
 		size = 4625
 	}
@@ -487,37 +487,37 @@
 #Pozega (80000/20000 POPS)
 777 = {
 	aristocrats = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = catholic
 		size = 225
 	}
 
 	clergymen = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = catholic
 		size = 200
 	}
 
 	artisans = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = catholic
 		size = 1100
 	}
 
 	soldiers = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = catholic
 		size = 200
 	}
 
 	farmers = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = catholic
 		size = 10275
 	}
 	
 	serfs = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = orthodox
 		size = 8000
 	}
@@ -525,55 +525,55 @@
 #Fiume (52000/13000 POPS)
 778 = {
 	clergymen = {
-		culture = serbo-croat
+		culture = chakavian
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = serbo-croat
+		culture = chakavian
 		religion = catholic
 		size = 1200
 	}
 
 	soldiers = {
-		culture = serbo-croat
+		culture = chakavian
 		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = serbo-croat
+		culture = chakavian
 		religion = catholic
 		size = 4700
 	}
 
 	aristocrats = {
-		culture = north_italian
+		culture = venetian
 		religion = catholic
 		size = 150
 	}
 
 	clergymen = {
-		culture = north_italian
+		culture = venetian
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = north_italian
+		culture = venetian
 		religion = catholic
 		size = 1300
 	}
 
 	soldiers = {
-		culture = north_italian
+		culture = venetian
 		religion = catholic
 		size = 75
 	}
 
 	farmers = {
-		culture = north_italian
+		culture = venetian
 		religion = catholic
 		size = 4425
 	}
@@ -607,27 +607,27 @@
 #Osijek (180000/45000 POPS) 
 779 = {
 	clergymen = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = catholic
 		size = 250 
 	}
 
 	artisans = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = catholic
 		size = 1300  
 	}
 
 	soldiers = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = catholic
 		size = 275
 	}
 
 	farmers = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = catholic
-		size = 23775   
+		size = 13775   
 	}
 	
 	serfs = {
@@ -637,25 +637,25 @@
 	}
 
 	clergymen = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = orthodox
 		size = 50  
 	}
 
 	artisans = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = orthodox
 		size = 350 
 	}
 
 	soldiers = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = orthodox
 		size = 100
 	}
 
 	serfs = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = orthodox
 		size = 6500   
 	}
@@ -687,7 +687,7 @@
 	farmers = {
 		culture = hungarian
 		religion = catholic
-		size = 5025
+		size = 15025
 	}
 
 	aristocrats = {
@@ -725,31 +725,31 @@
 #Split (140000/35000 POPS)
 780 = {
 	aristocrats = {
-		culture = serbo-croat
+		culture = chakavian
 		religion = catholic
 		size = 400
 	}
 
 	clergymen = {
-		culture = serbo-croat
+		culture = chakavian
 		religion = catholic
 		size = 350
 	}
 
 	artisans = {
-		culture = serbo-croat
+		culture = chakavian
 		religion = catholic
 		size = 1000
 	}
 
 	soldiers = {
-		culture = serbo-croat
+		culture = chakavian
 		religion = catholic
 		size = 350
 	}
 
 	farmers = {
-		culture = serbo-croat
+		culture = chakavian
 		religion = catholic
 		size = 8250
 	}
@@ -761,31 +761,31 @@
 	}
 	
 	serfs = {
-		culture = serbo-croat
-		religion = catholic
+		culture = shtokavian
+		religion = orthodox
 		size = 10000
 	}
 
 	clergymen = {
-		culture = north_italian
+		culture = venetian
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = north_italian
+		culture = venetian
 		religion = catholic
 		size = 6500
 	}
 
 	soldiers = {
-		culture = north_italian
+		culture = venetian
 		religion = catholic
 		size = 225
 	}
 
 	farmers = {
-		culture = north_italian
+		culture = venetian
 		religion = catholic
 		size = 8450
 	}
@@ -793,97 +793,97 @@
 #Zadar (128000/32000 POPS)
 781 = {
 	aristocrats = {
-		culture = serbo-croat
+		culture = chakavian
 		religion = catholic
 		size = 250
 	}
 
 	bureaucrats = {
-		culture = serbo-croat
+		culture = chakavian
 		religion = catholic
 		size = 100
 	}
 
 	officers = {
-		culture = serbo-croat
+		culture = chakavian
 		religion = catholic
 		size = 75
 	}
 
 	clergymen = {
-		culture = serbo-croat
+		culture = chakavian
 		religion = catholic
 		size = 225
 	}
 
 	artisans = {
-		culture = serbo-croat
+		culture = chakavian
 		religion = catholic
 		size = 600
 	}
 
 	soldiers = {
-		culture = serbo-croat
+		culture = chakavian
 		religion = catholic
 		size = 225
 	}
 
 	farmers = {
-		culture = serbo-croat
+		culture = chakavian
 		religion = catholic
 		size = 10525
 	}
 
 	bureaucrats = {
-		culture = north_italian
+		culture = venetian
 		religion = catholic
 		size = 75
 	}
 
 	clergymen = {
-		culture = north_italian
+		culture = venetian
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = north_italian
+		culture = venetian
 		religion = catholic
 		size = 1700
 	}
 
 	soldiers = {
-		culture = north_italian
+		culture = venetian
 		religion = catholic
 		size = 125
 	}
 
 	farmers = {
-		culture = north_italian
+		culture = venetian
 		religion = catholic
 		size = 12125
 	}
 
 	clergymen = {
-		culture = serbo-croat
+		culture = chakavian
 		religion = orthodox
 		size = 75
 	}
 
 	artisans = {
-		culture = serbo-croat
+		culture = chakavian
 		religion = orthodox
 		size = 300
 	}
 
 	soldiers = {
-		culture = serbo-croat
+		culture = chakavian
 		religion = orthodox
 		size = 75
 	}
 
 	serfs = {
-		culture = serbo-croat
+		culture = chakavian
 		religion = orthodox
 		size = 2550
 	}
@@ -891,85 +891,85 @@
 #Dubrovnik (52000/13000 POPS)
 782 = {
 	aristocrats = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = catholic
 		size = 75
 	}
 
 	clergymen = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = catholic
 		size = 500
 	}
 
 	soldiers = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = catholic
 		size = 1125
 	}
 
 	aristocrats = {
-		culture = north_italian
+		culture = venetian
 		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
-		culture = north_italian
+		culture = venetian
 		religion = catholic
 		size = 225
 	}
 
 	artisans = {
-		culture = north_italian
+		culture = venetian
 		religion = catholic
 		size = 1500
 	}
 
 	soldiers = {
-		culture = north_italian
+		culture = venetian
 		religion = catholic
 		size = 525
 	}
 
 	farmers = {
-		culture = north_italian
+		culture = venetian
 		religion = catholic
 		size = 7400
 	}
 
 	clergymen = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = orthodox
 		size = 50
 	}
 
 	artisans = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = orthodox
 		size = 100
 	}
 
 	soldiers = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = orthodox
 		size = 25
 	}
 
 	serfs = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = orthodox
 		size = 1825
 	}
@@ -980,55 +980,55 @@
 #Vukovar (104000/26000 POPS) #part of Croatia today
 793 = {
 	clergymen = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = catholic
 		size = 150
 	}
 
 	artisans = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = catholic
 		size = 800 
 	}
 
 	soldiers = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = catholic
 		size = 175
 	}
 	
 	farmers = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = catholic
 		size = 10775  
 	}
 
 	serfs = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = catholic
 		size = 4000  
 	}
 
 	clergymen = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = orthodox
 		size = 75  
 	}
 
 	artisans = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = orthodox
 		size = 350
 	}
 
 	soldiers = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = orthodox
 		size = 100
 	}
 
 	farmers = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = orthodox
 		size = 7475 
 	}

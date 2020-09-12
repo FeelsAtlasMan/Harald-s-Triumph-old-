@@ -1,119 +1,119 @@
-#Banat-Bacska Region (760000) #See Romania.txt and Croatia.txt for balance of region 
+#Banat-Bacska Region (760000) #See Romania.txt and shtokaviania.txt for balance of region 
 #under the rule of Austria in 1836  
-#Mitrovica (108000/27000 POPS) #part of Serbia today
+#Mitrovica (108000/27000 POPS) #part of shtokaviania today
 791 = {
 	clergymen = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = orthodox
 		size = 150 
 	}
 
 	artisans = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = orthodox
 		size = 750
 	}
 
 	soldiers = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = orthodox
 		size = 250 
 	}
 
 	farmers = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = orthodox
 		size = 15350
 	}
 	
 	farmers = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = catholic
 		size = 500
 	}
 
 	clergymen = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = catholic
 		size = 75  
 	}
 
 	artisans = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = catholic
 		size = 200
 	}
 
 	soldiers = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = catholic
 		size = 50 
 	}
 
 	farmers = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = catholic
 		size = 3675  
 	}
 
 	aristocrats = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = catholic
 		size = 300  
 	}
 
 	clergymen = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = catholic
 		size = 50   
 	}
 
 	artisans = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = catholic
 		size = 350
 	}
 
 	soldiers = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = catholic
 		size = 75     
 	}
 
 	farmers = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = catholic
 		size = 5225  
 	}
 }
-#Pancevo (268000/67000 POPS) #part of Serbia today
+#Pancevo (268000/67000 POPS) #part of shtokaviania today
 792 = {
 	clergymen = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = orthodox
 		size = 250
 	}
 
 	artisans = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = orthodox
 		size = 1100
 	}
 
 	soldiers = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = orthodox
 		size = 300 
 	}
 
 	serfs = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = orthodox
 		size = 23325
 	}
 	
 	farmers = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = catholic
 		size = 1000
 	}
@@ -172,40 +172,40 @@
 		size = 20300 
 	}
 }
-#Novi Sad (384000/96000 POPS) #part of Serbia today
+#Novi Sad (384000/96000 POPS) #part of shtokaviania today
 2538 = {
 	officers = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = orthodox
 		size = 75 
 	}
 
 	clergymen = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = orthodox
 		size = 275
 	}
 
 	artisans = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = orthodox
 		size = 1250
 	}
 
 	soldiers = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = orthodox
 		size = 300 
 	}
 
 	serfs = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = orthodox
 		size = 24175 
 	}
 	
 	farmers = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = catholic
 		size = 1000 
 	}
@@ -247,95 +247,95 @@
 	}
 	
 	clergymen = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = catholic
 		size = 75  
 	}
 
 	artisans = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = catholic
 		size = 250
 	}
 
 	soldiers = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = catholic
 		size = 50 
 	}
 
 	serfs = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = catholic
 		size = 4625  
 	}
 
 	clergymen = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = catholic
 		size = 75 
 	}
 
 	artisans = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = catholic
 		size = 450
 	}
 
 	soldiers = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = catholic
 		size = 100 
 	}
 
 	serfs = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = catholic
 		size = 9375 
 	}
 }
-#Serbia Region (180310) - 721.240 people
-#under the rule of Serbia in 1836
+#shtokaviania Region (180310) - 721.240 people
+#under the rule of shtokaviania in 1836
 #Belgrade (328000/82000 POPS)
 794 = {
 	aristocrats = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = orthodox
 		size = 2200
 	}
 
 	bureaucrats = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = orthodox
 		size = 100
 	}
 
 	officers = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = orthodox
 		size = 250
 	}
 
 	clergymen = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = orthodox
 		size = 900
 	}
 
 	artisans = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = orthodox
 		size = 4000
 	}
 
 	soldiers = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = orthodox
 		size = 2025
 	}
 
 	farmers = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = orthodox
 		size = 53000
 	}
@@ -355,31 +355,31 @@
 #Bor (220400/55000 POPS)
 795 = {
 	aristocrats = {
-		culture = serbo-croat
+		culture = torlakian
 		religion = orthodox
 		size = 500
 	}
 
 	clergymen = {
-		culture = serbo-croat
+		culture = torlakian
 		religion = orthodox
 		size = 150
 	}
 
 	artisans = {
-		culture = serbo-croat
+		culture = torlakian
 		religion = orthodox
 		size = 2600
 	}
 
 	soldiers = {
-		culture = serbo-croat
+		culture = torlakian
 		religion = orthodox
 		size = 1600
 	}
 
 	farmers = {
-		culture = serbo-croat
+		culture = torlakian
 		religion = orthodox
 		size = 26000
 	}
@@ -417,33 +417,39 @@
 #Kragujevac (188000/47000 POPS)
 796 = {
 	aristocrats = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = orthodox
 		size = 400
 	}
 
 	clergymen = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = orthodox
 		size = 150
 	}
 
 	artisans = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = orthodox
 		size = 1200
 	}
 
 	soldiers = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = orthodox
 		size = 1500
 	}
 
 	farmers = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = orthodox
-		size = 40200
+		size = 22000
+	}
+	
+	farmers = {
+		culture = torlakian
+		religion = orthodox
+		size = 18200
 	}
 	
 	farmers = {
@@ -455,31 +461,31 @@
 #Uzice (72000/18000 POPS)
 797 = {
 	aristocrats = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = orthodox
 		size = 150
 	}
 
 	clergymen = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = orthodox
 		size = 150
 	}
 
 	artisans = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = orthodox
 		size = 400
 	}
 
 	soldiers = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = orthodox
 		size = 500
 	}
 
 	farmers = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = orthodox
 		size = 13000
 	}
@@ -513,43 +519,43 @@
 	}	
 
 	aristocrats = {
-		culture = serbo-croat
+		culture = torlakian
 		religion = orthodox
 		size = 1150
 	}
 
 	bureaucrats = {
-		culture = serbo-croat
+		culture = torlakian
 		religion = orthodox
 		size = 150
 	}
 
 	officers = {
-		culture = serbo-croat
+		culture = torlakian
 		religion = orthodox
 		size = 150
 	}
 
 	clergymen = {
-		culture = serbo-croat
+		culture = torlakian
 		religion = orthodox
 		size = 200
 	}
 
 	artisans = {
-		culture = serbo-croat
+		culture = torlakian
 		religion = orthodox
 		size = 3150
 	}
 
 	soldiers = {
-		culture = serbo-croat
+		culture = torlakian
 		religion = orthodox
 		size = 1200
 	}
 
 	farmers = {
-		culture = serbo-croat
+		culture = torlakian
 		religion = orthodox
 		size = 43250
 	}
@@ -578,59 +584,59 @@
 	farmers = {
 		culture = bulgarian
 		religion = orthodox
-		size = 30425
+		size = 20425
 	}
 	
 	soldiers = {
-		culture = serbo-croat
+		culture = torlakian
 		religion = orthodox
 		size = 100
 	}
 
 	clergymen = {
-		culture = serbo-croat
+		culture = torlakian
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = serbo-croat
+		culture = torlakian
 		religion = orthodox
 		size = 250
 	}
 
 	farmers = {
-		culture = serbo-croat
+		culture = torlakian
 		religion = orthodox
-		size = 7950
+		size = 17950
 	}
 
 	aristocrats = {
-		culture = serbo-croat
+		culture = makedonian
 		religion = orthodox
 		size = 450
 	}
 
 	clergymen = {
-		culture = serbo-croat
+		culture = makedonian
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = serbo-croat
+		culture = makedonian
 		religion = orthodox
 		size = 2500
 	}
 
 	soldiers = {
-		culture = serbo-croat
+		culture = torlakian
 		religion = orthodox
 		size = 100
 	}
 
 	farmers = {
-		culture = serbo-croat
+		culture = torlakian
 		religion = orthodox
 		size = 12575
 	}
@@ -641,25 +647,25 @@
 802 = {
 
 	soldiers = {
-		culture = serbo-croat
+		culture = torlakian
 		religion = orthodox
 		size = 1100
 	}
 	
 	clergymen = {
-		culture = serbo-croat
+		culture = torlakian
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = serbo-croat
+		culture = torlakian
 		religion = orthodox
 		size = 900
 	}
 
 	farmers = {
-		culture = serbo-croat
+		culture = torlakian
 		religion = orthodox
 		size = 21420
 	}
@@ -854,37 +860,37 @@
 	}
 	
 	aristocrats = {
-		culture = serbo-croat
+		culture = torlakian
 		religion = orthodox
 		size = 100
 	}
 
 	officers = {
-		culture = serbo-croat
+		culture = torlakian
 		religion = orthodox
 		size = 100
 	}
 	
 	soldiers = {
-		culture = serbo-croat
+		culture = torlakian
 		religion = orthodox
 		size = 1100
 	}
 
 	clergymen = {
-		culture = serbo-croat
+		culture = torlakian
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = serbo-croat
+		culture = torlakian
 		religion = orthodox
 		size = 200
 	}
 
 	farmers = {
-		culture = serbo-croat
+		culture = torlakian
 		religion = orthodox
 		size = 4000
 	}
@@ -896,37 +902,37 @@
 	}
 
 	aristocrats = {
-		culture = serbo-croat
+		culture = torlakian
 		religion = orthodox
 		size = 750
 	}
 
 	clergymen = {
-		culture = serbo-croat
+		culture = torlakian
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = serbo-croat
+		culture = torlakian
 		religion = orthodox
 		size = 1750
 	}
 
 	soldiers = {
-		culture = serbo-croat
+		culture = torlakian
 		religion = orthodox
 		size = 100
 	}
 
 	farmers = {
-		culture = serbo-croat
+		culture = torlakian
 		religion = orthodox
 		size = 5150
 	}
 	
 	farmers = {
-		culture = serbo-croat
+		culture = torlakian
 		religion = orthodox
 		size = 100
 	}
@@ -1006,51 +1012,234 @@
 #Novi Pazar (72000/18000 POPS)
 804 = {
 	clergymen = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = orthodox
 		size = 200
 	}
 
 	artisans = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = orthodox
 		size = 400
 	}
 
 	farmers = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = orthodox
 		size = 33250
 	}
 
 	soldiers = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = orthodox
 		size = 1100
 	}
 
 	clergymen = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = orthodox
 		size = 200
 	}
 
 	artisans = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = orthodox
 		size = 450
 	}
 
 	soldiers = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = orthodox
 		size = 1100
 	}
 
 	farmers = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = orthodox
 		size = 7450
 	}
 
+}
+
+#Kikinda 
+3296 = {
+	clergymen = {
+		culture = shtokavian
+		religion = orthodox
+		size = 100
+	}
+	artisans = {
+		culture = shtokavian
+		religion = orthodox
+		size = 300
+	}
+	soldiers = {
+		culture = shtokavian
+		religion = orthodox
+		size = 100
+	}
+	serfs = {
+		culture = shtokavian
+		religion = orthodox
+		size = 7000
+	}
+	aristocrats = {
+		culture = hungarian
+		religion = catholic
+		size = 600  
+	}
+	clergymen = {
+		culture = hungarian
+		religion = catholic
+		size = 100  
+	}
+	artisans = {
+		culture = hungarian
+		religion = catholic
+		size = 500
+	}
+	soldiers = {
+		culture = hungarian
+		religion = catholic
+		size = 100  
+	}
+	farmers = {
+		culture = hungarian
+		religion = catholic
+		size = 11700 
+	}
+	aristocrats = {
+		culture = romanian
+		religion = orthodox
+		size = 600  
+	}
+	clergymen = {
+		culture = romanian
+		religion = orthodox
+		size = 200   
+	}
+	artisans = {
+		culture = romanian
+		religion = orthodox
+		size = 600
+	}
+	soldiers = {
+		culture = romanian
+		religion = orthodox
+		size = 100     
+	}
+	farmers = {
+		culture = romanian
+		religion = orthodox
+		size = 12000  
+	}
+	farmers = {
+		culture = romanian
+		religion = orthodox
+		size = 300 
+	}
+}
+
+#Maria-Theresiopel 
+3295 = {
+	clergymen = {
+		culture = shtokavian
+		religion = orthodox
+		size = 25
+	}
+	artisans = {
+		culture = shtokavian
+		religion = orthodox
+		size = 250
+	}
+	soldiers = {
+		culture = shtokavian
+		religion = orthodox
+		size = 25 
+	}
+	serfs = {
+		culture = shtokavian
+		religion = orthodox
+		size = 5000 
+	}
+	aristocrats = {
+		culture = hungarian
+		religion = catholic
+		size = 1000  
+	}
+	clergymen = {
+		culture = hungarian
+		religion = catholic
+		size = 250  
+	}
+	artisans = {
+		culture = hungarian
+		religion = catholic
+		size = 1100
+	}
+	soldiers = {
+		culture = hungarian
+		religion = catholic
+		size = 300  
+	}
+	farmers = {
+		culture = hungarian
+		religion = catholic
+		size = 18000 
+	}
+	serfs = {
+		culture = gypsy
+		religion = catholic
+		size = 750 
+	}
+	clergymen = {
+		culture = shtokavian
+		religion = catholic
+		size = 15  
+	}
+	artisans = {
+		culture = shtokavian
+		religion = catholic
+		size = 50
+	}
+	soldiers = {
+		culture = shtokavian
+		religion = catholic
+		size = 5
+	}
+	serfs = {
+		culture = shtokavian
+		religion = catholic
+		size = 1000  
+	}
+	farmers = {
+		culture = shtokavian
+		religion = catholic
+		size = 200 
+	}
+	aristocrats = {
+		culture = hungarian
+		religion = catholic
+		size = 300  
+	}
+	clergymen = {
+		culture = hungarian
+		religion = catholic
+		size = 75
+	}
+	artisans = {
+		culture = hungarian
+		religion = catholic
+		size = 400
+	}
+	soldiers = {
+		culture = hungarian
+		religion = catholic
+		size = 100     
+	}
+	farmers = {
+		culture = hungarian
+		religion = catholic
+		size = 7000 
+	}
 }

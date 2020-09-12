@@ -288,25 +288,25 @@
 	}
 
 	clergymen = {
-		culture = serbo-croat
+		culture = kaykavian
 		religion = catholic
 		size = 50 
 	}
 
 	artisans = {
-		culture = serbo-croat
+		culture = kaykavian
 		religion = catholic
 		size = 350
 	}
 
 	soldiers = {
-		culture = serbo-croat
+		culture = kaykavian
 		religion = catholic
 		size = 75
 	}
 
 	serfs = {
-		culture = serbo-croat
+		culture = kaykavian
 		religion = catholic
 		size = 6525 
 	}
@@ -382,75 +382,75 @@
 	}
 
 	aristocrats = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = catholic
 		size = 500 
 	}
 
 	bureaucrats = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = catholic
 		size = 75 
 	}
 
 	officers = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = catholic
 		size = 30 
 	}
 
 	clergymen = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = catholic
 		size = 175
 	}
 
 	artisans = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = catholic
 		size = 1100 
 	}
 
 	soldiers = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = catholic
 		size = 250
 	}
 
 	farmers = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = catholic
-		size = 18545
+		size = 20545
 	}
 
 	officers = {
-		culture = serbo-croat
+		culture = kaykavian
 		religion = catholic
 		size = 15 
 	}
 
 	clergymen = {
-		culture = serbo-croat
+		culture = kaykavian
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = serbo-croat
+		culture = kaykavian
 		religion = catholic
 		size = 400 
 	}
 
 	soldiers = {
-		culture = serbo-croat
+		culture = kaykavian
 		religion = catholic
 		size = 75
 	}
 
 	farmers = {
-		culture = serbo-croat
+		culture = kaykavian
 		religion = catholic
-		size = 7435 
+		size = 5435 
 	}
 }
 #Dunautul Region (1892000)  

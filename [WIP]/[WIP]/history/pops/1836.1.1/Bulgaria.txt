@@ -57,25 +57,25 @@
 	}
 	
 	soldiers = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 300
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 300
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 300
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 4100
 	}

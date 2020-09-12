@@ -3,67 +3,67 @@
 #Skopje (424000/106000 POPS) 
 806 = {
 	aristocrats = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 2450
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 325
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 2000
 	}
 
 	soldiers = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 3000
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 25225
 	}
 
 	aristocrats = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 125
 	}
 	
 	officers = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 110
 	}
 	
 	soldiers = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 200
 	}
 	
 	clergymen = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 125
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 2100
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 56350
 	}
@@ -121,103 +121,103 @@
 #Bitola (268000/67000 POPS) 
 807 = {
 	soldiers = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 1200
 	}
 	
 	clergymen = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 110
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 425
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 24075
 	}
 	
 	soldiers = {
-		culture = serbo-croat
+		culture = torlakian
 		religion = orthodox
 		size = 200
 	}
 	
 	clergymen = {
-		culture = serbo-croat
+		culture = torlakian
 		religion = orthodox
 		size = 110
 	}
 
 	artisans = {
-		culture = serbo-croat
+		culture = torlakian
 		religion = orthodox
 		size = 225
 	}
 	
 	farmers = {
-		culture = serbo-croat
+		culture = torlakian
 		religion = orthodox
 		size = 2965
 	}
 	
 	farmers = {
-		culture = serbo-croat
+		culture = torlakian
 		religion = orthodox
 		size = 500
 	}
 	
 	farmers = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 6000
 	}
 
 	aristocrats = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 1500
 	}
 
 	bureaucrats = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 225
 	}
 
 	officers = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 175
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 50
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 1300
 	}
 
 	soldiers = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 1100
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 1975
 	}
@@ -281,25 +281,25 @@
 	}
 	
 	soldiers = {
-		culture = serbo-croat
+		culture = torlakian
 		religion = orthodox
 		size = 175
 	}
 
 	clergymen = {
-		culture = serbo-croat
+		culture = torlakian
 		religion = orthodox
 		size = 110
 	}
 
 	artisans = {
-		culture = serbo-croat
+		culture = torlakian
 		religion = orthodox
 		size = 250
 	}
 	
 	farmers = {
-		culture = serbo-croat
+		culture = torlakian
 		religion = orthodox
 		size = 1100
 	}

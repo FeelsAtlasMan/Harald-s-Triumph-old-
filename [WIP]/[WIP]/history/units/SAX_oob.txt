@@ -15,7 +15,7 @@ FRI = {
 
 BRG = {
 	value = 150
-	level = 4
+	level = 3
 	influence_value = 25
 }
 

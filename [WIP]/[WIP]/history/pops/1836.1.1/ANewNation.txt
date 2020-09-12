@@ -245,25 +245,25 @@
 	}
 
 	aristocrats = {
-		culture = north_italian
+		culture = south_italian
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = north_italian
+		culture = south_italian
 		religion = catholic
 		size = 30
 	}
 
 	artisans = {
-		culture = north_italian
+		culture = south_italian
 		religion = catholic
 		size = 350
 	}
 
 	farmers = {
-		culture = north_italian
+		culture = south_italian
 		religion = catholic
 		size = 1075
 	}

@@ -441,51 +441,51 @@
 	}
 
 	clergymen = {
-		culture = serbo-croat
-		religion = catholic
+		culture = romanian
+		religion = orthodox
 		size = 150   
 	}
 
 	artisans = {
-		culture = serbo-croat
-		religion = catholic
+		culture = romanian
+		religion = orthodox
 		size = 850 
 	}
 
 	soldiers = {
-		culture = serbo-croat
-		religion = catholic
+		culture = romanian
+		religion = orthodox
 		size = 200
 	}
 
 	farmers = {
-		culture = serbo-croat
-		religion = catholic
-		size = 18800 
+		culture = romanian
+		religion = orthodox
+		size = 38800 
 	}
 
 	clergymen = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = orthodox
 		size = 550 
 	}
 
 	artisans = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = orthodox
 		size = 3000
 	}
 
 	soldiers = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = orthodox
 		size = 750
 	}
 
 	farmers = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = orthodox
-		size = 53000
+		size = 33000
 	}
 	
 	farmers = {
@@ -557,25 +557,25 @@
 	}
 
 	clergymen = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = orthodox
 		size = 150
 	}
 
 	artisans = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = orthodox
 		size = 750
 	}
 
 	soldiers = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = orthodox
 		size = 200
 	}
 
 	farmers = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = orthodox
 		size = 16150 
 	}
@@ -2019,7 +2019,7 @@
 	}
 	
 	artisans = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = orthodox
 		size = 10212 
 	}
@@ -2069,7 +2069,7 @@
 	}	
 	
 	farmers = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = orthodox
 		size = 9000 
 	}	
@@ -2119,7 +2119,7 @@
 	}
 
 	farmers = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = orthodox
 		size = 1500 
 	}	
@@ -2151,7 +2151,7 @@
 	}
 	
 	farmers = {
-		culture = serbo-croat
+		culture = shtokavian
 		religion = orthodox
 		size = 200 
 	}	

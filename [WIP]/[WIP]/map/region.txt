@@ -308,7 +308,7 @@ BAV_595 = { 595 596 597 598 } #Franconia
 
 BAV_599 = { 599 600 601 602 } #Bavaria
 
-BAV_613 = { 613 3279 622 } #Ostmark
+BAV_613 = { 613 3279 622 3298 } #Ostmark
 
 SWI_606 = { 606 605 604 3272 } #Swiss Mittelland
 
@@ -331,11 +331,11 @@ PRU_701 = { 701 699 700 } #Posen
 
 AUS_612 = { 612 615 734 735 } #Tirol
 
-AUS_613 = { 616 617 618 } #Kärnten-Steiermark
+AUS_619 = { 619 620 621 617 } #Western Kunsag
 
-AUS_619 = { 619 620 621 624 } #Österreich
+AUS_639 = { 639 640 642 643 644 } #Transdanubia
 
-AUS_623 = { 623 639 640 642 643 644 } #Transdanubia
+AUS_613 = { 623 624 616 3294 } #Eastern Kunsag
 
 AUS_625 = { 625 626 629 630 } #Bohemia
 
@@ -365,7 +365,7 @@ AUS_729 = { 729 730 731 732 733 3262 } #Venetia
 
 AUS_736 = { 769 770 778 736 737 } #Istria
 
-AUS_768 = { 767 768 } #Slovenia
+AUS_768 = { 767 768 618 3297 } #Slovenia
 
 AUS_771 = { 771 772 773 775 776 } #Croatia
 
@@ -373,7 +373,7 @@ AUS_777 = { 779 793 777 } #Slavonia
 
 AUS_780 = { 780 781 782 774 } #Dalmatia
 
-AUS_2538 = { 2538 791 792 } #Vojvodina
+AUS_2538 = { 2538 791 792 3295 3296 } #Vojvodina
 
 
 ### Italy

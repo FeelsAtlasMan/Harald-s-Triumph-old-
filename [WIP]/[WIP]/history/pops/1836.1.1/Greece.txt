@@ -3,85 +3,85 @@
 #Salonika (304000/76000 POPS) #now part of Greece 
 805 = {
 	aristocrats = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 1800
 	}
 
 	bureaucrats = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 250
 	}
 
 	officers = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 325
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 250
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 4500
 	}
 
 	soldiers = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 2800
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 15075
 	}
 	
 	aristocrats = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 120
 	}
 	
 	officers = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 120
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 125
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 500
 	}
 	
 	soldiers = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 200
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 9900
 	}
 	
 	soldiers = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 250
 	}
@@ -149,55 +149,55 @@
 #Polygyros (100000/25000 POPS) #now part of Greece
 822 = {
 	aristocrats = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 400
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 750
 	}
 
 	soldiers = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 250
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 7500
 	}
 
 	soldiers = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 300
 	}
 	
 	clergymen = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 200
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 250
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 1425
 	}
@@ -229,45 +229,45 @@
 #Kavala (160000/40000 POPS) #now part of Greece
 823 = {
 	aristocrats = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 700
 	}
 	
 	bureaucrats = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 100
 	}
 	
 	officers = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 150
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 125
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 800
 	}
 
 	soldiers = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 400
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
-		size = 9525
+		size = 5525
 	}
 	
 	aristocrats = {
@@ -303,7 +303,7 @@
 	farmers = {
 		culture = bulgarian
 		religion = orthodox
-		size = 23650
+		size = 27650
 	}
 	
 	aristocrats = {
@@ -383,55 +383,55 @@
 	}
 	
 	soldiers = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 150
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 200
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 200
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 14800
 	}
 
 	aristocrats = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 475
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 800
 	}
 
 	soldiers = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 300
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 9325
 	}
@@ -463,31 +463,31 @@
 	}
 
 	aristocrats = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 350
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 900
 	}
 
 	soldiers = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 350
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 15325
 	}
@@ -519,55 +519,55 @@
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 200
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 200
 	}
 	
 	soldiers = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 400
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 16800
 	}
 
 	aristocrats = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 750
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 900
 	}
 
 	soldiers = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 300
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 4975
 	}
@@ -577,43 +577,43 @@
 #Janina (504000/126000 POPS)
 824 = {
 	aristocrats = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 125
 	}
 
 	bureaucrats = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 125
 	}
 
 	officers = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 250
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 500
 	}
 
 	soldiers = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 150
 	}
 	
 	farmers = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 200
 	}
@@ -699,31 +699,31 @@
 #Arta (220000/55000 POPS)
 825 = {
 	aristocrats = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 250
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 25
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 675
 	}
 
 	soldiers = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 550
 	}
 	
 	farmers = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 500
 	}
@@ -806,7 +806,7 @@
 	}
 
 	farmers = {
-		culture = north_italian
+		culture = venetian
 		religion = catholic
 		size = 650
 	}
@@ -1034,45 +1034,45 @@
 #Larisa (140000/35000 POPS)
 831 = {
 	aristocrats = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 600
 	}
 
 	bureaucrats = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 150
 	}
 
 	officers = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 100
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 750
 	}
 
 	soldiers = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 350
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
-		size = 10650
+		size = 5650
 	}
 
 	clergymen = {
@@ -1096,7 +1096,7 @@
 	farmers = {
 		culture = greek
 		religion = orthodox
-		size = 38000
+		size = 42000
 	}
 	
 	artisans = {
@@ -1108,33 +1108,33 @@
 #Volos (224000/56000 POPS)
 832 = {
 	aristocrats = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 1150
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 75
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 1300
 	}
 
 	soldiers = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 550
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
-		size = 19925
+		size = 9925
 	}
 	
 	aristocrats = {
@@ -1164,7 +1164,7 @@
 	farmers = {
 		culture = greek
 		religion = orthodox
-		size = 40225
+		size = 50225
 	}
 	
 	soldiers = {
@@ -1176,31 +1176,31 @@
 #Trikala (44000/11000 POPS)
 833 = {
 	aristocrats = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 200
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 200
 	}
 
 	soldiers = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 125
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = makedonian
 		religion = orthodox
 		size = 450
 	}

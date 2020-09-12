@@ -128,6 +128,51 @@
 	}
 }
 
+#Steyr (136000/34000 POPS)
+3298 = {
+	aristocrats = {
+		culture = south_german
+		religion = catholic
+		size = 450 
+	}
+
+	clergymen = {
+		culture = south_german
+		religion = catholic
+		size = 650 
+	}
+
+	artisans = {
+		culture = south_german
+		religion = catholic
+		size = 3250
+	}
+
+	soldiers = {
+		culture = south_german
+		religion = catholic
+		size = 1100
+	}
+
+	farmers = {
+		culture = south_german
+		religion = catholic
+		size = 18000
+	}
+	
+	farmers = {
+		culture = hungarian
+		religion = catholic
+		size = 2000
+	}
+	
+	farmers = {
+		culture = slovene
+		religion = catholic
+		size = 4975
+	}
+}
+
 #Bregenz (132000/33000 POPS)
 614 = {
 	aristocrats = {
@@ -199,7 +244,7 @@
 	}
 	
 	farmers = {
-		culture = north_italian
+		culture = venetian
 		religion = catholic
 		size = 1375
 	}
@@ -410,6 +455,52 @@
 		size = 3675 
 	}
 }
+
+#Spittal (136000/34000 POPS)
+3297 = {
+	aristocrats = {
+		culture = south_german
+		religion = catholic
+		size = 450 
+	}
+
+	clergymen = {
+		culture = south_german
+		religion = catholic
+		size = 650 
+	}
+
+	artisans = {
+		culture = south_german
+		religion = catholic
+		size = 3250
+	}
+
+	soldiers = {
+		culture = south_german
+		religion = catholic
+		size = 1100
+	}
+
+	farmers = {
+		culture = south_german
+		religion = catholic
+		size = 18000
+	}
+	
+	farmers = {
+		culture = hungarian
+		religion = catholic
+		size = 2000
+	}
+	
+	farmers = {
+		culture = slovene
+		religion = catholic
+		size = 4975
+	}
+}
+
 #Austria Region (2000000) 
 #under the rule of Austria in 1836  
 #Vienna (1084000/271000 POPS)
