@@ -783,7 +783,7 @@
 	farmers = {
 		culture = jassic
 		religion = catholic
-		size = 23900
+		size = 5900
 	}
 }
 #Kaposvar (392000/98000 POPS) 
@@ -896,6 +896,256 @@
 		size = 6525
 	}
 }
+
+#Jaszvar (392000/98000 POPS) 
+3303 = {
+	aristocrats = {
+		culture = hungarian
+		religion = catholic
+		size = 1000 
+	}
+
+	aristocrats = {
+		culture = hungarian
+		religion = protestant
+		size = 1450 
+	}
+
+	clergymen = {
+		culture = hungarian
+		religion = protestant
+		size = 525 
+	}
+
+	artisans = {
+		culture = hungarian
+		religion = protestant
+		size = 2750  
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = protestant
+		size = 1150
+	}
+
+	farmers = {
+		culture = hungarian
+		religion = protestant
+		size = 30525     
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 250 
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 2100 
+	}
+
+	soldiers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 25
+	}
+
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 2825     
+	}
+
+	clergymen = {
+		culture = jassic
+		religion = protestant
+		size = 550
+	}
+
+	artisans = {
+		culture = jassic
+		religion = protestant
+		size = 6350 
+	}
+
+	soldiers = {
+		culture = jassic
+		religion = protestant
+		size = 2075
+	}
+
+	farmers = {
+		culture = jassic
+		religion = protestant
+		size = 54525
+	}
+}
+
+#Jaszapati (392000/98000 POPS) 
+3302 = {
+	aristocrats = {
+		culture = hungarian
+		religion = catholic
+		size = 50 
+	}
+
+	clergymen = {
+		culture = hungarian
+		religion = protestant
+		size = 75 
+	}
+
+	artisans = {
+		culture = hungarian
+		religion = protestant
+		size = 400  
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = protestant
+		size = 70
+	}
+
+	serfs = {
+		culture = hungarian
+		religion = protestant
+		size = 15525     
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 25 
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 1500 
+	}
+
+	soldiers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 15
+	}
+
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 3425     
+	}
+
+	clergymen = {
+		culture = jassic
+		religion = protestant
+		size = 25
+	}
+
+	artisans = {
+		culture = jassic
+		religion = protestant
+		size = 450 
+	}
+
+	soldiers = {
+		culture = jassic
+		religion = protestant
+		size = 375
+	}
+
+	farmers = {
+		culture = jassic
+		religion = protestant
+		size = 23525
+	}
+}
+
+#Jaszbereny (108000/27000 POPS) 
+3301 = {
+	aristocrats = {
+		culture = hungarian
+		religion = catholic
+		size = 400 
+	}
+
+	clergymen = {
+		culture = hungarian
+		religion = catholic
+		size = 125 
+	}
+
+	artisans = {
+		culture = hungarian
+		religion = catholic
+		size = 3200
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = catholic
+		size = 150
+	}
+
+	farmers = {
+		culture = hungarian
+		religion = catholic
+		size = 15125 
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 50  
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 1650 
+	}
+
+	soldiers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 25
+	}
+
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 2275   
+	}
+
+	clergymen = {
+		culture = jassic
+		religion = catholic
+		size = 225 
+	}
+
+	artisans = {
+		culture = jassic
+		religion = catholic
+		size = 2150 
+	}
+
+	soldiers = {
+		culture = jassic
+		religion = catholic
+		size = 525
+	}
+
+	farmers = {
+		culture = jassic
+		religion = catholic
+		size = 23800 
+	}
+}
+
 #Kecskemet (108000/27000 POPS) 
 645 = {
 	aristocrats = {
@@ -1387,7 +1637,7 @@
 	serfs = {
 		culture = hungarian
 		religion = catholic
-		size = 17375
+		size = 7375
 	}
 
 	aristocrats = {
@@ -1465,6 +1715,6 @@
 	farmers = {
 		culture = romanian
 		religion = orthodox
-		size = 19675  
+		size = 29675  
 	}
 }

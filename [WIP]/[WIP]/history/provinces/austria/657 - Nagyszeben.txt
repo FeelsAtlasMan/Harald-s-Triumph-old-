@@ -2,5 +2,6 @@ owner = BZN
 controller = BZN
 add_core = BZN
 add_core = ROM
+add_core = SIE
 trade_goods = cattle
 life_rating = 35

@@ -32,7 +32,7 @@
 	farmers = {
 		culture = albanian
 		religion = orthodox
-		size = 40947
+		size = 25947
 	}
 	clergymen = {
 		culture = albanian
@@ -40,9 +40,9 @@
 		size = 100
 	}
 	farmers = {
-		culture = albanian
+		culture = tosk
 		religion = orthodox
-		size = 6065
+		size = 21065
 	}
 }
 850 = {
@@ -118,101 +118,101 @@
 	farmers = {
 		culture = albanian
 		religion = orthodox
-		size = 5632
+		size = 4632
 	}
 	clergymen = {
-		culture = albanian
+		culture = tosk
 		religion = catholic
 		size = 100
 	}
 	farmers = {
-		culture = albanian
+		culture = tosk
 		religion = catholic
-		size = 2355
+		size = 3355
 	}
 }
 852 = {
 	aristocrats = {
-		culture = albanian
+		culture = tosk
 		religion = orthodox
 		size = 573
 	}
 	clergymen = {
-		culture = albanian
+		culture = tosk
 		religion = orthodox
 		size = 256
 	}
 	artisans = {
-		culture = albanian
+		culture = tosk
 		religion = orthodox
 		size = 1331
 	}
 	soldiers = {
-		culture = albanian
+		culture = tosk
 		religion = orthodox
 		size = 286
 	}
 	farmers = {
-		culture = albanian
+		culture = tosk
 		religion = orthodox
 		size = 10947
 	}
 	clergymen = {
-		culture = albanian
+		culture = tosk
 		religion = orthodox
 		size = 143
 	}
 	farmers = {
-		culture = albanian
+		culture = tosk
 		religion = orthodox
 		size = 3232
 	}
 }
 853 = {
 	aristocrats = {
-		culture = albanian
+		culture = tosk
 		religion = orthodox
 		size = 307
 	}
 	clergymen = {
-		culture = albanian
+		culture = tosk
 		religion = orthodox
 		size = 102
 	}
 	soldiers = {
-		culture = albanian
+		culture = tosk
 		religion = orthodox
 		size = 450
 	}
 	artisans = {
-		culture = albanian
+		culture = tosk
 		religion = orthodox
 		size = 122
 	}
 	farmers = {
-		culture = albanian
+		culture = tosk
 		religion = orthodox
 		size = 6246
 	}
 	soldiers = {
-		culture = albanian
+		culture = tosk
 		religion = orthodox
 		size = 100
 	}
 	clergymen = {
-		culture = albanian
+		culture = tosk
 		religion = orthodox
 		size = 100
 	}
 	artisans = {
-		culture = albanian
+		culture = tosk
 		religion = orthodox
 		size = 100
 	}
 	farmers = {
-		culture = albanian
+		culture = tosk
 		religion = orthodox
-		size = 161379
+		size = 31379
 	}
 	soldiers = {
 		culture = greek
@@ -232,6 +232,6 @@
 	farmers = {
 		culture = greek
 		religion = orthodox
-		size = 23799
+		size = 8799
 	}
 }

@@ -154,10 +154,10 @@ MGL_theocracy;Bogd Khaanate;;;;;;;;;;;;;x,
 MGL_proletarian_dictatorship;Mongolian People's Republic;;;;;;;;;;;;;x,
 ALS_colonial_company;Elsass-Lothringen;;;;;;;;;;;;;x,
 ALS_dominion;Elsass-Lothringen;;;;;;;;;;;;;x,
-MCK_absolute_monarchy;Manchukuo;;;;;;;;;x;;;;;;;;
-MCK_prussian_constitutionalism;Manchukuo;;;;;;;;;;;;;x
-MCK_hms_government;Manchukuo;;;;;;;;;;;;;x,
-MCK_colonial_company;Guandong;;;;;;;;;;;;;x,
+MCK_absolute_monarchy;Jin;;;;;;;;;x;;;;;;;;
+MCK_prussian_constitutionalism;Jin;;;;;;;;;;;;;x
+MCK_hms_government;Jin;;;;;;;;;;;;;x,
+MCK_colonial_company;Jin;;;;;;;;;;;;;x,
 TST;Alto Adige;;;;;;;;;x;;;;;;;;
 TST_colonial_company;Südtirol;;;;;;;;;;;;;;x
 LOM_colonial_company;Lombardo–Venetien;;;;;;;;;;;;;;x

@@ -1,7 +1,7 @@
-owner = CAT
-controller = CAT
-add_core = IBR
-add_core = CAT
+owner = MOR
+controller = MOR
+add_core = MOR
+add_core = ADU
 trade_goods = cattle
 life_rating = 35
 

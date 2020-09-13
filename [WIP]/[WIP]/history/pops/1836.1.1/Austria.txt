@@ -298,7 +298,7 @@
 	farmers = {
 		culture = hungarian
 		religion = catholic
-		size = 10000
+		size = 19280
 	}
 	
 	artisans = {
@@ -328,13 +328,13 @@
 	farmers = {
 		culture = slovene
 		religion = catholic
-		size = 40000 
+		size = 26420 
 	}
 	
 	farmers = {
 		culture = cuman
 		religion = catholic
-		size = 15675 
+		size = 20675 
 	}
 }
 #Judenburg (168000/42000 POPS)
@@ -366,7 +366,7 @@
 	farmers = {
 		culture = hungarian
 		religion = catholic
-		size = 3150
+		size = 5150
 	}
 	
 	farmers = {
@@ -390,7 +390,7 @@
 	farmers = {
 		culture = slovene
 		religion = catholic
-		size = 17000
+		size = 15000
 	}
 }
 #Klagenfurt (188000/47000 POPS)
@@ -544,13 +544,37 @@
 	farmers = {
 		culture = slovak
 		religion = catholic
-		size = 31000
+		size = 11000
+	}
+	
+	bureaucrats = {
+		culture = cuman
+		religion = catholic
+		size = 2000
+	}
+
+	officers = {
+		culture = cuman
+		religion = catholic
+		size = 500 
+	}
+
+	clergymen = {
+		culture = cuman
+		religion = catholic
+		size = 450
+	}
+
+	artisans = {
+		culture = cuman
+		religion = catholic
+		size = 8000
 	}
 	
 	farmers = {
 		culture = cuman
 		religion = catholic
-		size = 25250
+		size = 45250
 	}
 	
 	aristocrats = {
@@ -562,31 +586,31 @@
 	bureaucrats = {
 		culture = hungarian
 		religion = catholic
-		size = 3100
+		size = 1100
 	}
 
 	officers = {
 		culture = hungarian
 		religion = catholic
-		size = 600 
+		size = 100 
 	}
 
 	clergymen = {
 		culture = hungarian
 		religion = catholic
-		size = 550
+		size = 150
 	}
 
 	artisans = {
 		culture = hungarian
 		religion = catholic
-		size = 10950
+		size = 2950
 	}
 	
 	farmers = {
 		culture = hungarian
 		religion = catholic
-		size = 35000
+		size = 25000
 	}
 
 	clergymen = {

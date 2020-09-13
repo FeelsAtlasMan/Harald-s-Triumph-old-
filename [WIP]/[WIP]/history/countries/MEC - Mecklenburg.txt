@@ -1,5 +1,7 @@
 capital = 544
 primary_culture = western_slavic
+culture = kashubian
+culture = sorbian
 religion = catholic
 government = absolute_monarchy
 plurality = 25.0

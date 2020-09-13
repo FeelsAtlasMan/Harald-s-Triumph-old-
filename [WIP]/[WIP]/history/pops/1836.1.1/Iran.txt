@@ -564,7 +564,7 @@
 	}
 	
 	slaves = {
-		culture = tatar
+		culture = crimean_tatar
 		religion = orthodox
 		size = 5000
 	}

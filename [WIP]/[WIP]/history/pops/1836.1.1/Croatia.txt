@@ -657,7 +657,7 @@
 	serfs = {
 		culture = shtokavian
 		religion = orthodox
-		size = 6500   
+		size = 3500   
 	}
 
 	aristocrats = {
@@ -698,26 +698,26 @@
 
 	clergymen = {
 		culture = hungarian
-		religion = catholic
+		religion = protestant
 		size = 50 
 	}
 
 	artisans = {
 		culture = hungarian
-		religion = catholic
+		religion = protestant
 		size = 350 
 	}
 
 	soldiers = {
 		culture = hungarian
-		religion = catholic
+		religion = protestant
 		size = 50
 	}
 
 	farmers = {
 		culture = hungarian
-		religion = catholic
-		size = 5300 
+		religion = protestant
+		size = 8300 
 	}
 }
 #Dalmatia Region (320000) #see Montenegro.txt for balance of region 

@@ -57,13 +57,13 @@
 	}
 	
 	soldiers = {
-		culture = tatar
+		culture = crimean_tatar
 		religion = sunni
 		size = 7750
 	}
 
 	farmers = {
-		culture = tatar
+		culture = crimean_tatar
 		religion = sunni
 		size = 6750 
 	}
@@ -191,7 +191,7 @@
 	}
 	
 	farmers = {
-		culture = tatar
+		culture = crimean_tatar
 		religion = sunni
 		size = 5675
 	}

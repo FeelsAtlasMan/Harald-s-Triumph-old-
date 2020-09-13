@@ -494,6 +494,142 @@
 		size = 2000     
 	}
 }
+
+#Arad
+3300 = {
+	serfs = {
+		culture = gypsy
+		religion = orthodox
+		size = 500 
+	}
+
+	aristocrats = {
+		culture = hungarian
+		religion = catholic
+		size = 100  
+	}
+
+	bureaucrats = {
+		culture = hungarian
+		religion = catholic
+		size = 400 
+	}
+
+	officers = {
+		culture = hungarian
+		religion = catholic
+		size = 225 
+	}
+
+	clergymen = {
+		culture = hungarian
+		religion = catholic
+		size = 150  
+	}
+
+	artisans = {
+		culture = hungarian
+		religion = catholic
+		size = 700 
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = catholic
+		size = 150
+	}
+
+	serfs = {
+		culture = hungarian
+		religion = catholic
+		size = 10500  
+	}
+
+	aristocrats = {
+		culture = hungarian
+		religion = protestant
+		size = 150 
+	}
+
+	clergymen = {
+		culture = hungarian
+		religion = protestant
+		size = 225    
+	}
+
+	artisans = {
+		culture = hungarian
+		religion = protestant
+		size = 600   
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = protestant
+		size = 150
+	}
+
+	farmers = {
+		culture = hungarian
+		religion = protestant
+		size = 14275     
+	}
+
+	clergymen = {
+		culture = romanian
+		religion = orthodox
+		size = 750   
+	}
+
+	artisans = {
+		culture = romanian
+		religion = orthodox
+		size = 450 
+	}
+
+	soldiers = {
+		culture = romanian
+		religion = orthodox
+		size = 100
+	}
+
+	farmers = {
+		culture = romanian
+		religion = orthodox
+		size = 22800 
+	}
+
+	clergymen = {
+		culture = shtokavian
+		religion = orthodox
+		size = 250 
+	}
+
+	artisans = {
+		culture = shtokavian
+		religion = orthodox
+		size = 1500
+	}
+
+	soldiers = {
+		culture = shtokavian
+		religion = orthodox
+		size = 350
+	}
+
+	farmers = {
+		culture = shtokavian
+		religion = orthodox
+		size = 9000
+	}
+	
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 2000     
+	}
+}
+
 #Orsova (376000/94000 POPS) #part of Romania today
 653 = {
 	clergymen = {
@@ -2421,7 +2557,7 @@
 	}
 	
 	farmers = {
-		culture = tatar
+		culture = crimean_tatar
 		religion = sunni
 		size = 18000
 	}
@@ -2498,13 +2634,13 @@
 	}
 	
 	farmers = {
-		culture = tatar
+		culture = crimean_tatar
 		religion = sunni
 		size = 6000
 	}
 	
 	slaves = {
-		culture = tatar
+		culture = crimean_tatar
 		religion = orthodox
 		size = 2000
 	}
@@ -2582,43 +2718,43 @@
 	}
 
 	aristocrats = {
-		culture = tatar
+		culture = crimean_tatar
 		religion = sunni
 		size = 650
 	}
 
 	bureaucrats = {
-		culture = tatar
+		culture = crimean_tatar
 		religion = sunni
 		size = 75
 	}
 
 	officers = {
-		culture = tatar
+		culture = crimean_tatar
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = tatar
+		culture = crimean_tatar
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = tatar
+		culture = crimean_tatar
 		religion = sunni
 		size = 1100
 	}
 
 	soldiers = {
-		culture = tatar
+		culture = crimean_tatar
 		religion = sunni
 		size = 1100
 	}
 
 	farmers = {
-		culture = tatar
+		culture = crimean_tatar
 		religion = sunni
 		size = 13500
 	}
@@ -2657,37 +2793,37 @@
 	}
 	
 	slaves = {
-		culture = tatar
+		culture = crimean_tatar
 		religion = orthodox
 		size = 1100
 	}
 
 	aristocrats = {
-		culture = tatar
+		culture = crimean_tatar
 		religion = sunni
 		size = 150 
 	}
 
 	clergymen = {
-		culture = tatar
+		culture = crimean_tatar
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = tatar
+		culture = crimean_tatar
 		religion = sunni
 		size = 200 
 	}
 
 	soldiers = {
-		culture = tatar
+		culture = crimean_tatar
 		religion = sunni
 		size = 1100
 	}
 
 	farmers = {
-		culture = tatar
+		culture = crimean_tatar
 		religion = sunni
 		size = 9600 
 	}

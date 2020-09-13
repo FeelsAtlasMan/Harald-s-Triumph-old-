@@ -343,13 +343,17 @@ BOH_631 = { 631 632 }
 
 AUS_633 = { 633 634 635 636 637 638 950 } #Slovakia
 
-AUS_641 = { 641 645 646 648 649 650 } #Central Hungary
+AUS_641 = { 641 645 646 } #Central Hungary
 
-AUS_652 = { 652 653 } #Banat
+AUS_652 = { 652 653 3300 } #Temes-Arad
 
-AUS_654 = { 654 661 651 2533 660 } #Northern Transylvania
+AUS_3301 = { 3301 3302 3303 } #Jaszsag
 
-AUS_657 = { 657 659 647 655 656 } #Southern Transylvania
+AUS_647 = { 647 651 648 650 649 } #Partium
+
+AUS_654 = { 654 661 2533 660 } #Northern Transylvania
+
+AUS_657 = { 657 659 655 656 } #Southern Transylvania
 
 AUS_702 = { 703 704 705 714 } #Galicia-Lodomeria
 
@@ -407,13 +411,15 @@ TUR_674 = { 674 675 818 } #Dobrudja
 
 MOL_676 = { 676 677 678 } #Bessarabia
 
-TUR_788 = { 783 787 789 788 786 785 784 } #Bosnia
+TUR_788 = { 783 787 788 786 } #Bosnia
 
-SER_794 = { 794 797 795 796 } #Northern Serbia
+CRO_784 = { 784 785 789 3299 } #Krajina
+
+SER_794 = { 794 797 795 796 804 3304 } #Northern Serbia
 
 MON_2582 = { 2583 2569 2577 800 2582 } #Montenegro
 
-TUR_803 = { 803 804 798 802 799 } #Southern Serbia
+TUR_803 = { 803 798 802 799 } #Southern Serbia
 
 TUR_805 = { 805 819 820 821 822 } #Southern Macedonia
 

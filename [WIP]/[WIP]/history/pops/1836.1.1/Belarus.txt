@@ -42,7 +42,7 @@
 	farmers = {
 		culture = ukrainian
 		religion = orthodox
-		size = 30025
+		size = 15025
 	}
 
 	aristocrats = {
@@ -82,27 +82,27 @@
 	}
 
 	clergymen = {
-		culture = ukrainian
+		culture = lithuanian
 		religion = catholic
 		size = 125
 	}
 
 	artisans = {
-		culture = ukrainian
+		culture = lithuanian
 		religion = catholic
 		size = 700
 	}
 
 	soldiers = {
-		culture = ukrainian
+		culture = lithuanian
 		religion = catholic
 		size = 150
 	}
 
 	farmers = {
-		culture = ukrainian
+		culture = lithuanian
 		religion = catholic
-		size = 13025
+		size = 28025
 	}
 
 	clergymen = {
@@ -282,13 +282,13 @@
 	}
 
 	soldiers = {
-		culture = tatar
+		culture = crimean_tatar
 		religion = sunni
 		size = 300
 	}
 
 	farmers = {
-		culture = tatar
+		culture = crimean_tatar
 		religion = sunni
 		size = 1500
 	}

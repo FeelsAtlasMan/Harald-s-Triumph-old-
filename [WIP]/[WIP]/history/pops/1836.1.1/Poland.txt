@@ -83,87 +83,93 @@
 #Kolberg (160000/40000 POPS) #Part of Poland since 1945
 679 = {
 	aristocrats = {
-		culture = western_slavic
+		culture = kashubian
 		religion = protestant
 		size = 350 
 	}
 
 	clergymen = {
-		culture = western_slavic
+		culture = kashubian
 		religion = protestant
 		size = 375
 	}
 
 	artisans = {
-		culture = western_slavic
+		culture = kashubian
 		religion = protestant
 		size = 1900
 	}
 
 	soldiers = {
-		culture = western_slavic
+		culture = kashubian
 		religion = protestant
 		size = 1000
 	}
 
 	farmers = {
+		culture = kashubian
+		religion = protestant
+		size = 20375
+	}
+	
+	aristocrats = {
 		culture = western_slavic
 		religion = protestant
-		size = 34375
+		size = 50 
 	}
 
 	clergymen = {
 		culture = western_slavic
 		religion = protestant
-		size = 50   
+		size = 550   
 	}
 
 	artisans = {
 		culture = western_slavic
 		religion = protestant
-		size = 100
+		size = 2100
 	}
 
 	soldiers = {
 		culture = western_slavic
 		religion = protestant
-		size = 25     
+		size = 525     
 	}
 
 	farmers = {
 		culture = western_slavic
 		religion = protestant
-		size = 1825    
+		size = 11825    
 	}
 }
 #Koslin (160000/40000 POPS) #Part of Poland since 1945
 680 = {
 	aristocrats = {
-		culture = western_slavic
+		culture = kashubian
 		religion = protestant
 		size = 250 
 	}
 
 	clergymen = {
-		culture = western_slavic
+		culture = kashubian
 		religion = protestant
 		size = 250 
 	}
 
 	artisans = {
-		culture = western_slavic
+		culture = kashubian
 		religion = protestant
 		size = 1350
 	}
 
 	soldiers = {
-		culture = western_slavic
+		culture = kashubian
 		religion = protestant
 		size = 1000
 	}
 
 	farmers = {
-		culture = western_slavic
+		culture = kashubian
 		religion = protestant
 		size = 24150
 	}
@@ -193,25 +199,25 @@
 	}
 
 	clergymen = {
-		culture = western_slavic
+		culture = north_german
 		religion = protestant
 		size = 50   
 	}
 
 	artisans = {
-		culture = western_slavic
+		culture = north_german
 		religion = protestant
 		size = 100
 	}
 
 	soldiers = {
-		culture = western_slavic
+		culture = north_german
 		religion = protestant
 		size = 25     
 	}
 
 	farmers = {
-		culture = western_slavic
+		culture = north_german
 		religion = protestant
 		size = 3825   
 	}
@@ -247,7 +253,13 @@
 	farmers = {
 		culture = western_slavic
 		religion = protestant
-		size = 46425
+		size = 24000
+	}
+	
+	farmers = {
+		culture = sorbian
+		religion = protestant
+		size = 12425
 	}
 
 	farmers = {
@@ -269,7 +281,7 @@
 	aristocrats = {
 		culture = czech
 		religion = protestant
-		size = 3750
+		size = 2750
 	}
 
 	bureaucrats = {
@@ -293,7 +305,7 @@
 	clergymen = {
 		culture = czech
 		religion = protestant
-		size = 1750 
+		size = 1050 
 	}
 
 	clerks = {
@@ -305,13 +317,13 @@
 	craftsmen = {
 		culture = czech
 		religion = protestant
-		size = 8500
+		size = 4000
 	}
 
 	artisans = {
 		culture = czech
 		religion = protestant
-		size = 11785
+		size = 8785
 	}
 
 	soldiers = {
@@ -323,19 +335,25 @@
 	farmers = {
 		culture = czech
 		religion = protestant
-		size = 147280
+		size = 57280
 	}
 
 	clergymen = {
 		culture = silesian
 		religion = catholic
-		size = 175
+		size = 875
+	}
+	
+	craftsmen = {
+		culture = silesian
+		religion = catholic
+		size = 3500
 	}
 
 	artisans = {
 		culture = silesian
 		religion = catholic
-		size = 900
+		size = 3900
 	}
 
 	soldiers = {
@@ -347,7 +365,7 @@
 	farmers = {
 		culture = silesian
 		religion = catholic
-		size = 15925
+		size = 40925
 	}
 
 	clergymen = {
@@ -388,26 +406,26 @@
 
 	clergymen = {
 		culture = silesian
-		religion = catholic
+		religion = protestant
 		size = 350
 	}
 
 	artisans = {
 		culture = silesian
-		religion = catholic
+		religion = protestant
 		size = 1750
 	}
 
 	soldiers = {
 		culture = silesian
-		religion = catholic
+		religion = protestant
 		size = 1000
 	}
 
 	farmers = {
 		culture = silesian
-		religion = catholic
-		size = 31900 
+		religion = protestant
+		size = 41900 
 	}
 }
 #Liegnitz (484000/121000 POPS) 
@@ -439,7 +457,7 @@
 	farmers = {
 		culture = czech
 		religion = protestant
-		size = 99900
+		size = 50900
 	}
 
 	craftsmen = {
@@ -469,54 +487,54 @@
 	farmers = {
 		culture = silesian
 		religion = catholic
-		size = 3675 
+		size = 32675 
 	}
 
 	clergymen = {
 		culture = silesian
-		religion = catholic
+		religion = protestant
 		size = 85
 	}
 
 	artisans = {
 		culture = silesian
-		religion = catholic
+		religion = protestant
 		size = 250
 	}
 
 	soldiers = {
 		culture = silesian
-		religion = catholic
+		religion = protestant
 		size = 50 
 	}
 
 	farmers = {
 		culture = silesian
-		religion = catholic
+		religion = protestant
 		size = 4615 
 	}
 
 	clergymen = {
-		culture = silesian
-		religion = catholic
+		culture = swiss_german
+		religion = protestant
 		size = 15 
 	}
 
 	artisans = {
-		culture = silesian
-		religion = catholic
+		culture = swiss_german
+		religion = protestant
 		size = 50
 	}
 
 	soldiers = {
-		culture = silesian
-		religion = catholic
+		culture = swiss_german
+		religion = protestant
 		size = 10 
 	}
 
 	farmers = {
-		culture = silesian
-		religion = catholic
+		culture = swiss_german
+		religion = protestant
 		size = 925 
 	}
 }
@@ -826,48 +844,48 @@
 #Danzig (76000/19000 POPS) 
 690 = {
 	aristocrats = {
-		culture = western_slavic
+		culture = kashubian
 		religion = protestant
 		size = 50
 	}
 
 	bureaucrats = {
-		culture = western_slavic
+		culture = kashubian
 		religion = protestant
 		size = 375
 	}
 
 	officers = {
-		culture = western_slavic
+		culture = kashubian
 		religion = protestant
 		size = 200 
 	}
 
 	clergymen = {
-		culture = western_slavic
+		culture = kashubian
 		religion = protestant
 		size = 75  
 	}
 
 	artisans = {
-		culture = western_slavic
+		culture = kashubian
 		religion = protestant
 		size = 9500
 	}
 
 	soldiers = {
-		culture = western_slavic
+		culture = kashubian
 		religion = protestant
 		size = 125  
 	}
 
 	farmers = {
-		culture = western_slavic
+		culture = kashubian
 		religion = protestant
 		size = 1100
 	}
 	
-		farmers = {
+	farmers = {
 		culture = north_german
 		religion = protestant
 		size = 275
@@ -912,37 +930,37 @@
 #Tuchel (180000/45000 POPS) 
 691 = {
 	aristocrats = {
-		culture = western_slavic
+		culture = kashubian
 		religion = protestant
 		size = 800
 	}
 
 	clergymen = {
-		culture = western_slavic
+		culture = kashubian
 		religion = protestant
 		size = 250  
 	}
 
 	soldiers = {
-		culture = western_slavic
+		culture = kashubian
 		religion = protestant
 		size = 375
 	}
 
 	farmers = {
-		culture = western_slavic
+		culture = kashubian
 		religion = protestant
 		size = 23825
 	}
 
 		clergymen = {
-		culture = western_slavic
+		culture = kashubian
 		religion = protestant
 		size = 50  
 	}
 
 	farmers = {
-		culture = western_slavic
+		culture = kashubian
 		religion = protestant
 		size = 3200
 	}
@@ -998,31 +1016,31 @@
 #Deutsche Krone (128000/32000 POPS) 
 692 = {
 	aristocrats = {
-		culture = western_slavic
+		culture = kashubian
 		religion = protestant
 		size = 625
 	}
 
 	clergymen = {
-		culture = western_slavic
+		culture = kashubian
 		religion = protestant
 		size = 175  
 	}
 
 	artisans = {
-		culture = western_slavic
+		culture = kashubian
 		religion = protestant
 		size = 1250
 	}
 
 	soldiers = {
-		culture = western_slavic
+		culture = kashubian
 		religion = protestant
 		size = 1000
 	}
 
 	farmers = {
-		culture = western_slavic
+		culture = kashubian
 		religion = protestant
 		size = 25950
 	}
@@ -3325,7 +3343,7 @@
 	}
 
 	farmers = {
-		culture = tatar
+		culture = crimean_tatar
 		religion = sunni
 		size = 3400
 	}

@@ -60,6 +60,10 @@ ERF             ="countries/Erfurt.txt"
 NAP 		    ="countries/Naples.txt"
 KNI 		    ="countries/Knights.txt"
 CMN		        ="countries/Kunsag.txt"
+SLA		        ="countries/Slavonia.txt"
+BCR		        ="countries/BanCroatia.txt"
+BBO		        ="countries/Bosnia.txt"
+BSV		        ="countries/Severin.txt"
 
 ##HFM New Nations
 #ATB	= "countries/Saxe-Altenburg.txt"

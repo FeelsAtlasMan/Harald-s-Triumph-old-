@@ -3,6 +3,5 @@ controller = HUN
 add_core = SER
 add_core = BAN
 add_core = HUN
-add_core = SIE
 trade_goods = grain
 life_rating = 35

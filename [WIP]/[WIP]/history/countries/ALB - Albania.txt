@@ -1,6 +1,7 @@
 capital = 849
 primary_culture = albanian
-religion = sunni
+culture = tosk
+religion = orthodox
 government = absolute_monarchy
 plurality = 0.4
 nationalvalue = nv_order

@@ -33,31 +33,31 @@
 	}
 
 	aristocrats = {
-		culture = tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 75
 	}
 
 	clergymen = {
-		culture = tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 200
 	}
 
 	soldiers = {
-		culture = tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 3625
 	}
@@ -95,7 +95,7 @@
 	}
 	
 	farmers = {
-		culture = tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 3000
 	}
@@ -127,31 +127,31 @@
 	}
 
 	aristocrats = {
-		culture = tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
-		culture = tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 25
 	}
 
 	artisans = {
-		culture = tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 100
 	}
 
 	soldiers = {
-		culture = tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 1825
 	}
@@ -225,31 +225,31 @@
 #Kokshetau (96000/24000 POPS)
 1184 = {
 	bureaucrats = {
-		culture = tatar
+		culture = sibir_tatar
 		religion = sunni
 		size = 50
 	}
 
 	clergymen = {
-		culture = tatar
+		culture = sibir_tatar
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = tatar
+		culture = sibir_tatar
 		religion = sunni
 		size = 150
 	}
 
 	soldiers = {
-		culture = tatar
+		culture = sibir_tatar
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = tatar
+		culture = sibir_tatar
 		religion = sunni
 		size = 2700
 	}
@@ -421,7 +421,7 @@
 	}
 	
 	farmers = {
-		culture = tatar
+		culture = sibir_tatar
 		religion = sunni
 		size = 500
 	}

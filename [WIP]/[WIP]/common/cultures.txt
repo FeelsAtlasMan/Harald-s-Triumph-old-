@@ -948,7 +948,7 @@ western_slavic = {
 	unit = AustriaHungaryGC
 	
 	polish = {
-		color = {255 120 120}
+		color = { 210 100 130 }
 		first_names = { Adam Aleksander Antoni Boleslaw Bonawentura Bronislaw Dezydery Edmund Edward Emil
 		Eustachy Felicjan Franciszek Gustaw Henryk Ignacy Jakub Jan Jedrzej Józef
 		Juliusz Karol Kazimierz Klemens Konstanty Lech Leon Leopold Lucjan Ludwik
@@ -962,8 +962,39 @@ western_slavic = {
 		Taczaneowski Traugutt Wawrzecki Wieniawa-Dlugoszowski Wybicki Wysocki Zajaczek Zaluski Zamoyski Zeligowski }
 		radicalism = 10
 	}
+	
 	western_slavic = {
-		color = {147 63 109}
+		color = { 200 120 160 }
+		first_names = { Adam Aleksander Antoni Boleslaw Bonawentura Bronislaw Dezydery Edmund Edward Emil
+		Eustachy Felicjan Franciszek Gustaw Henryk Ignacy Jakub Jan Jedrzej Józef
+		Juliusz Karol Kazimierz Klemens Konstanty Lech Leon Leopold Lucjan Ludwik
+		Maciej Marceli Marian Mariusz Melchior Michal Mieczyslaw Roman Romuald Samuel
+		Stanislaw Stefan Tadeusz Tomasz Waclaw Wilhelm Witold Wladyslaw Wojciech Zygmunt }
+
+		last_names = { Bem Bór-Komorowski Brzóska Chalasinski Chlaposwski Chlopicki Chrzanowski Dabrowski Dembinski Fabryvy
+		Hauke-Boask Iszikowski Jasinski Klicki Konopczynski Krukowiecki Kruszewski Langiewicz Madalinski Mierolawski
+		Mikolajczyk Mokronowski Niepokólczycki Ostrowski Pac Pilsudski Poniatowski Potocki Preadzynski Radziwill
+		Rokossowski Rola-Zymierski Rómmel Rózicky Rybinski Rydz-Smigly Sanguszko Skrzynecki Soltyk Sowinski
+		Taczaneowski Traugutt Wawrzecki Wieniawa-Dlugoszowski Wybicki Wysocki Zajaczek Zaluski Zamoyski Zeligowski }
+	}
+	
+	sorbian = {
+		color = { 160 120 160 }
+		first_names = { Adam Aleksander Antoni Boleslaw Bonawentura Bronislaw Dezydery Edmund Edward Emil
+		Eustachy Felicjan Franciszek Gustaw Henryk Ignacy Jakub Jan Jedrzej Józef
+		Juliusz Karol Kazimierz Klemens Konstanty Lech Leon Leopold Lucjan Ludwik
+		Maciej Marceli Marian Mariusz Melchior Michal Mieczyslaw Roman Romuald Samuel
+		Stanislaw Stefan Tadeusz Tomasz Waclaw Wilhelm Witold Wladyslaw Wojciech Zygmunt }
+
+		last_names = { Bem Bór-Komorowski Brzóska Chalasinski Chlaposwski Chlopicki Chrzanowski Dabrowski Dembinski Fabryvy
+		Hauke-Boask Iszikowski Jasinski Klicki Konopczynski Krukowiecki Kruszewski Langiewicz Madalinski Mierolawski
+		Mikolajczyk Mokronowski Niepokólczycki Ostrowski Pac Pilsudski Poniatowski Potocki Preadzynski Radziwill
+		Rokossowski Rola-Zymierski Rómmel Rózicky Rybinski Rydz-Smigly Sanguszko Skrzynecki Soltyk Sowinski
+		Taczaneowski Traugutt Wawrzecki Wieniawa-Dlugoszowski Wybicki Wysocki Zajaczek Zaluski Zamoyski Zeligowski }
+	}
+	
+	kashubian = {
+		color = { 170 90 130 }
 		first_names = { Adam Aleksander Antoni Boleslaw Bonawentura Bronislaw Dezydery Edmund Edward Emil
 		Eustachy Felicjan Franciszek Gustaw Henryk Ignacy Jakub Jan Jedrzej Józef
 		Juliusz Karol Kazimierz Klemens Konstanty Lech Leon Leopold Lucjan Ludwik
@@ -994,7 +1025,7 @@ western_slavic = {
 	}
 	
 	silesian = {
-		color = { 255 120 255}
+		color = { 180 90 110 }
 		first_names = { Abraham Alexander Alfred Alois Antonín August Bedrich Benedikt Borivoj
 		Cenek Dávid Drahoslav Edvard Emanuel Emil Evzen Frantisek "Frantisek Josef" "Frantisek Xaver"
 		Hermenegild Ján "Ján Krtitel" "Ján Nepomuk" Jaroslav Jindrich Jirí Josef Kajetan Karel
@@ -1010,7 +1041,7 @@ western_slavic = {
 	}
 	
 	slovak = {
-		color = {120 255 255}
+		color = { 100 100 205}
 		first_names = { Albín Alexander András Andrej Augustín Basil Cyprián Dalibor Dezider Dominik
 		Eugen Fedor Ferdinand Frantisek Frico Gabriel Gustáv Imrich Jáchym Ján
 		Janko Jozef Juraj Karol Ladislav Levoslav Marián Marko Martin Matej
@@ -1041,6 +1072,21 @@ east_slavic = {
 						  Nikolaevich Ostrovsky Pavlov Putyatin Romanov Rozhestvensky Skobelev 
 						  Shuvalov Surkov Tukhachevsky Yegorov Yudenich Vorontsov Voroshilov Zavoyko }
 	}
+	
+	novgorodian = {
+		color = {35 105 45}
+		   first_names = { Aleksandr Alexei Andrei Anton Boris Dmitry Fyodor Gennady 
+						 Giorgi Grigoriy Igor Ivan Kirill Konstantin Lavr Leonid Lev Maxim 
+						 Mikhail Nikita Nikolai Oleg Pavel Pyotr Roman Semyon Sergei 
+						 Valery Vasily Viktor Vladimir Vladislav Yegor Yevgeny Yuri }
+
+		   last_names = { Alexseyev Antonov Azarov Badanov Brusilov Budyonny Chibisov Denikin 
+						  Dragomirov Frolov Golivin Grishin Gurko Ivanov Konev Konstantinov Kornilov 
+						  Kolchak Kuropatkin Lazarev Makarov Menshikov Nakhimov Nebogatov 
+						  Nikolaevich Ostrovsky Pavlov Putyatin Romanov Rozhestvensky Skobelev 
+						  Shuvalov Surkov Tukhachevsky Yegorov Yudenich Vorontsov Voroshilov Zavoyko }
+	}
+	
 	byelorussian = {
 		color = {100 140 110}
 			first_names = { Alaksandr Alexei Andrei Anton Boris Cyril Danya Dz'mitry Giorgi 
@@ -1053,7 +1099,7 @@ east_slavic = {
 						   Tukhachevsky Yegorov Vorontsov Zhauryd }
         }
 	ukrainian = {
-		color = {160 160 60}
+		color = {70 140 80}
 			first_names = { Alexei Andrei Anton Arkadiy Borys Dmitro Fyodor Hryhoriy Ivan Lavr Leonid Lev 
 							 Mikhail Mykola Nikita  Oleksandr Pavel Petro Roman Semyon Sergiy Valeriy 
 							 Viktor Volodimir Vladislav Yuriy }
@@ -1642,32 +1688,10 @@ iranian_turanian = {
 	}
 }
 
-kipchak_karluk = {
+karluk = {
     leader = arab
 	is_overseas = no
 	unit = MiddleEasternGC
-	tatar = {
-		color = {45 87 99}
-		first_names = {
-			Asaf Baqi Galiaskar Ismail Makhmut  Musa Rustam Yusuf
-		}
-		last_names = {
-			Amirkhanov Faysi Gizzat Ibragimov Kamal Khusainov Tinchurin Tukay Yanbayev
-		}
-		radicalism = 10
-	}
-	
-	cuman = {
-		color = {245 247 199}
-		first_names = {
-			Asaf Baqi Galiaskar Ismail Makhmut  Musa Rustam Yusuf
-		}
-		last_names = {
-			Amirkhanov Faysi Gizzat Ibragimov Kamal Khusainov Tinchurin Tukay Yanbayev
-		}
-		radicalism = 10
-	}
-	
 	uighur = {
 		color = {92 96 168}
 		first_names = { 
@@ -1690,8 +1714,29 @@ kipchak_karluk = {
 			}
 	}
 	
+	sart = {
+		color = {52 97 76}
+		first_names = {
+			Abbas Abolghasem Abdolhossein Abdolsamad Abdolazim Ahmad Ali Bahram
+			Ebrahim Esmail "Fath Ali" Fazlollah Hamzeh Hasan Hossein Kamran Karim "Lotf Ali" 
+			Mahmoud Massoud Mohammad "Moin ed-Din" "Mozzafer ed-Din" Murad Muhsin 
+			"Naser ed-Din" Nosret Reza
+			}
+		last_names = {
+			Airom Ansari Ayrum Buzarjomehri Davallu Esfahani Farhani 
+			Jahanbani Kashani Khan Khuzai
+			Meshhedi Nakhchevani Pesyan Rokni Shafaei Shahbakhti 
+			Shirazi Tabrizi Tahmasebi Zahedi
+			}
+	}
+} 
+
+kipchak = {
+    leader = arab
+	is_overseas = no
+	unit = MiddleEasternGC
 	kazak = {
-		color = {83 102 46}
+		color = {80 100 45}
 		first_names = {
 			Ablai "Abu al-Khayr" Aryn Bukei Chokan 
 			Dulat Ibirai Isatai Ishim Jangir Kenisary 
@@ -1713,7 +1758,63 @@ kipchak_karluk = {
 			Beg 
 			}
 	}
-} 
+	
+	crimean_tatar = {
+		color = { 190 180 125 }
+		first_names = {
+			Asaf Baqi Galiaskar Ismail Makhmut  Musa Rustam Yusuf
+		}
+		last_names = {
+			Amirkhanov Faysi Gizzat Ibragimov Kamal Khusainov Tinchurin Tukay Yanbayev
+		}
+		radicalism = 10
+	}
+	
+	bulgar_tatar = {
+		color = {120 110 55}
+		first_names = {
+			Asaf Baqi Galiaskar Ismail Makhmut  Musa Rustam Yusuf
+		}
+		last_names = {
+			Amirkhanov Faysi Gizzat Ibragimov Kamal Khusainov Tinchurin Tukay Yanbayev
+		}
+		radicalism = 10
+	}
+	
+	astrakhan_tatar = {
+		color = {155 145 90}
+		first_names = {
+			Asaf Baqi Galiaskar Ismail Makhmut  Musa Rustam Yusuf
+		}
+		last_names = {
+			Amirkhanov Faysi Gizzat Ibragimov Kamal Khusainov Tinchurin Tukay Yanbayev
+		}
+		radicalism = 10
+	}
+	
+	sibir_tatar = {
+		color = {85 75 20}
+		first_names = {
+			Asaf Baqi Galiaskar Ismail Makhmut  Musa Rustam Yusuf
+		}
+		last_names = {
+			Amirkhanov Faysi Gizzat Ibragimov Kamal Khusainov Tinchurin Tukay Yanbayev
+		}
+		radicalism = 10
+	}
+	
+	cuman = {
+		color = {245 247 199}
+		first_names = {
+			Asaf Baqi Galiaskar Ismail Makhmut  Musa Rustam Yusuf
+		}
+		last_names = {
+			Amirkhanov Faysi Gizzat Ibragimov Kamal Khusainov Tinchurin Tukay Yanbayev
+		}
+		radicalism = 10
+	}
+	
+}
 
 central_asian = {
 	leader = asian
@@ -1742,6 +1843,16 @@ central_asian = {
 
 	yakut = {
 		color = {95 87 32}
+		first_names = { 
+			Aysen Nyurgun Elley Aytal Manchaary
+		}
+		last_names = { 
+              Okhlopkov Shishigin Shtyrov Ondar Sivtsev 
+		}
+	}
+	
+	altai_tuvan = {
+		color = {105 107 62}
 		first_names = { 
 			Aysen Nyurgun Elley Aytal Manchaary
 		}

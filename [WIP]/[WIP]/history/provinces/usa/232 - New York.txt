@@ -6,3 +6,4 @@ terrain = newyork
 railroad = 1
 fort = 1
 naval_base = 1
+colonial = 2

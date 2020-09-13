@@ -3972,49 +3972,49 @@
 #Corsica (210000/52500 POPS)
 473 = {
 	aristocrats = {
-		culture = north_italian
+		culture = tuscan
 		religion = catholic
 		size = 400
 	}
 
 	aristocrats = {
-		culture = north_italian
+		culture = tuscan
 		religion = catholic
 		size = 150
 	}
 
 	officers = {
-		culture = north_italian
+		culture = tuscan
 		religion = catholic
 		size = 50
 	}
 
 	bureaucrats = {
-		culture = north_italian
+		culture = tuscan
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = north_italian
+		culture = tuscan
 		religion = catholic
 		size = 200
 	}
 
 	artisans = {
-		culture = north_italian
+		culture = tuscan
 		religion = catholic
 		size = 1500
 	}
 
 	artisans = {
-		culture = north_italian
+		culture = tuscan
 		religion = catholic
 		size = 1100
 	}
 
 	soldiers = {
-		culture = north_italian
+		culture = tuscan
 		religion = catholic
 		size = 1100
 	}
@@ -4026,7 +4026,7 @@
 	}
 
 	farmers = {
-		culture = north_italian
+		culture = tuscan
 		religion = catholic
 		size = 43300
 	}

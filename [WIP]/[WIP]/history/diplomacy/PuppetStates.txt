@@ -64,6 +64,42 @@ substate = {
 	end_date = 1937.1.1
 }
 
+#Slavic Bans
+vassal = {
+	first = HUN
+	second = BBO
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = HUN
+	second = SER
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = HUN
+	second = BSV
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+substate = {
+	first = HUN
+	second = SLA
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+substate = {
+	first = HUN
+	second = BCR
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
 #East Coast Company and Hudson Bay Company
 vassal = {
 	first = NRD

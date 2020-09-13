@@ -140,6 +140,101 @@
 		size = 2000
 	}
 }
+
+#Trevnik (148000/37000 POPS)
+3299 = {
+	
+	aristocrats = {
+		culture = shtokavian
+		religion = orthodox
+		size = 100
+	}
+	
+	officers = {
+		culture = shtokavian
+		religion = orthodox
+		size = 100
+	}
+		
+	soldiers = {
+		culture = shtokavian
+		religion = orthodox
+		size = 250
+	}
+
+	clergymen = {
+		culture = shtokavian
+		religion = orthodox
+		size = 100
+	}
+
+	artisans = {
+		culture = shtokavian
+		religion = orthodox
+		size = 4750
+	}
+
+	farmers = {
+		culture = shtokavian
+		religion = orthodox
+		size = 24000
+	}
+	
+	aristocrats = {
+		culture = shtokavian
+		religion = catholic
+		size = 100
+	}
+	
+	officers = {
+		culture = shtokavian
+		religion = catholic
+		size = 100
+	}
+	
+	soldiers = {
+		culture = shtokavian
+		religion = catholic
+		size = 200
+	}
+
+	clergymen = {
+		culture = shtokavian
+		religion = catholic
+		size = 100
+	}
+
+	artisans = {
+		culture = shtokavian
+		religion = catholic
+		size = 4750
+	}
+
+	farmers = {
+		culture = shtokavian
+		religion = catholic
+		size = 11450
+	}
+	
+	soldiers = {
+		culture = shtokavian
+		religion = catholic
+		size = 1250
+	}
+	
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 25
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 2000
+	}
+}
+
 #Bihac (100000/25000 POPS)
 784 = {
 	aristocrats = {

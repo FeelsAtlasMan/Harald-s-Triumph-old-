@@ -1,6 +1,6 @@
-owner = HUN
-controller = HUN
-add_core = CRO
+owner = BCR
+controller = BCR
+add_core = BCR
 add_core = HUN
 trade_goods = iron
 life_rating = 35

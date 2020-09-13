@@ -1,0 +1,8 @@
+owner = RYA
+controller = RYA
+add_core = RUS
+add_core = RYA
+add_core = TAR
+add_core = CRI
+trade_goods = coal
+life_rating = 35

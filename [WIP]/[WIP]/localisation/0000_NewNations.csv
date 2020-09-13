@@ -292,8 +292,8 @@ BSQ_prussian_constitutionalism;Navarra;;;;;;;;;;;;x
 BSQ_ADJ;Basque;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 UBD;Svenska Baltiska Stater;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 UBD_ADJ;Baltic;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-MNG;Ming Empire;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-MNG_ADJ;Baltic;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+MNG;Ming;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+MNG_ADJ;Chinese;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 MAH;Marathi Empire;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 MAH_ADJ;Marathi Empire;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 PNJ;Punjab;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
@@ -312,3 +312,12 @@ KNI;The Knights;;;;;;;;;;;;x
 KNI_ADJ;Knights';;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 CMN;Kunság;;;;;;;;;;;;x
 CMN_ADJ;Cuman;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+YNN;Im a placeholder;;;;;;;;;;;;x
+BSV;Severin;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+BSV_ADJ;Severinian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+BBO;Bosnia;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+BBO_ADJ;Bosnian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+BCR;Croatia;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+BCR_ADJ;Croatian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+SLA;Slavonia;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+SLA_ADJ;Slavonian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;

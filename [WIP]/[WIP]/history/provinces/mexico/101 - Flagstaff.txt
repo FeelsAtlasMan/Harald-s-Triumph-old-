@@ -4,4 +4,4 @@ add_core = FDA
 add_core = UNM
 trade_goods = iron
 life_rating = 35
-
+colonial = 2
