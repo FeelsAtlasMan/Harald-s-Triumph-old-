@@ -1,5 +1,6 @@
-owner = SIA
-controller = SIA
+owner = CHK
+controller = CHK
+add_core = CHK
 add_core = SIA
 add_core = WIA
 trade_goods = grain

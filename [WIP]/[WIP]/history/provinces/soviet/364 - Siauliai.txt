@@ -1,6 +1,5 @@
-owner = LIT
-controller = LIT
-add_core = LIT
-add_core = UBD
+owner = SMG
+controller = SMG
+add_core = SMG
 trade_goods = cattle
 life_rating = 35

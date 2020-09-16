@@ -64,6 +64,10 @@ SLA		        ="countries/Slavonia.txt"
 BCR		        ="countries/BanCroatia.txt"
 BBO		        ="countries/Bosnia.txt"
 BSV		        ="countries/Severin.txt"
+ABB		        ="countries/Abbasid.txt"
+LIH		        ="countries/Aukstaitia.txt"
+SMG		        ="countries/Samogitia.txt"
+CUR		        ="countries/Courland.txt"
 
 ##HFM New Nations
 #ATB	= "countries/Saxe-Altenburg.txt"

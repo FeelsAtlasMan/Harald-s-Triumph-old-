@@ -1,6 +1,5 @@
-owner = BNG
-controller = BNG
-add_core = BNG
+owner = ASM
+controller = ASM
 add_core = ASM
 trade_goods = grain
 life_rating = 35

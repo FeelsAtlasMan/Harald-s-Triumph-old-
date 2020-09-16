@@ -1,6 +1,6 @@
 #Laos Region (700000) 
 #under the rule of Luang Prabang in 1836  
-#Luang Prabang (240000/60000 POPS) #asian_minor = hmong/montagnard  
+#Luang Prabang (240000/60000 POPS) #miao = hmong/montagnard  
 1356 = {
 	aristocrats = {
 		culture = lao
@@ -45,37 +45,37 @@
 	}
 
 	aristocrats = {
-		culture = asian_minor
+		culture = miao
 		religion = animist
 		size = 300
 	}
 
 	clergymen = {
-		culture = asian_minor
+		culture = miao
 		religion = animist
 		size = 150
 	}
 
 	artisans = {
-		culture = asian_minor
+		culture = miao
 		religion = animist
 		size = 800
 	}
 
 	soldiers = {
-		culture = asian_minor
+		culture = miao
 		religion = animist
 		size = 175
 	}
 
 	farmers = {
-		culture = asian_minor
+		culture = miao
 		religion = animist
 		size = 10575
 	}
 	
 	slaves = {
-		culture = asian_minor
+		culture = miao
 		religion = animist
 		size = 6000
 	}
@@ -113,37 +113,37 @@
 	}
 
 	aristocrats = {
-		culture = asian_minor
+		culture = miao
 		religion = animist
 		size = 125
 	}
 
 	clergymen = {
-		culture = asian_minor
+		culture = miao
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = asian_minor
+		culture = miao
 		religion = animist
 		size = 350
 	}
 
 	soldiers = {
-		culture = asian_minor
+		culture = miao
 		religion = animist
 		size = 75
 	}
 
 	farmers = {
-		culture = asian_minor
+		culture = miao
 		religion = animist
 		size = 3375
 	}
 
 	slaves = {
-		culture = asian_minor
+		culture = miao
 		religion = animist
 		size = 3000
 	}
@@ -181,32 +181,32 @@
 	}
 
 	aristocrats = {
-		culture = asian_minor
-		religion = animist
+		culture = champa
+		religion = hindu
 		size = 100
 	}
 
 	clergymen = {
-		culture = asian_minor
-		religion = animist
+		culture = champa
+		religion = hindu
 		size = 50
 	}
 
 	artisans = {
-		culture = asian_minor
-		religion = animist
+		culture = champa
+		religion = hindu
 		size = 250
 	}
 
 	soldiers = {
-		culture = asian_minor
-		religion = animist
+		culture = champa
+		religion = hindu
 		size = 50
 	}
 
 	farmers = {
-		culture = asian_minor
-		religion = animist
+		culture = champa
+		religion = hindu
 		size = 4550
 	}
 }
@@ -239,42 +239,42 @@
 	farmers = {
 		culture = lao
 		religion = theravada
-		size = 21096
+		size = 16096
 	}
 
 	aristocrats = {
-		culture = asian_minor
-		religion = animist
+		culture = champa
+		religion = hindu
 		size = 325
 	}
 
 	clergymen = {
-		culture = asian_minor
-		religion = animist
+		culture = champa
+		religion = hindu
 		size = 175
 	}
 
 	artisans = {
-		culture = asian_minor
-		religion = animist
+		culture = champa
+		religion = hindu
 		size = 900
 	}
 
 	soldiers = {
-		culture = asian_minor
-		religion = animist
+		culture = champa
+		religion = hindu
 		size = 175
 	}
 
 	farmers = {
-		culture = asian_minor
-		religion = animist
-		size = 11425
+		culture = champa
+		religion = hindu
+		size = 16425
 	}
 
 	slaves = {
-		culture = asian_minor
-		religion = animist
+		culture = champa
+		religion = hindu
 		size = 5000
 	}
 }

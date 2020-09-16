@@ -1,6 +1,6 @@
-owner = YNN
-controller = YNN
+owner = GNG
+controller = GNG
 add_core = CHI
-add_core = YNN
+add_core = GNG
 trade_goods = grain
 life_rating = 32

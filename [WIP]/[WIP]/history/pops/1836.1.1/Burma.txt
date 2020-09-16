@@ -33,25 +33,25 @@
 	}
 
 	aristocrats = {
-		culture = asian_minor #Mon
+		culture = mon #Mon
 		religion = theravada
 		size = 100
 	}
 
 	clergymen = {
-		culture = asian_minor
+		culture = mon
 		religion = theravada
 		size = 150
 	}
 
 	artisans = {
-		culture = asian_minor
+		culture = mon
 		religion = theravada
 		size = 1100
 	}
 
 	soldiers = {
-		culture = asian_minor
+		culture = mon
 		religion = theravada
 		size = 150
 	}
@@ -131,25 +131,25 @@
 	}
 
 	aristocrats = {
-		culture = asian_minor #Mon
+		culture = mon #Mon
 		religion = theravada
 		size = 25
 	}
 
 	clergymen = {
-		culture = asian_minor
+		culture = mon
 		religion = theravada
 		size = 75
 	}
 
 	artisans = {
-		culture = asian_minor
+		culture = mon
 		religion = theravada
 		size = 200
 	}
 
 	soldiers = {
-		culture = asian_minor
+		culture = mon
 		religion = theravada
 		size = 50
 	}
@@ -187,25 +187,25 @@
 	}
 
 	aristocrats = {
-		culture = asian_minor #Mon
+		culture = mon #Mon
 		religion = theravada
 		size = 100
 	}
 
 	clergymen = {
-		culture = asian_minor
+		culture = mon
 		religion = theravada
 		size = 150
 	}
 
 	artisans = {
-		culture = asian_minor
+		culture = mon
 		religion = theravada
 		size = 850
 	}
 
 	soldiers = {
-		culture = asian_minor
+		culture = mon
 		religion = theravada
 		size = 150
 	}
@@ -621,8 +621,15 @@
 	farmers = {
 		culture = shan
 		religion = theravada
-		size = 61750
+		size = 40000
 	}
+	
+	farmers = {
+		culture = paulang_wa
+		religion = theravada
+		size = 21750
+	}
+
 
 	aristocrats = {
 		culture = burmese
@@ -701,7 +708,13 @@
 	farmers = {
 		culture = shan
 		religion = theravada
-		size = 46000
+		size = 26000
+	}
+	
+	farmers = {
+		culture = paulang_wa
+		religion = theravada
+		size = 20000
 	}
 
 	aristocrats = {
@@ -800,55 +813,55 @@
 	}
 
 	aristocrats = {
-		culture = asian_minor #Chin
+		culture = shan 
 		religion = animist
 		size = 500
 	}
 
 	clergymen = {
-		culture = asian_minor
+		culture = shan
 		religion = animist
 		size = 500
 	}
 
 	artisans = {
-		culture = asian_minor
+		culture = shan
 		religion = animist
 		size = 3000
 	}
 
 	soldiers = {
-		culture = asian_minor
+		culture = shan
 		religion = animist
 		size = 500
 	}
 
 	aristocrats = {
-		culture = kachin
+		culture = kuki_chin
 		religion = animist
 		size = 75
 	}
 
 	clergymen = {
-		culture = kachin
+		culture = kuki_chin
 		religion = animist
 		size = 350
 	}
 
 	artisans = {
-		culture = kachin
+		culture = kuki_chin
 		religion = animist
 		size = 800
 	}
 
 	soldiers = {
-		culture = kachin
+		culture = kuki_chin
 		religion = animist
 		size = 200
 	}
 
 	farmers = {
-		culture = kachin
+		culture = kuki_chin
 		religion = animist
 		size = 15575
 	}
@@ -882,7 +895,13 @@
 	farmers = {
 		culture = kachin
 		religion = animist
-		size = 49850
+		size = 40000
+	}
+	
+	farmers = {
+		culture = kham
+		religion = theravada
+		size = 9850
 	}
 }
 #Myitkyina (364000/91000 POPS)
@@ -990,7 +1009,7 @@
 	}
 
 	slaves = {
-		culture = asian_minor
+		culture = paulang_wa
 		religion = animist
 		size = 10000
 	}
@@ -1037,25 +1056,25 @@
 	}
 
 	aristocrats = {
-		culture = asian_minor #Mon
+		culture = mon #Mon
 		religion = theravada
 		size = 200
 	}
 
 	clergymen = {
-		culture = asian_minor
+		culture = mon
 		religion = theravada
 		size = 375
 	}
 
 	artisans = {
-		culture = asian_minor
+		culture = mon
 		religion = theravada
 		size = 1375
 	}
 
 	soldiers = {
-		culture = asian_minor
+		culture = mon
 		religion = theravada
 		size = 250
 	}
@@ -1274,13 +1293,13 @@
 	}
 
 	clergymen = { 
-		culture = asian_minor #Chin
+		culture = kuki_chin 
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = asian_minor
+		culture = kuki_chin
 		religion = animist
 		size = 950
 	}

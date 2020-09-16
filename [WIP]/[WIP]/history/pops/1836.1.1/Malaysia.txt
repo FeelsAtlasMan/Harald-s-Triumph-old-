@@ -330,11 +330,17 @@
 	labourers = {
 		culture = malay
 		religion = sunni
-		size = 6375
+		size = 3000
+	}
+	
+	labourers = {
+		culture = aslian
+		religion = sunni
+		size = 3375
 	}
 	
 	slaves = {
-		culture = asian_minor
+		culture = aslian
 		religion = mahayana
 		size = 300
 	}
@@ -374,7 +380,13 @@
 	labourers = {
 		culture = malay
 		religion = sunni
-		size = 30900
+		size = 15000
+	}
+	
+	labourers = {
+		culture = aslian
+		religion = sunni
+		size = 15900
 	}
 
 	clergymen = {
@@ -396,7 +408,7 @@
 	}
 	
 	slaves = {
-		culture = asian_minor
+		culture = aslian
 		religion = mahayana
 		size = 1000
 	}
@@ -594,55 +606,55 @@
 	}
 
 	aristocrats = {
-		culture = asian_minor
+		culture = dayak
 		religion = animist
 		size = 125
 	}
 
 	clergymen = {
-		culture = asian_minor
+		culture = dayak
 		religion = animist
 		size = 100
 	}
 
 	artisans = {
-		culture = asian_minor
+		culture = dayak
 		religion = animist
 		size = 500
 	}
 
 	soldiers = {
-		culture = asian_minor
+		culture = dayak
 		religion = animist
 		size = 125
 	}
 
 	farmers = {
-		culture = asian_minor
+		culture = dayak
 		religion = animist
 		size = 3000
 	}
 	
 	farmers = {
-		culture = asian_minor
+		culture = dayak
 		religion = protestant
 		size = 125
 	}
 	
 	artisans = {
-		culture = asian_minor
+		culture = dayak
 		religion = protestant
 		size = 25
 	}
 	
 	clergymen = {
-		culture = asian_minor
+		culture = dayak
 		religion = protestant
 		size = 10
 	}
 
 	slaves = {
-		culture = asian_minor
+		culture = dayak
 		religion = animist
 		size = 3000
 	}
@@ -698,55 +710,55 @@
 	}
 
 	aristocrats = {
-		culture = asian_minor
+		culture = dayak
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = asian_minor
+		culture = dayak
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = asian_minor
+		culture = dayak
 		religion = animist
 		size = 300
 	}
 
 	soldiers = {
-		culture = asian_minor
+		culture = dayak
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = asian_minor
+		culture = dayak
 		religion = animist
 		size = 3000
 	}
 	
 	slaves = {
-		culture = asian_minor
+		culture = dayak
 		religion = animist
 		size = 2000
 	}
 	
 	farmers = {
-		culture = asian_minor
+		culture = dayak
 		religion = protestant
 		size = 375
 	}
 	
 	artisans = {
-		culture = asian_minor
+		culture = dayak
 		religion = protestant
 		size = 50
 	}
 	
 	clergymen = {
-		culture = asian_minor
+		culture = dayak
 		religion = protestant
 		size = 10
 	}
@@ -754,31 +766,31 @@
 #Api (56000/14000 POPS)
 1396 = {
 	aristocrats = {
-		culture = asian_minor
+		culture = dayak
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = asian_minor
+		culture = dayak
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = asian_minor
+		culture = dayak
 		religion = animist
 		size = 250
 	}
 
 	soldiers = {
-		culture = asian_minor
+		culture = dayak
 		religion = animist
 		size = 75
 	}
 	
 	slaves = {
-		culture = asian_minor
+		culture = dayak
 		religion = animist
 		size = 5000
 	}
@@ -859,37 +871,37 @@
 #Sandakan (40000/10000 POPS)
 1397 = {
 	aristocrats = {
-		culture = asian_minor
+		culture = dayak
 		religion = animist
 		size = 75
 	}
 
 	clergymen = {
-		culture = asian_minor
+		culture = dayak
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = asian_minor
+		culture = dayak
 		religion = animist
 		size = 300
 	}
 
 	soldiers = {
-		culture = asian_minor
+		culture = dayak
 		religion = animist
 		size = 75
 	}
 
 	farmers = {
-		culture = asian_minor
+		culture = dayak
 		religion = animist
 		size = 3475
 	}
 	
 	slaves = {
-		culture = asian_minor
+		culture = dayak
 		religion = animist
 		size = 3000
 	}

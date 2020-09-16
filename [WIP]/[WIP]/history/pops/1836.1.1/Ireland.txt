@@ -3,55 +3,55 @@
 #Belfast (540000/135000 POPs)
 254 = {
 	aristocrats = {
-		culture = british
+		culture = englisk
 		religion = protestant
 		size = 1100
 	}
 
 	officers = {
-		culture = british
+		culture = englisk
 		religion = protestant
 		size = 250
 	}
 
 	bureaucrats = {
-		culture = british
+		culture = englisk
 		religion = protestant
 		size = 1125
 	}
 
 	clergymen = {
-		culture = british
+		culture = norse_gaelic
 		religion = protestant
 		size = 500
 	}
 
 	soldiers = {
-		culture = british
+		culture = norse_gaelic
 		religion = protestant
 		size = 1250
 	}
 
 	artisans = {
-		culture = british
+		culture = norse_gaelic
 		religion = protestant
 		size = 10000
 	}
 	
 	artisans = {
-		culture = british
+		culture = irish
 		religion = protestant
 		size = 2000
 	}
 
 	farmers = {
-		culture = british
+		culture = irish
 		religion = protestant
 		size = 20000
 	}
 	
 	labourers = {
-		culture = british
+		culture = irish
 		religion = protestant
 		size = 20250
 	}
@@ -157,31 +157,31 @@
 #Armagh (274000/68500 POPS)
 256 = {
 	aristocrats = {
-		culture = british
+		culture = englisk
 		religion = protestant
 		size = 250
 	}
 
 	clergymen = {
-		culture = british
+		culture = englisk
 		religion = protestant
 		size = 250
 	}
 
 	artisans = {
-		culture = british
+		culture = irish
 		religion = protestant
 		size = 2500
 	}
 
 	soldiers = {
-		culture = british
+		culture = irish
 		religion = protestant
 		size = 1100
 	}
 
 	labourers = {
-		culture = british
+		culture = irish
 		religion = protestant
 		size = 38000
 	}
@@ -530,13 +530,13 @@
 	}
 	
 	artisans = {
-		culture = british
+		culture = englisk
 		religion = protestant
 		size = 1000
 	}
 
 	farmers = {
-		culture = british
+		culture = englisk
 		religion = protestant
 		size = 10000
 	}
@@ -559,13 +559,13 @@
 #Dublin (860000/215000 POPs)
 263 = {
 	aristocrats = {
-		culture = british
+		culture = englisk
 		religion = protestant
 		size = 700
 	}
 
 	bureaucrats = {
-		culture = british
+		culture = englisk
 		religion = protestant
 		size = 625
 	}
@@ -583,25 +583,25 @@
 	}
 	
 	bureaucrats = {
-		culture = british
+		culture = englisk
 		religion = protestant
 		size = 1000
 	}
 	
 	clergymen = {
-		culture = british
+		culture = englisk
 		religion = protestant
 		size = 550
 	}
 	
 	artisans = {
-		culture = british
+		culture = englisk
 		religion = protestant
 		size = 10000
 	}
 	
 	farmers = {
-		culture = british
+		culture = englisk
 		religion = protestant
 		size = 44000
 	}
@@ -657,13 +657,13 @@
 	farmers = {
 		culture = norse_gaelic
 		religion = protestant
-		size = 10375
+		size = 50375
 	}
 
 	farmers = {
 		culture = irish
 		religion = catholic
-		size = 100000
+		size = 50000
 	}
 }
 #Kildare (532000/133000 POPs)

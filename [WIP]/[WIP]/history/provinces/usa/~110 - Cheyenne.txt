@@ -1,0 +1,4 @@
+colonial = 2
+trade_goods = grain
+terrain = mountain
+life_rating = 35

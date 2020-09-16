@@ -402,35 +402,35 @@
 	farmers = {
 		culture = latvian
 		religion = protestant
-		size = 20275
+		size = 13275
 	}
 
 	farmers = {
-		culture = lithuanian
+		culture = courish
 		religion = catholic
-		size = 5200
+		size = 12200
 	}
 	
 	aristocrats = {
-		culture = lithuanian
+		culture = courish
 		religion = catholic
 		size = 1150
 	}
 
 	clergymen = {
-		culture = lithuanian
+		culture = courish
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = lithuanian
+		culture = courish
 		religion = catholic
 		size = 750
 	}
 
 	soldiers = {
-		culture = lithuanian
+		culture = courish
 		religion = catholic
 		size = 100
 	}
@@ -468,49 +468,49 @@
 	}
 
 	artisans = {
-		culture = latvian
+		culture = courish
 		religion = protestant
 		size = 300
 	}
 
 	soldiers = {
-		culture = latvian
+		culture = courish
 		religion = protestant
 		size = 275
 	}
 
 	farmers = {
-		culture = latvian
+		culture = courish
 		religion = protestant
 		size = 20000
 	}
 
 	aristocrats = {
-		culture = lithuanian
+		culture = latvian
 		religion = catholic
 		size = 1200
 	}
 
 	clergymen = {
-		culture = lithuanian
+		culture = latvian
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = lithuanian
+		culture = latvian
 		religion = catholic
 		size = 700
 	}
 
 	soldiers = {
-		culture = lithuanian
+		culture = latvian
 		religion = catholic
 		size = 100
 	}
 	
 	farmers = {
-		culture = lithuanian
+		culture = latvian
 		religion = catholic
 		size = 9450
 	}
@@ -548,57 +548,57 @@
 #Liepaja (96000/24000 POPS)  
 359 = {
 	clergymen = {
-		culture = latvian
+		culture = courish
 		religion = protestant
 		size = 175
 	}
 
 	artisans = {
-		culture = latvian
+		culture = courish
 		religion = protestant
 		size = 150
 	}
 
 	soldiers = {
-		culture = latvian
+		culture = courish
 		religion = protestant
 		size = 200
 	}
 
 	farmers = {
-		culture = latvian
+		culture = courish
 		religion = protestant
-		size = 20000
+		size = 23000
 	}
 
 	aristocrats = {
-		culture = lithuanian
+		culture = latvian
 		religion = catholic
 		size = 550
 	}
 
 	clergymen = {
-		culture = lithuanian
+		culture = latvian
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = lithuanian
+		culture = latvian
 		religion = catholic
 		size = 400
 	}
 
 	soldiers = {
-		culture = lithuanian
+		culture = latvian
 		religion = catholic
 		size = 100
 	}
 	
 	farmers = {
-		culture = lithuanian
+		culture = latvian
 		religion = catholic
-		size = 11475
+		size = 8475
 	}
 
 	clergymen = {

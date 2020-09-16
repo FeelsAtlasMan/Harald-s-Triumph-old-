@@ -290,7 +290,12 @@ BSQ_absolute_monarchy;Navarra;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 BSQ_hms_government;Navarra;;;;;;;;;;;;x
 BSQ_prussian_constitutionalism;Navarra;;;;;;;;;;;;x
 BSQ_ADJ;Basque;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-UBD;Svenska Baltiska Stater;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+PRU;Pruthenia;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+PRU_absolute_monarchy;Pruthenia;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+PRU_hms_government;Pruthenia;;;;;;;;;;;;x
+PRU_prussian_constitutionalism;Pruthenia;;;;;;;;;;;;x
+PRU_ADJ;Pruthenian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+LIR_colonial_company;Livonia;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 UBD_ADJ;Baltic;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 MNG;Ming;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 MNG_ADJ;Chinese;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
@@ -321,3 +326,11 @@ BCR;Croatia;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 BCR_ADJ;Croatian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 SLA;Slavonia;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 SLA_ADJ;Slavonian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+ABB;Abbasid Caliphate;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+ABB_ADJ;Abbasid;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+LIH;Aukštaitija;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+LIH_ADJ;Aukštaitian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+SMG;Samogitia;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+SMG_ADJ;Samogitian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+CUR;Courland;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+CUR_ADJ;Courish;;;;;;;;;;;;;;x;;;;;;;;;;;;;;

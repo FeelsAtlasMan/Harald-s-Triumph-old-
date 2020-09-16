@@ -53,73 +53,73 @@
 	farmers = {
 		culture = nepali
 		religion = hindu
-		size = 86250
+		size = 66250
 	}
 
 	aristocrats = {
-		culture = tibetan
+		culture = u_tsang
 		religion = gelugpa
 		size = 200
 	}
 
 	clergymen = {
-		culture = tibetan
+		culture = u_tsang
 		religion = gelugpa
 		size = 100
 	}
 
 	artisans = {
-		culture = tibetan
+		culture = u_tsang
 		religion = gelugpa
 		size = 475
 	}
 
 	soldiers = {
-		culture = tibetan
+		culture = u_tsang
 		religion = gelugpa
 		size = 100
 	}
 
 	farmers = {
-		culture = tibetan
+		culture = u_tsang
 		religion = gelugpa
-		size = 10125
+		size = 20125
 	}
 
 	aristocrats = {
-		culture = asian_minor
+		culture = rungic
 		religion = animist
 		size = 400
 	}
 
 	clergymen = {
-		culture = asian_minor
+		culture = rungic
 		religion = animist
 		size = 225
 	}
 
 	artisans = {
-		culture = asian_minor
+		culture = rungic
 		religion = animist
 		size = 1050
 	}
 
 	soldiers = {
-		culture = asian_minor
+		culture = rungic
 		religion = animist
 		size = 200
 	}
 
 	farmers = {
-		culture = asian_minor
+		culture = rungic
 		religion = animist
 		size = 6000
 	}
 
 	slaves = {
-		culture = asian_minor
+		culture = rungic
 		religion = animist
-		size = 15125
+		size = 25125
 	}
 }
 #Jumla (412000/103000 POPS)   
@@ -155,63 +155,63 @@
 	}
 
 	aristocrats = {
-		culture = tibetan
+		culture = u_tsang
 		religion = gelugpa
 		size = 700
 	}
 
 	clergymen = {
-		culture = tibetan
+		culture = u_tsang
 		religion = gelugpa
 		size = 575
 	}
 
 	artisans = {
-		culture = tibetan
+		culture = u_tsang
 		religion = gelugpa
 		size = 1850
 	}
 
 	soldiers = {
-		culture = tibetan
+		culture = u_tsang
 		religion = gelugpa
 		size = 350
 	}
 
 	farmers = {
-		culture = tibetan
+		culture = u_tsang
 		religion = gelugpa
-		size = 33725
+		size = 41725
 	}
 
 	aristocrats = {
-		culture = asian_minor
+		culture = rungic
 		religion = animist
 		size = 350
 	}
 
 	clergymen = {
-		culture = asian_minor
+		culture = rungic
 		religion = animist
 		size = 200
 	}
 
 	artisans = {
-		culture = asian_minor
+		culture = rungic
 		religion = animist
 		size = 950
 	}
 
 	soldiers = {
-		culture = asian_minor
+		culture = rungic
 		religion = animist
 		size = 200
 	}
 
 	slaves = {
-		culture = asian_minor
+		culture = rungic
 		religion = animist
-		size = 18300
+		size = 10300
 	}
 }
 

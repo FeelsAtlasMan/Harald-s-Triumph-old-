@@ -95,12 +95,15 @@ political_decisions = {
 		picture = NET_claim_artois
 		potential = {
 			culture = north_german
-                        culture = south_german
-                        culture = swiss_german
+            culture = south_german
+            culture = swiss_german
+			culture = dutch
 			owns = 399 #Lille
 			owns = 400 #Dunkirk
 			owns = 401 #Arras
-			owns = 404 #Cambrai
+			owns = 393 #Tournai
+			owns = 388 #Brugge
+			owns = 389 #Gent
 			NOT = { has_global_flag = dutch_artois }
 		}
 		
@@ -111,12 +114,14 @@ political_decisions = {
 		
 		effect = {
 			prestige = 5
-			399 = { change_province_name = "Rijsel" }
-			400 = { change_province_name = "Duinkerke" }
+			399 = { change_province_name = "Ryssel" }
+			393 = { change_province_name = "Dornick" }
 			401 = { change_province_name = "Atrecht" }
-			404 = {
-				change_province_name = "Kamerijk"
-				state_scope = {	change_region_name = "Artesie"	}
+			388 = { change_province_name = "Brügge " }
+			389 = { change_province_name = "Gent" }
+			400 = {
+				change_province_name = "Dünkirchen"
+				state_scope = {	change_region_name = "Westflandern"	}
 			}
 			set_global_flag = dutch_artois
 		}
@@ -131,7 +136,9 @@ political_decisions = {
 			owns = 399 #Lille
 			owns = 400 #Dunkirk
 			owns = 401 #Arras
-			owns = 404 #Cambrai
+			owns = 393 #Tournai
+			owns = 388 #Brugge
+			owns = 389 #Gent
 			has_global_flag = dutch_artois
 		}
 		
@@ -144,11 +151,13 @@ political_decisions = {
 			prestige = 5
 			set_global_flag = french_artois
 			399 = { change_province_name = "Lille" }
-			400 = { change_province_name = "Dunkerque" }
+			393 = { change_province_name = "Tournai" }
 			401 = { change_province_name = "Arras" }
-			404 = {
-				change_province_name = "Cambrai"
-				state_scope = {	change_region_name = "Artois"	}
+			388 = { change_province_name = "Bruges" }
+			389 = { change_province_name = "Gand" }
+			400 = {
+				change_province_name = "Dunkerque"
+				state_scope = {	change_region_name = "Flamande"	}
 			}
 			clr_global_flag = dutch_artois
 		}

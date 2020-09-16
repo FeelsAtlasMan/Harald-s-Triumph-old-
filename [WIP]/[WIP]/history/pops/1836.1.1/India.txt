@@ -561,31 +561,31 @@
 	}
 
 	aristocrats = {
-		culture = tibetan
+		culture = u_tsang
 		religion = mahayana
 		size = 200
 	}
 
 	clergymen = {
-		culture = tibetan
+		culture = u_tsang
 		religion = mahayana
 		size = 225
 	}
 
 	artisans = {
-		culture = tibetan
+		culture = u_tsang
 		religion = mahayana
 		size = 800
 	}
 
 	soldiers = {
-		culture = tibetan
+		culture = u_tsang
 		religion = mahayana
 		size = 200
 	}
 
 	farmers = {
-		culture = tibetan
+		culture = u_tsang
 		religion = mahayana
 		size = 19575
 	}
@@ -617,31 +617,31 @@
 	}
 
 	aristocrats = {
-		culture = tibetan
+		culture = u_tsang
 		religion = mahayana
 		size = 400
 	}
 
 	clergymen = {
-		culture = tibetan
+		culture = u_tsang
 		religion = mahayana
 		size = 425
 	}
 
 	artisans = {
-		culture = tibetan
+		culture = u_tsang
 		religion = mahayana
 		size = 2100
 	}
 
 	soldiers = {
-		culture = tibetan
+		culture = u_tsang
 		religion = mahayana
 		size = 400
 	}
 
 	farmers = {
-		culture = tibetan
+		culture = u_tsang
 		religion = mahayana
 		size = 38675
 	}
@@ -1469,7 +1469,13 @@
 	farmers = {
 		culture = hindi
 		religion = hindu
-		size = 33625
+		size = 30000
+	}
+	
+	farmers = {
+		culture = rungic
+		religion = animist
+		size = 3625
 	}
 
 	aristocrats = {
@@ -1851,6 +1857,12 @@
 		culture = nepali
 		religion = gelugpa
 		size = 95000
+	}
+	
+	farmers = {
+		culture = rungic
+		religion = animist
+		size = 5000
 	}
 }
 #Meerut (1580000/395000 POPS)
@@ -3601,25 +3613,25 @@
 	}
 
 	aristocrats = {
-		culture = asian_minor
+		culture = kuki_chin
 		religion = animist
 		size = 250
 	}
 
 	clergymen = {
-		culture = asian_minor
+		culture = kuki_chin
 		religion = animist
 		size = 250
 	}
 
 	soldiers = {
-		culture = asian_minor
+		culture = kuki_chin
 		religion = animist
 		size = 250
 	}
 
 	farmers = {
-		culture = asian_minor
+		culture = kuki_chin
 		religion = animist
 		size = 20750
 	}
@@ -3627,19 +3639,19 @@
 #Andaman Islands (14000/3500 POPS)
 1320 = {
 	clergymen = {
-		culture = asian_minor
+		culture = munda
 		religion = animist
 		size = 50
 	}
 
 	farmers = {
-		culture = asian_minor
+		culture = munda
 		religion = animist
 		size = 2500
 	}
 	
 	farmers = {
-		culture = asian_minor
+		culture = munda
 		religion = hindu
 		size = 300
 	}
@@ -3648,19 +3660,19 @@
 #Nicobar Islands
 3264 = {
 	clergymen = {
-		culture = asian_minor
+		culture = munda
 		religion = animist
 		size = 10
 	}
 
 	farmers = {
-		culture = asian_minor
+		culture = munda
 		religion = animist
 		size = 500
 	}
 	
 	farmers = {
-		culture = asian_minor
+		culture = munda
 		religion = hindu
 		size = 100
 	}
@@ -3671,7 +3683,7 @@
 #Gauhati (1060000/265000 POPS)
 1258 = {
 	bureaucrats = {
-		culture = marathi
+		culture = bengali
 		religion = hindu
 		size = 25
 	}
@@ -3743,25 +3755,25 @@
 	}
 
 	clergymen = {
-		culture = asian_minor
+		culture = boro_garo
 		religion = animist
 		size = 500
 	}
 
 	soldiers = {
-		culture = asian_minor
+		culture = boro_garo
 		religion = animist
 		size = 500
 	}
 
 	artisans = {
-		culture = asian_minor
+		culture = boro_garo
 		religion = animist
 		size = 2500
 	}
 
 	farmers = {
-		culture = asian_minor
+		culture = boro_garo
 		religion = animist
 		size = 53500
 	}
@@ -3769,43 +3781,43 @@
 #Imphal (616000/154000 POPS)
 1259 = {
 	aristocrats = {
-		culture = manipuri
+		culture = kuki_chin
 		religion = hindu
 		size = 1100
 	}
 
 	clergymen = {
-		culture = manipuri
+		culture = kuki_chin
 		religion = hindu
 		size = 1100
 	}
 
 	artisans = {
-		culture = manipuri
+		culture = kuki_chin
 		religion = hindu
 		size = 4750
 	}
 
 	soldiers = {
-		culture = manipuri
+		culture = kuki_chin
 		religion = hindu
 		size = 1100
 	}
 
 	farmers = {
-		culture = manipuri
+		culture = kuki_chin
 		religion = hindu
 		size = 79250
 	}
 	
 	farmers = {
-		culture = manipuri
+		culture = kuki_chin
 		religion = hindu
 		size = 9000
 	}
 
 	clergymen = {
-		culture = marathi
+		culture = bengali
 		religion = hindu
 		size = 375
 	}
@@ -3835,31 +3847,31 @@
 	}
 
 	aristocrats = {
-		culture = asian_minor
+		culture = boro_garo
 		religion = animist
 		size = 250
 	}
 
 	clergymen = {
-		culture = asian_minor
+		culture = boro_garo
 		religion = animist
 		size = 250
 	}
 
 	soldiers = {
-		culture = asian_minor
+		culture = boro_garo
 		religion = animist
 		size = 250
 	}
 
 	artisans = {
-		culture = asian_minor
+		culture = boro_garo
 		religion = animist
 		size = 1250
 	}
 
 	farmers = {
-		culture = asian_minor
+		culture = boro_garo
 		religion = animist
 		size = 25000
 	}
@@ -3903,59 +3915,65 @@
 	}
 
 	clergymen = {
-		culture = asian_minor
+		culture = boro_garo
 		religion = animist
 		size = 75
 	}
 
 	soldiers = {
-		culture = asian_minor
+		culture = boro_garo
 		religion = animist
 		size = 1100
 	}
 
 	farmers = {
-		culture = asian_minor
+		culture = boro_garo
 		religion = animist
-		size = 9425
+		size = 3425
+	}
+	
+	farmers = {
+		culture = kuki_chin
+		religion = animist
+		size = 6000
 	}
 }
 #Agartala (608000/152000 POPS)
 2566 = {
 	aristocrats = {
-		culture = asian_minor
+		culture = boro_garo
 		religion = animist
 		size = 1100
 	}
 
 	clergymen = {
-		culture = asian_minor
+		culture = boro_garo
 		religion = animist
 		size = 875
 	}
 
 	artisans = {
-		culture = asian_minor
+		culture = boro_garo
 		religion = animist
 		size = 5000
 	}
 
 	soldiers = {
-		culture = asian_minor
+		culture = boro_garo
 		religion = animist
 		size = 1100
 	}
 
 	farmers = {
-		culture = asian_minor
+		culture = boro_garo
 		religion = animist
-		size = 74125
+		size = 64125
 	}
 	
 	farmers = {
-		culture = asian_minor
+		culture = kuki_chin
 		religion = hindu
-		size = 15000
+		size = 55000
 	}
 
 
@@ -3980,7 +3998,7 @@
 	farmers = {
 		culture = bengali
 		religion = sunni
-		size = 51125
+		size = 21125
 	}
 
 }
@@ -4088,31 +4106,31 @@
 	}
 
 	aristocrats = {
-		culture = asian_minor
+		culture = munda
 		religion = animist
 		size = 225
 	}
 
 	clergymen = {
-		culture = asian_minor
+		culture = munda
 		religion = animist
 		size = 200
 	}
 
 	artisans = {
-		culture = asian_minor
+		culture = munda
 		religion = animist
 		size = 1100
 	}
 
 	soldiers = {
-		culture = asian_minor
+		culture = munda
 		religion = animist
 		size = 250
 	}
 
 	serfs = {
-		culture = asian_minor
+		culture = munda
 		religion = animist
 		size = 20000
 	}
@@ -4168,36 +4186,36 @@
 	}
 
 	aristocrats = {
-		culture = asian_minor
+		culture = munda
 		religion = animist
 		size = 250
 	}
 
 	clergymen = {
-		culture = asian_minor
+		culture = munda
 		religion = animist
 		size = 225
 	}
 
 	artisans = {
-		culture = asian_minor
+		culture = munda
 		religion = animist
 		size = 1050
 	}
 
 	soldiers = {
-		culture = asian_minor
+		culture = munda
 		religion = animist
 		size = 250
 	}
 	farmers = {
-		culture = asian_minor
+		culture = munda
 		religion = animist
 		size = 11225
 	}
 
 	serfs = {
-		culture = asian_minor
+		culture = munda
 		religion = animist
 		size = 10000
 	}
@@ -5012,31 +5030,31 @@
 	}
 
 	aristocrats = {
-		culture = asian_minor
+		culture = munda
 		religion = animist
 		size = 700
 	}
 
 	clergymen = {
-		culture = asian_minor
+		culture = munda
 		religion = animist
 		size = 750
 	}
 
 	artisans = {
-		culture = asian_minor
+		culture = munda
 		religion = animist
 		size = 1500
 	}
 
 	soldiers = {
-		culture = asian_minor
+		culture = munda
 		religion = animist
 		size = 650
 	}
 
 	serfs = {
-		culture = asian_minor
+		culture = munda
 		religion = animist
 		size = 60000
 	}
@@ -5122,31 +5140,31 @@
 	}
 
 	aristocrats = {
-		culture = asian_minor
+		culture = munda
 		religion = animist
 		size = 600
 	}
 
 	clergymen = {
-		culture = asian_minor
+		culture = munda
 		religion = animist
 		size = 5050
 	}
 
 	artisans = {
-		culture = asian_minor
+		culture = munda
 		religion = animist
 		size = 1100
 	}
 
 	soldiers = {
-		culture = asian_minor
+		culture = munda
 		religion = animist
 		size = 550
 	}
 
 	serfs = {
-		culture = asian_minor
+		culture = munda
 		religion = animist
 		size = 54000
 	}
@@ -5378,31 +5396,31 @@
 	}
 
 	aristocrats = {
-		culture = asian_minor
+		culture = munda
 		religion = animist
 		size = 650
 	}
 
 	clergymen = {
-		culture = asian_minor
+		culture = munda
 		religion = animist
 		size = 600
 	}
 
 	artisans = {
-		culture = asian_minor
+		culture = munda
 		religion = animist
 		size = 2000
 	}
 
 	soldiers = {
-		culture = asian_minor
+		culture = munda
 		religion = animist
 		size = 650
 	}
 
 	serfs = {
-		culture = asian_minor
+		culture = munda
 		religion = animist
 		size = 57000
 	}
@@ -5440,37 +5458,37 @@
 	}
 
 	aristocrats = {
-		culture = asian_minor
+		culture = munda
 		religion = animist
 		size = 1250
 	}
 
 	clergymen = {
-		culture = asian_minor
+		culture = munda
 		religion = animist
 		size = 1225
 	}
 
 	artisans = {
-		culture = asian_minor
+		culture = munda
 		religion = animist
 		size = 3050
 	}
 
 	soldiers = {
-		culture = asian_minor
+		culture = munda
 		religion = animist
 		size = 1250
 	}
 	
 	farmers = {
-		culture = asian_minor
+		culture = munda
 		religion = animist
 		size = 604225
 	}
 
 	serfs = {
-		culture = asian_minor
+		culture = munda
 		religion = animist
 		size = 50000
 	}
@@ -5508,37 +5526,37 @@
 	}
 
 	aristocrats = {
-		culture = asian_minor
+		culture = munda
 		religion = animist
 		size = 850
 	}
 
 	clergymen = {
-		culture = asian_minor
+		culture = munda
 		religion = animist
 		size = 850
 	}
 
 	artisans = {
-		culture = asian_minor
+		culture = munda
 		religion = animist
 		size = 3400
 	}
 
 	soldiers = {
-		culture = asian_minor
+		culture = munda
 		religion = animist
 		size = 850
 	}
 	
 	farmers = {
-		culture = asian_minor
+		culture = munda
 		religion = animist
 		size = 50050
 	}
 
 	serfs = {
-		culture = asian_minor
+		culture = munda
 		religion = animist
 		size = 30000
 	}
@@ -5676,37 +5694,37 @@
 	}
 
 	aristocrats = {
-		culture = asian_minor
+		culture = munda
 		religion = animist
 		size = 400
 	}
 
 	clergymen = {
-		culture = asian_minor
+		culture = munda
 		religion = animist
 		size = 350
 	}
 
 	artisans = {
-		culture = asian_minor
+		culture = munda
 		religion = animist
 		size = 1100
 	}
 
 	soldiers = {
-		culture = asian_minor
+		culture = munda
 		religion = animist
 		size = 400
 	}
 	
 	farmers = {
-		culture = asian_minor
+		culture = munda
 		religion = animist
 		size = 10000
 	}
 
 	serfs = {
-		culture = asian_minor
+		culture = munda
 		religion = animist
 		size = 24000
 	}
@@ -5751,31 +5769,31 @@
 	}
 
 	aristocrats = {
-		culture = asian_minor
+		culture = munda
 		religion = animist
 		size = 350
 	}
 
 	clergymen = {
-		culture = asian_minor
+		culture = munda
 		religion = animist
 		size = 300
 	}
 
 	artisans = {
-		culture = asian_minor
+		culture = munda
 		religion = animist
 		size = 2000
 	}
 
 	soldiers = {
-		culture = asian_minor
+		culture = munda
 		religion = animist
 		size = 350
 	}
 
 	farmers = {
-		culture = asian_minor
+		culture = munda
 		religion = animist
 		size = 30000
 	}
@@ -9153,69 +9171,69 @@
 #Animist - Lepcha Mun
 1328 = {
 	aristocrats = {
-		culture = tibetan
+		culture = u_tsang
 		religion = gelugpa
 		size = 50
 	}
 
 	bureaucrats = {
-		culture = tibetan
+		culture = u_tsang
 		religion = gelugpa
 		size = 20
 	}
 
 	officers = {
-		culture = tibetan
+		culture = u_tsang
 		religion = gelugpa
 		size = 15
 	}
 
 	clergymen = {
-		culture = tibetan
+		culture = u_tsang
 		religion = gelugpa
 		size = 20
 	}
 
 	artisans = {
-		culture = tibetan
+		culture = u_tsang
 		religion = gelugpa
 		size = 100
 	}
 
 	soldiers = {
-		culture = tibetan
+		culture = u_tsang
 		religion = gelugpa
 		size = 1100
 	}
 
 	farmers = {
-		culture = tibetan
+		culture = u_tsang
 		religion = gelugpa
-		size = 1095
+		size = 695
 	}
 	
 	farmers = {
-		culture = tibetan
+		culture = rungic
 		religion = animist
-		size = 100
+		size = 500
 	}
 	
 	farmers = {
-		culture = asian_minor
+		culture = rungic
 		religion = gelugpa
-		size = 2000
+		size = 1500
 	}
 	
 	farmers = {
-		culture = asian_minor
-		religion = animist
+		culture = nepali
+		religion = hindu
 		size = 365
 	}
 	
 	farmers = {
-		culture = asian_minor
+		culture = nepali
 		religion = hindu
-		size = 1000
+		size = 1500
 	}
 	
 	serfs = {

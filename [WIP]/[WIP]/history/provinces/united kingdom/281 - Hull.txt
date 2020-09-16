@@ -2,6 +2,6 @@ owner = NRD
 controller = NRD
 add_core = NRD
 add_core = ENG
-trade_goods = coal
-life_rating = 45
-naval_base = 2
+trade_goods = fish
+life_rating = 35
+

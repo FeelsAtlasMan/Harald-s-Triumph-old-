@@ -1,5 +1,5 @@
-owner = RPL
-controller = RPL
+owner = NRD
+controller = NRD
 add_core = RPL
 add_core = ILL
 trade_goods = timber

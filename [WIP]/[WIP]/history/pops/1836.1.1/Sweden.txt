@@ -98,9 +98,15 @@
 	labourers = {
 		culture = norwegian
 		religion = protestant
-		size = 9350
+		size = 7000
 	}
 
+	labourers = {
+		culture = sami
+		religion = protestant
+		size = 2350
+	}
+	
 	labourers = {
 		culture = swedish
 		religion = protestant
@@ -139,6 +145,44 @@
 		size = 1100
 	}
 }
+#Kiruna (56000/14000 POPS)
+3305 = {
+	clergymen = {
+		culture = swedish
+		religion = protestant
+		size = 75
+	}
+
+	artisans = {
+		culture = swedish
+		religion = protestant
+		size = 50
+	}
+
+	soldiers = {
+		culture = swedish
+		religion = protestant
+		size = 250
+	}
+
+	labourers = {
+		culture = swedish
+		religion = protestant
+		size = 2500
+	}
+	
+	labourers = {
+		culture = finnish
+		religion = protestant
+		size = 500
+	}
+
+	farmers = {
+		culture = sami
+		religion = protestant
+		size = 3100
+	}
+}
 #Lulea (44000/11000 POPS)
 321 = {
 	clergymen = {
@@ -162,7 +206,7 @@
 	labourers = {
 		culture = swedish
 		religion = protestant
-		size = 6050
+		size = 5050
 	}
 
 	artisans = {
@@ -174,13 +218,52 @@
 	farmers = {
 		culture = sami
 		religion = protestant
-		size = 2200
+		size = 3200
 	}
 
 	farmers = {
 		culture = sami
 		religion = protestant
 		size = 1100
+	}
+
+}
+#Lycksele (44000/11000 POPS)
+3306 = {
+	clergymen = {
+		culture = swedish
+		religion = protestant
+		size = 50
+	}
+
+	artisans = {
+		culture = swedish
+		religion = protestant
+		size = 100
+	}
+
+	soldiers = {
+		culture = swedish
+		religion = protestant
+		size = 1100
+	}
+
+	labourers = {
+		culture = swedish
+		religion = protestant
+		size = 3050
+	}
+
+	artisans = {
+		culture = sami
+		religion = protestant
+		size = 100
+	}
+
+	farmers = {
+		culture = sami
+		religion = protestant
+		size = 3100
 	}
 
 }

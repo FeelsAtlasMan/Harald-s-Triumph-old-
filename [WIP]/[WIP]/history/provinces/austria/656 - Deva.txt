@@ -1,6 +1,6 @@
-owner = BZN
-controller = BZN
-add_core = BZN
+owner = HUN
+controller = HUN
+add_core = HUN
 add_core = ROM
 add_core = SIE
 trade_goods = grain

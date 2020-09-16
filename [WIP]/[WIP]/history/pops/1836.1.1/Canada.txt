@@ -326,25 +326,25 @@
 2595 = {
 
 	clergymen = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 3
 	}
 
 	artisans = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 3
 	}
 
 	soldiers = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 3
 	}
 	
 	farmers = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 5
 	}
@@ -361,31 +361,31 @@
 #Vancouver (12000/3000 POPS)
 13 = {
 	clergymen = {
-		culture = vinlander
+		culture = new_scots
 		religion = protestant
 		size = 10
 	}
 
 	artisans = {
-		culture = vinlander
+		culture = new_scots
 		religion = protestant
 		size = 10
 	}
 	
 	officers = {
-		culture = vinlander
+		culture = new_scots
 		religion = protestant
 		size = 5
 	}
 
 	soldiers = {
-		culture = vinlander
+		culture = new_scots
 		religion = protestant
 		size = 10
 	}
 	
 	farmers = {
-		culture = vinlander
+		culture = new_scots
 		religion = protestant
 		size = 50
 	}
@@ -400,25 +400,25 @@
 #Vancouver Island (8000/2000 POPS)
 14 = {
 	clergymen = {
-		culture = vinlander
+		culture = new_scots
 		religion = protestant
 		size = 10
 	}
 
 	artisans = {
-		culture = vinlander
+		culture = new_scots
 		religion = protestant
 		size = 10
 	}
 
 	soldiers = {
-		culture = vinlander
+		culture = new_scots
 		religion = protestant
 		size = 10
 	}
 	
 	farmers = {
-		culture = vinlander
+		culture = new_scots
 		religion = protestant
 		size = 50
 	}
@@ -432,25 +432,25 @@
 #Prince Rupert (8000/2000 POPS)
 15 = {
 	clergymen = {
-		culture = vinlander
+		culture = new_scots
 		religion = protestant
 		size = 3
 	}
 
 	artisans = {
-		culture = vinlander
+		culture = new_scots
 		religion = protestant
 		size = 3
 	}
 
 	soldiers = {
-		culture = vinlander
+		culture = new_scots
 		religion = protestant
 		size = 3
 	}
 	
 	farmers = {
-		culture = vinlander
+		culture = new_scots
 		religion = protestant
 		size = 10
 	}
@@ -465,25 +465,25 @@
 16 = {
 
 	clergymen = {
-		culture = vinlander
+		culture = new_scots
 		religion = protestant
 		size = 3
 	}
 
 	artisans = {
-		culture = vinlander
+		culture = new_scots
 		religion = protestant
 		size = 3
 	}
 
 	soldiers = {
-		culture = vinlander
+		culture = new_scots
 		religion = protestant
 		size = 3
 	}
 	
 	farmers = {
-		culture = vinlander
+		culture = new_scots
 		religion = protestant
 		size = 10
 	}
@@ -497,25 +497,25 @@
 #Atlin (4000/1000 POPS)
 17 = {
 	clergymen = {
-		culture = vinlander
+		culture = new_scots
 		religion = protestant
 		size = 3
 	}
 
 	artisans = {
-		culture = vinlander
+		culture = new_scots
 		religion = protestant
 		size = 3
 	}
 
 	soldiers = {
-		culture = vinlander
+		culture = new_scots
 		religion = protestant
 		size = 3
 	}
 	
 	farmers = {
-		culture = vinlander
+		culture = new_scots
 		religion = protestant
 		size = 10
 	}
@@ -561,25 +561,25 @@
 #Prince George (8000/2000 POPS)
 19 = {
 	clergymen = {
-		culture = vinlander
+		culture = new_scots
 		religion = protestant
 		size = 5
 	}
 
 	artisans = {
-		culture = vinlander
+		culture = new_scots
 		religion = protestant
 		size = 5
 	}
 
 	soldiers = {
-		culture = vinlander
+		culture = new_scots
 		religion = protestant
 		size = 5
 	}
 	
 	farmers = {
-		culture = vinlander
+		culture = new_scots
 		religion = protestant
 		size = 15
 	}
@@ -593,25 +593,25 @@
 #Kelowna (8000/2000 POPS)
 20 = {
 	clergymen = {
-		culture = vinlander
+		culture = new_scots
 		religion = protestant
 		size = 5
 	}
 
 	artisans = {
-		culture = vinlander
+		culture = new_scots
 		religion = protestant
 		size = 5
 	}
 
 	soldiers = {
-		culture = vinlander
+		culture = new_scots
 		religion = protestant
 		size = 5
 	}
 	
 	farmers = {
-		culture = vinlander
+		culture = new_scots
 		religion = protestant
 		size = 15
 	}
@@ -626,25 +626,25 @@
 21 = {
 
 	clergymen = {
-		culture = vinlander
+		culture = new_scots
 		religion = protestant
 		size = 5
 	}
 
 	artisans = {
-		culture = vinlander
+		culture = new_scots
 		religion = protestant
 		size = 5
 	}
 
 	soldiers = {
-		culture = vinlander
+		culture = new_scots
 		religion = protestant
 		size = 5
 	}
 	
 	farmers = {
-		culture = vinlander
+		culture = new_scots
 		religion = protestant
 		size = 15
 	}
@@ -694,25 +694,25 @@
 22 = {
 
 	clergymen = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 5
 	}
 
 	artisans = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 5
 	}
 
 	soldiers = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 5
 	}
 	
 	farmers = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 15
 	}
@@ -771,25 +771,25 @@
 24 = {
 
 	clergymen = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 5
 	}
 
 	artisans = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 5
 	}
 
 	soldiers = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 5
 	}
 	
 	farmers = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 15
 	}
@@ -810,25 +810,25 @@
 25 = {
 
 	clergymen = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 5
 	}
 
 	artisans = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 5
 	}
 
 	soldiers = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 5
 	}
 	
 	farmers = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 15
 	}
@@ -849,25 +849,25 @@
 26 = {
 
 	clergymen = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 5
 	}
 
 	artisans = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 5
 	}
 
 	soldiers = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 5
 	}
 	
 	farmers = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 15
 	}
@@ -888,31 +888,31 @@
 27 = {
 
 	clergymen = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 5
 	}
 
 	artisans = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 5
 	}
 	
 	officers = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 5
 	}
 
 	soldiers = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 5
 	}
 	
 	farmers = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 15
 	}
@@ -933,25 +933,25 @@
 28 = {
 
 	clergymen = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 5
 	}
 
 	artisans = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 5
 	}
 
 	soldiers = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 5
 	}
 	
 	farmers = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 15
 	}
@@ -1007,31 +1007,31 @@
 30 = {
 
 	clergymen = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 5
 	}
 
 	artisans = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 5
 	}
 
 	officers = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 5
 	}
 	
 	soldiers = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 5
 	}
 	
 	farmers = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 15
 	}
@@ -1140,25 +1140,25 @@
 33 = {
 
 	clergymen = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 5
 	}
 
 	artisans = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 5
 	}
 
 	soldiers = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 5
 	}
 	
 	farmers = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 15
 	}
@@ -1179,25 +1179,25 @@
 34 = {
 
 	clergymen = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 5
 	}
 
 	artisans = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 5
 	}
 
 	soldiers = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 5
 	}
 	
 	farmers = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 15
 	}
@@ -1218,25 +1218,25 @@
 35 = {
 
 	clergymen = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 5
 	}
 
 	artisans = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 5
 	}
 
 	soldiers = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 5
 	}
 	
 	farmers = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 15
 	}
@@ -1259,25 +1259,25 @@
 36 = {
 
 	clergymen = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 5
 	}
 
 	artisans = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 5
 	}
 
 	soldiers = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 5
 	}
 	
 	farmers = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 15
 	}
@@ -1304,25 +1304,25 @@
 37 = {
 
 	clergymen = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 3
 	}
 
 	artisans = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 3
 	}
 
 	soldiers = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 3
 	}
 	
 	farmers = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 10
 	}
@@ -1437,25 +1437,25 @@
 40 = {
 
 	clergymen = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 5
 	}
 
 	artisans = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 5
 	}
 
 	soldiers = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 5
 	}
 	
 	farmers = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 15
 	}
@@ -1476,25 +1476,25 @@
 41 = {
 
 	clergymen = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 5
 	}
 
 	artisans = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 5
 	}
 
 	soldiers = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 5
 	}
 	
 	farmers = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 15
 	}
@@ -1515,31 +1515,31 @@
 42 = {
 
 	clergymen = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 5
 	}
 
 	artisans = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 5
 	}
 	
 	officers = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 5
 	}
 
 	soldiers = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 5
 	}
 	
 	farmers = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 15
 	}
@@ -1563,25 +1563,25 @@
 47 = {
 
 	clergymen = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 3
 	}
 
 	artisans = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 3
 	}
 
 	soldiers = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 3
 	}
 	
 	farmers = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 100
 	}
@@ -1596,25 +1596,25 @@
 48 = {
 
 	clergymen = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 3
 	}
 
 	artisans = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 3
 	}
 
 	soldiers = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 3
 	}
 	
 	farmers = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 10
 	}
@@ -1629,27 +1629,27 @@
 49 = {
 
 	clergymen = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
-		size = 2
+		size = 32
 	}
 
 	artisans = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
-		size = 5
+		size = 205
 	}
 
 	soldiers = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
-		size = 5
+		size = 35
 	}
 	
 	farmers = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
-		size = 15
+		size = 315
 	}
 
 	farmers = {
@@ -1661,7 +1661,7 @@
 	farmers = {
 		culture = metis
 		religion = catholic
-		size = 1000
+		size = 500
 	}
 }
 #Thunder Bay (8000/2000 POPS)
@@ -1812,25 +1812,25 @@
 2594 = {
 
 	clergymen = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 5
 	}
 
 	artisans = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 5
 	}
 
 	soldiers = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 5
 	}
 	
 	farmers = {
-		culture = vinlander
+		culture = hvitian
 		religion = protestant
 		size = 10
 	}
@@ -2068,26 +2068,26 @@
 2592 = {
 
 	clergymen = {
-		culture = vinlander
-		religion = catholic
+		culture = hvitian
+		religion = protestant
 		size = 5
 	}
 
 	artisans = {
-		culture = vinlander
-		religion = catholic
+		culture = hvitian
+		religion = protestant
 		size = 5
 	}
 
 	soldiers = {
-		culture = vinlander
-		religion = catholic
+		culture = hvitian
+		religion = protestant
 		size = 5
 	}
 	
 	farmers = {
-		culture = vinlander
-		religion = catholic
+		culture = hvitian
+		religion = protestant
 		size = 15
 	}
 
@@ -2171,26 +2171,26 @@
 2593 = {
 
 	clergymen = {
-		culture = vinlander
-		religion = catholic
+		culture = hvitian
+		religion = protestant
 		size = 5
 	}
 
 	artisans = {
-		culture = vinlander
-		religion = catholic
+		culture = hvitian
+		religion = protestant
 		size = 5
 	}
 
 	soldiers = {
-		culture = vinlander
-		religion = catholic
+		culture = hvitian
+		religion = protestant
 		size = 5
 	}
 	
 	farmers = {
-		culture = vinlander
-		religion = catholic
+		culture = hvitian
+		religion = protestant
 		size = 15
 	}
 
@@ -2968,19 +2968,19 @@
 	}
 
 	clergymen = {
-		culture = french
+		culture = vinlander
 		religion = catholic
 		size = 1
 	}
 
 	artisans = {
-		culture = basque
+		culture = vinlander
 		religion = catholic
 		size = 45
 	}
 
 	labourers = {
-		culture = breton
+		culture = vinlander
 		religion = catholic
 		size = 40
 	}

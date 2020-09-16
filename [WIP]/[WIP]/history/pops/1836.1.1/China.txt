@@ -8815,31 +8815,31 @@
 #Makhai (452000/113000 POPS)
 1556 = {
 	aristocrats = {
-		culture = tibetan
+		culture = amdo
 		religion = gelugpa
 		size = 1000
 	}
 
 	artisans = {
-		culture = tibetan
+		culture = amdo
 		religion = gelugpa
 		size = 4550
 	}
 
 	soldiers = {
-		culture = tibetan
+		culture = amdo
 		religion = gelugpa
 		size = 925
 	}
 
 	farmers = {
-		culture = tibetan
+		culture = amdo
 		religion = gelugpa
 		size = 27200
 	}
 	
 	serfs = {
-		culture = tibetan
+		culture = amdo
 		religion = gelugpa
 		size = 40000
 	}
@@ -8948,25 +8948,25 @@
 	}
 
 	bureaucrats = {
-		culture = manchu
+		culture = mongol
 		religion = mahayana
 		size = 25
 	}
 
 	officers = {
-		culture = manchu
+		culture = mongol
 		religion = mahayana
 		size = 25
 	}
 
 	soldiers = {
-		culture = manchu
+		culture = mongol
 		religion = mahayana
 		size = 100
 	}
 	
 	serfs = {
-		culture = tibetan
+		culture = amdo
 		religion = gelugpa
 		size = 10000
 	}
@@ -9016,19 +9016,19 @@
 	}
 	
 	aristocrats = {
-		culture = tibetan
+		culture = amdo
 		religion = gelugpa
 		size = 500
 	}
 
 	clergymen = {
-		culture = tibetan
+		culture = amdo
 		religion = gelugpa
 		size = 750
 	}
 
 	artisans = {
-		culture = tibetan
+		culture = amdo
 		religion = gelugpa
 		size = 3800
 	}
@@ -9040,7 +9040,7 @@
 	}
 
 	labourers = {
-		culture = tibetan
+		culture = amdo
 		religion = gelugpa
 		size = 63175
 	}
@@ -9106,7 +9106,7 @@
 	}
 	
 	serfs = {
-		culture = tibetan
+		culture = amdo
 		religion = gelugpa
 		size = 7000
 	}
@@ -9138,31 +9138,31 @@
 	}
 	
 	aristocrats = {
-		culture = tibetan
+		culture = amdo
 		religion = gelugpa
 		size = 400
 	}
 	
 	clergymen = {
-		culture = tibetan
+		culture = amdo
 		religion = gelugpa
 		size = 400
 	}
 
 	artisans = {
-		culture = tibetan
+		culture = amdo
 		religion = gelugpa
 		size = 1900
 	}
 
 	soldiers = {
-		culture = tibetan
+		culture = amdo
 		religion = gelugpa
 		size = 400
 	}
 
 	slaves = {
-		culture = tibetan
+		culture = amdo
 		religion = gelugpa
 		size = 28600
 	}
@@ -9264,7 +9264,7 @@
 	}
 
 	serfs = {
-		culture = tibetan
+		culture = amdo
 		religion = gelugpa
 		size = 4000
 	}
@@ -11081,31 +11081,31 @@
 	}
 
 	aristocrats = {
-		culture = tibetan
+		culture = kham
 		religion = gelugpa
 		size = 800
 	}
 
 	clergymen = {
-		culture = tibetan
+		culture = kham
 		religion = gelugpa
 		size = 400
 	}
 
 	artisans = {
-		culture = tibetan
+		culture = kham
 		religion = gelugpa
 		size = 2000
 	}
 
 	soldiers = {
-		culture = tibetan
+		culture = kham
 		religion = gelugpa
 		size = 400
 	}
 
 	farmers = {
-		culture = tibetan
+		culture = kham
 		religion = gelugpa
 		size = 36400
 	}
@@ -11289,31 +11289,31 @@
 	}
 
 	aristocrats = {
-		culture = tibetan
+		culture = kham
 		religion = gelugpa
 		size = 750
 	}
 
 	clergymen = {
-		culture = tibetan
+		culture = kham
 		religion = gelugpa
 		size = 400
 	}
 
 	artisans = {
-		culture = tibetan
+		culture = kham
 		religion = gelugpa
 		size = 1950
 	}
 
 	soldiers = {
-		culture = tibetan
+		culture = kham
 		religion = gelugpa
 		size = 400
 	}
 
 	farmers = {
-		culture = tibetan
+		culture = kham
 		religion = gelugpa
 		size = 35500
 	}
@@ -11507,7 +11507,13 @@
 	farmers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 390400
+		size = 300400
+	}
+	
+	farmers = {
+		culture = yi
+		religion = mahayana
+		size = 90400
 	}
 
 	aristocrats = {
@@ -11541,31 +11547,31 @@
 	}
 
 	aristocrats = {
-		culture = tibetan
+		culture = kham
 		religion = gelugpa
 		size = 3650
 	}
 
 	clergymen = {
-		culture = tibetan
+		culture = kham
 		religion = gelugpa
 		size = 1850
 	}
 
 	artisans = {
-		culture = tibetan
+		culture = kham
 		religion = gelugpa
 		size = 9200
 	}
 
 	soldiers = {
-		culture = tibetan
+		culture = kham
 		religion = gelugpa
 		size = 1850
 	}
 
 	farmers = {
-		culture = tibetan
+		culture = kham
 		religion = gelugpa
 		size = 167400
 	}
@@ -11611,7 +11617,7 @@
 	farmers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 411325
+		size = 211325
 	}
 
 	aristocrats = {
@@ -11642,6 +11648,12 @@
 		culture = yi
 		religion = animist
 		size = 7325
+	}
+	
+	farmers = {
+		culture = yi
+		religion = mahayana
+		size = 100000
 	}
 
 	aristocrats = {
@@ -11675,33 +11687,33 @@
 	}
 
 	aristocrats = {
-		culture = tibetan
+		culture = kham
 		religion = gelugpa
 		size = 3250
 	}
 
 	clergymen = {
-		culture = tibetan
+		culture = kham
 		religion = gelugpa
 		size = 1625
 	}
 
 	artisans = {
-		culture = tibetan
+		culture = kham
 		religion = gelugpa
 		size = 8150
 	}
 
 	soldiers = {
-		culture = tibetan
+		culture = kham
 		religion = gelugpa
 		size = 1625
 	}
 
 	farmers = {
-		culture = tibetan
+		culture = kham
 		religion = gelugpa
-		size = 148350
+		size = 248350
 	}
 }
 #Yunnan Region (5652000)
@@ -11989,7 +12001,7 @@
 	farmers = {
 		culture = asian_minor
 		religion = animist
-		size = 220650
+		size = 80650
 	}
 
 	aristocrats = {
@@ -12019,13 +12031,19 @@
 	farmers = {
 		culture = yi
 		religion = animist
-		size = 24575
+		size = 104575
 	}
 
 	serfs = {
 		culture = yi
 		religion = animist
 		size = 24575
+	}
+	
+	farmers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 40000
 	}
 }
 #Puer (1420000/355000 POPS)

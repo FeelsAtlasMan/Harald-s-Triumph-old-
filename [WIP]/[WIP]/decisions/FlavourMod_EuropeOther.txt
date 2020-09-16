@@ -5,6 +5,7 @@ political_decisions = {
 			tag = SLO
 			owns = 767
 			owns = 768
+			owns = 618
 			NOT = { has_global_flag = slovene_renamed_slo }
 		}
 		
@@ -14,12 +15,12 @@ political_decisions = {
 		
 		effect = {
 			set_global_flag = slovene_renamed_slo
-			prestige = 2
 			767 = { 
 				change_province_name = "Maribor" 
 				state_scope = { change_region_name = "Slovenija" }
 			}
 			768 = { change_province_name = "Ljubljana" }
+			618 = { change_province_name = "Celovec" }
 		}
 		ai_will_do = { factor = 1 }
 	}
@@ -33,6 +34,7 @@ political_decisions = {
 			}
 			owns = 767
 			owns = 768
+			owns = 618
 			NOT = { has_global_flag = slovene_renamed_slo }
 		}
 		
@@ -42,12 +44,12 @@ political_decisions = {
 		
 		effect = {
 			set_global_flag = slovene_renamed_slo
-			prestige = 2
 			767 = { 
 				change_province_name = "Maribor" 
 				state_scope = { change_region_name = "Slovenija" }
 			}
 			768 = { change_province_name = "Ljubljana" }
+			618 = { change_province_name = "Celovec" }
 		}
 		ai_will_do = { factor = 1 }
 	}
@@ -58,6 +60,7 @@ political_decisions = {
 			is_culture_group = germanic
 			owns = 767
 			owns = 768
+			owns = 618
 			has_global_flag = slovene_renamed_slo
 		}
 		
@@ -72,6 +75,7 @@ political_decisions = {
 				state_scope = { change_region_name = "Krain" }
 			}
 			768 = { change_province_name = "Laibach" }
+			618 = { change_province_name = "Klagenfurt" }
 		}
 		ai_will_do = { factor = 1 }
 	}
@@ -103,7 +107,6 @@ political_decisions = {
 			}
 			792 = { change_province_name = "Pancevo" }
 			2538 = { change_province_name = "Novi Sad" }
-			prestige = 2
 		}
 		ai_will_do = { factor = 1 }
 	}
@@ -129,7 +132,6 @@ political_decisions = {
 		effect = {
 			set_global_flag = vojvodina_rename_hun
 			clr_global_flag = vojvodina_rename_ser
-			prestige = 2
 			791 = { 
 				change_province_name = "Szávaszentdemeter"
 				state_scope = { change_region_name = "Tartomány" }
@@ -197,7 +199,6 @@ political_decisions = {
 			set_global_flag = banat_rename_ser
 			clr_global_flag = banat_rename_hun
 			clr_global_flag = banat_rename_rom
-			prestige = 2
 			652 = { change_province_name = "Temišvar" }
 			653 = { change_province_name = "Rešica" }
 		}
@@ -221,7 +222,6 @@ political_decisions = {
 			set_global_flag = banat_rename_hun
 			clr_global_flag = banat_rename_ser
 			clr_global_flag = banat_rename_rom
-			prestige = 2
 			652 = { change_province_name = "Temesvar" }
 			653 = { change_province_name = "Resicabánya" }
 		}
@@ -245,7 +245,6 @@ political_decisions = {
 			set_global_flag = banat_rename_rom
 			clr_global_flag = banat_rename_ser
 			clr_global_flag = banat_rename_hun
-			prestige = 2
 			652 = { change_province_name = "Timisoara" }
 			653 = { change_province_name = "Resita" }
 		}
@@ -296,7 +295,6 @@ political_decisions = {
 		effect = {
 			set_global_flag = istria_rename_slo
 			clr_global_flag = istria_rename_ita_slo
-			prestige = 2
 			769 = { change_province_name = "Postojna" }
 			736 = { change_province_name = "Trst" 
 				state_scope = { change_region_name = "Istra" }
@@ -326,7 +324,6 @@ political_decisions = {
 		effect = {
 			set_global_flag = istria_rename_slo
 			clr_global_flag = istria_rename_ita_slo
-			prestige = 2
 			769 = { change_province_name = "Postojna" }
 			736 = { change_province_name = "Trst" 
 				state_scope = { change_region_name = "Istra" }
@@ -356,7 +353,6 @@ political_decisions = {
 		effect = {
 			set_global_flag = istria_rename_ita_slo
 			clr_global_flag = istria_rename_slo
-			prestige = 2
 			769 = { change_province_name = "Postumia" }
 			736 = { change_province_name = "Trieste" 
 				state_scope = { change_region_name = "Istria" }
@@ -384,7 +380,6 @@ political_decisions = {
 			clr_global_flag = istria_rename_ita_cro
 			clr_global_flag = istria_rename_ser
 			clr_global_flag = istria_rename_slovene
-			prestige = 2
 			770 = { change_province_name = "Pula" }
 			778 = { change_province_name = "Rijeka" }
 		}
@@ -412,7 +407,6 @@ political_decisions = {
 			clr_global_flag = istria_rename_ita_cro
 			clr_global_flag = istria_rename_cro
 			clr_global_flag = istria_rename_slovene
-			prestige = 2
 			770 = { change_province_name = "Pula" }
 			778 = { change_province_name = "Reka" }
 		}
@@ -437,7 +431,6 @@ political_decisions = {
 			clr_global_flag = istria_rename_ita_cro
 			clr_global_flag = istria_rename_cro
 			clr_global_flag = istria_rename_ser
-			prestige = 2
 			770 = { change_province_name = "Pulj" }
 			778 = { change_province_name = "Reka" }
 		}
@@ -465,7 +458,6 @@ political_decisions = {
 			clr_global_flag = istria_rename_cro
 			clr_global_flag = istria_rename_ser
 			clr_global_flag = istria_rename_slovene
-			prestige = 2
 			770 = { change_province_name = "Pola" }
 			778 = { change_province_name = "Fiume" }
 		}
@@ -496,7 +488,6 @@ political_decisions = {
 			clr_global_flag = istria_rename_slovene
 			clr_global_flag = istria_rename_slo
 			clr_global_flag = istria_rename_ita_slo
-			prestige = 10
 			769 = { change_province_name = "Postojna" }
 			736 = { change_province_name = "Trst" 
 				state_scope = { change_region_name = "Istra" }
@@ -582,7 +573,6 @@ political_decisions = {
 		effect = {
 			set_global_flag = northern_transylvania_rename_hun
 			clr_global_flag = northern_transylvania_rename_rom
-			prestige = 2
 			651 = { 
 				change_province_name = "Szatmár"
 				state_scope = { change_region_name = "Észak-Erdély" }
@@ -614,7 +604,6 @@ political_decisions = {
 		effect = {
 			set_global_flag = northern_transylvania_rename_rom
 			clr_global_flag = northern_transylvania_rename_hun
-			prestige = 2
 			654 = { 
 				change_province_name = "Cluj"
 				state_scope = { change_region_name = "Transilvania de Nord" }
@@ -691,7 +680,6 @@ political_decisions = {
 		effect = {
 			set_global_flag = southern_transylvania_rename_hun
 			clr_global_flag = southern_transylvania_rename_rom
-			prestige = 2
 			647 = { 
 				change_province_name = "Nagyvárad" 
 				state_scope = { change_region_name = "Dél-Erdély" }
@@ -725,7 +713,6 @@ political_decisions = {
 		effect = {
 			set_global_flag = southern_transylvania_rename_rom
 			clr_global_flag = southern_transylvania_rename_hun
-			prestige = 2
 			647 = {  change_province_name = "Oradea" }
 			657 = { 
 				change_province_name = "Sibiu"
@@ -815,7 +802,6 @@ political_decisions = {
 			637 = { change_province_name = "Košice" }
 			638 = { change_province_name = "Prešov" }
 			950 = { change_province_name = "Užhorod" }
-			prestige = 2
 		}
 		ai_will_do = { factor = 1 }
 	}
@@ -915,7 +901,6 @@ political_decisions = {
 		
 		effect = {
 			set_global_flag = bohemia_rename_czh
-			prestige = 2
 			625 = {
 				change_province_name = "Praha"
 				state_scope = { change_region_name = "Cechy-Morava" }
@@ -977,7 +962,6 @@ political_decisions = {
 		
 		effect = {
 			set_global_flag = sudetes_rename_czh
-			prestige = 2
 			627 = {
 				change_province_name = "Karlovy Vary"
 				state_scope = { change_region_name = "Sudety" }
@@ -1476,7 +1460,6 @@ political_decisions = {
 		effect = {
 			set_global_flag = west_galicia_rename_polish
 			clr_global_flag = west_galicia_rename_german
-			prestige = 2
 			711 = {
 				change_province_name = "Siedlce"
 				state_scope = { change_region_name = "West Galicja" }
@@ -1506,7 +1489,6 @@ political_decisions = {
 		effect = {
 			set_global_flag = west_galicia_rename_german
 			clr_global_flag = west_galicia_rename_polish
-			prestige = 2
 			711 = {
 				change_province_name = "Siedlce"
 				state_scope = { change_region_name = "West-Galizien" }
@@ -1541,7 +1523,6 @@ political_decisions = {
 		effect = {
 			clr_global_flag = west_galicia_rename_german
 			clr_global_flag = west_galicia_rename_polish
-			prestige = 2
 			711 = {
 				change_province_name = "Sedlets"
 				state_scope = { change_region_name = "Ljublin" }
@@ -1575,7 +1556,6 @@ political_decisions = {
 		effect = {
 			set_global_flag = mazovia_rename_polish
 			clr_global_flag = mazovia_rename_german
-			prestige = 2
 			706 = {
 				change_province_name = "Warszawa"
 				state_scope = { change_region_name = "Mazowsze" }
@@ -1605,7 +1585,6 @@ political_decisions = {
 		effect = {
 			set_global_flag = mazovia_rename_german
 			clr_global_flag = mazovia_rename_polish
-			prestige = 2
 			706 = {
 				change_province_name = "Warschau"
 				state_scope = { change_region_name = "Masowien" }
@@ -1640,7 +1619,6 @@ political_decisions = {
 		effect = {
 			clr_global_flag = mazovia_rename_german
 			clr_global_flag = mazovia_rename_polish
-			prestige = 2
 			706 = {
 				change_province_name = "Varšava"
 				state_scope = { change_region_name = "Mazovia" }
