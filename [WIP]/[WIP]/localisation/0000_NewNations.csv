@@ -92,7 +92,7 @@ CND_socialist;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 CND_communist;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 CND_fascist;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 NRD;North Sea Empire;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-NRD_ADJ;Norse-Saxon;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+NRD_ADJ;Anglo-Norse;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 NRD_conservative;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 NRD_liberal;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 NRD_reactionary;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
@@ -295,14 +295,14 @@ PRU_absolute_monarchy;Pruthenia;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 PRU_hms_government;Pruthenia;;;;;;;;;;;;x
 PRU_prussian_constitutionalism;Pruthenia;;;;;;;;;;;;x
 PRU_ADJ;Pruthenian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-LIR_colonial_company;Livonia;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+UBD_colonial_company;Livonia;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 UBD_ADJ;Baltic;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 MNG;Ming;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 MNG_ADJ;Chinese;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 MAH;Marathi Empire;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 MAH_ADJ;Marathi Empire;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 PNJ;Punjab;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-PNJ_absolute_monarchy;Ostan-e Punjab;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+PNJ_absolute_monarchy;Ostan-e Panj Ab;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 PNJ_hms_government;Punjab;;;;;;;;;;;;x
 PNJ_prussian_constitutionalism;Punjab;;;;;;;;;;;;x
 PNJ_ADJ;Punjabian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
@@ -315,6 +315,8 @@ NAP;Naples;;;;;;;;;;;;x
 NAP_ADJ;Neapolitan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 KNI;The Knights;;;;;;;;;;;;x
 KNI_ADJ;Knights';;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+NZH;Nanzhao;;;;;;;;;;;;x
+NZH_ADJ;Yi;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 CMN;Kunság;;;;;;;;;;;;x
 CMN_ADJ;Cuman;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 YNN;Im a placeholder;;;;;;;;;;;;x
@@ -333,4 +335,8 @@ LIH_ADJ;Aukštaitian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 SMG;Samogitia;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 SMG_ADJ;Samogitian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 CUR;Courland;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-CUR_ADJ;Courish;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+CUR_ADJ;Curonian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+NIB;New Iberia;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+NIB_ADJ;New Iberian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+CHV;Chuvashia;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+CHV_ADJ;Chuvashian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;

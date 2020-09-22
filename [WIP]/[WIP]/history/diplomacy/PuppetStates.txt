@@ -180,6 +180,22 @@ vassal = {
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }
+
+#Ming
+vassal = {
+	first = MNG
+	second = GXI
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = MNG
+	second = GUI
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
 #Knights of Malta
 substate = {
 	first = SYC

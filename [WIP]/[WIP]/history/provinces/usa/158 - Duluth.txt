@@ -1,5 +1,6 @@
-owner = NRD
-controller = NRD
+owner = RPL
+controller = RPL
+add_core = RPL
 trade_goods = fish
 life_rating = 35
 colonial = 2

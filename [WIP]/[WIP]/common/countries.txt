@@ -68,6 +68,10 @@ ABB		        ="countries/Abbasid.txt"
 LIH		        ="countries/Aukstaitia.txt"
 SMG		        ="countries/Samogitia.txt"
 CUR		        ="countries/Courland.txt"
+NZH		        ="countries/Nanzhao.txt"
+SHU		        ="countries/Shu.txt"
+NIB		        ="countries/New Iberia.txt"
+CHV             ="countries/Chuvashia.txt"
 
 ##HFM New Nations
 #ATB	= "countries/Saxe-Altenburg.txt"

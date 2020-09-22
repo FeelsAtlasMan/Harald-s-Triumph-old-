@@ -1,7 +1,7 @@
-owner = YNN
-controller = YNN
+owner = NZH
+controller = NZH
 add_core = CHI
-add_core = YNN
+add_core = NZH
 add_core = GUI
 trade_goods = tea
 life_rating = 32

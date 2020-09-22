@@ -97,14 +97,10 @@ upper_house = {
 	communist = 0
 }
 
-schools = naval_tech_school
-
-decision = literacy_ENG
-
 govt_flag = {
 	government = presidential_dictatorship
 }
 
-oob = "NRD_oob.txt"
+oob = "MNS_oob.txt"
 
 

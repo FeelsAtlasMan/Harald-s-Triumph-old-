@@ -1,8 +1,5 @@
-capital = 281
-primary_culture = norwegian
-culture = danish
-culture = british
-culture = norn
+capital = 3307
+primary_culture = englisk
 culture = vinlander
 culture = australian
 religion = protestant
@@ -93,7 +90,7 @@ precision_work = yes
 consciousness = 3
 nonstate_consciousness = 1
 
-ruling_party = NRD_liberal
+ruling_party = NOR_liberal
 last_election = 1835.2.19
 upper_house = {
 	fascist = 0

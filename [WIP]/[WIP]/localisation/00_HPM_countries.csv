@@ -514,7 +514,7 @@ BRZ_anarcho_liberal;Partido Anarquista;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 BRZ_socialist;Partido Socialista;;;;;;;;;;;;;;;;x;;;;
 BRZ_communist;Partido Comunista;;;;;;;;;;;;;;;x;;;;
 BRZ_fascist;Ação Integralista Brasileira;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-PNB;Al'Brazil;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+PNB;Ashjar Alzambir;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PNB_ADJ;Brazili;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 SWI_communist;Kommunistische Partei;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 SWI_fascist;Nationale Front;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
@@ -2034,8 +2034,8 @@ RPL_colonial_company;Hvit Bukt Company;;;;;;;;;;;;x,
 RPL_dominion;Hvit Bukt Company;;;;;;;;;;;;x,
 RPL_colonial_company_ADJ;Anglo-Norse;;;;;;;;;;;;x
 RPL_dominion_ADJ;Anglo-Norse;;;;;;;;;;;;x
-RPL;Henriksland;;;;;;;;;;;;x
-RPL_ADJ;Henrikan;;;;;;;;;;;;x
+RPL;Helluland;;;;;;;;;;;;x
+RPL_ADJ;Hellulandian;;;;;;;;;;;;x
 RPL_hms_government;Henriksland;;;;;;;;;;;;x
 RPL_hms_government_ADJ;Henrikan;;;;;;;;;;;;x
 RUT_proletarian_dictatorship;West Ukrainian People's Republic;;;;;;;;;;;;;x

@@ -3,7 +3,6 @@ primary_culture = mexicain
 culture = cajun
 culture = central_american
 culture = aquitan
-culture = iberiano
 religion = catholic
 government = presidential_dictatorship
 plurality = 0.2

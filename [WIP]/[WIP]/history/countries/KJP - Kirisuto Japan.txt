@@ -1,4 +1,4 @@
-capital = 1657
+capital = 1662
 primary_culture = japanese
 religion = catholic
 government = absolute_monarchy
@@ -46,7 +46,7 @@ land_reform = yes_land_reform
 #education_reform = yes_education_reform
 #research_reform = yes_research_reform
 #transport_improv = yes_transport_improv
-#firearms_production = yes_firearms_production
+firearms_production = yes_firearms_production
 #pre_indust = yes_pre_indust
 #industrial_construction = yes_industrial_construction
 

@@ -1,12 +1,12 @@
 capital = 492
 primary_culture = basque
 religion = catholic
-government = democracy
+government = absolute_monarchy
 plurality = 0.1
 nationalvalue = nv_order
 literacy = 0.48
 civilized = yes
-
+prestige = 5
 
 # Political reforms
 slavery = no_slavery
@@ -37,6 +37,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies 
 
+oob = "BSQ_oob.txt"
 set_country_flag = catholic_country
 
 ruling_party = BSQ_liberal

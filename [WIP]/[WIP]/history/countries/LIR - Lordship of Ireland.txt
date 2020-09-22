@@ -1,7 +1,6 @@
 capital = 263
-primary_culture = norse_gaelic
-culture = british
-culture = irish
+primary_culture = englisk
+culture = norse_gaelic
 religion = protestant
 government = colonial_company
 plurality = 30
@@ -99,14 +98,10 @@ upper_house = {
 	communist = 0
 }
 
-schools = naval_tech_school
-
-decision = literacy_ENG
-
 govt_flag = {
 	government = presidential_dictatorship
 }
 
-oob = "NRD_oob.txt"
+oob = "LIR_oob.txt"
 
 

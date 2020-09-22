@@ -1,6 +1,6 @@
 owner = FDA
 controller = FDA
-add_core = USA
-trade_goods = fruit
-life_rating = 35
+add_core = NIB
+trade_goods = fruitlife_rating = 35
 naval_base = 1
+is_slave = yes

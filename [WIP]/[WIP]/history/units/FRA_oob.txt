@@ -32,13 +32,8 @@ PAP = {
 }
 SIC = {
 	value = 125		#relation
-	level = 4		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 25
-}
-BRG = {
-	value = -125    #relation
 	level = 2		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 0
+	influence_value = 25
 }
 LOR = {
 	value = 175		#relation
@@ -60,7 +55,7 @@ TRR = {
 NRD = { value = -25 }
 FDA = { value = -200 }
 SAX = { value = -150 }
-USA = { value = 150 }
+BYZ = { value = 150 }
 SWE = { value = 200 }
 BOH = { value = -75 }
 HUN = { value = 55 }
@@ -372,9 +367,63 @@ army = {
 
 }
 
+army = {
+	name = "Garnison de"
+	location = 1894
+
+	regiment = {
+		name= "1.11ème Division d'Infanterie"
+		type = infantry
+		home = 1455
+	}
+	regiment = {
+		name= "2.11ème Division d'Infanterie"
+		type = infantry
+		home = 1456
+	}
+	regiment = {
+		name= "3.11ème Division d'Infanterie"
+		type = infantry
+		home = 1457
+	}
+	regiment = {
+		name= "4.11ème Division d'Infanterie"
+		type = infantry
+		home = 1463
+	}
+
+}
+
+army = {
+	name = "Garnison de Formose"
+	location = 2681
+
+	regiment = {
+		name= "1.11ème Division d'Infanterie"
+		type = infantry
+		home = 2681
+	}
+	regiment = {
+		name= "2.11ème Division d'Infanterie"
+		type = infantry
+		home = 2681
+	}
+	regiment = {
+		name= "3.11ème Division d'Infanterie"
+		type = infantry
+		home = 2681
+	}
+	regiment = {
+		name= "4.11ème Division d'Infanterie"
+		type = infantry
+		home = 1485
+	}
+
+}
+
 navy = {
 	name = "Escadre du Nord"
-	location = 420
+	location = 139
 	ship = {
 		name= "Couronne"
 		type = manowar
@@ -407,11 +456,6 @@ navy = {
 
 	ship = {
 		name= "Zélandais"
-		type = manowar
-	}
-
-	ship = {
-		name= "Superbe"
 		type = manowar
 	}
 
@@ -539,12 +583,27 @@ navy = {
 		name= "3ème Flotille de Transport"
 		type = clipper_transport
 	}
+	
+	ship = {
+		name= "1ère Flotille de Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2ème Flotille de Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3ème Flotille de Transport"
+		type = clipper_transport
+	}
 
 }
 
 navy = {
 	name = "Escadre de Méditerranée"
-	location = 470
+	location = 461
 	ship = {
 		name= "Triton"
 		type = manowar
