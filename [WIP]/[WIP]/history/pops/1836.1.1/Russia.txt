@@ -5357,76 +5357,52 @@
 #under the rule of Russia in 1836
 #Derbent (160000/40000 POPS)
 1052 = {
-	bureaucrats = {
-		culture = scythian
-		religion = orthodox
-		size = 75
-	}
-
-	clergymen = {
-	    culture = scythian
-		religion = orthodox
-		size = 25
-	}
-
-	artisans = {
-		culture = scythian
-		religion = orthodox
-		size = 225
-	}
-
 	aristocrats = {
-		culture = dagestani
+		culture = dargin
 		religion = sunni
 		size = 650
 	}
 
 	clergymen = {
-		culture = dagestani
+		culture = dargin
 		religion = sunni
 		size = 350
 	}
 
 	officers = {
-		culture = dagestani
+		culture = dargin
 		religion = sunni
-		size = 75
+		size = 575
 	}
 
 	artisans = {
-		culture = dagestani
+		culture = dargin
 		religion = sunni
-		size = 1800
+		size = 4800
 	}
 
 	soldiers = {
-		culture = dagestani
+		culture = dargin
 		religion = sunni
-		size = 1150
+		size = 2650
 	}
 
 	farmers = {
-		culture = dagestani
+		culture = dargin
 		religion = sunni
-		size = 30000
-	}
-	
-	farmers = {
-		culture = adari
-		religion = shiite
-		size = 18000
+		size = 25000
 	}
 
 	clergymen = {
 		culture = sephardic
 		religion = jewish
-		size = 10
+		size = 710
 	}
 
 	artisans = {
 		culture = sephardic
 		religion = jewish
-		size = 25
+		size = 4025
 	}
 
 	farmers = {
@@ -5438,19 +5414,19 @@
 	aristocrats = {
 		culture = adari
 		religion = shiite
-		size = 50
+		size = 750
 	}
 
 	clergymen = {
 		culture = adari
 		religion = shiite
-		size = 50
+		size = 650
 	}
 
 	artisans = {
 		culture = adari
 		religion = shiite
-		size = 150
+		size = 8150
 	}
 
 	soldiers = {
@@ -5458,61 +5434,61 @@
 		religion = shiite
 		size = 1750
 	}
-
+	
 	farmers = {
 		culture = adari
 		religion = shiite
-		size = 1100
+		size = 24000
+	}
+	
+	farmers = {
+		culture = lezgic
+		religion = sunni
+		size = 8000
 	}
 }
 #Gunib (164000/41000 POPS)
 1053 = {
 	aristocrats = {
-		culture = dagestani
+		culture = avar
 		religion = sunni
 		size = 650
 	}
 
 	clergymen = {
-		culture = dagestani
+		culture = avar
 		religion = sunni
 		size = 350
 	}
 
 	artisans = {
-		culture = dagestani
+		culture = avar
 		religion = sunni
 		size = 1750
 	}
 
 	soldiers = {
-		culture = dagestani
+		culture = avar
 		religion = sunni
 		size = 4350
 	}
 
 	farmers = {
-		culture = dagestani
+		culture = avar
 		religion = sunni
-		size = 42200
+		size = 30200
 	}
-
-	clergymen = {
-		culture = sephardic
-		religion = jewish
-		size = 10
-	}
-
-	artisans = {
-		culture = sephardic
-		religion = jewish
-		size = 25
-	}
-
+	
 	farmers = {
-		culture = sephardic
-		religion = jewish
-		size = 665
+		culture = dargin
+		religion = sunni
+		size = 6200
+	}
+	
+	farmers = {
+		culture = lezgic
+		religion = sunni
+		size = 4000
 	}
 
 	aristocrats = {
@@ -5520,7 +5496,261 @@
 		religion = shiite
 		size = 75
 	}
+}
+#Beshta
+3314 = {
+	clergymen = {
+		culture = andi_didoic
+		religion = sunni
+		size = 150
+	}
 
+	artisans = {
+		culture = andi_didoic
+		religion = sunni
+		size = 750
+	}
+
+	soldiers = {
+		culture = andi_didoic
+		religion = sunni
+		size = 1350
+	}
+
+	farmers = {
+		culture = andi_didoic
+		religion = sunni
+		size = 9000
+	}
+	
+	farmers = {
+		culture = avar
+		religion = sunni
+		size = 3200
+	}
+}
+#Agwali
+3315 = {
+	clergymen = {
+		culture = avar
+		religion = sunni
+		size = 150
+	}
+
+	artisans = {
+		culture = avar
+		religion = sunni
+		size = 750
+	}
+
+	soldiers = {
+		culture = avar
+		religion = sunni
+		size = 1350
+	}
+
+	farmers = {
+		culture = avar
+		religion = sunni
+		size = 4000
+	}
+	
+	farmers = {
+		culture = andi_didoic
+		religion = sunni
+		size = 6200
+	}
+}
+#Akusha
+3316 = {
+	clergymen = {
+		culture = dargin
+		religion = sunni
+		size = 150
+	}
+
+	artisans = {
+		culture = dargin
+		religion = sunni
+		size = 750
+	}
+
+	soldiers = {
+		culture = dargin
+		religion = sunni
+		size = 1350
+	}
+
+	farmers = {
+		culture = dargin
+		religion = sunni
+		size = 32000
+	}
+	
+	farmers = {
+		culture = lezgic
+		religion = sunni
+		size = 6200
+	}
+	
+	farmers = {
+		culture = avar
+		religion = sunni
+		size = 8200
+	}
+}
+#Tshakur
+3317 = {
+	clergymen = {
+		culture = lezgic
+		religion = sunni
+		size = 150
+	}
+
+	artisans = {
+		culture = lezgic
+		religion = sunni
+		size = 750
+	}
+
+	soldiers = {
+		culture = lezgic
+		religion = sunni
+		size = 1350
+	}
+
+	farmers = {
+		culture = lezgic
+		religion = sunni
+		size = 22500
+	}
+	
+	clergymen = {
+		culture = adari
+		religion = shiite
+		size = 150
+	}
+
+	artisans = {
+		culture = adari
+		religion = shiite
+		size = 1750
+	}
+	
+	farmers = {
+		culture = adari
+		religion = shiite
+		size = 200
+	}
+	
+	farmers = {
+		culture = dargin
+		religion = sunni
+		size = 8200
+	}
+}
+#Nasran
+3318 = {
+	clergymen = {
+		culture = ingush
+		religion = sunni
+		size = 150
+	}
+
+	artisans = {
+		culture = ingush
+		religion = sunni
+		size = 2750
+	}
+
+	soldiers = {
+		culture = ingush
+		religion = sunni
+		size = 1350
+	}
+
+	farmers = {
+		culture = ingush
+		religion = sunni
+		size = 42500
+	}
+	
+	clergymen = {
+		culture = scythian
+		religion = shiite
+		size = 150
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shiite
+		size = 1750
+	}
+	
+	farmers = {
+		culture = scythian
+		religion = shiite
+		size = 15200
+	}
+	
+	farmers = {
+		culture = chechen
+		religion = sunni
+		size = 8200
+	}
+}
+#Tarki
+3319 = {
+	clergymen = {
+		culture = adari
+		religion = shiite
+		size = 150
+	}
+
+	artisans = {
+		culture = adari
+		religion = shiite
+		size = 4750
+	}
+
+	soldiers = {
+		culture = adari
+		religion = shiite
+		size = 1350
+	}
+
+	farmers = {
+		culture = adari
+		religion = shiite
+		size = 20500
+	}
+	
+	clergymen = {
+		culture = astrakhan_tatar
+		religion = sunni
+		size = 150
+	}
+
+	soldiers = {
+		culture = astrakhan_tatar
+		religion = sunni
+		size = 1750
+	}
+	
+	farmers = {
+		culture = astrakhan_tatar
+		religion = sunni
+		size = 32200
+	}
+	
+	farmers = {
+		culture = avar
+		religion = sunni
+		size = 11200
+	}
+}
+#Quba
+3320 = {
 	clergymen = {
 		culture = adari
 		religion = shiite
@@ -5530,19 +5760,37 @@
 	artisans = {
 		culture = adari
 		religion = shiite
-		size = 250
+		size = 1750
 	}
 
 	soldiers = {
 		culture = adari
 		religion = shiite
-		size = 1050
+		size = 350
 	}
 
 	farmers = {
 		culture = adari
 		religion = shiite
-		size = 3575
+		size = 10500
+	}
+	
+	clergymen = {
+		culture = lezgic
+		religion = sunni
+		size = 150
+	}
+
+	soldiers = {
+		culture = lezgic
+		religion = sunni
+		size = 2750
+	}
+	
+	farmers = {
+		culture = lezgic
+		religion = sunni
+		size = 23200
 	}
 }
 #Kavkaz Region (348000)
@@ -5707,62 +5955,80 @@
 1057 = {
 	aristocrats = {
 		culture = scythian
-		religion = orthodox
+		religion = shiite
 		size = 125
 	}
 
 	clergymen = {
 		culture = scythian
-		religion = orthodox
+		religion = shiite
 		size = 100
 	}
 
 	artisans = {
 		culture = scythian
-		religion = orthodox
+		religion = shiite
 		size = 600
 	}
 
 	farmers = {
 		culture = scythian
-		religion = orthodox
-		size = 6175
+		religion = shiite
+		size = 26175
 	}
 
 	aristocrats = {
-		culture = dagestani
+		culture = avar
 		religion = sunni
 		size = 125
 	}
 
 	clergymen = {
-		culture = dagestani
+		culture = avar
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = dagestani
+		culture = avar
 		religion = sunni
-		size = 3350
+		size = 350
 	}
 
 	soldiers = {
-		culture = dagestani
+		culture = avar
 		religion = sunni
-		size = 2075
+		size = 3075
 	}
 
 	farmers = {
-		culture = dagestani
+		culture = avar
 		religion = sunni
-		size = 4000
+		size = 9000
+	}
+	
+	clergymen = {
+		culture = astrakhan_tatar
+		religion = sunni
+		size = 75
+	}
+
+	artisans = {
+		culture = astrakhan_tatar
+		religion = sunni
+		size = 350
+	}
+
+	soldiers = {
+		culture = astrakhan_tatar
+		religion = sunni
+		size = 5075
 	}
 	
 	farmers = {
 		culture = astrakhan_tatar
 		religion = sunni
-		size = 5375
+		size = 25375
 	}
 }
 #Urals Region (832000)

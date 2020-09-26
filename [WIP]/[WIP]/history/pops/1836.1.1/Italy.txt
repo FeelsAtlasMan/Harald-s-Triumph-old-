@@ -1901,7 +1901,7 @@
 #Bari (572000/143000 POPS)
 756 = {
 	aristocrats = {
-		culture = south_italian
+		culture = south_german
 		religion = catholic
 		size = 3500
 	}
@@ -2223,11 +2223,17 @@
 		religion = catholic
 		size = 6000
 	}
+	
+	farmers = {
+		culture = norman
+		religion = catholic
+		size = 11737
+	}
 
 	farmers = {
 		culture = griko
 		religion = orthodox
-		size = 81737
+		size = 70000
 	}
 	
 	farmers = {
@@ -2470,7 +2476,7 @@
 	}
 
 	farmers = {
-		culture = croat
+		culture = south_german
 		religion = catholic
 		size = 3000
 	}

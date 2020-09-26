@@ -42,7 +42,7 @@ leader = {
 }
 
 leader = {
-	name = "Ferdinando II"
+	name = "Ferdinand II"
 	date = 1820.1.1
 	type = land
 	personality = bigoted
@@ -51,7 +51,7 @@ leader = {
 }
 
 army = {
-	name = "Esercito delle Due Sicilia"
+	name = "Esercito delle Sicilia"
 	location = 754
 	regiment = {
 		name= "1. Fanteria di Linea - Re e Regina"
@@ -99,12 +99,7 @@ army = {
 
 army = {
 	name = "Guardia Reale"
-	location = 762
-	regiment = {
-		name= "1. Guardia Reale"
-		type = guard
-		home = 762
-	}
+	location = 756
 
 	regiment = {
 		name= "1. Truppe Svizzere"
@@ -122,12 +117,6 @@ army = {
 		name= "3. Truppe Svizzere"
 		type = infantry
 		home = 758
-	}
-
-	regiment = {
-		name= "4. Truppe Svizzere"
-		type = artillery
-		home = 763
 	}
 
 }

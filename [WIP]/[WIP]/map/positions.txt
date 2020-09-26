@@ -11619,19 +11619,19 @@
 
 266 = {
     text_position = {
-        x = 2761.300049
-        y = 1781.699951
+        x = 2762.025000
+        y = 1784.396667
     }
 
     text_scale = 2.500000
-    building_construction = {
-        x = 2768.100098
-        y = 1779.900024
-    }
-
     factory = {
         x = 2753.800049
         y = 1790.099976
+    }
+
+    building_construction = {
+        x = 2768.100098
+        y = 1779.900024
     }
 
     building_position = {
@@ -11640,14 +11640,14 @@
             y = 1788.400024
         }
 
-        naval_base = {
-            x = 2769.000000
-            y = 1794.099976
-        }
-
         railroad = {
             x = 2758.100098
             y = 1780.000000
+        }
+
+        naval_base = {
+            x = 2769.000000
+            y = 1794.099976
         }
 
     }
@@ -11711,25 +11711,26 @@
 } # Dundee
 
 268 = {
+    text_position = {
+        x = 2751.880000
+        y = 1763.805000
+    }
+
+    text_rotation = 0.856202
+    text_scale = 2.200000
     unit = {
         x = 2751.000000
         y = 1768.000000
     }
 
-    text_position = {
-        x = 2749.800049
-        y = 1766.800049
-    }
-
-    text_scale = 2.200000
-    building_construction = {
-        x = 2742.000000
-        y = 1771.099976
-    }
-
     factory = {
         x = 2759.600098
         y = 1771.900024
+    }
+
+    building_construction = {
+        x = 2756.115000
+        y = 1770.350000
     }
 
     building_position = {
@@ -11738,14 +11739,14 @@
             y = 1760.900024
         }
 
+        railroad = {
+            x = 2753.640000
+            y = 1762.210000
+        }
+
         naval_base = {
             x = 2766.600098
             y = 1768.199951
-        }
-
-        railroad = {
-            x = 2748.000000
-            y = 1772.000000
         }
 
     }
@@ -11804,26 +11805,26 @@
 } # Stirling
 
 270 = {
+    text_position = {
+        x = 2735.875000
+        y = 1765.258333
+    }
+
+    text_rotation = 0.299602
+    text_scale = 2.400000
     unit = {
         x = 2734.000000
         y = 1762.000000
     }
 
-    text_position = {
-        x = 2732.600098
-        y = 1760.599976
-    }
-
-    text_rotation = 6.283184
-    text_scale = 2.400000
-    building_construction = {
-        x = 2742.399902
-        y = 1759.500000
-    }
-
     factory = {
         x = 2729.699951
         y = 1766.699951
+    }
+
+    building_construction = {
+        x = 2740.191667
+        y = 1762.166667
     }
 
     building_position = {
@@ -11832,14 +11833,14 @@
             y = 1755.000000
         }
 
-        naval_base = {
-            x = 2718.399902
-            y = 1760.699951
-        }
-
         railroad = {
             x = 2732.899902
             y = 1758.300049
+        }
+
+        naval_base = {
+            x = 2718.399902
+            y = 1760.699951
         }
 
     }
@@ -11894,26 +11895,26 @@
 } # Dumfries
 
 272 = {
+    text_position = {
+        x = 2761.100000
+        y = 1743.050000
+    }
+
+    text_rotation = 6.283185
+    text_scale = 2.500000
     unit = {
         x = 2757.000000
         y = 1740.000000
     }
 
-    text_position = {
-        x = 2752.000000
-        y = 1736.599976
-    }
-
-    text_rotation = 6.283185
-    text_scale = 2.500000
-    building_construction = {
-        x = 2743.000000
-        y = 1736.000000
-    }
-
     factory = {
         x = 2765.800049
         y = 1747.199951
+    }
+
+    building_construction = {
+        x = 2753.650000
+        y = 1737.350000
     }
 
     building_position = {
@@ -11922,22 +11923,14 @@
             y = 1732.000000
         }
 
-        naval_base = {
-            x = 2773.100098
-            y = 1754.699951
-        }
-
         railroad = {
             x = 2755.000000
             y = 1739.000000
         }
 
-    }
-
-    spawn_railway_track = {
-        {
-            x = 2757.901855
-            y = 1746.900269
+        naval_base = {
+            x = 2773.100098
+            y = 1754.699951
         }
 
     }
@@ -12345,25 +12338,26 @@
 } # Hull
 
 281 = {
-    unit = {
-        x = 2793.000000
-        y = 1715.000000
-    }
-
     text_position = {
-        x = 2789.899902
-        y = 1715.900024
+        x = 2796.548333
+        y = 1717.585000
     }
 
+    text_rotation = 5.476514
     text_scale = 2.200000
-    building_construction = {
-        x = 2801.199951
-        y = 1714.400024
+    unit = {
+        x = 2793.500000
+        y = 1715.260000
     }
 
     factory = {
-        x = 2783.000000
-        y = 1721.000000
+        x = 2786.628333
+        y = 1721.460000
+    }
+
+    building_construction = {
+        x = 2801.199951
+        y = 1714.400024
     }
 
     building_position = {
@@ -12372,22 +12366,14 @@
             y = 1710.000000
         }
 
-        naval_base = {
-            x = 2800.100098
-            y = 1720.599976
-        }
-
         railroad = {
             x = 2795.699951
             y = 1714.900024
         }
 
-    }
-
-    spawn_railway_track = {
-        {
-            x = 2788.899902
-            y = 1722.599854
+        naval_base = {
+            x = 2800.100098
+            y = 1720.599976
         }
 
     }
@@ -120981,19 +120967,53 @@
 # Jorvik
 3307 = {
     text_position = {
-        x = 3472.5
-        y = 1490
+        x = 2789.600000
+        y = 1715.050000
     }
 
+    text_rotation = 5.611579
     text_scale = 2
     unit = {
-        x = 3469.6
-        y = 1490
+        x = 2787.750000
+        y = 1716.500000
     }
 
     city = {
-        x = 3472
-        y = 1492
+        x = 2788.800000
+        y = 1715.150000
+    }
+
+    factory = {
+        x = 2790.550000
+        y = 1716.450000
+    }
+
+    building_construction = {
+        x = 2794.350000
+        y = 1713.200000
+    }
+
+    military_construction = {
+        x = 2789.850000
+        y = 1713.300000
+    }
+
+    building_position = {
+        fort = {
+            x = 2789.000000
+            y = 1715.350000
+        }
+
+        railroad = {
+            x = 2790.550000
+            y = 1714.650000
+        }
+
+        naval_base = {
+            x = 2802.400000
+            y = 1706.600000
+        }
+
     }
 
 }

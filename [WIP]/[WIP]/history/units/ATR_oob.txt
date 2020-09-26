@@ -82,3 +82,13 @@ army = {
 	}
 }
 
+leader = {
+	name = "Gonzalo Acuña"
+	picture = european_general_55
+	type = land
+	date = 1825.8.20
+	background = aristocrat
+	personality = soldierly
+	prestige = 0.1
+	}
+

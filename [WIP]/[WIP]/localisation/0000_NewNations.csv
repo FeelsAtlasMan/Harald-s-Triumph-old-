@@ -1,12 +1,3 @@
-BRG;Burgundy;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-BRG_ADJ;Burgundian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-BRG_conservative;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-BRG_liberal;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-BRG_reactionary;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-BRG_anarcho_liberal;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-BRG_socialist;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-BRG_communist;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-BRG_fascist;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 NOV;Novgorod;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 NOV_ADJ;Novgorodian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 NOV_conservative;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
@@ -109,8 +100,8 @@ ILL_anarcho_liberal;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 ILL_socialist;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 ILL_communist;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 ILL_fascist;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-MEC;Polabia;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-MEC_ADJ;Polabian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+PLB;Polabia;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+PLB_ADJ;Polabian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 MEC_conservative;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 MEC_liberal;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 MEC_reactionary;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
@@ -311,6 +302,11 @@ BLC_absolute_monarchy;Ostanha-ye Baluchestan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 BLC_hms_government;Baluchistan;;;;;;;;;;;;x
 BLC_prussian_constitutionalism;Baluchistan;;;;;;;;;;;;x
 BLC_ADJ;Baluchi;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TAR_absolute_monarchy;Kipchak Khanate;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TAR_hms_government;Kipchak Khanate;;;;;;;;;;;;x
+TAR_prussian_constitutionalism;Kipchak Khanate;;;;;;;;;;;;x
+TAR_republic;Kipchakistan;;;;;;;;;;;;x
+TAR_ADJ;Kipchak;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 NAP;Naples;;;;;;;;;;;;x
 NAP_ADJ;Neapolitan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 KNI;The Knights;;;;;;;;;;;;x

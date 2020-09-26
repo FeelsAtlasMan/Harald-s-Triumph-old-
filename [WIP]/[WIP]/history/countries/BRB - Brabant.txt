@@ -1,12 +1,11 @@
 capital = 387
-primary_culture = north_german
-culture = swiss_german
-culture = south_german
+primary_culture = dutch
+culture = north_german
 religion = protestant
 government = absolute_monarchy
 plurality = 0.05
 nationalvalue = nv_liberty
-literacy = 0.28
+literacy = 0.68
 civilized = yes
 prestige = 5
 
@@ -43,6 +42,8 @@ colonial_policy = no_colonies
 set_country_flag = protestant_country
 set_country_flag = HRE_country
 
+OOB = "BRB_oob.txt"
+
 #Technologies
 post_napoleonic_thought = 1
 flintlock_rifles = 1
@@ -69,6 +70,7 @@ piston_steam_engine = 1
 mechanical_production = 1
 mechanized_mining = 1
 basic_chemistry = 1
+
 
 ruling_party = FLA_conservative
 upper_house = {

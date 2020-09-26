@@ -119,7 +119,7 @@ WLL = {
 	influence_value = 0
 }
 
-MEC = {
+PLB = {
 	value = 150
 	level = 4
 	influence_value = 0
@@ -167,16 +167,16 @@ leader = {
 	type = land
 	personality = tactful
 	background = nationalist
-	prestige = 0.1
+	prestige = 0.8
 }
 
 leader = {
-	name = "von Hannover"
+	name = "von Ostfalen"
 	date = 1817.1.1
 	type = land
 	personality = cautious
 	background = school_of_defense
-	prestige = 0.2
+	prestige = 0.9
 }
 
 army = {

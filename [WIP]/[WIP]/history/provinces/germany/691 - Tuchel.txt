@@ -1,6 +1,6 @@
 owner = BOH
 controller = BOH
-add_core = MEC
+add_core = PLB
 trade_goods = cattle
 life_rating = 35
 

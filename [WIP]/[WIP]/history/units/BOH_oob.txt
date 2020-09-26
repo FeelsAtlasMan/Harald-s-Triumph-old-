@@ -17,7 +17,7 @@ BRB = {
 	value = -100
 	level = 3
 }
-MEC = {
+PLB = {
 	value = 125		
 	level = 5		
 	influence_value = 50

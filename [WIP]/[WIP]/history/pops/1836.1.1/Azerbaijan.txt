@@ -126,92 +126,92 @@
 1103 = {
 	aristocrats = {
 		culture = azeri
-		religion = sunni
+		religion = shiite
 		size = 50
 	}
 
 	clergymen = {
 		culture = azeri
-		religion = sunni
-		size = 50
+		religion = shiite
+		size = 250
 	}
 
 	artisans = {
 		culture = azeri
-		religion = sunni
+		religion = shiite
 		size = 150
 	}
 
 	soldiers = {
 		culture = azeri
-		religion = sunni
-		size = 25
+		religion = shiite
+		size = 2025
 	}
 
 	farmers = {
 		culture = azeri
-		religion = sunni
-		size = 2725
+		religion = shiite
+		size = 12725
 	}
 
 	aristocrats = {
 		culture = adari
 		religion = shiite
-		size = 125
+		size = 325
 	}
 
 	clergymen = {
 		culture = adari
 		religion = shiite
-		size = 75
+		size = 275
 	}
 
 	artisans = {
 		culture = adari
 		religion = shiite
-		size = 350
+		size = 2350
 	}
 
 	soldiers = {
 		culture = adari
 		religion = shiite
-		size = 75
+		size = 1075
 	}
 
 	farmers = {
 		culture = adari
 		religion = shiite
-		size = 6400
+		size = 30400
 	}
 
 	aristocrats = {
-		culture = dagestani
+		culture = lezgic
 		religion = sunni
-		size = 75
+		size = 275
 	}
 
 	clergymen = {
-		culture = dagestani
+		culture = lezgic
 		religion = sunni
-		size = 100
+		size = 300
 	}
 
 	artisans = {
-		culture = dagestani
+		culture = lezgic
 		religion = sunni
-		size = 100
+		size = 1100
 	}
 
 	soldiers = {
-		culture = dagestani
+		culture = lezgic
 		religion = sunni
-		size = 100
+		size = 2100
 	}
 
 	farmers = {
-		culture = dagestani
+		culture = lezgic
 		religion = sunni
-		size = 3600
+		size = 15600
 	}
 }
 #Sheki (24000/6000 POPS)
@@ -219,91 +219,121 @@
 	aristocrats = {
 		culture = azeri
 		religion = sunni
-		size = 30
+		size = 130
 	}
 
 	clergymen = {
 		culture = azeri
 		religion = sunni
-		size = 45
+		size = 245
 	}
 
 	artisans = {
 		culture = azeri
 		religion = sunni
-		size = 100
+		size = 600
 	}
 
 	soldiers = {
 		culture = azeri
 		religion = sunni
-		size = 25
+		size = 1025
 	}
 
 	farmers = {
 		culture = azeri
 		religion = sunni
-		size = 1800
+		size = 7800
 	}
 
 	aristocrats = {
 		culture = georgian
 		religion = orthodox
-		size = 20
+		size = 120
 	}
 
 	clergymen = {
 		culture = georgian
 		religion = orthodox
-		size = 20
+		size = 220
 	}
 
 	artisans = {
 		culture = georgian
 		religion = orthodox
-		size = 50
+		size = 650
 	}
 
 	soldiers = {
 		culture = georgian
 		religion = orthodox
-		size = 10
+		size = 1010
 	}
 
 	farmers = {
 		culture = georgian
 		religion = orthodox
-		size = 900
+		size = 6900
 	}
 
 	aristocrats = {
-		culture = dagestani
+		culture = avar
 		religion = sunni
-		size = 50
+		size = 70
 	}
 
 	clergymen = {
-		culture = dagestani
+		culture = avar
 		religion = sunni
-		size = 100
+		size = 200
 	}
 
 	artisans = {
-		culture = dagestani
+		culture = avar
+		religion = sunni
+		size = 650
+	}
+
+	soldiers = {
+		culture = avar
+		religion = sunni
+		size = 400
+	}
+
+	farmers = {
+		culture = avar
+		religion = sunni
+		size = 4600
+	}
+	
+	aristocrats = {
+		culture = lezgic
 		religion = sunni
 		size = 150
 	}
 
-	soldiers = {
-		culture = dagestani
+	clergymen = {
+		culture = lezgic
 		religion = sunni
-		size = 100
+		size = 200
+	}
+
+	artisans = {
+		culture = lezgic
+		religion = sunni
+		size = 650
+	}
+
+	soldiers = {
+		culture = lezgic
+		religion = sunni
+		size = 1100
 	}
 
 	farmers = {
-		culture = dagestani
+		culture = lezgic
 		religion = sunni
-		size = 2600
+		size = 10000
 	}
 }
 #Ganja (68000/17000 POPS)
@@ -441,37 +471,43 @@
 	aristocrats = {
 		culture = adari
 		religion = shiite
-		size = 225
+		size = 425
 	}
 
 	clergymen = {
 		culture = adari
 		religion = shiite
-		size = 125
+		size = 525
 	}
 
 	artisans = {
 		culture = adari
 		religion = shiite
-		size = 700
+		size = 1400
 	}
 
 	soldiers = {
 		culture = adari
 		religion = shiite
-		size = 150
+		size = 2150
 	}
 
 	farmers = {
 		culture = adari
 		religion = shiite
-		size = 10000
+		size = 40000
+	}
+	
+	farmers = {
+		culture = mazanderani
+		religion = shiite
+		size = 20000
 	}
 	
 	farmers = {
 		culture = azeri
 		religion = shiite
-		size = 2800
+		size = 12800
 	}
 
 }

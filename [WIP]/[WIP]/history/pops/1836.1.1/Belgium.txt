@@ -621,6 +621,12 @@
 		religion = protestant
 		size = 125
 	}
+	
+	craftsmen = {
+		culture = dutch
+		religion = protestant
+		size = 10000
+	}
 
 	farmers = {
 		culture = dutch
@@ -633,6 +639,7 @@
 		religion = catholic
 		size = 24725
 	}
+	
 
 	aristocrats = {
 		culture = french
@@ -655,7 +662,7 @@
 	craftsmen = {
 		culture = french
 		religion = catholic
-		size = 16000
+		size = 6000
 	}
 
 	soldiers = {

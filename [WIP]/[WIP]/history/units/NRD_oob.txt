@@ -751,3 +751,57 @@ navy = {
 
 }
 
+leader = {
+	name = "Georg, Ealderman of Sareburgh"
+	date = 1829.1.1
+	type = land
+	personality = relentless
+	background = nationalist
+	prestige = 0.6
+}
+
+leader = {
+	name = "Fridrik of Haraldsby"
+	date = 1817.1.1
+	type = land
+	personality = cautious
+	background = school_of_defense
+	prestige = 0.8
+}
+
+leader = {
+	name = "Harald, Duke of Mercia"
+	date = 1829.1.1
+	type = land
+	personality = tactful
+	background = school_of_defense
+	prestige = 0.3
+}
+
+leader = {
+	name = "Kristijan Egge"
+	date = 1817.1.1
+	type = land
+	personality = cautious
+	background = nationalist
+	prestige = 0.8
+}
+
+leader = {
+	name = "Vilhelm af Baemburh"
+	date = 1832.1.1
+	type = sea
+	personality = wrathful
+	background = cursed_luck
+	prestige = 0.2
+}
+
+leader = {
+	name = "Osvald Dannemand"
+	date = 1829.1.1
+	type = sea
+	personality = tactful
+	background = bootlicker
+	prestige = 0.5
+}
+

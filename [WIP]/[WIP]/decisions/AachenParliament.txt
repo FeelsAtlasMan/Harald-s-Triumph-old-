@@ -6,13 +6,14 @@ political_decisions = {
 			WUR = {
 				war_with = BRG
 			}
-		
+			NOT = { has_country_flag = called_for_intervention }
+		}
+			
 		allow = {
 			war = yes
 			NOT = {
 			controls = 605
 			}
-			NOT = { has_country_flag = called_for_intervention }
 		}
 		
 		effect = {
@@ -23,8 +24,8 @@ political_decisions = {
 				}
 				country_event = 666001
 			}
+			set_country_flag = called_for_intervention
 		}
-		set_country_flag = called_for_intervention
 		ai_will_do = {
 			factor = 1
 		}

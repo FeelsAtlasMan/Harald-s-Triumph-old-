@@ -1,6 +1,6 @@
 capital = 395
-primary_culture = swiss_german
-culture = north_german
+primary_culture = north_german
+culture = dutch
 culture = french
 religion = catholic
 government = theocracy
@@ -8,7 +8,7 @@ plurality = 0.05
 nationalvalue = nv_equality
 literacy = 0.28
 civilized = yes
-
+prestige = 3
 
 # Political reforms
 slavery = no_slavery
@@ -71,6 +71,8 @@ interchangeable_parts = 1
 
 set_country_flag = catholic_country
 set_country_flag = HRE_country
+
+OOB = "LIG_oob.txt"
 
 ruling_party = WLL_conservative
 upper_house = {
