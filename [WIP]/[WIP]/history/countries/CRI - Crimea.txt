@@ -20,6 +20,8 @@ upper_house = {
 
 set_country_flag = sunni_country
 
+OOB = "CRI_oob.txt"
+
 slavery = yes_slavery
 upper_house_composition = appointed
 vote_franschise = none_voting

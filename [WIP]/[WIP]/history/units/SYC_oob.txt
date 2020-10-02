@@ -1,3 +1,6 @@
+VEN = {
+	value = 170
+}
 leader = {
 	name = "Guilliam de Hauteville"
 	date = 1831.1.1

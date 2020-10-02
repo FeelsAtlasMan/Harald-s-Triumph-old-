@@ -63,6 +63,8 @@ piston_steam_engine = 1
 
 set_country_flag = orthodox_country
 
+OOB = "UKR_oob.txt"
+
 ruling_party = UKR_conservative
 upper_house = {
 	fascist = 0

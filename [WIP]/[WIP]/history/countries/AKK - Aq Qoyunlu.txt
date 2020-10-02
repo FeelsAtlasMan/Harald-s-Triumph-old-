@@ -1,11 +1,10 @@
-capital = 882
+capital = 893
 primary_culture = azeri
 religion = shiite
 government = absolute_monarchy
-plurality = 0.0
+plurality = 1.0
 nationalvalue = nv_tradition
 literacy = 0.03
-non_state_culture_literacy = 0.01
 
 # Political reforms
 slavery = yes_slavery
@@ -48,6 +47,7 @@ upper_house = {
 }
 
 set_country_flag = shiite_country
+set_country_flag = turkish_unciv
 
 foreign_artillery = yes_foreign_artillery
 foreign_weapons = yes_foreign_weapons

@@ -1,7 +1,7 @@
-owner = RYA
-controller = RYA
+owner = KRC
+controller = KRC
 add_core = RUS
-add_core = RYA
+add_core = KRC
 add_core = CRI
 add_core = TAR
 trade_goods = grain

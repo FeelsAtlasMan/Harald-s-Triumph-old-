@@ -1,0 +1,156 @@
+political_decisions = {
+		form_russia = {
+			picture = tsardom
+			potential = {
+				is_culture_group = east_slavic
+                NOT = { has_country_flag = cossack_nation }				
+				
+				
+				NOT = {
+					exists = RUS
+				}
+			}
+		
+			allow = {
+				NOT = { war = yes }
+				prestige = 40
+				MUS = {
+					all_core = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+							}
+						}
+					}
+				}
+				SMK = {
+					all_core = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+							}
+						}
+					}
+				}
+				UKR = {
+					all_core = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+							}
+						}
+					}
+				}
+				NOV = {
+					all_core = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+							}
+						}
+					}
+				}
+			}
+		
+			effect = {
+				prestige = 20
+				change_tag = RUS
+				add_accepted_culture = russian
+				add_accepted_culture = ukrainian
+				add_accepted_culture = novgorodian
+				any_country = {
+					limit = {
+						is_culture_group = east_slavic
+						in_sphere = THIS
+					}
+					country_event = 11101
+				}
+			}
+			ai_will_do = {
+				factor = 1
+			}
+	}
+
+#End Tatar Raids
+
+#Formation of the Hetmanate
+		unite_the_cossacks = {
+			picture = hetmanate
+			potential = {
+				is_culture_group = east_slavic
+                has_country_flag = cossack_nation 				
+				
+				NOT = {
+					exists = DON
+				}
+			}
+		
+			allow = {
+				NOT = { war = yes }
+				prestige = 25
+				KRC = {
+					all_core = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+							}
+						}
+					}
+				}
+				RYA = {
+					all_core = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+							}
+						}
+					}
+				}
+				CHC = {
+					all_core = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+							}
+						}
+					}
+				}
+				owns = 978
+				owns = 979
+				owns = 3330
+			}
+		
+			effect = {
+				prestige = 20
+				change_tag = DON
+				add_accepted_culture = ukrainian
+				add_accepted_culture = russian
+				add_country_flag = hetmanate
+				CHC = {
+					all_core = {
+					   add_core = THIS
+					} 
+				}
+				KRC = {
+					all_core = {
+					   add_core = THIS
+					} 
+				}
+				RYA = {
+					all_core = {
+					   add_core = THIS
+					} 
+				}
+			}
+			ai_will_do = {
+				factor = 1
+			}
+}
+	

@@ -304,6 +304,19 @@ pashtun_autonomy = {
 	icon = 19
 }
 
+semi_nomadic = {
+	trigger = {
+		exists = yes
+		ai = no
+		has_country_flag = turkish_unciv
+	}
+	land_organisation = -0.1
+	land_unit_start_experience = 40
+	supply_consumption = -0.6
+	tax_efficiency = -0.01
+	icon = 19
+}
+
 colonial_nation = {
 	trigger = {
 		exists = yes

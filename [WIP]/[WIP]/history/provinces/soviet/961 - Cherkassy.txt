@@ -1,6 +1,6 @@
-owner = UKR
-controller = UKR
+owner = CHC
+controller = CHC
 add_core = RUS
-add_core = UKR
+add_core = CHC
 trade_goods = cattle
 life_rating = 35

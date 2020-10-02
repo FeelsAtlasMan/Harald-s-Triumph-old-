@@ -73,6 +73,8 @@ SHU		        ="countries/Shu.txt"
 NIB		        ="countries/New Iberia.txt"
 CHV             ="countries/Chuvashia.txt"
 PLB             ="countries/Polabia.txt"
+CHC             ="countries/Chernigov.txt"
+KRC             ="countries/Kursk.txt"
 
 ##HFM New Nations
 #ATB	= "countries/Saxe-Altenburg.txt"

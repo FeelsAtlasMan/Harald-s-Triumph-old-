@@ -66,6 +66,8 @@ upper_house = {
 
 set_country_flag = catholic_country
 
+OOB = "BCR_oob.txt"
+
 1861.1.1 = {
 # Technologies
 

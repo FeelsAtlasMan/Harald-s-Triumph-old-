@@ -66,6 +66,8 @@ upper_house = {
 
 set_country_flag = orthodox_country
 
+OOB = "BSV_oob.txt"
+
 1861.1.1 = {
 # Technologies
 

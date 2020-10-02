@@ -1,6 +1,8 @@
-owner = RYA
-controller = RYA
+owner = CHC
+controller = CHC
 add_core = RUS
-add_core = RYA
+add_core = CHC
+add_core = CRI
+add_core = TAR
 trade_goods = coal
 life_rating = 35

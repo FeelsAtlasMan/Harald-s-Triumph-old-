@@ -1,3 +1,33 @@
+NOV = { 
+	value = 200
+	level = 5		
+	influence_value = 100
+}
+
+UBD = { 
+	value = 200
+	level = 5		
+	influence_value = 100
+}
+
+PRU = { 
+	value = 100
+	level = 3		
+	influence_value = 25
+}
+
+SMG = { 
+	value = 150
+	level = 4		
+	influence_value = 25
+}
+
+CUR = { 
+	value = 150
+	level = 4		
+	influence_value = 25
+}
+
 
 leader = {
 	name = "Carl Nordenskjöld"
@@ -72,68 +102,108 @@ leader = {
 }
 
 army = {
-	name = "Svenska Armén"
+	name = "1. Svenska Armén"
 	location = 322
 	regiment = {
 		name= "Svea Livgarde"
 		type = guard
 		home = 322
 	}
-
 	regiment = {
 		name= "Södermanlands Regemente"
 		type = infantry
 		home = 326
 	}
-
 	regiment = {
 		name= "Första Livgrenadjärregementet"
 		type = infantry
 		home = 325
 	}
-
 	regiment = {
 		name= "Upplands Regemente"
 		type = infantry
 		home = 324
 	}
-
 	regiment = {
 		name= "Västgöta Regemente"
 		type = infantry
 		home = 330
 	}
-
 	regiment = {
 		name= "Kalmar Regemente"
 		type = infantry
 		home = 332
 	}
-
 	regiment = {
 		name= "Jönköpings Regemente"
 		type = infantry
 		home = 333
 	}
-
 	regiment = {
 		name= "Södra Skånska Infanteriregementet"
 		type = infantry
 		home = 334
 	}
-
 	regiment = {
 		name= "Kronprinsens Husarregemente"
 		type = hussar
 		home = 335
 	}
-
 	regiment = {
 		name= "Norrlands Dragonregemente"
 		type = dragoon
 		home = 321
 	}
+}
 
+army = {
+	name = "2. Svenska Armén"
+	location = 328
+	regiment = {
+		name= "1. Infantry"
+		type = infantry
+		home = 328
+	}
+	regiment = {
+		name= "2. Infantry"
+		type = infantry
+		home = 327
+	}
+	regiment = {
+		name= "3. Dragoon"
+		type = dragoon
+		home = 323
+	}
+	regiment = {
+		name= "4. Artillery"
+		type = artillery
+		home = 3306
+	}
+}
+
+army = {
+	name = "3. Svenska Armén"
+	location = 345
+	regiment = {
+		name= "1. Infantry"
+		type = infantry
+		home = 345
+	}
+	regiment = {
+		name= "2. Infantry"
+		type = infantry
+		home = 345
+	}
+	regiment = {
+		name= "3. Dragoon"
+		type = dragoon
+		home = 346
+	}
+	regiment = {
+		name= "4. Artillery"
+		type = artillery
+		home = 346
+	}
 }
 
 navy = {

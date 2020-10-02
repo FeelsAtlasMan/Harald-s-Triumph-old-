@@ -1,6 +1,5 @@
-owner = AKK
-controller = AKK
-add_core = AKK
+owner = TIM
+controller = TIM
 add_core = GEO
 add_core = ARM
 trade_goods = wool
