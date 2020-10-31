@@ -51,6 +51,8 @@ upper_house = {
 }
 
 set_country_flag = sunni_country
+set_country_flag = steppe_nation
+
 foreign_weapons = yes_foreign_weapons
 
 # Technologies

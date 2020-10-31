@@ -55,6 +55,7 @@ consciousness = 0
 nonstate_consciousness = 0
 
 set_country_flag = sunni_country
+set_country_flag = steppe_nation
 
 oob = "KAZ_oob.txt"
 

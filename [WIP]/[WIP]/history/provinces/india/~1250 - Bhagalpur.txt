@@ -1,0 +1,7 @@
+owner = BNG
+controller = BNG
+add_core = BIH
+trade_goods = fish
+life_rating = 32
+
+

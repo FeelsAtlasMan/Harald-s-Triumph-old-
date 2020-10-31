@@ -29,7 +29,42 @@ vassal = {
 
 vassal = {
 	first = TIM
+	second = MIG
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = TIM
+	second = SVA
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = TIM
 	second = URF
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = TIM
+	second = ANK
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = TIM
+	second = KRM
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = TIM
+	second = DUL
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }
@@ -37,6 +72,13 @@ vassal = {
 substate = {
 	first = TIM
 	second = KWT
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+substate = {
+	first = TIM
+	second = OMA
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }
@@ -181,25 +223,299 @@ vassal = {
 	end_date = 1937.1.1
 }
 
-#Ming
 vassal = {
-	first = MNG
+	first = OIR
+	second = SHU
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+#Shun
+substate = {
+	first = SHN
 	second = GXI
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }
 
-vassal = {
-	first = MNG
+substate = {
+	first = SHN
 	second = GUI
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }
 
+vassal = {
+	first = SHN
+	second = NZH
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = SHN
+	second = DAI
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
 #Knights of Malta
-substate = {
+vassal = {
 	first = SYC
 	second = KNI
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+#Circassia
+vassal = {
+	first = CRI
+	second = CIR
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+#Marathi Confederation
+vassal = {
+	first = MAH
+	second = IND
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = MAH
+	second = BUN
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = MAH
+	second = NAG
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = MAH
+	second = VDB
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = MAH
+	second = BER
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = MAH
+	second = GWA
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+#Dehli
+vassal = {
+	first = MUG
+	second = AWA
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = MUG
+	second = JAI
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = MUG
+	second = JOD
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = MUG
+	second = MEW
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = MUG
+	second = JAS
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = MUG
+	second = BHP
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = MUG
+	second = BIK
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = MUG
+	second = SIN
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = MUG
+	second = KUT
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+#Sur Empire
+vassal = {
+	first = SUR
+	second = BIH
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = SUR
+	second = BNG
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = SUR
+	second = RHN
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = SUR
+	second = ASM
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = SUR
+	second = MNP
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+#Oirats
+vassal = {
+	first = OIR
+	second = XBI
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = OIR
+	second = UYG
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = OIR
+	second = NNI
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+#Nayaks
+vassal = {
+	first = NYK
+	second = TNJ
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = NYK
+	second = MDR
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = NYK
+	second = KLD
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = NYK
+	second = VLL
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+
+#Lavo
+vassal = {
+	first = SIA
+	second = HTW
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = SIA
+	second = HRP
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = SIA
+	second = CAM
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = SIA
+	second = BHN
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = SIA
+	second = CHK
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = SIA
+	second = PRK
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = SIA
+	second = JOH
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }

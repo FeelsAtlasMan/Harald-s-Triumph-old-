@@ -1,5 +1,5 @@
-owner = MAH
-controller = MAH
-add_core = BER
+owner = KUT
+controller = KUT
+add_core = KUT
 trade_goods = fish
 life_rating = 32

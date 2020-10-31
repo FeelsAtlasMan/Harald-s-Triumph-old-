@@ -1,5 +1,5 @@
-owner = MAH
-controller = MAH
-add_core = RAJ
+owner = BIK
+controller = BIK
+add_core = BIK
 trade_goods = wool
 life_rating = 32

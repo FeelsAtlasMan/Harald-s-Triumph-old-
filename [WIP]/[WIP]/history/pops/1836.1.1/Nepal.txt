@@ -53,7 +53,13 @@
 	farmers = {
 		culture = nepali
 		religion = hindu
-		size = 66250
+		size = 50000
+	}
+	
+	farmers = {
+		culture = bihari
+		religion = hindu
+		size = 29250
 	}
 
 	aristocrats = {
@@ -83,7 +89,13 @@
 	farmers = {
 		culture = u_tsang
 		religion = gelugpa
-		size = 20125
+		size = 15125
+	}
+	
+	farmers = {
+		culture = dzongkha
+		religion = gelugpa
+		size = 5125
 	}
 
 	aristocrats = {
@@ -113,13 +125,13 @@
 	farmers = {
 		culture = rungic
 		religion = animist
-		size = 6000
+		size = 3000
 	}
 
 	slaves = {
 		culture = rungic
 		religion = animist
-		size = 25125
+		size = 15125
 	}
 }
 #Jumla (412000/103000 POPS)   
@@ -153,35 +165,29 @@
 		religion = hindu
 		size = 49250
 	}
-
-	aristocrats = {
-		culture = u_tsang
-		religion = gelugpa
-		size = 700
+	
+	farmers = {
+		culture = hindi
+		religion = hindu
+		size = 19250
 	}
 
 	clergymen = {
 		culture = u_tsang
 		religion = gelugpa
-		size = 575
+		size = 15
 	}
 
 	artisans = {
 		culture = u_tsang
 		religion = gelugpa
-		size = 1850
-	}
-
-	soldiers = {
-		culture = u_tsang
-		religion = gelugpa
-		size = 350
+		size = 250
 	}
 
 	farmers = {
 		culture = u_tsang
 		religion = gelugpa
-		size = 41725
+		size = 1725
 	}
 
 	aristocrats = {
@@ -212,6 +218,81 @@
 		culture = rungic
 		religion = animist
 		size = 10300
+	}
+}
+
+#Mustang (412000/103000 POPS)   
+3341 = {
+	aristocrats = {
+		culture = nepali
+		religion = hindu
+		size = 100
+	}
+
+	clergymen = {
+		culture = nepali
+		religion = hindu
+		size = 150
+	}
+
+	artisans = {
+		culture = nepali
+		religion = hindu
+		size = 200
+	}
+
+	soldiers = {
+		culture = nepali
+		religion = hindu
+		size = 100
+	}
+
+	farmers = {
+		culture = nepali
+		religion = hindu
+		size = 1250
+	}
+
+	aristocrats = {
+		culture = u_tsang
+		religion = gelugpa
+		size = 200
+	}
+
+	clergymen = {
+		culture = u_tsang
+		religion = gelugpa
+		size = 275
+	}
+
+	artisans = {
+		culture = u_tsang
+		religion = gelugpa
+		size = 850
+	}
+
+	soldiers = {
+		culture = u_tsang
+		religion = gelugpa
+		size = 350
+	}
+
+	farmers = {
+		culture = u_tsang
+		religion = gelugpa
+		size = 11000
+	}
+	
+	farmers = {
+		culture = dzongkha
+		religion = gelugpa
+		size = 725
+	}
+
+	slaves = {
+		culture = rungic
+		religion = animist
+		size = 2300
 	}
 }
 

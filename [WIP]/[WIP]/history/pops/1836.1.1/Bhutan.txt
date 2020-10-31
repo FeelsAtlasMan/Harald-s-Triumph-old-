@@ -3,43 +3,43 @@
 #Thimpu (136000/34000 POPS)   
 1329 = {
 	aristocrats = {
-		culture = u_tsang
+		culture = dzongkha
 		religion = gelugpa
 		size = 575
 	}
 
 	bureaucrats = {
-		culture = u_tsang
+		culture = dzongkha
 		religion = gelugpa
 		size = 80
 	}
 
 	officers = {
-		culture = u_tsang
+		culture = dzongkha
 		religion = gelugpa
 		size = 25
 	}
 
 	clergymen = {
-		culture = u_tsang
+		culture = dzongkha
 		religion = gelugpa
 		size = 300
 	}
 
 	artisans = {
-		culture = u_tsang
+		culture = dzongkha
 		religion = gelugpa
 		size = 1500
 	}
 
 	soldiers = {
-		culture = u_tsang
+		culture = dzongkha
 		religion = gelugpa
 		size = 1100
 	}
 
 	farmers = {
-		culture = u_tsang
+		culture = dzongkha
 		religion = gelugpa
 		size = 24575
 	}

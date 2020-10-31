@@ -1,0 +1,6 @@
+owner = KRM
+controller = KRM
+add_core = KRM
+add_core = ANK
+trade_goods = grain
+life_rating = 35

@@ -1,6 +1,13 @@
 A lot of Typos ahead
 
 OOBs for America, Asia, Africa and Oceania
+OOBs for Russia, the Steppe and Siberia
+
+Break-Up of Timurids after westernization
+
+Rework of Northern Africa:
+1. Trans-Saharan Trade
+2. Actual Alt-Hist for West Africa
 
 Unification Events for Germany:
 1. War of the Alps (done)
@@ -20,7 +27,7 @@ Unification Events for Germany:
    -> Germans in Flanders rebel
    -> Saxony joins their cause 
    -> French allies attack Saxony
-   -France wins: decision to form german puppet states on the Western Rhine Bank, Absolutists                  leave Conf (new "Conf", Swabia becomes leader)
+   -France wins: decision to form german puppet states on the Western Rhine Bank, Absolutists leave Conf (new "Conf", Swabia becomes leader)
    -Saxony wins: gets flemish vassal, dismentlement of Swabia
 6. Luxembourg requests indepedance from Bohemia
    - Bohemia accepts: Luxembourg becomes saxon sphereling
@@ -32,15 +39,28 @@ Unifications of Iberia, Russia and Italy
 Iberia: (help me Major :c )
 
 Russia:
-1. Muscovite Revolution
-2. End Tatar raids (annexation of Kazan, vassalization of Perm)
+1. Muscovite Revolution (done)
+2. End Tatar raids (annexation of Kazan (done), vassalization of Perm)
 3. Control the Cossacks
 4. Gain control over the North (Sweden vs. Muscovy, Novgorod and Smolensk join Muscovite SoI)
 5. Gain control over Kiev (Bohemia vs. Muscovy, Kiev joins Muscovite SoI)
+6. Push to the Pacific
+
+1. Crimea Reaction to Muscovy (done)
+2. Avenge Kazan
+3. Centralize the Khanate
+4. Subdue the Steppe
+5. Push to the Pacific
+
+1. Cossack Hetmanate (done)
+2. Cossack Expansion Crimea
+3. Cossack Expansion Kiev
+4. Cossack Expansion Astrakhan
+5. Cossack Expansion Northern Caucasus
 
 Italy:
 1. Burgundy(depends on Burgundy losing Provence or German Switzerland:
--losing Pronvence to Lombardia -> Alpine Union path
+-losing Provence to Lombardia -> Alpine Union path
 -losing German Switzerland to Swabia -> no german path for Burgundy):
 
 -need to sphere/own Lombardia, Genoa, Parma, Modena and 728
@@ -50,16 +70,13 @@ Italy:
 2. Any Italian Nation:
 -sphere all italian cores
 
-Favour for Iberia:
+Flavour for Iberia:
 -at game start Morocco launches campaign against Castille
 -any christian iberian nation can restore Lisboa
 -any more ideas?
 
-Favour for Russia:
+Flavour for Russia:
 -Cossacks can form Hetmanate, cant form Russia (Implemented)
--further cossack expansion (Kiev Region, Volyn, Kuban, Terek, up to Samara)
-
--russian push to the east (help)
 
 Flavour for Italian Nations:
 - Sale of Brindisi ( either to Bulgaria, Naples or Sicily)
@@ -111,6 +128,7 @@ Moroccan Colonies:
 
 FDA:
 -breakup after winning
+-oob
 -close to none immigrants after loosing
 -End the Illinewek Federation (NSE, FDA/Mexico, New Iberia and Batavia split annex huge parts of the Federation: only Illinewek Core Region survives)
 
@@ -124,17 +142,10 @@ Incas:
 -?
 
 Abbasids:
--pre-west: conflict with Timurids and Morocco
+-pre-west: conflict with Timurids and Morocco (?)
 -?
-
-Sokoto:
--cbs against african nations
--rename to "Sokoto Sultanate"
 
 Cape Nation:
 -????
 
-
-
-Break-Up of Timurids after westernization
 

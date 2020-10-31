@@ -4,62 +4,68 @@
 1102 = {
 	bureaucrats = {
 		culture = azeri
-		religion = sunni
+		religion = shiite
 		size = 40
 	}
 
 	clergymen = {
 		culture = azeri
-		religion = sunni
+		religion = shiite
 		size = 5
 	}
 
 	artisans = {
 		culture = azeri
-		religion = sunni
+		religion = shiite
 		size = 15
 	}
 
 	soldiers = {
 		culture = azeri
-		religion = sunni
+		religion = shiite
 		size = 40
 	}
 
 	aristocrats = {
 		culture = azeri
-		religion = sunni
+		religion = shiite
 		size = 125
 	}
 
 	bureaucrats = {
 		culture = azeri
-		religion = sunni
+		religion = shiite
 		size = 15
 	}
 
 	clergymen = {
 		culture = azeri
-		religion = sunni
+		religion = shiite
 		size = 50
 	}
 
 	artisans = {
 		culture = azeri
-		religion = sunni
+		religion = shiite
 		size = 300
 	}
 
 	soldiers = {
 		culture = azeri
-		religion = sunni
+		religion = shiite
 		size = 60
 	}
 
 	farmers = {
 		culture = azeri
-		religion = sunni
+		religion = shiite
 		size = 5350
+	}
+	
+	farmers = {
+		culture = bulgar_tatar
+		religion = shiite
+		size = 150
 	}
 
 	aristocrats = {

@@ -630,37 +630,37 @@
 #Aqtau (32000/8000 POPS)
 1194 = {
 	aristocrats = {
-		culture = turkmen
+		culture = kazak
 		religion = sunni
 		size = 150
 	}
 
 	clergymen = {
-		culture = turkmen
+		culture = kazak
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = turkmen
+		culture = kazak
 		religion = sunni
 		size = 350
 	}
 
 	soldiers = {
-		culture = turkmen
+		culture = kazak
 		religion = sunni
 		size = 75
 	}
 
 	farmers = {
-		culture = turkmen
+		culture = kazak
 		religion = sunni
 		size = 6000
 	}
 	
 	farmers = {
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size = 1350
 	}

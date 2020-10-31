@@ -1,8 +1,8 @@
 capital = 1274
-primary_culture = kanauji
-culture = avadhi
+primary_culture = marathi
+culture = hindustani
 religion = hindu
-government = absolute_monarchy
+government = colonial_company
 plurality = 0.0
 nationalvalue = nv_tradition
 literacy = 0.01

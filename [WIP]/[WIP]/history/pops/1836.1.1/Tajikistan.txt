@@ -3,33 +3,45 @@
 #Khujand (200000/50000 POPS) #now part of Tajikistan  
 1201 = {
 	aristocrats = {
-		culture = uzbek
-		religion = sunni
+		culture = sart
+		religion = shiite
 		size = 775
 	}
 
 	clergymen = {
-		culture = uzbek
-		religion = sunni
+		culture = sart
+		religion = shiite
 		size = 400
 	}
 
 	artisans = {
-		culture = uzbek
-		religion = sunni
+		culture = sart
+		religion = shiite
 		size = 2000
 	}
 
 	soldiers = {
-		culture = uzbek
-		religion = sunni
+		culture = sart
+		religion = shiite
 		size = 400
 	}
 
 	farmers = {
+		culture = sart
+		religion = shiite
+		size = 22025
+	}
+	
+	soldiers = {
 		culture = uzbek
 		religion = sunni
-		size = 26425
+		size = 1400
+	}
+	
+	farmers = {
+		culture = uzbek
+		religion = sunni
+		size = 3000
 	}
 
 	aristocrats = {
@@ -60,6 +72,12 @@
 		culture = persian
 		religion = shiite
 		size = 19150
+	}
+	
+	farmers = {
+		culture = pamiri
+		religion = shiite
+		size = 2025
 	}
 }
 #Badakhshan Region (212000) 
@@ -97,21 +115,27 @@
 	}
 	
     aristocrats = {
-		culture = uzbek
+		culture = badakhshani
 		religion = shiite
 		size = 575
 	}
 
 	clergymen = {
-		culture = uzbek
+		culture = badakhshani
 		religion = shiite
 		size = 275
 	}
 
 	farmers = {
-		culture = uzbek
+		culture = badakhshani
 		religion = shiite
 		size = 17450
+	}
+	
+	farmers = {
+		culture = uzbek
+		religion = sunni
+		size = 2000
 	}
 
 	slaves = {
@@ -129,9 +153,69 @@
 #Khorugh (92000/23000 POPS)   
 1208 = {
 	aristocrats = {
+		culture = pamiri
+		religion = shiite
+		size = 50
+	}
+
+	clergymen = {
+		culture = pamiri
+		religion = shiite
+		size = 75
+	}
+
+	artisans = {
+		culture = pamiri
+		religion = shiite
+		size = 150
+	}
+	
+	soldiers = {
+		culture = pamiri
+		religion = shiite
+		size = 1000
+	}
+
+	farmers = {
+		culture = pamiri
+		religion = shiite
+		size = 25450
+	}
+
+	aristocrats = {
+		culture = badakhshani
+		religion = shiite
+		size = 75
+	}
+
+	clergymen = {
+		culture = badakhshani
+		religion = shiite
+		size = 75
+	}
+
+	artisans = {
+		culture = badakhshani
+		religion = shiite
+		size = 175
+	}
+
+	soldiers = {
+		culture = badakhshani
+		religion = shiite
+		size = 500
+	}
+
+	farmers = {
+		culture = badakhshani
+		religion = shiite
+		size = 3650
+	}
+	
+	aristocrats = {
 		culture = persian
 		religion = shiite
-		size = 350
+		size = 300
 	}
 	
 	bureaucrats = {
@@ -157,47 +241,11 @@
 		religion = shiite
 		size = 100
 	}
-
-	soldiers = {
-		culture = persian
-		religion = shiite
-		size = 1000
-	}
-
+	
 	farmers = {
 		culture = persian
 		religion = shiite
-		size = 25450
-	}
-
-	aristocrats = {
-		culture = uzbek
-		religion = sunni
-		size = 75
-	}
-
-	clergymen = {
-		culture = uzbek
-		religion = sunni
-		size = 75
-	}
-
-	artisans = {
-		culture = uzbek
-		religion = sunni
-		size = 175
-	}
-
-	soldiers = {
-		culture = uzbek
-		religion = sunni
-		size = 500
-	}
-
-	farmers = {
-		culture = uzbek
-		religion = sunni
-		size = 3650
+		size = 5450
 	}
 
 	slaves = {

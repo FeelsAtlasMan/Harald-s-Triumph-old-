@@ -4,37 +4,37 @@
 897 = {
 
 	aristocrats = {
-		culture = kurdish
+		culture = kurmanji
 		religion = sunni
 		size = 200
 	}
 
 	officers = {
-		culture = kurdish
+		culture = kurmanji
 		religion = sunni
 		size = 225
 	}
 
 	clergymen = {
-		culture = kurdish
+		culture = kurmanji
 		religion = sunni
 		size = 125
 	}
 
 	artisans = {
-		culture = kurdish
+		culture = kurmanji
 		religion = sunni
 		size = 1400
 	}
 
 	soldiers = {
-		culture = kurdish
+		culture = kurmanji
 		religion = sunni
 		size = 350
 	}
 
 	farmers = {
-		culture = kurdish
+		culture = kurmanji
 		religion = sunni
 		size = 10000
 	}
@@ -187,31 +187,31 @@
 #Hasakeh (256000/64000 POPS) #now part of Syria  mashriqi-catholic = assyrian
 901 = {
 	aristocrats = {
-		culture = kurdish
+		culture = kurmanji
 		religion = sunni
 		size = 150
 	}
 
 	clergymen = {
-		culture = kurdish
+		culture = kurmanji
 		religion = sunni
 		size = 125
 	}
 
 	artisans = {
-		culture = kurdish
+		culture = kurmanji
 		religion = sunni
 		size = 650
 	}
 
 	soldiers = {
-		culture = kurdish
+		culture = kurmanji
 		religion = sunni
 		size = 1750
 	}
 
 	farmers = {
-		culture = kurdish
+		culture = kurmanji
 		religion = sunni
 		size = 20300
 	}
@@ -314,7 +314,7 @@
 	}
 	
 	farmers = {
-		culture = kurdish
+		culture = kurmanji
 		religion = yazidi
 		size = 175
 	}
@@ -789,37 +789,6 @@
 
 #Dayr al Zour
 3282 = {
-	aristocrats = {
-		culture = kurdish
-		religion = sunni
-		size = 150
-	}
-
-	clergymen = {
-		culture = kurdish
-		religion = sunni
-		size = 125
-	}
-
-	artisans = {
-		culture = kurdish
-		religion = sunni
-		size = 650
-	}
-
-	soldiers = {
-		culture = kurdish
-		religion = sunni
-		size = 175
-	}
-
-	farmers = {
-		culture = kurdish
-		religion = sunni
-		size = 6300
-	}
-	
-	
 	clergymen = {
 		culture = azeri
 		religion = sunni
@@ -921,9 +890,4 @@
 		religion = catholic
 		size = 14350
 	}
-	
-	farmers = {
-		culture = kurdish
-		religion = yazidi
-		size = 175
-	}
+}

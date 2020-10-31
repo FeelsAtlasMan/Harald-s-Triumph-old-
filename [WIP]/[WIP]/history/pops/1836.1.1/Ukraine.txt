@@ -311,27 +311,27 @@
 #Uzgorod (856000/214000 POPS) #Part of Ukraine today
 950 = {
 	clergymen = {
-		culture = ukrainian
+		culture = rusyn
 		religion = orthodox
 		size = 850  
 	}
 
 	artisans = {
-		culture = ukrainian
+		culture = rusyn
 		religion = orthodox
 		size = 4600 
 	}
 
 	soldiers = {
-		culture = ukrainian
+		culture = rusyn
 		religion = orthodox
 		size = 900
 	}
 
 	serfs = {
-		culture = ukrainian
+		culture = rusyn
 		religion = orthodox
-		size = 85650  
+		size = 30650  
 	}
 
 	clergymen = {
@@ -343,7 +343,7 @@
 	artisans = {
 		culture = slovak
 		religion = catholic
-		size = 850
+		size = 50
 	}
 
 	soldiers = {
@@ -355,13 +355,13 @@
 	farmers = {
 		culture = slovak
 		religion = catholic
-		size = 15825
+		size = 825
 	}
 
 	aristocrats = {
 		culture = hungarian
 		religion = catholic
-		size = 4250  
+		size = 250  
 	}
 
 	clergymen = {
@@ -385,7 +385,7 @@
 	farmers = {
 		culture = hungarian
 		religion = catholic
-		size = 35725  
+		size = 5725  
 	}
 
 	clergymen = {
@@ -409,7 +409,7 @@
 	farmers = {
 		culture = hungarian
 		religion = protestant
-		size =  38950   
+		size = 23950   
 	}
 
 	clergymen = {
@@ -484,6 +484,265 @@
 		size = 13975
 	}
 }
+
+#Maramos
+3333 = {
+	clergymen = {
+		culture = rusyn
+		religion = orthodox
+		size = 850  
+	}
+
+	artisans = {
+		culture = rusyn
+		religion = orthodox
+		size = 4600 
+	}
+
+	soldiers = {
+		culture = rusyn
+		religion = orthodox
+		size = 900
+	}
+
+	serfs = {
+		culture = rusyn
+		religion = orthodox
+		size = 23650  
+	}
+
+	aristocrats = {
+		culture = hungarian
+		religion = catholic
+		size = 250  
+	}
+
+	clergymen = {
+		culture = hungarian
+		religion = catholic
+		size = 425  
+	}
+
+	artisans = {
+		culture = hungarian
+		religion = catholic
+		size = 1150 
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = catholic
+		size = 450
+	}
+
+	farmers = {
+		culture = hungarian
+		religion = catholic
+		size = 725  
+	}
+
+	clergymen = {
+		culture = hungarian
+		religion = protestant
+		size = 400  
+	}
+
+	artisans = {
+		culture = hungarian
+		religion = protestant
+		size = 1250 
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = protestant
+		size = 400
+	}
+
+	farmers = {
+		culture = hungarian
+		religion = protestant
+		size = 950   
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 75  
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 800 
+	}
+
+	soldiers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 50
+	}
+
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 1075    
+	}
+
+	clergymen = {
+		culture = romanian
+		religion = orthodox
+		size = 125  
+	}
+
+	artisans = {
+		culture = romanian
+		religion = orthodox
+		size = 750 
+	}
+
+	soldiers = {
+		culture = romanian
+		religion = orthodox
+		size = 150
+	}
+
+	farmers = {
+		culture = romanian
+		religion = orthodox
+		size = 22975
+	}
+}
+
+#Maramos
+3332 = {
+	clergymen = {
+		culture = rusyn
+		religion = orthodox
+		size = 850  
+	}
+
+	artisans = {
+		culture = rusyn
+		religion = orthodox
+		size = 4600 
+	}
+
+	soldiers = {
+		culture = rusyn
+		religion = orthodox
+		size = 900
+	}
+
+	serfs = {
+		culture = rusyn
+		religion = orthodox
+		size = 25650  
+	}
+
+	aristocrats = {
+		culture = hungarian
+		religion = catholic
+		size = 250  
+	}
+
+	clergymen = {
+		culture = hungarian
+		religion = catholic
+		size = 25  
+	}
+
+	artisans = {
+		culture = hungarian
+		religion = catholic
+		size = 150 
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = catholic
+		size = 450
+	}
+
+	farmers = {
+		culture = hungarian
+		religion = catholic
+		size = 725  
+	}
+
+	clergymen = {
+		culture = hungarian
+		religion = protestant
+		size = 400  
+	}
+
+	artisans = {
+		culture = hungarian
+		religion = protestant
+		size = 2250 
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = protestant
+		size = 400
+	}
+
+	farmers = {
+		culture = hungarian
+		religion = protestant
+		size =  8950   
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 75  
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 200 
+	}
+
+	soldiers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 50
+	}
+
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 575    
+	}
+
+	clergymen = {
+		culture = slovak
+		religion = catholic
+		size = 125  
+	}
+
+	artisans = {
+		culture = slovak
+		religion = catholic
+		size = 750 
+	}
+
+	soldiers = {
+		culture = slovak
+		religion = catholic
+		size = 150
+	}
+
+	farmers = {
+		culture = slovak
+		religion = catholic
+		size = 13975
+	}
+}
+
 #Galicia Region (2576000) #see Poland.txt for balance of region 
 #under the rule of Austria in 1836
 #Lvov (660000/165000 POPS) #now part of Ukraine 

@@ -1,6 +1,7 @@
-owner = BNG
-controller = BNG
-add_core = BIH
+owner = SUR
+controller = SUR
+add_core = SUR
+add_core = BNG
 trade_goods = fish
 life_rating = 32
 

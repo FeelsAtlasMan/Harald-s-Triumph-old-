@@ -1,4 +1,4 @@
-capital = 1064
+capital = 1066
 primary_culture = sibir_tatar
 culture = bulgar_tatar
 religion = sunni
@@ -36,6 +36,9 @@ citizens_rights = primary_culture_only
 border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies 
+
+set_country_flag = sunni_country
+set_country_flag = steppe_nation
 
 ruling_party = SIB_conservative
 upper_house = {

@@ -1,0 +1,6 @@
+owner = TIM
+controller = TIM
+add_core = BLC
+add_core = AFG
+trade_goods = wool
+life_rating = 25

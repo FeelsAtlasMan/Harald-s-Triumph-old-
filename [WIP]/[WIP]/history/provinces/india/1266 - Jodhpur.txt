@@ -1,5 +1,5 @@
-owner = MAH
-controller = MAH
-add_core = RAJ
+owner = JOD
+controller = JOD
+add_core = JOD
 trade_goods = fruit
 life_rating = 32

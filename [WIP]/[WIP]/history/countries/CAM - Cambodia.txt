@@ -1,7 +1,7 @@
 capital = 1364
 primary_culture = khmer
 religion = theravada
-government = absolute_monarchy
+government = colonial_company
 plurality = 0.0
 nationalvalue = nv_tradition
 literacy = 0.01

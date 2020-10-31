@@ -1,3 +1,6 @@
+owner = KHN
+controller = KHN
+add_core = KHN
 trade_goods = coal
 life_rating = 35
 

@@ -1,4 +1,6 @@
-add_core = URA
+owner = KHN
+controller = KHN
+add_core = KHN
 trade_goods = coal
 terrain = boreal
 life_rating = 15

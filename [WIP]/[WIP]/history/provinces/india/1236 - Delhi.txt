@@ -1,5 +1,6 @@
-owner = MAH
-controller = MAH
+owner = MUG
+controller = MUG
+add_core = MUG
 add_core = PNJ
 trade_goods = fruit
 life_rating = 32

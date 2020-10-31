@@ -1899,7 +1899,7 @@ categories =  {
 		
 		combat_width = -0.70
 		
-		min_build_railroad = 3
+		min_build_railroad = 2
 	}
 	
 	herat = {

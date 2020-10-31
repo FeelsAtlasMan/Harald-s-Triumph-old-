@@ -413,7 +413,13 @@
 	serfs = {
 		culture = slovak
 		religion = catholic
-		size = 26000 
+		size = 10000 
+	}
+	
+	serfs = {
+		culture = rusyn
+		religion = orthodox
+		size = 16000 
 	}
 
 	clergymen = {
@@ -597,7 +603,7 @@
 	artisans = {
 		culture = hungarian
 		religion = protestant
-		size = 1300
+		size = 5300
 	}
 
 	soldiers = {
@@ -609,7 +615,7 @@
 	farmers = {
 		culture = hungarian
 		religion = protestant
-		size = 19762
+		size = 15762
 	}
 
 	clergymen = {
@@ -637,43 +643,43 @@
 	}
 
 	clergymen = {
-		culture = south_german
-		religion = catholic
+		culture = rusyn
+		religion = orthodox
 		size = 225
 	}
 
 	artisans = {
-		culture = south_german
-		religion = catholic
-		size = 4150
+		culture = rusyn
+		religion = orthodox
+		size = 150
 	}
 
 	farmers = {
-		culture = south_german
-		religion = catholic
-		size = 8925  
+		culture = rusyn
+		religion = orthodox
+		size = 12925  
 	}
 
 	clergymen = {
-		culture = ukrainian
+		culture = rusyn
 		religion = orthodox
 		size = 45  
 	}
 
 	artisans = {
-		culture = ukrainian
+		culture = rusyn
 		religion = orthodox
 		size = 200
 	}
 
 	soldiers = {
-		culture = ukrainian
+		culture = rusyn
 		religion = orthodox
 		size = 45  
 	}
 
 	serfs = {
-		culture = ukrainian
+		culture = rusyn
 		religion = orthodox
 		size = 4450
 	}
@@ -707,7 +713,7 @@
 	farmers = {
 		culture = slovak
 		religion = catholic
-		size = 21900    
+		size = 6900    
 	}
 	
 	aristocrats = {
@@ -741,26 +747,26 @@
 	}
 	
 	clergymen = {
-		culture = ukrainian
+		culture = rusyn
 		religion = orthodox
-		size = 30  
+		size = 530  
 	}
 
 	artisans = {
-		culture = ukrainian
+		culture = rusyn
 		religion = orthodox
-		size = 200
+		size = 1700
 	}
 
 	soldiers = {
-		culture = ukrainian
+		culture = rusyn
 		religion = orthodox
-		size = 30  
+		size = 1030  
 	}
 
 	serfs = {
-		culture = ukrainian
+		culture = rusyn
 		religion = orthodox
-		size = 4000
+		size = 17000
 	}
 }

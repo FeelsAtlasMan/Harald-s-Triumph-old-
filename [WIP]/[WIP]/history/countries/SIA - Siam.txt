@@ -1,5 +1,7 @@
 capital = 1346
-primary_culture = thai
+primary_culture = lavonic
+culture = thai
+culture = lawa
 religion = theravada
 government = absolute_monarchy
 plurality = 0.0

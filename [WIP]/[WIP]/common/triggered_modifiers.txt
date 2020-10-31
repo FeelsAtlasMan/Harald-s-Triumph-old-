@@ -304,6 +304,24 @@ pashtun_autonomy = {
 	icon = 19
 }
 
+skobelev = {
+	trigger = {
+		exists = yes
+		OR = {
+		tag = MSS
+		has_country_flag = skobelev_2
+		}
+	}
+	global_pop_militancy_modifier  = -0.05
+	badboy = 0.03
+	supply_consumption = -0.1
+	prestige = 0.015
+	military_tech_research_bonus = 0.1
+	industry_tech_research_bonus = -0.2
+	culture_tech_research_bonus = -0.1
+	icon = 19
+}
+
 semi_nomadic = {
 	trigger = {
 		exists = yes

@@ -19,6 +19,7 @@ upper_house = {
 }
 
 set_country_flag = sunni_country
+set_country_flag = steppe_nation
 
 OOB = "CRI_oob.txt"
 

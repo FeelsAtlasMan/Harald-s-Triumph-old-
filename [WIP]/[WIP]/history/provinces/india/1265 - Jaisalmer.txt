@@ -1,5 +1,5 @@
-owner = MAH
-controller = MAH
-add_core = RAJ
+owner = JAS
+controller = JAS
+add_core = JAS
 trade_goods = wool
 life_rating = 32

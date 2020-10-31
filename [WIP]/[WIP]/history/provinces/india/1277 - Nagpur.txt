@@ -1,5 +1,5 @@
-owner = MAH
-controller = MAH
-add_core = MAH
+owner = NAG
+controller = NAG
+add_core = NAG
 trade_goods = dye
 life_rating = 32

@@ -1,7 +1,7 @@
 capital = 1210
-primary_culture = uzbek
-culture = tajik
-religion = sunni
+primary_culture = badakhshani
+culture = persian
+religion = shiite
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition

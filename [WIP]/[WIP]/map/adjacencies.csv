@@ -234,6 +234,21 @@ From;To;Type;Through;Data;Comment
 2655;2651;impassable;0;0;Yenisei-Yakut
 2675;2651;impassable;0;0;Yenisei-Yakut
 
+#Sulaiman-Hindukush
+
+1221;1289;impassable;0;0;Southern Sulaiman 
+1221;3340;impassable;0;0;Southern Sulaiman
+1222;1289;impassable;0;0;Southern Sulaiman
+1219;1218;impassable;0;0;Northern Sulaiman
+1219;1289;impassable;0;0;Northern Sulaiman
+1219;1228;impassable;0;0;Northern Sulaiman
+1217;1218;impassable;0;0;Northern Sulaiman
+1216;2591;impassable;0;0;Hindukush
+1216;1210;impassable;0;0;Hindukush
+1223;1210;impassable;0;0;Hindukush
+1223;1208;impassable;0;0;Hindukush
+1225;1208;impassable;0;0;Hindukush
+1225;3313;impassable;0;0;Hindukush
 
 #
 # The canals

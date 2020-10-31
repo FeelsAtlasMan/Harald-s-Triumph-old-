@@ -1,6 +1,7 @@
-owner = MAH
-controller = MAH
-add_core = BIH
+owner = BUN
+controller = BUN
+add_core = BUN
+add_core = AWA
 trade_goods = tobacco
 life_rating = 32
 

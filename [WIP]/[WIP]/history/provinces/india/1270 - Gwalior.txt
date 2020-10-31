@@ -1,5 +1,6 @@
-owner = MAH
-controller = MAH
+owner = GWA
+controller = GWA
+add_core = GWA
 add_core = RAJ
 trade_goods = dye
 life_rating = 32

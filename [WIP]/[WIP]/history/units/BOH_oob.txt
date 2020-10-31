@@ -1,11 +1,11 @@
 WUL = {
 	value = 175
-	level = 4
+	level = 3
 	influence_value = 25
 }
 THU = {
 	value = 175		
-	level = 4		
+	level = 3		
 	influence_value = 25
 }
 LUX = {
@@ -27,14 +27,29 @@ PRU = {
 	level = 5		
 	influence_value = 50
 }
-LIT = {
+SMG = {
+	value = 125		
+	level = 5		
+	influence_value = 50
+}
+GLM = {
 	value = 125		
 	level = 5		
 	influence_value = 50
 }
 UKR = {
 	value = 125		
-	level = 5		
+	level = 4		
+	influence_value = 50
+}
+MNK = {
+	value = 125		
+	level = 4		
+	influence_value = 50
+}
+CUR = {
+	value = 125		
+	level = 4		
 	influence_value = 50
 }
 

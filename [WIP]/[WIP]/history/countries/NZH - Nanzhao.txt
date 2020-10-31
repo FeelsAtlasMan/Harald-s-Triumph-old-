@@ -1,7 +1,7 @@
 capital = 1602
-primary_culture = yi
+primary_culture = beifaren
 culture = hanhui
-religion = animist
+religion = mahanya
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition

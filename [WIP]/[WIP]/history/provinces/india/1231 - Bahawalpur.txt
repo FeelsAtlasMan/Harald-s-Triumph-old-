@@ -1,5 +1,6 @@
-owner = MAH
-controller = MAH
+owner = BHP
+controller = BHP
+add_core = BHP
 add_core = PNJ
 trade_goods = cattle
 life_rating = 32

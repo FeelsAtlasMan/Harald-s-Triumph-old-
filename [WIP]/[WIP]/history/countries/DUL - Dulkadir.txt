@@ -1,7 +1,7 @@
 capital = 894
 primary_culture = turkish
 religion = sunni
-government = absolute_monarchy
+government = colonial_company
 plurality = 1.0
 nationalvalue = nv_tradition
 literacy = 0.03

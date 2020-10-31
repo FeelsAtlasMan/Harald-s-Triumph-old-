@@ -1,5 +1,5 @@
-owner = OIR
-controller = OIR
+owner = KAZ
+controller = KAZ
 add_core = OIR
 add_core = UYG
 add_core = KAZ

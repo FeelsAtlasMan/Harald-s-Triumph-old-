@@ -4,49 +4,49 @@
 1191 = {
 	aristocrats = {
 		culture = uzbek
-		religion = sunni
+		religion = shiite
 		size = 950
 	}
 
 	bureaucrats = {
 		culture = uzbek
-		religion = sunni
+		religion = shiite
 		size = 125
 	}
 
 	officers = {
 		culture = uzbek
-		religion = sunni
+		religion = shiite
 		size = 125
 	}
 
 	clergymen = {
 		culture = uzbek
-		religion = sunni
+		religion = shiite
 		size = 450
 	}
 
 	soldiers = {
-		culture = uzbek
+		culture = turkmen
 		religion = sunni
 		size = 200
 	}
 
 	farmers = {
-		culture = uzbek
+		culture = turkmen
 		religion = sunni
 		size = 8050
 	}
 	
 	soldiers = {
-		culture = turkmen
-		religion = sunni
+		culture = uzbek
+		religion = shiite
 		size = 3800
 	}
 
 	farmers = {
-		culture = turkmen
-		religion = sunni
+		culture = uzbek
+		religion = shiite
 		size = 30050
 	}
 
@@ -92,7 +92,7 @@
 	soldiers = {
 		culture = uzbek
 		religion = shiite
-		size = 200
+		size = 2200
 	}
 
 	farmers = {
@@ -104,19 +104,19 @@
 	farmers = {
 		culture = uzbek
 		religion = shiite
-		size = 10050
+		size = 20050
 	}
 	
 	soldiers = {
 		culture = turkmen
 		religion = sunni
-		size = 3800
+		size = 1800
 	}
 
 	farmers = {
 		culture = turkmen
 		religion = sunni
-		size = 20000
+		size = 10000
 	}
 
 	artisans = {
@@ -135,27 +135,33 @@
 #Nukus (180000/45000 POPS) #now part of Uzbekistan  
 1192 = {
 	aristocrats = {
-		culture = turkmen
-		religion = sunni
+		culture = uzbek
+		religion = shiite
 		size = 400
 	}
 
 	clergymen = {
-		culture = turkmen
-		religion = sunni
+		culture = uzbek
+		religion = shiite
 		size = 225
 	}
 
 	artisans = {
-		culture = turkmen
-		religion = sunni
+		culture = uzbek
+		religion = shiite
 		size = 1150
 	}
 
 	soldiers = {
-		culture = turkmen
-		religion = sunni
+		culture = uzbek
+		religion = shiite
 		size = 3000
+	}
+	
+	farmers = {
+		culture = uzbek
+		religion = shiite
+		size = 10325
 	}
 
 	soldiers = {
@@ -167,7 +173,7 @@
 	farmers = {
 		culture = turkmen
 		religion = sunni
-		size = 17325
+		size = 7000
 	}
 
 	aristocrats = {
@@ -235,45 +241,57 @@
 		religion = shiite
 		size = 3650
 	}
+	
+	farmers = {
+		culture = bulgar_tatar
+		religion = shiite
+		size = 150
+	}
 }
 #Mawarannahr Region (524000) #see Kazakhstan.txt, Tajikistan.txt, Kirghizstan.txt for balance of region 
 #under the rule of Kokand in 1836  
 #Tashkent (224000/56000 POPS)   
 1195 = {
 	aristocrats = {
-		culture = uzbek
-		religion = sunni
+		culture = sart
+		religion = shiite
 		size = 900
 	}
 
 	clergymen = {
-		culture = uzbek
-		religion = sunni
+		culture = sart
+		religion = shiite
 		size = 450
 	}
 
 	artisans = {
-		culture = uzbek
-		religion = sunni
+		culture = sart
+		religion = shiite
 		size = 2300
 	}
 
+	soldiers = {
+		culture = sart
+		religion = shiite
+		size = 1000
+	}
+
+	farmers = {
+		culture = sart
+		religion = shiite
+		size = 20000
+	}
+	
 	soldiers = {
 		culture = uzbek
 		religion = sunni
 		size = 3000
 	}
-
-	soldiers = {
-		culture = uzbek
-		religion = sunni
-		size = 1000
-	}
-
+	
 	farmers = {
 		culture = uzbek
 		religion = sunni
-		size = 28850
+		size = 8850
 	}
 
 	aristocrats = {
@@ -345,45 +363,57 @@
 #Kokand (300000/75000 POPS)   
 1202 = {
 	aristocrats = {
-		culture = uzbek
-		religion = sunni
+	    culture = sart
+		religion = shiite
 		size = 1100
 	}
 
 	bureaucrats = {
-		culture = uzbek
-		religion = sunni
+		culture = sart
+		religion = shiite
 		size = 200
 	}
 
 	officers = {
-		culture = uzbek
-		religion = sunni
+		culture = sart
+		religion = shiite
 		size = 225
 	}
 
 	clergymen = {
-		culture = uzbek
-		religion = sunni
+		culture = sart
+		religion = shiite
 		size = 550
 	}
 
 	artisans = {
-		culture = uzbek
-		religion = sunni
+		culture = sart
+		religion = shiite
 		size = 7050
 	}
 
 	soldiers = {
-		culture = uzbek
-		religion = sunni
+		culture = sart
+		religion = shiite
 		size = 575
 	}
 
 	farmers = {
+		culture = sart
+		religion = shiite
+		size = 38000
+	}
+	
+	soldiers = {
 		culture = uzbek
 		religion = sunni
-		size = 46350
+		size = 2000
+	}
+	
+	farmers = {
+		culture = uzbek
+		religion = sunni
+		size = 6350
 	}
 
 	aristocrats = {
@@ -457,45 +487,51 @@
 #Bukhara (868000/217000 POPS)   
 1198 = {
 	aristocrats = {
-		culture = uzbek
-		religion = sunni
+		culture = sart
+		religion = shiite
 		size = 3750
 	}
 
 	bureaucrats = {
-		culture = uzbek
-		religion = sunni
+		culture = sart
+		religion = shiite
 		size = 525
 	}
 
 	officers = {
-		culture = uzbek
-		religion = sunni
+		culture = sart
+		religion = shiite
 		size = 475
 	}
 
 	clergymen = {
-		culture = uzbek
-		religion = sunni
+		culture = sart
+		religion = shiite
 		size = 2000
 	}
 
 	artisans = {
-		culture = uzbek
-		religion = sunni
+		culture = sart
+		religion = shiite
 		size = 4300
 	}
 
 	soldiers = {
-		culture = uzbek
-		religion = sunni
+		culture = sart
+		religion = shiite
 		size = 16000
 	}
 
 	farmers = {
+		culture = sart
+		religion = shiite
+		size = 80000
+	}
+	
+	farmers = {
 		culture = uzbek
 		religion = sunni
-		size = 142950
+		size = 22950
 	}
 
 	aristocrats = {
@@ -555,7 +591,7 @@
 	farmers = {
 		culture = persian
 		religion = shiite
-		size = 3375
+		size = 43375
 	}
 
 	clergymen = {
@@ -585,33 +621,39 @@
 #Samarkand (544000/136000 POPS)   
 1199 = {
 	aristocrats = {
-		culture = uzbek
-		religion = sunni
+		culture = sart
+		religion = shiite
 		size = 2250
 	}
 
 	clergymen = {
-		culture = uzbek
-		religion = sunni
+		culture = sart
+		religion = shiite
 		size = 1250
 	}
 
 	artisans = {
-		culture = uzbek
-		religion = sunni
-		size = 4700
+		culture = sart
+		religion = shiite
+		size = 9700
 	}
 
 	soldiers = {
-		culture = uzbek
-		religion = sunni
+		culture = sart
+		religion = shiite
 		size = 7000
 	}
 
 	farmers = {
+		culture = sart
+		religion = shiite
+		size = 85000
+	}
+	
+	farmers = {
 		culture = uzbek
 		religion = sunni
-		size = 100800
+		size = 10800
 	}
 
 	aristocrats = {
@@ -683,32 +725,32 @@
 #Qarshi (280000/70000 POPS)   
 1200 = {
 	aristocrats = {
-		culture = uzbek
-		religion = sunni
+		culture = sart
+		religion = shiite
 		size = 1100
 	}
 
 	clergymen = {
-		culture = uzbek
-		religion = sunni
+		culture = sart
+		religion = shiite
 		size = 500
 	}
 
 	artisans = {
-		culture = uzbek
-		religion = sunni
+		culture = sart
+		religion = shiite
 		size = 2550
 	}
 
 	soldiers = {
-		culture = uzbek
-		religion = sunni
+		culture = sart
+		religion = shiite
 		size = 525
 	}
 
 	farmers = {
-		culture = uzbek
-		religion = sunni
+		culture = sart
+		religion = shiite
 		size = 46425
 	}
 
@@ -825,22 +867,22 @@
 	aristocrats = {
 		culture = uzbek
 		religion = sunni
-		size = 1125
+		size = 125
 	}
 	clergymen = {
 		culture = uzbek
 		religion = sunni
-		size = 625
+		size = 225
 	}
 	artisans = {
 		culture = uzbek
 		religion = sunni
-		size = 2350
+		size = 350
 	}
 	soldiers = {
 		culture = uzbek
 		religion = sunni
-		size = 500
+		size = 1500
 	}
 	farmers = {
 		culture = uzbek
@@ -849,27 +891,27 @@
 	}
 
 	aristocrats = {
-		culture = uzbek
+		culture = sart
 		religion = shiite
-		size = 250
+		size = 1250
 	}
 	clergymen = {
 		culture = uzbek
-		religion = shiite
-		size = 250
+		religion = sart
+		size = 650
 	}
 	artisans = {
-		culture = uzbek
+		culture = sart
 		religion = shiite
-		size = 3350
+		size = 5350
 	}
 	soldiers = {
-		culture = uzbek
+		culture = sart
 		religion = shiite
-		size = 1100
+		size = 100
 	}
 	farmers = {
-		culture = uzbek
+		culture = sart
 		religion = shiite
 		size = 32800
 	}
@@ -905,7 +947,7 @@
 	farmers = {
 		culture = turkmen
 		religion = sunni
-		size = 2500
+		size = 500
 	}
 
 	aristocrats = {
@@ -931,7 +973,7 @@
 	farmers = {
 		culture = kazak
 		religion = sunni
-		size = 5000
+		size = 7000
 	}
 
 	aristocrats = {
@@ -989,56 +1031,51 @@
 
 #Kos/Kath
 3289 = {
-	aristocrats = {
-		culture = turkmen
-		religion = sunni
-		size = 950
-	}
 	clergymen = {
 		culture = turkmen
 		religion = sunni
-		size = 450
+		size = 5
 	}
 	artisans = {
 		culture = turkmen
 		religion = sunni
-		size = 2300
+		size = 10
 	}
 	soldiers = {
 		culture = turkmen
 		religion = sunni
-		size = 1100
+		size = 100
 	}
 	farmers = {
 		culture = turkmen
 		religion = sunni
-		size = 30500
+		size = 1500
 	}
 	
 	aristocrats = {
 		culture = uzbek 
 		religion = shiite
-		size = 225
+		size = 1225
 	}
 	clergymen = {
 		culture = uzbek 
 		religion = shiite
-		size = 175
+		size = 575
 	}
 	artisans = {
 		culture = uzbek 
 		religion = shiite
-		size = 1000
+		size = 3000
 	}
 	soldiers = {
 		culture = uzbek 
 		religion = shiite
-		size = 550
+		size = 2550
 	}
 	farmers = {
 		culture = uzbek 
 		religion = shiite
-		size = 11950
+		size = 41950
 	}
 
 	aristocrats = {
@@ -1072,27 +1109,27 @@
 		size = 7500
 	}
 	aristocrats = {
-		culture = turkmen
+		culture = kazak
 		religion = sunni
 		size = 150
 	}
 	clergymen = {
-		culture = turkmen
+		culture = kazak
 		religion = sunni
 		size = 75
 	}
 	artisans = {
-		culture = turkmen
+		culture = kazak
 		religion = sunni
 		size = 350
 	}
 	soldiers = {
-		culture = turkmen
+		culture = kazak
 		religion = sunni
 		size = 150
 	}
 	farmers = {
-		culture = turkmen
+		culture = kazak
 		religion = sunni
 		size = 8475
 	}

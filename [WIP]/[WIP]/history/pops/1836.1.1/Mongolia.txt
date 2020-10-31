@@ -35,13 +35,25 @@
 	soldiers = {
 		culture = mongol
 		religion = gelugpa
-		size = 900
+		size = 4900
 	}
 
 	farmers = {
 		culture = mongol
 		religion = gelugpa
-		size = 84350
+		size = 60000
+	}
+	
+	soldiers = {
+		culture = buryat
+		religion = gelugpa
+		size = 2000
+	}
+
+	farmers = {
+		culture = buryat
+		religion = gelugpa
+		size = 18350
 	}
 
 	bureaucrats = {
@@ -141,13 +153,25 @@
 	soldiers = {
 		culture = mongol
 		religion = gelugpa
-		size = 425
+		size = 3425
 	}
 
 	farmers = {
 		culture = mongol
 		religion = gelugpa
-		size = 37275
+		size = 24275
+	}
+	
+	soldiers = {
+		culture = buryat
+		religion = gelugpa
+		size = 1000
+	}
+
+	farmers = {
+		culture = buryat
+		religion = gelugpa
+		size = 8000
 	}
 
 	aristocrats = {
@@ -339,43 +363,55 @@
 	soldiers = {
 		culture = mongol
 		religion = gelugpa
-		size = 175
+		size = 3175
 	}
 
 	farmers = {
 		culture = mongol
 		religion = gelugpa
-		size = 16400
+		size = 7400
 	}
 
 	aristocrats = {
-		culture = kazak
-		religion = sunni
+		culture = oirat
+		religion = gelugpa
 		size = 200
 	}
 
 	clergymen = {
-		culture = kazak
-		religion = sunni
+		culture = oirat
+		religion = gelugpa
 		size = 100
 	}
 
 	artisans = {
-		culture = kazak
-		religion = sunni
+		culture = oirat
+		religion = gelugpa
 		size = 600
 	}
 
 	soldiers = {
+		culture = oirat
+		religion = gelugpa
+		size = 4125
+	}
+	
+	farmers = {
+		culture = oirat
+		religion = gelugpa
+		size = 10000
+	}
+	
+	soldiers = {
 		culture = kazak
 		religion = sunni
-		size = 125
+		size = 725
 	}
 	
 	farmers = {
 		culture = kazak
 		religion = sunni
-		size = 10975
+		size = 3475
 	}
 	
 	slaves = {

@@ -1,7 +1,5 @@
-owner = OIR
-controller = OIR
-add_core = OIR
-add_core = MGL
+owner = XBI
+controller = XBI
 add_core = XBI
 trade_goods = coal
 life_rating = 32

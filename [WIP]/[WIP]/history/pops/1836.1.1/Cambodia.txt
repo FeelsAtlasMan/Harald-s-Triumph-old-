@@ -5,31 +5,31 @@
 	aristocrats = {
 		culture = khmer
 		religion = theravada
-		size = 2000
+		size = 500
 	}
 
 	bureaucrats = {
 		culture = khmer
 		religion = theravada
-		size = 150
+		size = 50
 	}
 
 	officers = {
 		culture = khmer
 		religion = theravada
-		size = 200
+		size = 150
 	}
 
 	clergymen = {
 		culture = khmer
 		religion = theravada
-		size = 1125
+		size = 1000
 	}
 
 	artisans = {
 		culture = khmer
 		religion = theravada
-		size = 5500
+		size = 5300
 	}
 
 	soldiers = {
@@ -47,7 +47,49 @@
 	farmers = {
 		culture = khmer
 		religion = theravada
-		size = 93025
+		size = 60000
+	}
+	
+	farmers = {
+		culture = pear
+		religion = theravada
+		size = 20000
+	}
+	
+	aristocrats = {
+		culture = lavonic
+		religion = theravada
+		size = 1500
+	}
+
+	bureaucrats = {
+		culture = lavonic
+		religion = theravada
+		size = 100
+	}
+
+	officers = {
+		culture = lavonic
+		religion = theravada
+		size = 50
+	}
+
+	clergymen = {
+		culture = lavonic
+		religion = theravada
+		size = 325
+	}
+
+	artisans = {
+		culture = lavonic
+		religion = theravada
+		size = 3000
+	}
+
+	farmers = {
+		culture = lavonic
+		religion = theravada
+		size = 10025
 	}
 
 	slaves = {
@@ -69,7 +111,7 @@
 	}
 
 	farmers = {
-		culture = vietnamese
+		culture = thai
 		religion = mahayana
 		size = 2675
 	}
@@ -79,31 +121,67 @@
 	aristocrats = {
 		culture = khmer
 		religion = theravada
-		size = 725
+		size = 200
 	}
 
 	clergymen = {
 		culture = khmer
 		religion = theravada
-		size = 375
+		size = 150
 	}
 
 	artisans = {
 		culture = khmer
 		religion = theravada
-		size = 1750
+		size = 950
 	}
 
 	soldiers = {
 		culture = khmer
 		religion = theravada
-		size = 1100
+		size = 700
 	}
 
 	farmers = {
 		culture = khmer
 		religion = theravada
-		size = 34150
+		size = 15000
+	}
+	
+	farmers = {
+		culture = thai
+		religion = theravada
+		size = 3000
+	}
+	
+	aristocrats = {
+		culture = lavonic
+		religion = theravada
+		size = 525
+	}
+
+	clergymen = {
+		culture = lavonic
+		religion = theravada
+		size = 225
+	}
+
+	artisans = {
+		culture = lavonic
+		religion = theravada
+		size = 850
+	}
+
+	soldiers = {
+		culture = lavonic
+		religion = theravada
+		size = 400
+	}
+
+	farmers = {
+		culture = lavonic
+		religion = theravada
+		size = 1150
 	}
 
 	clergymen = {
@@ -119,18 +197,18 @@
 	}
 
 	farmers = {
-		culture = vietnamese
+		culture = pear
 		religion = mahayana
-		size = 1475
+		size = 15475
 	}
 
 	slaves = {
-		culture = vietnamese
+		culture = pear
 		religion = mahayana
 		size = 3000
 	}
 }
-#Stongtreng (84000/21000 POPS) - Asian Minors represent the muslim Champa
+#Stongtreng (84000/21000 POPS)
 1368 = {
 	aristocrats = {
 		culture = khmer
@@ -159,37 +237,37 @@
 	farmers = {
 		culture = khmer
 		religion = theravada
-		size = 16450
+		size = 8450
 	}
 
 	aristocrats = {
-		culture = vietnamese
+		culture = bahnar
 		religion = mahayana
 		size = 50
 	}
 
 	clergymen = {
-		culture = vietnamese
+		culture = bahnar
 		religion = mahayana
 		size = 50
 	}
 
 	artisans = {
-		culture = vietnamese
+		culture = bahnar
 		religion = mahayana
 		size = 125
 	}
 
 	soldiers = {
-		culture = vietnamese
+		culture = bahnar
 		religion = mahayana
-		size = 25
+		size = 725
 	}
 
 	farmers = {
-		culture = asian_minor
+		culture = bahnar
 		religion = mahayana
-		size = 2750
+		size =  10050
 	}
 
 	slaves = {
@@ -202,43 +280,43 @@
 #Battambang (152000/48000 POPS)
 1366 = {
 	aristocrats = {
-		culture = thai
+		culture = lavonic
 		religion = theravada
 		size = 25
 	}
 
 	bureaucrats = {
-		culture = thai
+		culture = lavonic
 		religion = theravada
 		size = 50
 	}
 
 	officers = {
-		culture = thai
+		culture = lavonic
 		religion = theravada
 		size = 75
 	}
 
 	clergymen = {
-		culture = thai
+		culture = lavonic
 		religion = theravada
 		size = 25
 	}
 
 	artisans = {
-		culture = thai
+		culture = lavonic
 		religion = theravada
 		size = 50
 	}
 
 	soldiers = {
-		culture = thai
+		culture = lavonic
 		religion = theravada
 		size = 50
 	}
 
 	farmers = {
-		culture = thai
+		culture = lavonic
 		religion = theravada
 		size = 725
 	}
@@ -270,7 +348,13 @@
 	farmers = {
 		culture = khmer
 		religion = theravada
-		size = 39425
+		size = 30000
+	}
+	
+	farmers = {
+		culture = pear
+		religion = theravada
+		size = 9425
 	}
 
 	slaves = {

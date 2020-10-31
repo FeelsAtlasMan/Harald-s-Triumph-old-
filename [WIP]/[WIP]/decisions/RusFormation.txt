@@ -1,6 +1,6 @@
 political_decisions = {
 		form_russia = {
-			picture = tsardom
+			picture = great_rus
 			potential = {
 				is_culture_group = east_slavic
                 NOT = { has_country_flag = cossack_nation }				
@@ -44,6 +44,26 @@ political_decisions = {
 						}
 					}
 				}
+				MNK = {
+					all_core = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+							}
+						}
+					}
+				}
+				GLM = {
+					all_core = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+							}
+						}
+					}
+				}
 				NOV = {
 					all_core = {
 						OR = {
@@ -76,7 +96,29 @@ political_decisions = {
 	}
 
 #End Tatar Raids
-
+    end_kazan = {
+	 picture = end_kazan
+	 potential = {
+				tag = MUS
+                has_country_flag = triumvirate			
+				NOT = {
+					exists = RUS
+				    }
+                NOT = { has_country_flag = sent_general_skobelev }	
+                }				
+	allow = {
+				war = no
+				prestige = 10
+				KZN = { has_country_flag = recently_raided }
+      }
+					
+   	effect = {
+				country_event = 676421		
+	}
+	ai_will_do = {
+			factor = 1
+		}
+}
 #Formation of the Hetmanate
 		unite_the_cossacks = {
 			picture = hetmanate
@@ -153,4 +195,4 @@ political_decisions = {
 				factor = 1
 			}
 }
-	
+}	

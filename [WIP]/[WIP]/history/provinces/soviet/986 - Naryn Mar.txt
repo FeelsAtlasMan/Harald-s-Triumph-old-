@@ -1,4 +1,6 @@
-add_core = URA
+owner = NNT
+controller = NNT
+add_core = NNT
 trade_goods = timber
 terrain = boreal
 life_rating = 10

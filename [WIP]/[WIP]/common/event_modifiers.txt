@@ -88,6 +88,12 @@ native_removal_act_policy = {
 	icon = 18
 }
 
+kazan_refugees = {
+	pop_consciousness_modifier = 0.04
+    pop_militancy_modifier = 0.02	
+	icon = 18
+}
+
 #local_trinket_health_care = {
 #	#population_growth = 0.002
 #	icon = 19

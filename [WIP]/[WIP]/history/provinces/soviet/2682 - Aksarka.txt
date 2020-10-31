@@ -1,7 +1,6 @@
-owner = SIB
-controller = SIB
-add_core = SIB
-add_core = URA
+owner = YML
+controller = YML
+add_core = YML
 trade_goods = timber
 terrain = boreal
 life_rating = 10

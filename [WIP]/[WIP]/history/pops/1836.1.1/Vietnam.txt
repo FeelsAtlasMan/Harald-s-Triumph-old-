@@ -99,20 +99,20 @@
 	}
 
 	clergymen = {
-		culture = vietnamese
-		religion = catholic
+		culture = mien
+		religion = animist
 		size = 175
 	}
 
 	artisans = {
-		culture = vietnamese
-		religion = catholic
+		culture = mien
+		religion = animist
 		size = 3500
 	}
 
 	farmers = {
-		culture = vietnamese
-		religion = catholic
+		culture = mien
+		religion = animist
 		size = 20325
 	}
 }
@@ -211,166 +211,166 @@
 	}
 
 	clergymen = {
-		culture = vietnamese
+		culture = tai
 		religion = mahayana
 		size = 500
 	}
 
 	artisans = {
-		culture = vietnamese
+		culture = tai
 		religion = mahayana
 		size = 2600
 	}
 
 	soldiers = {
-		culture = vietnamese
+		culture = tai
 		religion = mahayana
 		size = 1100
 	}
 
 	farmers = {
-		culture = vietnamese
+		culture = tai
 		religion = mahayana
 		size = 46800
 	}
 
 	slaves = {
-		culture = vietnamese
+		culture = tai
 		religion = mahayana
 		size = 2000
 	}
 
 	clergymen = {
-		culture = vietnamese
-		religion = catholic
+		culture = zhuang
+		religion = mahayana
 		size = 75
 	}
 
 	artisans = {
-		culture = vietnamese
-		religion = catholic
+		culture = zhuang
+		religion = mahayana
 		size = 300
 	}
 
 	farmers = {
-		culture = vietnamese
-		religion = catholic
+		culture = zhuang
+		religion = mahayana
 		size = 5625
 	}
 
 	aristocrats = {
-		culture = asian_minor
-		religion = animist
+		culture = vietnamese
+		religion = mahayana
 		size = 200
 	}
 
 	clergymen = {
-		culture = asian_minor
-		religion = animist
+		culture = vietnamese
+		religion = mahayana
 		size = 100
 	}
 
 	artisans = {
-		culture = asian_minor
-		religion = animist
+		culture = vietnamese
+		religion = mahayana
 		size = 500
 	}
 
 	soldiers = {
-		culture = asian_minor
-		religion = animist
+		culture = vietnamese
+		religion = mahayana
 		size = 100
 	}
 
 	farmers = {
-		culture = asian_minor
-		religion = animist
+		culture = vietnamese
+		religion = mahayana
 		size = 9100
 	}
 }
 #Son La (300000/75000 POPS)
 1372 = {
 	aristocrats = {
-		culture = vietnamese
+		culture = tai
 		religion = mahayana
 		size = 1100
 	}
 
 	clergymen = {
-		culture = vietnamese
+		culture = tai
 		religion = mahayana
 		size = 550
 	}
 
 	artisans = {
-		culture = vietnamese
+		culture = tai
 		religion = mahayana
 		size = 2700
 	}
 
 	soldiers = {
-		culture = vietnamese
+		culture = tai
 		religion = mahayana
 		size = 1100
 	}
 
 	farmers = {
-		culture = vietnamese
+		culture = tai
 		religion = mahayana
 		size = 48650
 	}
 
 	slaves = {
-		culture = vietnamese
+		culture = tai
 		religion = mahayana
 		size = 1100
 	}
 
 	clergymen = {
-		culture = vietnamese
-		religion = catholic
+		culture = hmong
+		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = vietnamese
-		religion = catholic
+		culture = hmong
+		religion = animist
 		size = 300
 	}
 
 	farmers = {
-		culture = vietnamese
-		religion = catholic
+		culture = hmong
+		religion = animist
 		size = 5625
 	}
 
 	aristocrats = {
-		culture = asian_minor
-		religion = animist
+		culture = vietnamese
+		religion = mahayana
 		size = 275
 	}
 
 	clergymen = {
-		culture = asian_minor
-		religion = animist
+		culture = vietnamese
+		religion = mahayana
 		size = 125
 	}
 
 	artisans = {
-		culture = asian_minor
-		religion = animist
+		culture = vietnamese
+		religion = mahayana
 		size = 700
 	}
 
 	soldiers = {
-		culture = asian_minor
-		religion = animist
+		culture = vietnamese
+		religion = mahayana
 		size = 150
 	}
 
 	farmers = {
-		culture = asian_minor
-		religion = animist
+		culture = vietnamese
+		religion = mahayana
 		size = 12750
 	}
 }
@@ -403,7 +403,13 @@
 	farmers = {
 		culture = vietnamese
 		religion = mahayana
-		size = 62405
+		size = 10000
+	}
+	
+	farmers = {
+		culture = tai
+		religion = animist
+		size = 22405
 	}
 
 	slaves = {
@@ -413,21 +419,27 @@
 	}
 
 	clergymen = {
-		culture = vietnamese
-		religion = catholic
-		size = 50
+		culture = zhuang
+		religion = mahayana
+		size = 150
 	}
 
 	artisans = {
-		culture = vietnamese
-		religion = catholic
-		size = 350
+		culture = zhuang
+		religion = mahayana
+		size = 2350
 	}
 
 	farmers = {
-		culture = vietnamese
-		religion = catholic
-		size = 6600
+		culture = zhuang
+		religion = mahayana
+		size = 20000
+	}
+	
+	farmers = {
+		culture = mien
+		religion = animist
+		size = 13600
 	}
 
 	clergymen = {
@@ -477,7 +489,13 @@
 	farmers = {
 		culture = vietnamese
 		religion = mahayana
-		size = 110025
+		size = 70000
+	}
+	
+	farmers = {
+		culture = hmong
+		religion = mahayana
+		size = 10025
 	}
 
 	slaves = {
@@ -487,21 +505,21 @@
 	}
 
 	clergymen = {
-		culture = vietnamese
-		religion = catholic
+		culture = tai
+		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = vietnamese
-		religion = catholic
+		culture = tai
+		religion = animist
 		size = 550
 	}
 
 	farmers = {
-		culture = vietnamese
-		religion = catholic
-		size = 10400
+		culture = tai
+		religion = animist
+		size = 40400
 	}
 }
 #Annam Region (2148000)
@@ -761,32 +779,32 @@
 #Pleiku (148000 37000 POPS)
 1378 = {
 	aristocrats = {
-		culture = champa
-		religion = hindu
+		culture = bahnar
+		religion = mahayana
 		size = 700
 	}
 
 	clergymen = {
-		culture = champa
-		religion = hindu
+		culture = bahnar
+		religion = mahayana
 		size = 325
 	}
 
 	artisans = {
-		culture = champa
-		religion = hindu
+		culture = bahnar
+		religion = mahayana
 		size = 1700
 	}
 
 	soldiers = {
-		culture = champa
-		religion = hindu
+		culture = bahnar
+		religion = mahayana
 		size = 350
 	}
 
 	farmers = {
-		culture = champa
-		religion = hindu
+		culture = bahnar
+		religion = mahayana
 		size = 20000
 	}
 	
@@ -804,19 +822,19 @@
 
 	clergymen = {
 		culture = vietnamese
-		religion = catholic
+		religion = hindu
 		size = 50
 	}
 
 	artisans = {
 		culture = vietnamese
-		religion = catholic
+		religion = hindu
 		size = 200
 	}
 
 	farmers = {
 		culture = vietnamese
-		religion = catholic
+		religion = hindu
 		size = 3750
 	}
 }
@@ -1023,13 +1041,19 @@
 	farmers = {
 		culture = khmer
 		religion = mahayana
-		size = 30000
+		size = 15000
 	}
 	
 	farmers = {
 		culture = vietnamese
 		religion = mahayana
-		size = 13750
+		size = 10000
+	}
+	
+	farmers = {
+		culture = bahnar
+		religion = mahayana
+		size = 8750
 	}
 
 	clergymen = {
@@ -1047,37 +1071,37 @@
 	farmers = {
 		culture = champa
 		religion = sunni
-		size = 4700
+		size = 9700
 	}
 
 	aristocrats = {
 		culture = champa
-		religion = sunni
+		religion = hindu
 		size = 175
 	}
 
 	clergymen = {
 		culture = champa
-		religion = sunni
+		religion = hindu
 		size = 75
 	}
 
 	artisans = {
 		culture = champa
-		religion = sunni
+		religion = hindu
 		size = 400
 	}
 
 	soldiers = {
 		culture = champa
-		religion = sunni
+		religion = hindu
 		size = 75
 	}
 
 	farmers = {
 		culture = champa
-		religion = sunni
-		size = 7275
+		religion = hindu
+		size = 12275
 	}
 }
 #Hatien (172000/43000 POPS)

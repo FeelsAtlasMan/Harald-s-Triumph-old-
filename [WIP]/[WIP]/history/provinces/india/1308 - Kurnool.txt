@@ -1,5 +1,5 @@
-owner = HYD
-controller = HYD
-add_core = HYD
+owner = MYS
+controller = MYS
+add_core = MYS
 trade_goods = cattle
 life_rating = 32

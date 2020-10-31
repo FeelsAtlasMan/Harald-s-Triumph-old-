@@ -1,5 +1,5 @@
-owner = MAH
-controller = MAH
-add_core = MAH
+owner = IND
+controller = IND
+add_core = IND
 trade_goods = opium
 life_rating = 32

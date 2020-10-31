@@ -1,6 +1,6 @@
-owner = MAH
-controller = MAH
-add_core = RAJ
+owner = JAI
+controller = JAI
+add_core = JAI
 trade_goods = timber
 life_rating = 32
 terrain = jaipur

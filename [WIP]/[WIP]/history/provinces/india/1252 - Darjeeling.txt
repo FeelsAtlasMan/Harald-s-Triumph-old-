@@ -1,6 +1,7 @@
-owner = BNG
-controller = BNG
+owner = ASM
+controller = ASM
+add_core = ASM
 add_core = BNG
-trade_goods = wool
+trade_goods = tea
 life_rating = 35
 

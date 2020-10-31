@@ -1,5 +1,6 @@
-owner = BNG
-controller = BNG
+owner = SUR
+controller = SUR
+add_core = SUR
 add_core = BIH
 trade_goods = cattle
 life_rating = 32

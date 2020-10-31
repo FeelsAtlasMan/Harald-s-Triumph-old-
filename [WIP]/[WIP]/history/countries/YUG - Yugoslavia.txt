@@ -1,6 +1,8 @@
 capital = 794
-primary_culture = serb
-culture = croat
+primary_culture = shtokavian
+culture = chakavian
+culture = kaykavian
+culture = torlakian
 culture = slovene
 religion = orthodox
 government = hms_government

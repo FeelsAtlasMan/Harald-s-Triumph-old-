@@ -1,7 +1,6 @@
-owner = SIB
-controller = SIB
-add_core = SIB
-add_core = URA
+owner = KHN
+controller = KHN
+add_core = KHN
 trade_goods = iron
 terrain = boreal
 life_rating = 15

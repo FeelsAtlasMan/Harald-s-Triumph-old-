@@ -1,6 +1,6 @@
 owner = TIM
 controller = TIM
 add_core = TIM
-add_core = UZB
+add_core = BDK
 trade_goods = fish
 life_rating = 35

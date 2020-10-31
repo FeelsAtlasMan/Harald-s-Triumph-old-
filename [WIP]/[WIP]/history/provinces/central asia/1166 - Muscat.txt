@@ -1,5 +1,5 @@
-owner = TIM
-controller = TIM
+owner = OMA
+controller = OMA
 add_core = OMA
 trade_goods = opium
 life_rating = 35

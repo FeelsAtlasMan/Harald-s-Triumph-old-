@@ -1,6 +1,6 @@
-owner = SHU
-controller = SHU
+owner = NZH
+controller = NZH
 add_core = CHI
-add_core = SHU
+add_core = NZH
 trade_goods = fruit
 life_rating = 32

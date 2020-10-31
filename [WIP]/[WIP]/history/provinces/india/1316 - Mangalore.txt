@@ -1,5 +1,6 @@
-owner = MYS
-controller = MYS
+owner = VLL
+controller = VLL
+add_core = VLL
 add_core = MYS
 trade_goods = fruit
 life_rating = 32

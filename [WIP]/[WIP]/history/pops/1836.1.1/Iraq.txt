@@ -2,46 +2,28 @@
 #under the rule of Ottoman Empire in 1836  
 #Mosul (228000/57000 POPS)
 923 = {
-	aristocrats = {
-		culture = kurdish
-		religion = sunni
-		size = 325
-	}
-
-	bureaucrats = {
-		culture = kurdish
-		religion = sunni
-		size = 25
-	}
-
-	officers = {
-		culture = kurdish
-		religion = sunni
-		size = 50
-	}
-
 	clergymen = {
-		culture = kurdish
+		culture = kurmanji
 		religion = sunni
 		size = 150
 	}
 
 	artisans = {
-		culture = kurdish
+		culture = kurmanji
 		religion = sunni
 		size = 650
 	}
 
 	soldiers = {
-		culture = kurdish
+		culture = kurmanji
 		religion = sunni
 		size = 1100
 	}
 
 	farmers = {
-		culture = kurdish
+		culture = kurmanji
 		religion = sunni
-		size = 8000
+		size = 5000
 	}
 
 	aristocrats = {
@@ -81,9 +63,9 @@
 	}
 	
 	farmers = {
-		culture = kurdish
+		culture = sorani
 		religion = yazidi
-		size = 8000
+		size = 7000
 	}
 	
 	aristocrats = {
@@ -155,7 +137,7 @@
 	farmers = {
 		culture = assyrian
 		religion = catholic
-		size = 21325
+		size = 24325
 	}
 
 	slaves = {
@@ -197,31 +179,31 @@
 	}
 
 	aristocrats = {
-		culture = kurdish
+		culture = kurmanji
 		religion = sunni
 		size = 250
 	}
 
 	clergymen = {
-		culture = kurdish
+		culture = kurmanji
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = kurdish
+		culture = kurmanji
 		religion = sunni
 		size = 950
 	}
 
 	soldiers = {
-		culture = kurdish
+		culture = kurmanji
 		religion = sunni
 		size = 300
 	}
 
 	farmers = {
-		culture = kurdish
+		culture = kurmanji
 		religion = sunni
 		size = 13800
 	}
@@ -251,7 +233,7 @@
 	}
 	
 	farmers = {
-		culture = kurdish
+		culture = kurmanji
 		religion = yazidi
 		size = 1325
 	}
@@ -284,62 +266,92 @@
 925 = {
 	aristocrats = {
 		culture = mashriqi
-		religion = sunni
+		religion = shiite
 		size = 75
 	}
 
 	clergymen = {
 		culture = mashriqi
-		religion = sunni
+		religion = shiite
 		size = 50
 	}
 
 	artisans = {
 		culture = mashriqi
-		religion = sunni
+		religion = shiite
 		size = 300
 	}
 
 	soldiers = {
 		culture = mashriqi
-		religion = sunni
+		religion = shiite
 		size = 75
 	}
 
 	farmers = {
 		culture = mashriqi
-		religion = sunni
+		religion = shiite
 		size = 6075
 	}
 
 	aristocrats = {
-		culture = kurdish
-		religion = sunni
+		culture = sorani
+		religion = shiite
 		size = 325
 	}
 
 	clergymen = {
-		culture = kurdish
+		culture = sorani
+		religion = shiite
+		size = 200
+	}
+
+	artisans = {
+		culture = sorani
+		religion = shiite
+		size = 1600
+	}
+
+	soldiers = {
+		culture = sorani
+		religion = shiite
+		size = 1100
+	}
+
+	farmers = {
+		culture = sorani
+		religion = shiite
+		size = 23000
+	}
+
+	clergymen = {
+		culture = sorani
 		religion = sunni
 		size = 200
 	}
 
 	artisans = {
-		culture = kurdish
+		culture = sorani
 		religion = sunni
 		size = 1600
 	}
 
 	soldiers = {
-		culture = kurdish
+		culture = sorani
 		religion = sunni
 		size = 1100
 	}
 
 	farmers = {
-		culture = kurdish
+		culture = sorani
 		religion = sunni
-		size = 26625
+		size = 6625
+	}
+	
+	farmers = {
+		culture = gorani
+		religion = yazidi
+		size = 3625
 	}
 	
 	clergymen = {
@@ -396,44 +408,50 @@
 926 = {
 	aristocrats = {
 		culture = mashriqi
-		religion = sunni
+		religion = shiite
 		size = 1100
 	}
 
 	bureaucrats = {
 		culture = mashriqi
-		religion = sunni
+		religion = shiite
 		size = 350
 	}
 
 	clergymen = {
 		culture = mashriqi
-		religion = sunni
+		religion = shiite
 		size = 400
 	}
 
 	artisans = {
 		culture = mashriqi
-		religion = sunni
+		religion = shiite
 		size = 4000
 	}
 	
 	artisans = {
 		culture = mashriqi
-		religion = sunni
+		religion = shiite
 		size = 3950
 	}
 
 	soldiers = {
 		culture = mashriqi
-		religion = sunni
+		religion = shiite
 		size = 1225
 	}
 
 	farmers = {
 		culture = mashriqi
+		religion = shiite
+		size = 10000
+	}
+	
+	farmers = {
+		culture = mashriqi
 		religion = sunni
-		size = 30525
+		size = 20525
 	}
 
 	farmers = {
@@ -443,25 +461,25 @@
 	}
 
 	aristocrats = {
-		culture = mashriqi
+		culture = persian
 		religion = shiite
 		size = 100
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = persian
 		religion = shiite
 		size = 100
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = persian
 		religion = shiite
 		size = 150
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = persian
 		religion = shiite
 		size = 2750
 	}
@@ -572,32 +590,38 @@
 927 = {
 	aristocrats = {
 		culture = mashriqi
-		religion = sunni
+		religion = shiite
 		size = 325
 	}
 
 	clergymen = {
 		culture = mashriqi
-		religion = sunni
+		religion = shiite
 		size = 175
 	}
 
 	artisans = {
 		culture = mashriqi
-		religion = sunni
+		religion = shiite
 		size = 850
 	}
 
 	soldiers = {
 		culture = mashriqi
-		religion = sunni
+		religion = shiite
 		size = 175
 	}
 
 	farmers = {
 		culture = mashriqi
+		religion = shiite
+		size = 5000
+	}
+	
+	farmers = {
+		culture = mashriqi
 		religion = sunni
-		size = 15475
+		size = 10475
 	}
 
 	aristocrats = {
@@ -659,67 +683,73 @@
 	farmers = {
 		culture = mashriqi
 		religion = sunni
-		size = 8975
+		size = 3975
 	}
 
 	aristocrats = {
-		culture = kurdish
+		culture = sorani
 		religion = sunni
 		size = 75
 	}
 
 	clergymen = {
-		culture = kurdish
+		culture = sorani
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = kurdish
+		culture = sorani
 		religion = sunni
 		size = 2000
 	}
 
 	soldiers = {
-		culture = kurdish
+		culture = sorani
 		religion = sunni
 		size = 500
 	}
 
 	farmers = {
-		culture = kurdish
+		culture = sorani
 		religion = sunni
-		size = 9600
+		size = 13600
 	}
 
 	aristocrats = {
-		culture = kurdish
+		culture = kurmanji
 		religion = shiite
 		size = 750
 	}
 
 	clergymen = {
-		culture = kurdish
+		culture = kurmanji
 		religion = shiite
 		size = 750
 	}
 
 	artisans = {
-		culture = kurdish
+		culture = kurmanji
 		religion = shiite
 		size = 2000
 	}
 
 	soldiers = {
-	    culture = kurdish
+	    culture = kurmanji
 		religion = shiite
 		size = 500
 	}
 
 	farmers = {
-		culture = kurdish
+		culture = kurmanji
 		religion = shiite
-		size = 16600
+		size = 14600
+	}
+	
+	farmers = {
+		culture = gorani
+		religion = yazidi
+		size = 3600
 	}
 	
 	soldiers = {
@@ -855,43 +885,43 @@
 	soldiers = {
 		culture = lurish
 		religion = sunni
-		size = 50
+		size = 350
 	}
 
 	farmers = {
 		culture = lurish
 		religion = sunni
-		size = 3600
+		size = 4300
 	}
 
 	aristocrats = {
-		culture = lurish
+		culture = kurdish
 		religion = shiite
 		size = 25
 	}
 
 	clergymen = {
-		culture = lurish
+		culture = kurdish
 		religion = shiite
 		size = 50
 	}
 
 	artisans = {
-		culture = lurish
+		culture = kurdish
 		religion = shiite
 		size = 100
 	}
 
 	soldiers = {
-		culture = lurish
+		culture = kurdish
 		religion = shiite
 		size = 25
 	}
 
 	farmers = {
-		culture = lurish
+		culture = kurdish
 		religion = shiite
-		size = 1800
+		size = 800
 	}
 
 	aristocrats = {

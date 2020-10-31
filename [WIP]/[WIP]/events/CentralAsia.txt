@@ -1,0 +1,67 @@
+#########################################################
+#														#
+#      			  central asia   					    #
+#														#
+#########################################################
+
+#Kazakh Migration
+country_event = {
+        id = 9904
+        title = "EVTNAME9904"
+        desc = "EVTDESC9904"
+        picture = "kazan_refugees"
+        
+        fire_only_once = yes
+        trigger = {
+                    tag = OIR
+                    NOT = { exists = KAZ }
+        }
+    
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+    option = {
+		name = "EVT9904OPTA"
+	    1184 = { 
+		secede_province = OIR
+		}
+		2611 = { 
+		secede_province = OIR
+		}
+		1181 = { 
+		secede_province = OIR
+		}
+		2612 = { 
+		secede_province = OIR
+		}
+		1190 = { 
+		any_pop = {
+		       limit = {
+		         has_pop_culture = kazak
+		       }
+		       move_pop = 1184
+		   }
+		remove_core = KAZ
+		}
+		1186 = { 
+		any_pop = {
+		       limit = {
+		         has_pop_culture = kazak
+		       }
+		       move_pop = 2611
+		    }
+		remove_core = KAZ
+		}
+		1188 = { 
+		any_pop = {
+		        limit = {
+		          has_pop_culture = kazak
+		        }
+		        move_pop = 1181
+		    }
+		remove_core = KAZ
+		}
+		release = KAZ
+	}
+}
