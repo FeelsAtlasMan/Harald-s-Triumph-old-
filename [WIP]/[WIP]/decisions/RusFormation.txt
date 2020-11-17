@@ -119,6 +119,7 @@ political_decisions = {
 			factor = 1
 		}
 }
+
 #Formation of the Hetmanate
 		unite_the_cossacks = {
 			picture = hetmanate

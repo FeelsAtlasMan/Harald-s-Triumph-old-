@@ -23,43 +23,43 @@
 	soldiers = {
 		culture = kazak
 		religion = sunni
-		size = 15
+		size = 415
 	}
 
 	farmers = {
 		culture = kazak
 		religion = sunni
-		size = 665
+		size = 4665
 	}
 
 	aristocrats = {
-		culture = astrakhan_tatar
+		culture = nogay_tatar
 		religion = sunni
-		size = 75
+		size = 275
 	}
 
 	clergymen = {
-		culture = astrakhan_tatar
+		culture = nogay_tatar
 		religion = sunni
-		size = 75
+		size = 275
 	}
 
 	artisans = {
-		culture = astrakhan_tatar
+		culture = nogay_tatar
 		religion = sunni
-		size = 200
+		size = 1200
 	}
 
 	soldiers = {
-		culture = astrakhan_tatar
+		culture = nogay_tatar
 		religion = sunni
-		size = 25
+		size = 4025
 	}
 
 	farmers = {
-		culture = astrakhan_tatar
+		culture = nogay_tatar
 		religion = sunni
-		size = 3625
+		size = 24250
 	}
 }
 #Aqtobe (20000/5000 POPS)
@@ -85,19 +85,25 @@
 	soldiers = {
 		culture = kazak
 		religion = sunni
-		size = 50
+		size = 350
 	}
 
 	farmers = {
 		culture = kazak
 		religion = sunni
-		size = 1575
+		size = 1275
+	}
+	
+	soldiers = {
+		culture = nogay_tatar
+		religion = sunni
+		size = 800
 	}
 	
 	farmers = {
-		culture = astrakhan_tatar
+		culture = nogay_tatar
 		religion = sunni
-		size = 3000
+		size = 2200
 	}
 }
 #Uralsk (13000/3250 POPS)
@@ -117,43 +123,43 @@
 	soldiers = {
 		culture = kazak
 		religion = sunni
-		size = 25
+		size = 225
 	}
 
 	farmers = {
 		culture = kazak
 		religion = sunni
-		size = 1150
+		size = 3150
 	}
 
 	aristocrats = {
-		culture = astrakhan_tatar
+		culture = nogay_tatar
 		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
-		culture = astrakhan_tatar
+		culture = nogay_tatar
 		religion = sunni
 		size = 25
 	}
 
 	artisans = {
-		culture = astrakhan_tatar
+		culture = nogay_tatar
 		religion = sunni
 		size = 100
 	}
 
 	soldiers = {
-		culture = astrakhan_tatar
+		culture = nogay_tatar
 		religion = sunni
-		size = 25
+		size = 825
 	}
 
 	farmers = {
-		culture = astrakhan_tatar
+		culture = nogay_tatar
 		religion = sunni
-		size = 1825
+		size = 7025
 	}
 }
 #Turgay (20000/5000 POPS)
@@ -688,13 +694,25 @@
 	soldiers = {
 		culture = kazak
 		religion = sunni
-		size = 75
+		size = 275
 	}
 
 	farmers = {
 		culture = kazak
 		religion = sunni
-		size = 6425
+		size = 1800
+	}
+	
+	soldiers = {
+		culture = nogay_tatar
+		religion = sunni
+		size = 675
+	}
+
+	farmers = {
+		culture = nogay_tatar
+		religion = sunni
+		size = 3825
 	}
 }
 #Mawarannahr Region (180000) #see Uzbekistan.txt, Tajikistan.txt, Kirghizstan.txt for balance of region 

@@ -233,9 +233,9 @@ CRI_prussian_constitutionalism;Khanate of Crimea;;;;;;;;;;;;x
 AKH_absolute_monarchy;Khanate of Astrakhan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 AKH_hms_government;Khanate of Astrakhan;;;;;;;;;;;;x
 AKH_prussian_constitutionalism;Khanate of Astrakhan;;;;;;;;;;;;x
-SIB_absolute_monarchy;Khanate of Sibir;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-SIB_hms_government;Khanate of Sibir;;;;;;;;;;;;x
-SIB_prussian_constitutionalism;Khanate of Sibir;;;;;;;;;;;;x
+SIB_absolute_monarchy;Khanate of Qashliq;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+SIB_hms_government;Khanate of Qashliq;;;;;;;;;;;;x
+SIB_prussian_constitutionalism;Khanate of Qashliq;;;;;;;;;;;;x
 URA;Great Perm;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 URA_absolute_monarchy;Great Perm;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 URA_hms_government;Great Perm;;;;;;;;;;;;x
@@ -247,10 +247,10 @@ OIR_hms_government;Oirat Khaganate;;;;;;;;;;;;x
 OIR_prussian_constitutionalism;Oirat Khaganate;;;;;;;;;;;;x
 OIR_ADJ;Oirat;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 ALT;Altai Union;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-ALT_absolute_monarchy;Khanate of Tuva;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-ALT_hms_government;Khanate of Tuva;;;;;;;;;;;;x
-ALT_prussian_constitutionalism;Khanate of Tuva;;;;;;;;;;;;x
-ALT_ADJ;Altai-Tatar;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+ALT_absolute_monarchy;Tuva Uriankhai;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+ALT_hms_government;Tuva Uriankhai;;;;;;;;;;;;x
+ALT_prussian_constitutionalism;Tuva Uriankhai;;;;;;;;;;;;x
+ALT_ADJ;Altaic;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 BRY;Buryatia;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 BRY_absolute_monarchy;Buryat Khanate;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 BRY_hms_government;Buryat Khanate;;;;;;;;;;;;x
@@ -324,8 +324,8 @@ SLA;Slavonia;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 SLA_ADJ;Slavonian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 ABB;Abbasid Caliphate;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 ABB_ADJ;Abbasid;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-LIH;Aukštaitija;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-LIH_ADJ;Aukštaitian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+LIH;Dzukija;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+LIH_ADJ;Dzukijaian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 SMG;Samogitia;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 SMG_ADJ;Samogitian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 CUR;Courland;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
@@ -416,10 +416,15 @@ BUR_absolute_monarchy;Ava;;;;;;;;;;;;x
 BUR_hms_government;Ava;;;;;;;;;;;;x
 BUR_prussian_constitutionalism;Ava;;;;;;;;;;;;x
 BUR_ADJ;Avan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-MNK;Minsk;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-MNK_ADJ;Minskian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+MNK;Polotsk;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+MNK_ADJ;Polotskian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 NOG;Nogay Khanate;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 NOG_ADJ;Nogay;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+PLK;Pleskov;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+PLK_ADJ;Pleskovian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TYM_absolute_monarchy;Tymyr Khanate;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TYM;Tymyr;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TYM_ADJ;Pleskovian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 NNT;Nenetsia;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 NNT_ADJ;Nenets;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 YML;Yamalia;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
@@ -428,7 +433,19 @@ KHN;Khantia;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 KHN_ADJ;Khantian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 SZE;Szekelysag;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 SZE_ADJ;Szekely;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-BSK;Bashkortostan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-BSK_ADJ;Bashkir;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+BSK;Ufa Khanate;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+BSK_ADJ;Tatar;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 MSS;Grand Duchy of Muscovy;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 MSS_ADJ;Muscovite;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+SLK;Selkupia;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+SLK_ADJ;Selkup;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+SHR;Shoria;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+SHR_absolute_monarchy;Shor Khanate;;;;;;;;;;;;x
+SHR_hms_government;Shor Khanate;;;;;;;;;;;;x
+SHR_prussian_constitutionalism;Shor Khanate;;;;;;;;;;;;x
+SHR_ADJ;Selkup;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+SYN;Sayan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+SYN_absolute_monarchy;Sayan Uriankhai;;;;;;;;;;;;x
+SYN_hms_government;Sayan Uriankhai;;;;;;;;;;;;x
+SYN_prussian_constitutionalism;Sayan Uriankhai;;;;;;;;;;;;x
+SYN_ADJ;Sayan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;

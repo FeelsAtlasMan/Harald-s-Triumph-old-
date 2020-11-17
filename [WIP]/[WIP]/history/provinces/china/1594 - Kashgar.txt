@@ -4,4 +4,4 @@ add_core = TIM
 add_core = BDK
 add_core = UYG
 trade_goods = cotton
-life_rating = 32
+life_rating = 35

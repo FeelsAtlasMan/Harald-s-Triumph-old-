@@ -2,5 +2,4 @@ owner = ALT
 controller = ALT
 add_core = ALT
 trade_goods = timber
-life_rating = 35
-colonial = 2
+life_rating = 25

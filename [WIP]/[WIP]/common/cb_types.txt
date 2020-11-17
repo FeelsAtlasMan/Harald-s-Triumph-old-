@@ -509,6 +509,7 @@ acquire_all_cores = {
 				any_owned_province = { port = yes }
 			}
 			any_owned_province = { any_neighbor_province = { owned_by = THIS } }
+			any_neighbor_country = { is_vassal = yes }
 		}
 	}
 

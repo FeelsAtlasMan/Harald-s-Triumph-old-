@@ -98,6 +98,11 @@ YML             ="countries/Yamalia.txt"
 KHN             ="countries/Khantia.txt"
 BSK             ="countries/Bashkortostan.txt"
 MSS             ="countries/Muscovy.txt"
+SLK             ="countries/Selkupia.txt"
+SHR             ="countries/Shoria.txt"
+SYN             ="countries/Sayan.txt"
+PLK             ="countries/Pleskov.txt"
+TYM             ="countries/Tymyr.txt"
 
 
 ##HFM New Nations

@@ -1,6 +1,6 @@
-owner = SMK
-controller = SMK
+owner = PLK
+controller = PLK
 add_core = RUS
-add_core = SMK
+add_core = PLK
 trade_goods = grain
 life_rating = 35

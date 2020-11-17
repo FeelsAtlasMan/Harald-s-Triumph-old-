@@ -1,6 +1,6 @@
-owner = MNK
-controller = MNK
+owner = UKR
+controller = UKR
 add_core = RUS
-add_core = MNK
+add_core = UKR
 trade_goods = cattle
 life_rating = 15

@@ -111,6 +111,7 @@ country_event = {
 		name = "EVT676423OPTA"
 		government = absolute_monarchy
         set_country_flag = skobelev_2
+		set_country_flag = skobelev_succeds
         change_tag = MSS	
 		any_province = {
 		             limit = {
@@ -121,7 +122,7 @@ country_event = {
 	}
 	
 	option = {
-		name = "EVT676424OPTB"
+		name = "EVT676423OPTB"
         set_country_flag = russian_republic	
         989 = {
             add_core = MSS
@@ -213,6 +214,7 @@ country_event = {
 
         option = {
 		    name = "EVT676426OPTA"
+			set_country_flag = bashkir_rebellion
 			any_country = {
 			  limit = {
 			      tag = MUS
@@ -223,6 +225,7 @@ country_event = {
 				 defender_goal = { casus_belli = status_quo }
 	             call_ally = no
               }
+			  set_country_flag = tatar_rebellion
 			}
 			any_country = {
 			  limit = {
@@ -234,7 +237,108 @@ country_event = {
 				 defender_goal = { casus_belli = status_quo }
 	             call_ally = no
               }
+			  set_country_flag = tatar_rebellion
 			}
-		    set_country_flag = skobelev_2
+	       }
+}
+
+#Kipchaks defeated us (MUS)
+country_event = {
+        id = 676427
+        title = "EVTNAME676427"
+        desc = "EVTDESC676427"
+        picture = "february_manifesto_russia"
+        
+		fire_only_once = yes
+        trigger = {
+                    tag = MUS
+					has_country_flag = tatar_rebellion
+				    has_recently_lost_war = yes
+					truce_with = TAR
+					war_with = BSK
+        }
+
+        option = {
+		    name = "EVT676427OPTA"
+			end_war = BSK
+			clr_country_flag = tatar_rebellion
+	       }
+}
+
+#Kipchaks defeated us (MSS)
+country_event = {
+        id = 676428
+        title = "EVTNAME676428"
+        desc = "EVTDESC676428"
+        picture = "february_manifesto_russia"
+        
+		fire_only_once = yes
+        trigger = {
+                    tag = MSS
+					has_country_flag = tatar_rebellion
+				    has_recently_lost_war = yes
+					truce_with = TAR
+					war_with = BSK
+        }
+
+        option = {
+		    name = "EVT676428OPTA"
+			end_war = BSK
+			clr_country_flag = tatar_rebellion
+	       }
+}
+
+#Skobelev wins!
+country_event = {
+        id = 676429
+        title = "EVTNAME676429"
+        desc = "EVTDESC676429"
+        picture = "february_manifesto_russia"
+        
+		fire_only_once = yes
+        trigger = {
+                    tag = MSS
+				    NOT = { exists = MUS }
+        }
+
+        option = {
+		    name = "EVT676429OPTA"
+			any_country = {
+			         limit = {
+					      tag = MUS
+					 }
+				     all_core = { remove_core = MUS }
+			}
+			prestige = 15
+			set_country_flag = skobelev_succeds
+	       }
+}
+
+#Skobelev is defeated!
+country_event = {
+        id = 676430
+        title = "EVTNAME676430"
+        desc = "EVTDESC676430"
+        picture = "february_manifesto_russia"
+        
+		fire_only_once = yes
+        trigger = {
+                    tag = MUS
+				    NOT = { exists = MSS }
+					has_country_flag = skobelev_2
+					NOT = { has_country_flag = skobelev_put_down }
+        }
+
+        option = {
+		    name = "EVT676430OPTA"
+			any_country = {
+			         limit = {
+					      tag = MSS
+					 }
+				     all_core = { remove_core = MSS }
+			}
+			prestige = 20
+			set_country_flag = skobelev_put_down
+			clr_country_flag = skobelev_2
 	       }
 }

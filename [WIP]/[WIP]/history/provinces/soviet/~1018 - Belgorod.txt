@@ -1,0 +1,8 @@
+owner = KRC
+controller = KRC
+add_core = RUS
+add_core = KRC
+add_core = CRI
+add_core = TAR
+trade_goods = grain
+life_rating = 35

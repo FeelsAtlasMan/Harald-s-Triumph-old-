@@ -1,6 +1,6 @@
-owner = NOV
-controller = NOV
+owner = PLK
+controller = PLK
 add_core = RUS
-add_core = NOV
+add_core = PLK
 trade_goods = cattle
 life_rating = 35

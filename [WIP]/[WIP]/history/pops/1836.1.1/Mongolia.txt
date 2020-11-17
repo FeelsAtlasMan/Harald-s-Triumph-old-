@@ -337,7 +337,13 @@
 	farmers = {
 		culture = mongol
 		religion = gelugpa
-		size = 17125
+		size = 13000
+	}
+	
+	farmers = {
+		culture = tuvan
+		religion = gelugpa
+		size = 4125
 	}
 }
 #Khovd (120000/30000 POPS)   
@@ -420,11 +426,11 @@
 		size = 2000
 	}
 }
-#Uliatai / Uriankhai (32000/8000 POPS) #now Tuva Republic of Russia  sibir_tatar = Tuvan   
+#Kyzyl (32000/8000 POPS)   
 1469 = {
 	aristocrats = {
-		culture = altai_tuvan
-		religion = gelugpa
+		culture = tuvan
+		religion = animist
 		size = 150
 	}
 	
@@ -435,32 +441,32 @@
 	}
 
 	clergymen = {
-		culture = altai_tuvan
-		religion = gelugpa
+		culture = tuvan
+		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = altai_tuvan
-		religion = gelugpa
+		culture = tuvan
+		religion = animist
 		size = 400
 	}
 
 	soldiers = {
-		culture = altai_tuvan
-		religion = gelugpa
+		culture = tuvan
+		religion = animist
 		size = 75
 	}
 
 	farmers = {
-		culture = altai_tuvan
-		religion = gelugpa
+		culture = tuvan
+		religion = animist
 		size = 7300
 	}
 	
 	slaves = {
-		culture = altai_tuvan
-		religion = gelugpa
+		culture = tuvan
+		religion = animist
 		size = 1000
 	}
 

@@ -1,4 +1,18 @@
-A lot of Typos ahead
+[A lot of Typos ahead]
+
+Roadmap:
+1. Russia
+2. Timurids
+3. Africa
+4. Americas
+5. Italy
+6. Western Europe
+7. India
+8. China
+9. Japan
+10. SEA
+
+
 
 OOBs for America, Asia, Africa and Oceania
 OOBs for Russia, the Steppe and Siberia
@@ -47,10 +61,12 @@ Russia:
 6. Push to the Pacific
 
 1. Crimea Reaction to Muscovy (done)
-2. Avenge Kazan
-3. Centralize the Khanate
-4. Subdue the Steppe
-5. Push to the Pacific
+2. Avenge Kazan (done)
+3. Centralize the Khanate (done)
+4. Subdue the Steppe (done)
+5. Push to the Pacific (done)
+6. War over Manchuria (need to do chinese stuff)
+7. Claims for Northern Caucasus and Qasim
 
 1. Cossack Hetmanate (done)
 2. Cossack Expansion Crimea

@@ -2,5 +2,6 @@ owner = NNI
 controller = NNI
 add_core = NNI
 trade_goods = cattle
-life_rating = 35
+life_rating = 25
+
 

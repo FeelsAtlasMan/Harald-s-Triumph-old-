@@ -1,6 +1,6 @@
-owner = KHN
-controller = KHN
-add_core = KHN
+owner = SLK
+controller = SLK
+add_core = SLK
 trade_goods = coal
-life_rating = 35
+life_rating = 15
 

@@ -4,7 +4,19 @@ NOV = {
 	influence_value = 100
 }
 
-UBD = { 
+LAT = { 
+	value = 200
+	level = 5		
+	influence_value = 100
+}
+
+EST = { 
+	value = 200
+	level = 5		
+	influence_value = 100
+}
+
+IZH = { 
 	value = 200
 	level = 5		
 	influence_value = 100

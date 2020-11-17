@@ -1,4 +1,7 @@
-trade_goods = grain
+owner = TYM
+controller = TYM
+add_core = TYM
+trade_goods = fish
 terrain = boreal
 life_rating = 15
 

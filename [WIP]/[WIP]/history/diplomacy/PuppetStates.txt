@@ -200,10 +200,28 @@ substate = {
 	end_date = 1937.1.1
 }
 
-#Swedish Batlic Gouvernement
+#Swedish Baltic Gouvernements
 substate = {
 	first = SWE
-	second = UBD
+	second = EST
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+substate = {
+	first = SWE
+	second = IZH
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+substate = {
+	first = SWE
+	second = LAT
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+substate = {
+	first = SWE
+	second = PLK
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }

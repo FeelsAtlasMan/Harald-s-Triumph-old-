@@ -1,0 +1,11 @@
+owner = TIM
+controller = TIM
+add_core = DAG
+add_core = ALN
+add_core = TAR
+trade_goods = silk
+life_rating = 35
+1861.1.1 = {
+	owner = RUS
+	controller = RUS
+}
