@@ -200,12 +200,10 @@ political_decisions = {
 			add_accepted_culture = uzbek
 			add_accepted_culture = kazak
 			add_accepted_culture = kirgiz
-			add_accepted_culture = tajik
 			add_accepted_culture = uighur			
 			RUS_1182 = { add_core = TKS } #Uralsk region
 			RUS_1184 = { add_core = TKS } #Akmolisnk region
 			RUS_1185 = { add_core = TKS } #Semireche - Zhetysu
-			RUS_1196 = { add_core = TKS } #Turkmenia
 			KHI_1191 = { add_core = TKS } #Uzbekia
 			KOK_1190 = { add_core = TKS } #Alay-Kirghizia
 			any_owned = { limit = { is_core = BDK } add_core = TKS remove_core = BDK}
@@ -217,7 +215,6 @@ political_decisions = {
 						primary_culture = turkmen
 						primary_culture = uzbek
 						primary_culture = kirgiz
-						primary_culture = tajik
 						primary_culture = kazak
 					}
 					in_sphere = THIS
@@ -240,7 +237,6 @@ political_decisions = {
 				primary_culture = turkmen
 				primary_culture = uzbek
 				primary_culture = kirgiz
-				primary_culture = tajik
 				primary_culture = kazak
 			}
 			NOT = {
@@ -254,7 +250,6 @@ political_decisions = {
 							has_pop_culture = turkmen
 							has_pop_culture = uzbek
 							has_pop_culture = kirgiz
-							has_pop_culture = tajik
 							has_pop_culture = kazak
 						}
 					}
@@ -377,7 +372,6 @@ political_decisions = {
 						primary_culture = turkmen
 						primary_culture = uzbek
 						primary_culture = kirgiz
-						primary_culture = tajik
 						primary_culture = kazak
 					}
 					in_sphere = THIS
@@ -428,7 +422,6 @@ political_decisions = {
 				}
 			}
 			
-			RUS_1196 = { add_core = TKM secede_province = TKS }
 			KHI_1191 = { add_core = UZB secede_province = TKS }
 			1201 = { add_core = TAJ secede_province = TKS }
 			1208 = { add_core = TAJ secede_province = TKS }
@@ -457,7 +450,6 @@ political_decisions = {
 				add_accepted_culture = uzbek
 				add_accepted_culture = kazak
 				add_accepted_culture = kirgiz
-				add_accepted_culture = tajik
 				add_accepted_culture = uighur
 				capital = 1195
 				any_pop = { militancy = 2 consciousness = 4 }

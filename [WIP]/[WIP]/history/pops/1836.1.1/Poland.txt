@@ -3,43 +3,43 @@
 #Stettin (484000/121000 POPS) #Part of Poland since 1945
 546 = {
 	aristocrats = {
-		culture = western_slavic
+		culture = veleti
 		religion = protestant
 		size = 1250 
 	}
 
 	bureaucrats = {
-		culture = western_slavic
+		culture = veleti
 		religion = protestant
 		size = 1300
 	}
 
 	officers = {
-		culture = western_slavic
+		culture = veleti
 		religion = protestant
 		size = 350 
 	}
 
 	clergymen = {
-		culture = western_slavic
+		culture = veleti
 		religion = protestant
 		size = 1125
 	}
 
 	artisans = {
-		culture = western_slavic
+		culture = veleti
 		religion = protestant
 		size = 8250
 	}
 
 	soldiers = {
-		culture = western_slavic
+		culture = veleti
 		religion = protestant
 		size = 3300 
 	}
 
 	farmers = {
-		culture = western_slavic
+		culture = veleti
 		religion = protestant
 		size = 117125
 	}
@@ -57,25 +57,25 @@
 	}
 
 	clergymen = {
-		culture = western_slavic
+		culture = veleti
 		religion = catholic
 		size = 20   
 	}
 
 	artisans = {
-		culture = western_slavic
+		culture = veleti
 		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
-		culture = western_slavic
+		culture = veleti
 		religion = catholic
 		size = 10    
 	}
 
 	farmers = {
-		culture = western_slavic
+		culture = veleti
 		religion = catholic
 		size = 920   
 	}
@@ -113,31 +113,31 @@
 	}
 	
 	aristocrats = {
-		culture = western_slavic
+		culture = veleti
 		religion = protestant
 		size = 50 
 	}
 
 	clergymen = {
-		culture = western_slavic
+		culture = veleti
 		religion = protestant
 		size = 550   
 	}
 
 	artisans = {
-		culture = western_slavic
+		culture = veleti
 		religion = protestant
 		size = 2100
 	}
 
 	soldiers = {
-		culture = western_slavic
+		culture = veleti
 		religion = protestant
 		size = 525     
 	}
 
 	farmers = {
-		culture = western_slavic
+		culture = veleti
 		religion = protestant
 		size = 11825    
 	}
@@ -175,25 +175,25 @@
 	}
 
 	clergymen = {
-		culture = western_slavic
+		culture = veleti
 		religion = protestant
 		size = 100    
 	}
 
 	artisans = {
-		culture = western_slavic
+		culture = veleti
 		religion = protestant
 		size = 550
 	}
 
 	soldiers = {
-		culture = western_slavic
+		culture = veleti
 		religion = protestant
 		size = 100     
 	}
 
 	farmers = {
-		culture = western_slavic
+		culture = veleti
 		religion = protestant
 		size = 10250     
 	}
@@ -227,31 +227,31 @@
 #Kustrin (208000/52000 POPS) #Part of Poland since 1945
 681 = {
 	aristocrats = {
-		culture = western_slavic
+		culture = veleti
 		religion = protestant
 		size = 525 
 	}
 
 	clergymen = {
-		culture = western_slavic
+		culture = veleti
 		religion = protestant
 		size = 450 
 	}
 
 	artisans = {
-		culture = western_slavic
+		culture = veleti
 		religion = protestant
 		size = 2400
 	}
 
 	soldiers = {
-		culture = western_slavic
+		culture = veleti
 		religion = protestant
 		size = 2000
 	}
 
 	farmers = {
-		culture = western_slavic
+		culture = veleti
 		religion = protestant
 		size = 24000
 	}

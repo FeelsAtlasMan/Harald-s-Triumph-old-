@@ -1,65 +1,5 @@
 
 political_decisions = {
-
-	organize_central_asia = {
-		picture = laghouat_algiers
-		potential = {
-			tag = RUS
-			owns = 1204 #Ashkhabad
-			owns = 1191 #Khiva
-			owns = 1198 #Bukkhara
-			owns = 1202 #Kokand
-			NOT = { has_country_flag = hegemony_in_central_asia }
-		}
-		
-		allow = {
-			war = no
-			OR = {
-				is_greater_power = yes
-				is_secondary_power = yes
-			}
-			nationalism_n_imperialism = 1
-			KOK = { exists = no }
-			BUK = { exists = no }
-			KHI = { exists = no }
-		}
-		
-		effect = {
-			set_country_flag = hegemony_in_central_asia
-			prestige = 15
-
-			1194 = { change_province_name = "Novopetrovskoye" life_rating = 1 }
-			1204 = { change_province_name = "Ashkhabad" life_rating = 1 fort = 1 }
-			1205 = { change_province_name = "Krasnovodsk" life_rating = 1 }
-			
-			RUS_1185 = { remove_core = KOK remove_core = BUK remove_core = KHI }
-			KOK_1190 = { remove_core = KOK remove_core = BUK remove_core = KHI }
-			KHI_1191 = { remove_core = KOK remove_core = BUK remove_core = KHI }
-			RUS_1196 = { remove_core = KOK remove_core = BUK remove_core = KHI }
-
-			RUS_1182 = { add_core = KAZ }
-			RUS_1184 = { add_core = KAZ }
-			RUS_1185 = { add_core = KAZ }
-			KHI_1191 = { add_core = UZB }
-			RUS_1196 = { add_core = TKM }
-			1201 = { add_core = TAJ }
-			1207 = { add_core = TAJ }
-			1208 = { add_core = TAJ }
-			1189 = { add_core = KYR }
-			1190 = { add_core = KYR }
-			1203 = { add_core = KYR }
-			
-			KAZ = { tech_school = unciv_tech_school }
-			UZB = { tech_school = unciv_tech_school }
-			KYR = { tech_school = unciv_tech_school }
-			TAJ = { tech_school = unciv_tech_school }
-			TKM = { tech_school = unciv_tech_school }
-			
-		}
-
-		ai_will_do = { factor = 1 }
-	}
-
 	#conquest_of_red_water = {
 	#	picture = doha_city
 	#	potential = {
@@ -94,10 +34,12 @@ political_decisions = {
 	rename_artois_NET = {
 		picture = NET_claim_artois
 		potential = {
-			culture = north_german
-            culture = south_german
-            culture = swiss_german
-			culture = dutch
+		   OR = {
+			primary_culture = north_german
+            primary_culture = south_german
+            primary_culture = swiss_german
+			primary_culture = dutch
+			}
 			owns = 399 #Lille
 			owns = 400 #Dunkirk
 			owns = 401 #Arras
@@ -176,8 +118,8 @@ political_decisions = {
 				}
 				AND = {
 					NOT = { tag = BAV }
-					owns = 592 #Augsbourg
-					is_culture_group = germanic
+					owns = 592 #Augsburg
+					is_culture_group = continental_western_germanic
 				}
 			}
 			OR = {

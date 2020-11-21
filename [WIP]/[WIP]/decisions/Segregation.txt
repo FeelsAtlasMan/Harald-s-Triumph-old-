@@ -323,8 +323,8 @@ political_decisions = {
 					primary_culture = brazilian
 				}
 				AND	= {
-					pop_majority_culture = texan
-					primary_culture = texan
+					pop_majority_culture = cajun
+					primary_culture = cajun
 				}
 				AND	= {
 					pop_majority_culture = alaskan
@@ -435,8 +435,8 @@ political_decisions = {
 					primary_culture = brazilian
 				}
 				AND	= {
-					pop_majority_culture = texan
-					primary_culture = texan
+					pop_majority_culture = cajun
+					primary_culture = cajun
 				}
 				AND	= {
 					pop_majority_culture = alaskan

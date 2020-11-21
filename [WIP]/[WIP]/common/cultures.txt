@@ -279,16 +279,6 @@ north_germanic = {
 		last_names = { Arnórsson Ásgeirsson Benediktsson Bjarnasen Björnsson Eggers Eldjárn Hafstein Hansen
 		Hermannsson Johánesson Jónsson Magnússon Stefánsson Steinthosson Thórdarson Thórhallson Thorláksson Thurs }
 	}
-	englisk = { 
-		color = {255 110 110}
-		first_names = { Alfred Adrian Arne Bernt Bjorn Carl Caspar Christian Christopher Cort
-		Einar Elias Fredrik Georg Gerhard Gustav Haakon Hans Harald Herman
-		Johan Jorgen Ludvig Nils Ogmund Olav Osvald Otto Peter Sigurd }
-		
-		last_names = { Adeler Balchen Berg Bloch Borresen Bratzland Brentzon Dhal Egge Fleicher
-		Frisvold Hákonarson Hansen Hund Kaldager Konow Lambrechts Morgenstierne Munthe Petersen
-		Rye Sissener Skjalgsson Tambarskjelve "von Holstein-Glücksburg" "von Klenow" Wedel-Jarlsberg Wiborg With Zeiner-Gundersen }
-	}
 }
 
 western_finnic = {
@@ -390,7 +380,7 @@ eastern_finnic = {
 	}
 }
 
-peninsular_western_germanic = {
+insular_western_germanic = {
 	leader = european
 	unit = BritishGC
 	british = {
@@ -406,6 +396,17 @@ peninsular_western_germanic = {
 		Hamilton Hardinge Havelock Hope Jellicoe Kitchener Lyons Madden Milne Montgomery
 		Moresby Mundy Napier Odoni "of Hannover" "of Saxe-Coburg-Gotha" Plummer Ragland Roberts Seaton Seymour
 		Smith Smith-Dorrien Stewart Thesiger Tyron Tyrwhitt Williams Windsor Wolseley Wood }
+	}
+	
+	englisk = { 
+		color = {255 110 110}
+		first_names = { Alfred Adrian Arne Bernt Bjorn Carl Caspar Christian Christopher Cort
+		Einar Elias Fredrik Georg Gerhard Gustav Haakon Hans Harald Herman
+		Johan Jorgen Ludvig Nils Ogmund Olav Osvald Otto Peter Sigurd }
+		
+		last_names = { Adeler Balchen Berg Bloch Borresen Bratzland Brentzon Dhal Egge Fleicher
+		Frisvold Hákonarson Hansen Hund Kaldager Konow Lambrechts Morgenstierne Munthe Petersen
+		Rye Sissener Skjalgsson Tambarskjelve "von Holstein-Glücksburg" "von Klenow" Wedel-Jarlsberg Wiborg With Zeiner-Gundersen }
 	}
 	
 	scots = { 
@@ -1057,7 +1058,7 @@ western_slavic = {
 		radicalism = 10
 	}
 	
-	western_slavic = {
+	veleti = {
 		color = { 200 120 160 }
 		first_names = { Adam Aleksander Antoni Boleslaw Bonawentura Bronislaw Dezydery Edmund Edward Emil
 		Eustachy Felicjan Franciszek Gustaw Henryk Ignacy Jakub Jan Jedrzej Józef
@@ -1614,7 +1615,7 @@ pontic_caucasian = {
 		#radicalism = 10
 		#}
 		
-		circassian = {
+	circassian = {
 		color = {190 205 5}
 		first_names = {
 			Aghwrbiy Abatiy Albech Albot "Alhx'es" "Alhx'o" Alijiqwe Bale Batirbiy Biylhosten Blaneshu Bubeird Chetsu "Ch'ischiqwe" Chawis Dariqwe Dokshiqua Dzeghaschte Dzune Foqwe Ghwaze Gushina Gushipsa Hegwtsire Hanaqua Hetsu Jirandiqwe Kwshbiy Lhostenasch Mamsriqwe Menshaq Meshiqwe Nalbiy Nartshu Nerzan Pschimaxwe Qideghaze Schebet Shumaxwe Shupashe Takwu Tsumash Tighwenbiy Tighwen Werdeschawe Wezroqwe Yedij Zhore
@@ -1626,7 +1627,7 @@ pontic_caucasian = {
 		radicalism = 20
 		}
 		
-		kabardian = {
+	kabardian = {
 		color = {220 235 30}
 		first_names = {
 			Aghwrbiy Abatiy Albech Albot "Alhx'es" "Alhx'o" Alijiqwe Bale Batirbiy Biylhosten Blaneshu Bubeird Chetsu "Ch'ischiqwe" Chawis Dariqwe Dokshiqua Dzeghaschte Dzune Foqwe Ghwaze Gushina Gushipsa Hegwtsire Hanaqua Hetsu Jirandiqwe Kwshbiy Lhostenasch Mamsriqwe Menshaq Meshiqwe Nalbiy Nartshu Nerzan Pschimaxwe Qideghaze Schebet Shumaxwe Shupashe Takwu Tsumash Tighwenbiy Tighwen Werdeschawe Wezroqwe Yedij Zhore
@@ -1638,7 +1639,7 @@ pontic_caucasian = {
 		radicalism = 20
 		}
 		
-		ubykh = {
+	ubykh = {
 		color = {150 165 10}
 		first_names = {
 			Aghwrbiy Abatiy Albech Albot "Alhx'es" "Alhx'o" Alijiqwe Bale Batirbiy Biylhosten Blaneshu Bubeird Chetsu "Ch'ischiqwe" Chawis Dariqwe Dokshiqua Dzeghaschte Dzune Foqwe Ghwaze Gushina Gushipsa Hegwtsire Hanaqua Hetsu Jirandiqwe Kwshbiy Lhostenasch Mamsriqwe Menshaq Meshiqwe Nalbiy Nartshu Nerzan Pschimaxwe Qideghaze Schebet Shumaxwe Shupashe Takwu Tsumash Tighwenbiy Tighwen Werdeschawe Wezroqwe Yedij Zhore
@@ -1650,7 +1651,7 @@ pontic_caucasian = {
 		radicalism = 20
 		}
 		
-		abkhaz = {
+	abkhaz = {
 		color = {110 125 15}
 		first_names = {
 			Aghwrbiy Abatiy Albech Albot "Alhx'es" "Alhx'o" Alijiqwe Bale Batirbiy Biylhosten Blaneshu Bubeird Chetsu "Ch'ischiqwe" Chawis Dariqwe Dokshiqua Dzeghaschte Dzune Foqwe Ghwaze Gushina Gushipsa Hegwtsire Hanaqua Hetsu Jirandiqwe Kwshbiy Lhostenasch Mamsriqwe Menshaq Meshiqwe Nalbiy Nartshu Nerzan Pschimaxwe Qideghaze Schebet Shumaxwe Shupashe Takwu Tsumash Tighwenbiy Tighwen Werdeschawe Wezroqwe Yedij Zhore
