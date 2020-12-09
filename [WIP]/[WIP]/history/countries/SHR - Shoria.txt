@@ -1,5 +1,5 @@
 capital = 2698
-primary_culture = altai_tuvan
+primary_culture = shor
 culture = sibir_tatar
 religion = animist
 government = absolute_monarchy

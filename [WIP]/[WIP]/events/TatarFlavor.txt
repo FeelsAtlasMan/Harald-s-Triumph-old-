@@ -571,6 +571,30 @@ country_event = {
 		release_vassal = NOG
 		release_vassal = AKH
 		release_vassal = SIB
+		set_country_flag = kipchak_end
+	}
+}
+
+#Yedisan breaks away
+country_event = {
+        id = 666448
+        title = "EVTNAME666448"
+        desc = "EVTDESC666448"
+        
+		fire_only_once = yes
+		
+		trigger = {
+                    tag = CRI
+                    has_recently_lost_war = yes
+					RUS_955 = { NOT = { owned_by = this } }
+        }
+
+
+    option = {
+		name = "EVT666448OPTA"
+	    prestige = -5
+		release = YDN
+		release_vassal = CIR
 	}
 }
 

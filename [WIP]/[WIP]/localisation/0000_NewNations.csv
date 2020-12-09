@@ -187,10 +187,10 @@ KJP;Kirisuto Japan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 KJP_ADJ;Japanese;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 ANU;Andalusia;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 ANU_ADJ;Andalusian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-KOK;Kyrgyz Khanate;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-KOK_absolute_monarchy;Kyrgyz Khanate;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-KOK_hms_government;Kyrgyz Khanate;;;;;;;;;;;;x
-KOK_prussian_constitutionalism;Kyrgyz Khanate;;;;;;;;;;;;x
+KOK;Argyn Zhuz;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+KOK_absolute_monarchy;Argyn Zhuz;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+KOK_hms_government;Argyn Zhuz;;;;;;;;;;;;x
+KOK_prussian_constitutionalism;Argyn Zhuz;;;;;;;;;;;;x
 KOK_ADJ;Kyrgyz;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 BRG;Arelat;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 BRG_ADJ;Burgundian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
@@ -372,10 +372,10 @@ KLD;Keladi;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 KLD_ADJ;Nayakan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 ANK;Ankara;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 ANK_ADJ;Ankaran;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-BHN;Bahnar;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-BHN_ADJ;Bahnari;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-TSI;Tusi Federation;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-TSI_ADJ;Yi;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+BHN;Champassak;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+BHN_ADJ;Champassakan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TSI;Tambralinga;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TSI_ADJ;Tambralingan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 HYD;Golkonda;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 HYD_ADJ;Golkondian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 HRP;Harinpujaya;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
@@ -449,3 +449,29 @@ SYN_absolute_monarchy;Sayan Uriankhai;;;;;;;;;;;;x
 SYN_hms_government;Sayan Uriankhai;;;;;;;;;;;;x
 SYN_prussian_constitutionalism;Sayan Uriankhai;;;;;;;;;;;;x
 SYN_ADJ;Sayan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+YDN;Yedisan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+YDN_absolute_monarchy;Yedisan Khanate;;;;;;;;;;;;x
+YDN_hms_government;Yedisan Khanate;;;;;;;;;;;;x
+YDN_prussian_constitutionalism;Yedisan Khanate;;;;;;;;;;;;x
+YDN_ADJ;Yedisanian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+RTH;Ruthenia;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+RTH_absolute_monarchy;Great Ruthenia;;;;;;;;;;;;x
+RTH_hms_government;Great Ruthenia;;;;;;;;;;;;x
+RTH_prussian_constitutionalism;Great Ruthenia;;;;;;;;;;;;x
+RTH_ADJ;Ruthenian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+KAZ;Kazakhstan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+KAZ_absolute_monarchy;Üysin Zhuz;;;;;;;;;;;;x
+KAZ_hms_government;Üysin Zhuz;;;;;;;;;;;;x
+KAZ_prussian_constitutionalism;Üysin Zhuz;;;;;;;;;;;;x
+KAZ_ADJ;Kyrgyz;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+BGH;Volga Bulgharia;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+BGH_absolute_monarchy;Bulghar Khanate;;;;;;;;;;;;x
+BGH_hms_government;Bulghar Khanate;;;;;;;;;;;;x
+BGH_prussian_constitutionalism;Bulghar Khanate;;;;;;;;;;;;x
+BGH_ADJ;Bulghar;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+DAI;Dai Viet;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+DAI_absolute_monarchy;Dai Viet;;;;;;;;;;;;x
+DAI_hms_government;Dai Viet;;;;;;;;;;;;x
+DAI_prussian_constitutionalism;Dai Viet;;;;;;;;;;;;x
+DAI_colonial_company;Dai Viet;;;;;;;;;;;;x
+DAI_ADJ;Vietnamese;;;;;;;;;;;;;;x;;;;;;;;;;;;;;

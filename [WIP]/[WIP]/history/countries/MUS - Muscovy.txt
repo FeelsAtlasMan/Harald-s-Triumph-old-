@@ -6,6 +6,7 @@ plurality = 0.02
 nationalvalue = nv_autocracy
 literacy = 0.15
 civilized = yes
+prestige = 5
 
 # Political reforms
 slavery = no_slavery
@@ -79,8 +80,4 @@ govt_flag = {
 	flag = theocracy
 }
 
-1861.1.1 = {
-# Technologies
-
-#Inventions
-}
+oob = "MUS_oob.txt"

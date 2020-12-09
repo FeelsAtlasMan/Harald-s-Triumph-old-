@@ -386,20 +386,6 @@ vassal = {
 	end_date = 1937.1.1
 }
 
-vassal = {
-	first = MUG
-	second = SIN
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-
-vassal = {
-	first = MUG
-	second = KUT
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-
 #Sur Empire
 vassal = {
 	first = SUR
@@ -527,6 +513,20 @@ vassal = {
 vassal = {
 	first = SIA
 	second = PRK
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = SIA
+	second = TSI
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = SIA
+	second = LXA
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }

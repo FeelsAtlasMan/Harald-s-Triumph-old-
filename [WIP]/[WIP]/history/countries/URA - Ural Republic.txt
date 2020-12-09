@@ -1,6 +1,6 @@
 capital = 1026
-primary_culture = ugrian
-culture = russian
+primary_culture = russian
+culture = komi
 religion = orthodox
 government = absolute_monarchy
 plurality = 0.0

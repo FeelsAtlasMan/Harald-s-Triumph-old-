@@ -406,11 +406,11 @@ SAR_765 = { 765 766 473 } #Sardinia & Corscia
 
 WAL_665 = { 664 665 666 668 667 669 } #Wallachia
 
-MOL_673 = { 673 672 670 671 663 662 3354 } #Moldavia
+MOL_673 = { 673 672 670 671 663 662 } #Moldavia
 
 TUR_674 = { 674 675 818 } #Dobrudja
 
-MOL_676 = { 676 677 678 } #Bessarabia
+MOL_676 = { 676 677 678 3354 } #Bessarabia
 
 TUR_788 = { 783 787 788 786 } #Bosnia
 
@@ -568,7 +568,7 @@ RUS_361 = { 363 364 365 } #Samogatia
 
 RUS_360 = { 360 938 947 } #Dzukija
 
-RUS_339 = { 339 984 995 988 2587 983 982 } #Karelia
+RUS_339 = { 339 984 995 988 2587 983 982 3361 } #Karelia
 
 RUS_706 = { 706 708 713 } #Western Masovia
 

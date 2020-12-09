@@ -1,7 +1,8 @@
 capital = 1602
-primary_culture = yi
-religion = animist
-government = absolute_monarchy
+primary_culture = lavo
+culture = malay
+religion = therevada
+government = colonial_company
 plurality = 0.0
 nationalvalue = nv_tradition
 literacy = 0.01

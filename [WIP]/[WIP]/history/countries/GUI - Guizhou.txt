@@ -1,5 +1,6 @@
 capital = 1602
-primary_culture = nanfaren
+primary_culture = beifaren
+culture = miao
 religion = mahayana
 government = colonial_company
 plurality = 0.0

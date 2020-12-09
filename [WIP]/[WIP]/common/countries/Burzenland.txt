@@ -1,4 +1,4 @@
-color = { 244  232  109 } #244  232  109
+color = { 125  100  95 } #244  232  109
 graphical_culture = PrussianGC
 
 party = {

@@ -625,6 +625,7 @@ bashkortostan_joins_kipchaks = {
 				NOT = { exists = YAK }
 				NOT = { exists = BRY }
 				has_country_flag = siberian_expansion_end	
+				NOT = { has_country_flag = annexed_daur }
 		} 
 	allow = {
 				war = no
@@ -632,7 +633,8 @@ bashkortostan_joins_kipchaks = {
 			}
    	effect = {
 		inherit = NNI
-        badboy = 3					
+        badboy = 3	
+        set_country_flag = annexed_daur			
 	}
 	
 	ai_will_do = {
@@ -649,7 +651,7 @@ bashkortostan_joins_kipchaks = {
 		} 
 	allow = {
 				war = no
-			    MCK = { is_vassal = SHN }
+			    SHN = { MCK = { is_our_vassal = yes } }
 			}
    	effect = {
 		SHN = { inherit = MCK }
@@ -718,6 +720,30 @@ bashkortostan_joins_kipchaks = {
 		3360 = { add_core = TAR }
 		set_country_flag = claimed_qasim
         badboy = 6					
+	}
+	
+	ai_will_do = {
+			factor = 1
+		}
+  }
+  
+  recreate_bulghar_khanate = {
+     picture = great_rus
+	 potential = {
+				tag = CHV
+				BGH = { exists = no }
+		} 
+	allow = {
+				war = no
+			    is_secondary_power
+				prestige = 10
+				RUS_1020 = { owned_by = THIS }
+				RUS_1030 = { owned_by = THIS }
+				nationalism_and_imperialism = 1
+			}
+   	effect = {
+		    change_tag = BGH	
+            prestige = 50			
 	}
 	
 	ai_will_do = {

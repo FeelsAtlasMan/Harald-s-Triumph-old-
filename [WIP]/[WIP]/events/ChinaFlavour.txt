@@ -43,7 +43,7 @@
 #	}
 #}
 
-#The eternal treaty
+#The eternal treaty/Kipchak
 country_event = {
         id = 656003
         title = "EVTNAME656003"
@@ -67,6 +67,62 @@ country_event = {
 		option = {
 		    name = "EVT656003OPTA"
 			TAR = { country_event = 666447 }
+		    ai_chance = { factor = 10 }
+	    }
+}
+
+#The eternal treaty/Russia
+country_event = {
+        id = 656004
+        title = "EVTNAME656004"
+        desc = "EVTDESC656004"
+        picture = "eternal_treaty"
+		
+		is_triggered_only = yes
+	
+        option = {
+		    name = "EVT656004OPTA"
+			RUS = { country_event = 666444 }
+		    ai_chance = { factor = 70 }
+	    }
+		
+		option = {
+		    name = "EVT656004OPTA"
+			RUS = { country_event = 666446 }
+		    ai_chance = { factor = 20 }
+	    }
+		
+		option = {
+		    name = "EVT656004OPTA"
+			RUS = { country_event = 666447 }
+		    ai_chance = { factor = 10 }
+	    }
+}
+
+#The eternal treaty/Ruthenia
+country_event = {
+        id = 656005
+        title = "EVTNAME656005"
+        desc = "EVTDESC656005"
+        picture = "eternal_treaty"
+		
+		is_triggered_only = yes
+	
+        option = {
+		    name = "EVT656005OPTA"
+			RTH = { country_event = 666444 }
+		    ai_chance = { factor = 70 }
+	    }
+		
+		option = {
+		    name = "EVT656005OPTA"
+			RTH = { country_event = 666446 }
+		    ai_chance = { factor = 20 }
+	    }
+		
+		option = {
+		    name = "EVT656005OPTA"
+			RTH = { country_event = 666447 }
 		    ai_chance = { factor = 10 }
 	    }
 }

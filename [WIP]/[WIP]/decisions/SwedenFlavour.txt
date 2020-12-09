@@ -103,4 +103,30 @@ political_decisions = {
 			factor = 1
 		}
 	}
+	
+	#Int. Pleskov
+	integrate_pleskov = {
+		picture = "swedish_ingermanland"
+		potential = {
+			tag = SWE
+			exists = PLK
+			NOT = { has_country_flag = swedish_pleskov }
+		}
+			
+		allow = {
+			war = no
+			PLK = { in_sphere = SWE }
+			state_n_government = 1
+		}
+		
+		effect = {
+			prestige = 5
+			inherit = PLK
+			badboy = 2
+			set_country_flag = swedish_pleskov
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
 }

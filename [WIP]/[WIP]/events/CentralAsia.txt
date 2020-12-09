@@ -142,6 +142,44 @@ country_event = {
 	}
 }
 
+#The Tuva Conflict (RTH)
+country_event = {
+        id = 9910
+        title = "EVTNAME9910"
+        desc = "EVTDESC9910"
+        picture = "russo_turkish"
+        
+		fire_only_once = yes
+		
+		trigger = {
+                    tag = OIR
+                    NOT = { exists = ALT }
+		            RTH = { has_country_flag = tuva_conflict }
+        }
+
+    option = {
+		name = "EVT9906OPTA"
+	    war = {
+	             target = RTH
+	             attacker_goal = { casus_belli = place_in_the_sun state_province_id = 1469 }
+				 defender_goal = { casus_belli = status_quo }
+	             call_ally = no
+              }
+	   ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "EVT9906OPTB"
+	    set_country_flag = tuva_lost
+		prestige = -10
+		relation = {
+	         who = RTH
+	         value = -100
+             }
+	    ai_chance = { factor = 5 }
+	}
+}
+
 #The loss of the northern tributaries
 country_event = {
         id = 9907
@@ -163,6 +201,11 @@ country_event = {
                         has_recently_lost_war = yes
 		                truce_with = RUS
 						RUS = { has_country_flag = tuva_conflict }
+						}
+					   AND = {
+                        has_recently_lost_war = yes
+		                truce_with = RTH
+						RTH = { has_country_flag = tuva_conflict }
 						}
 					}
         }

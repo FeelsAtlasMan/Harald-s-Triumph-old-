@@ -1,6 +1,6 @@
-owner = TSI
-controller = TSI
+owner = NZH
+controller = NZH
 add_core = CHI
-add_core = TSI
+add_core = NZH
 trade_goods = tea
 life_rating = 32

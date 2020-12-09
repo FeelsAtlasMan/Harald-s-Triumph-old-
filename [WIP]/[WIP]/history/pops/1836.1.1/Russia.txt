@@ -1399,6 +1399,47 @@
 		size = 4500
 	}
 }
+
+#Souma (28000/7000 POPS)
+3361 = {
+
+	farmers = {
+		culture = novgorodian
+		religion = orthodox
+		size = 50
+	}
+
+	clergymen = {
+		culture = karelian
+		religion = catholic
+		size = 250
+	}
+
+	artisans = {
+		culture = karelian
+		religion = catholic
+		size = 200
+	}
+
+	soldiers = {
+		culture = karelian
+		religion = catholic
+		size = 425
+	}
+
+	farmers = {
+		culture = karelian
+		religion = catholic
+		size = 4000
+	}
+	
+	farmers = {
+		culture = karelian
+		religion = orthodox
+		size = 500
+	}
+}
+
 #Kola (2200/550 POPS)
 2587 = {
 	clergymen = {

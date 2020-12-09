@@ -271,6 +271,14 @@ north_germanic = {
 		last_names = { Arnórsson Ásgeirsson Benediktsson Bjarnasen Björnsson Eggers Eldjárn Hafstein Hansen
 		Hermannsson Johánesson Jónsson Magnússon Stefánsson Steinthosson Thórdarson Thórhallson Thorláksson Thurs }
 	}
+	dalecarlian = { 
+		color = { 70 70 160 }
+		first_names = { Agnar Ásgeir Björn Eidur Einar Emil Geir Gudmund Gunnar Hannes
+		Hermann Jón Kristján Magnús Ólafur Pétur Sigurdur Stefán Sveinn Tryggvi }
+		
+		last_names = { Arnórsson Ásgeirsson Benediktsson Bjarnasen Björnsson Eggers Eldjárn Hafstein Hansen
+		Hermannsson Johánesson Jónsson Magnússon Stefánsson Steinthosson Thórdarson Thórhallson Thorláksson Thurs }
+	}
 	norn = { 
 		color = { 100 20 140}
 		first_names = { Agnar Ásgeir Björn Eidur Einar Emil Geir Gudmund Gunnar Hannes

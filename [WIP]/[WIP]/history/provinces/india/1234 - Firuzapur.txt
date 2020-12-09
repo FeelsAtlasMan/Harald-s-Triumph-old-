@@ -1,5 +1,6 @@
-owner = PNJ
-controller = PNJ
+owner = MUG
+controller = MUG
+add_core = MUG
 add_core = PNJ
 trade_goods = wool
 life_rating = 32

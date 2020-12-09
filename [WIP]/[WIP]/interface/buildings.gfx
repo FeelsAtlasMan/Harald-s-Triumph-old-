@@ -331,6 +331,15 @@ objectTypes = {
 			
 	}
 	
+	EMFXActorType = {
+		name = "White_Sea_Canal"
+		actorfile = "mod\[WIP]\gfx\anims\White_Sea_Canal.xac"
+		
+		idle   = "gfx\anims\static.xsm"
+		scale = 1.0
+			
+	}	
+	
 	
 	
 #	EMFXActorType = {

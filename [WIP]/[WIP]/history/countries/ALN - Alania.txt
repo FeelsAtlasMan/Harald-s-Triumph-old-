@@ -1,6 +1,5 @@
 capital = 1056
 primary_culture = scythian
-culture = tatar
 religion = orthodox
 government = absolute_monarchy
 plurality = 0.0

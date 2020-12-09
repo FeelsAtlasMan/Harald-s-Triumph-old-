@@ -1,8 +1,8 @@
 capital = 1602
-primary_culture = beifaren
-culture = hanhui
+primary_culture = yi
+culture = beifaren
 religion = mahanya
-government = absolute_monarchy
+government = colonial_company
 plurality = 0.0
 nationalvalue = nv_tradition
 literacy = 0.01

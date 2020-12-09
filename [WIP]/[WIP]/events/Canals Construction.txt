@@ -706,4 +706,79 @@ country_event = {
 	}
 }
 
+#White Sea Canal Eco. Growth
+country_event = {
+	id = 676424
+	title = "EVTNAME676424"
+	desc = "EVTDESC676424"
+	
+	is_triggered_only = yes
+
+	option = {
+		name = "EVT676424OPTA"
+			994 = {
+	          add_province_modifier = {
+		         name = white_sea_canal_growth
+		         duration = 1800
+	          }
+	        }
+			2580 = {
+	          add_province_modifier = {
+		         name = white_sea_canal_growth
+		         duration = 1800
+	          }
+	        }
+			
+			995 = {
+	          add_province_modifier = {
+		         name = white_sea_canal_growth
+		         duration = 1800
+	          }
+	        }
+			993 = {
+	          add_province_modifier = {
+		         name = white_sea_canal_growth
+		         duration = 1800
+	          }
+	        }
+			2588 = {
+	          add_province_modifier = {
+		         name = white_sea_canal_growth
+		         duration = 3700
+	          }
+	        }
+			3361 = {
+	          add_province_modifier = {
+		         name = white_sea_canal_growth
+		         duration = 9700
+	          }
+	        }
+			984 = {
+	          add_province_modifier = {
+		         name = white_sea_canal_growth
+		         duration = 3700
+	          }
+	        }
+			983 = {
+	          add_province_modifier = {
+		         name = white_sea_canal_growth
+		         duration = 3700
+	          }
+	        }
+			981 = {
+	          add_province_modifier = {
+		         name = white_sea_canal_growth
+		         duration = 3700
+	          }
+	        }
+			988 = {
+	          add_province_modifier = {
+		         name = white_sea_canal_growth
+		         duration = 6856
+	          }
+	        }
+			prestige = 5
+	}
+}
+
 

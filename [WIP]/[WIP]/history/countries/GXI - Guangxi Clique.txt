@@ -1,9 +1,9 @@
 capital = 1502
 primary_culture = zhuang
 culture = yue
-culture = nanfaren
+culture = beifaren
 religion = mahayana
-government = absolute_monarchy
+government = colonial_company
 plurality = 0.0
 nationalvalue = nv_tradition
 literacy = 0.01

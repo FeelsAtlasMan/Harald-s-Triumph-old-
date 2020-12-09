@@ -1,11 +1,9 @@
-[A lot of Typos ahead]
 
 Roadmap:
 1. Russia
 2. Timurids
-3. Africa
+3. North Africa, Sahel and Medit.
 4. Americas
-5. Italy
 6. Western Europe
 7. India
 8. China
@@ -22,6 +20,12 @@ Break-Up of Timurids after westernization
 Rework of Northern Africa:
 1. Trans-Saharan Trade
 2. Actual Alt-Hist for West Africa
+
+Minor Stuff for China and Indochina
+-french trading posts in Champa
+-Nakhon Si Thammarat needs flag
+-Champassak kingdom needs flag
+-Champa needs flag
 
 Unification Events for Germany:
 1. War of the Alps (done)
@@ -49,10 +53,11 @@ Unification Events for Germany:
 7. The Centralisation of the Confederacy
    -> all remaining countries with the HRE_country flag form Germany, capital in Aachen
 
-Unifications of Iberia, Russia and Italy
+Unifications of Iberia and Italy
 Iberia: (help me Major :c )
 
 Russia:
+-scripted Russia
 1. Muscovite Revolution (done)
 2. End Tatar raids (annexation of Kazan (done), vassalization of Perm)
 3. Control the Cossacks
@@ -65,9 +70,10 @@ Russia:
 3. Centralize the Khanate (done)
 4. Subdue the Steppe (done)
 5. Push to the Pacific (done)
-6. War over Manchuria (need to do chinese stuff)
-7. Claims for Northern Caucasus and Qasim
+6. War over Manchuria (need to do chinese stuff,done)
+7. Claims for Northern Caucasus and Qasim (done)
 
+?????
 1. Cossack Hetmanate (done)
 2. Cossack Expansion Crimea
 3. Cossack Expansion Kiev
@@ -90,9 +96,6 @@ Flavour for Iberia:
 -at game start Morocco launches campaign against Castille
 -any christian iberian nation can restore Lisboa
 -any more ideas?
-
-Flavour for Russia:
--Cossacks can form Hetmanate, cant form Russia (Implemented)
 
 Flavour for Italian Nations:
 - Sale of Brindisi ( either to Bulgaria, Naples or Sicily)

@@ -313,10 +313,10 @@ skobelev = {
 		}
 	}
 	global_pop_militancy_modifier  = -0.05
-	badboy = 0.03
-	supply_consumption = -0.1
+	badboy = 0.02
+	supply_consumption = -0.4
 	prestige = 0.015
-	military_tech_research_bonus = 0.1
+	army_tech_research_bonus = 0.4
 	industry_tech_research_bonus = -0.2
 	culture_tech_research_bonus = -0.1
 	icon = 19
@@ -437,6 +437,17 @@ own_kiel_canal = {
 	tariff_efficiency_modifier = 0.05
 }
 
+own_white_sea_canal = {
+	trigger = {
+		exists = yes
+		owns = 3361
+		civilized = yes
+		is_canal_enabled = 7
+	}
+	icon = 9
+	tariff_efficiency_modifier = 0.02
+}
+
 own_suez_canal = {
 	trigger = {
 		exists = yes
@@ -516,10 +527,12 @@ sound_dues = {
 		NOT = { has_global_flag = sound_dues_abolished }
 		NOT = { owns = 372 }
 		OR = {
-			is_culture_group = scandinavian
-			is_culture_group = british
+			is_culture_group = north_germanic
+			is_culture_group = insular_western_germanic
 			is_culture_group = french
-			is_culture_group = beneluxian
+			is_culture_group = western_slavic
+			primary_culture = dutch
+			primary_culture = frisian
 			primary_culture = north_german
 			primary_culture = russian
 		}

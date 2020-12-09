@@ -515,7 +515,7 @@ background = {
 		attack = 2
 	}
 	natural_born_leader = {
-		attack = 1
+		attack = 2
 		reconnaissance = 0.05
 		morale = 0.10
 	}

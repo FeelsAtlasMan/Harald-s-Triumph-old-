@@ -341,25 +341,49 @@
 	clergymen = {
 		culture = swedish
 		religion = protestant
-		size = 850
+		size = 400
 	}
 
 	artisans = {
 		culture = swedish
 		religion = protestant
-		size = 1750
+		size = 700
 	}
 
 	soldiers = {
 		culture = swedish
 		religion = protestant
-		size = 2100
+		size = 1000
 	}
 
 	farmers = {
 		culture = swedish
 		religion = protestant
-		size = 52750
+		size = 30000
+	}
+	
+	clergymen = {
+		culture = dalecarlian 
+		religion = protestant
+		size = 450
+	}
+
+	artisans = {
+		culture = dalecarlian
+		religion = protestant
+		size = 1050
+	}
+
+	soldiers = {
+		culture = dalecarlian
+		religion = protestant
+		size = 1100
+	}
+
+	farmers = {
+		culture = dalecarlian
+		religion = protestant
+		size = 22750
 	}
 }
 #Uppsala (88000/22000 POPS)

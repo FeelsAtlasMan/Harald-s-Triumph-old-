@@ -380,7 +380,7 @@ fanatic_army = {
 	war_exhaustion = -5
 	org_regain = 0.2
 	land_unit_start_experience = 5
-	mobilisation_size = 0.15
+	mobilisation_size = 0.2
 	supply_consumption = -0.1
 	prestige = -0.02
 	icon = 15
@@ -435,6 +435,13 @@ population_resettlement = {
 	assimilation_rate = 2.5
 	population_growth = 0.02
 	icon = 19
+}
+
+white_sea_canal_growth = {
+	immigrant_attract = 0.5
+	farm_rgo_eff = 0.5
+	population_growth = 0.002
+	icon = 9
 }
 
 pearl_season = {

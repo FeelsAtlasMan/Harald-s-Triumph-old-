@@ -69,10 +69,12 @@ From;To;Type;Through;Data;Comment
 844;865;sea;2772;0;Myteline Strait
 271;304;sea;2737;0;Irish Strait
 254;304;sea;2737;0;Irish Strait
+995;2580;sea;3346;0;Swir River
+995;1004;sea;3346;0;Swir River
+995;992;sea;3346;0;Swir River
 267;1724;sea;2735;0;Inverness - Orkney Strait
 780;782;land;2762;0;Mostar Bay
 #301;388;sea;2724;0;Straits of Dover
-274;265;sea;2738;0;Ireland Strait Cause AI is dumb
 
 #
 # Asian Straits
@@ -199,15 +201,21 @@ From;To;Type;Through;Data;Comment
 606;722;impassable;0;0;Lucerne-Novara
 
 #Caucasus
-1095;1051;impassable;0;0;Adygei-Sukhumi
 3274;1051;impassable;0;0;Svateni-Sukhumi
 3274;1056;impassable;0;0;Svateni-Pyatigorsk
+3274;3349;impassable;0;0;Svateni-Adygei
 1092;1056;impassable;0;0;Kutaisi-Pyatigorsk
 1092;1054;impassable;0;0;Kutaisi-Vladikavkaz
 1090;1055;impassable;0;0;Tblisi-Grozny
-1090;1053;impassable;0;0;Kutaisi-Gunib
-1090;1052;impassable;0;0;Kutaisi-Derbent
-1104;1052;impassable;0;0;Sheki-Derbent
+1090;1053;impassable;0;0;Tblisi-Gunib
+1090;3318;impassable;0;0;Tblisi-Nasran
+1090;3314;impassable;0;0;Tblisi-Beshti
+1104;1053;impassable;0;0;Sheki-Gunib
+1104;3317;impassable;0;0;Sheki-Tshakur
+1104;3320;impassable;0;0;Sheki-Quba
+1102;3320;impassable;0;0;Baku-Quba
+1091;3318;impassable;0;0;Tshvinkhali-Nasran
+1095;3349;impassable;0;0;Sukhumi-Adygei
 
 #Alaskan Panhandle
 
@@ -258,4 +266,6 @@ From;To;Type;Through;Data;Comment
 2968;3001;canal;1723;3;Panama Canal
 2773;2774;canal;860;4;Bosphorus Strait
 2772;2773;canal;859;5;Dardanelles Strait
+2715;2716;canal;3361;7;White Sea Canal
 #2724;2723;canal;301;6;English Channel
+-1;-1;;-1;-1;

@@ -311,4 +311,34 @@ political_decisions = {
 			modifier = { factor = 0 month = 11 NOT = { month = 12 } }
 		}
 	}
+	
+	build_white_sea_canal = {
+		picture = white_sea_canal
+		potential = {
+			is_greater_power = yes
+			NOT = { has_global_flag = white_sea_canal_global }
+			NOT = { is_canal_enabled = 7 }
+		}
+		allow = {
+			owns = 3361
+			invention = machine_tools
+			invention = nitroglycerin		
+			iron_steamers = 1
+			money = 300000
+		}
+		effect = {
+			treasury = -300000	
+			set_global_flag = white_sea_canal_global
+			enable_canal = 7
+			3361 = { set_province_flag = white_sea_canal }
+			THIS = { country_event = 676424 }
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				war = yes
+			}
+		}
+	}
 }
