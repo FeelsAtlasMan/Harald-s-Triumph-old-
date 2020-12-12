@@ -1,5 +1,5 @@
-owner = ALN
-controller = ALN
-add_core = ALN
+owner = KMY
+controller = KMY
+add_core = KMY
 trade_goods = cattle
 life_rating = 35

@@ -475,3 +475,27 @@ DAI_hms_government;Dai Viet;;;;;;;;;;;;x
 DAI_prussian_constitutionalism;Dai Viet;;;;;;;;;;;;x
 DAI_colonial_company;Dai Viet;;;;;;;;;;;;x
 DAI_ADJ;Vietnamese;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+KMY;Kumykistan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+KMY_absolute_monarchy;Kumyk Khanate;;;;;;;;;;;;x
+KMY_hms_government;Kumyk Khanate;;;;;;;;;;;;x
+KMY_prussian_constitutionalism;Kumyk Khanate;;;;;;;;;;;;x
+KMY_colonial_company;Kumyk Khanate;;;;;;;;;;;;x
+KMY_ADJ;Kumyk;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+DAG;Avaristan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+DAG_absolute_monarchy;Avar Khanate;;;;;;;;;;;;x
+DAG_hms_government;Avar Khanate;;;;;;;;;;;;x
+DAG_prussian_constitutionalism;Avar Khanate;;;;;;;;;;;;x
+DAG_colonial_company;Avar Khanate;;;;;;;;;;;;x
+DAG_ADJ;Avar;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+GMZ;Dagestan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+GMZ_absolute_monarchy;Gazikumukh Khanate;;;;;;;;;;;;x
+GMZ_hms_government;Gazikumukh Khanate;;;;;;;;;;;;x
+GMZ_prussian_constitutionalism;Gazikumukh Khanate;;;;;;;;;;;;x
+GMZ_colonial_company;Gazikumukh Khanate;;;;;;;;;;;;x
+GMZ_ADJ;Dagestani;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+KCN;Arzakh;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+KCN_absolute_monarchy;Melikdom of Khachen;;;;;;;;;;;;x
+KCN_hms_government;Melikdom of Khachen;;;;;;;;;;;;x
+KCN_prussian_constitutionalism;Melikdom of Khachen;;;;;;;;;;;;x
+KCN_colonial_company;Melikdom of Khachen;;;;;;;;;;;;x
+KCN_ADJ;Dagestani;;;;;;;;;;;;;;x;;;;;;;;;;;;;;

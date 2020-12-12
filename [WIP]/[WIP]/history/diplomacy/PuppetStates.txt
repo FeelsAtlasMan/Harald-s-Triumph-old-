@@ -8,6 +8,41 @@ substate = {
 
 vassal = {
 	first = TIM
+	second = CHY
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = TIM
+	second = DAG
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = TIM
+	second = GMZ
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = TIM
+	second = KCN
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+substate = {
+	first = TIM
+	second = KMY
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = TIM
 	second = CND
 	start_date = 1836.1.1
 	end_date = 1937.1.1

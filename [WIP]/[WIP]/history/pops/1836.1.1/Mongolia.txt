@@ -409,19 +409,19 @@
 	}
 	
 	soldiers = {
-		culture = kazak
+		culture = kirgiz
 		religion = sunni
 		size = 725
 	}
 	
 	farmers = {
-		culture = kazak
+		culture = kirgiz
 		religion = sunni
 		size = 3475
 	}
 	
 	slaves = {
-		culture = kazak
+		culture = kirgiz
 		religion = sunni
 		size = 2000
 	}

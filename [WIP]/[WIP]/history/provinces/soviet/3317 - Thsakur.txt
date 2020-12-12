@@ -1,6 +1,6 @@
-owner = TIM
-controller = TIM
-add_core = DAG
+owner = GMZ
+controller = GMZ
+add_core = GMZ
 trade_goods = silk
 life_rating = 35
 

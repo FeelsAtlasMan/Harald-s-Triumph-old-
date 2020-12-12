@@ -1,6 +1,6 @@
-owner = TIM
-controller = TIM
+owner = DAG
+controller = DAG
 add_core = DAG
-trade_goods = silk
+trade_goods = coal
 life_rating = 35
 

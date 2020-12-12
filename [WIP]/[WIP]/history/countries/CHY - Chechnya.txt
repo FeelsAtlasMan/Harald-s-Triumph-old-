@@ -1,9 +1,9 @@
-capital = 1055 #Grozny
+capital = 1055 
 primary_culture = chechen
-culture = circassian
-culture = dagestani
-religion = sunni
-government = absolute_monarchy
+culture = ingush
+culture = tawlula
+religion = shiite
+government = colonial_company
 plurality = 10
 nationalvalue = nv_order
 literacy = 0.01
@@ -37,7 +37,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies 
 
-set_country_flag = sunni_country
+set_country_flag = shiite_country
 
 foreign_weapons = yes_foreign_weapons
 foreign_artillery = yes_foreign_artillery

@@ -1,7 +1,6 @@
-owner = TIM
-controller = TIM
+owner = CHY
+controller = CHY
 add_core = CHY
-add_core = ALN
-trade_goods = silk
+trade_goods = fruit
 life_rating = 35
 

@@ -1,7 +1,7 @@
-owner = ABK
-controller = ABK
-add_core = ABK
-add_core = GEO
+owner = CIR
+controller = CIR
 add_core = CIR
+add_core = GEO
+add_core = ABK
 trade_goods = fish
 life_rating = 35

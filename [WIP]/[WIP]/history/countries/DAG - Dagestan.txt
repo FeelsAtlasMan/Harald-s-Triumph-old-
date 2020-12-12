@@ -1,10 +1,10 @@
-capital = 1053 #Gunib(Mahachkala)
-primary_culture = dagestani
-culture = azerbaijani
-culture = chechen
-culture = circassian
-religion = sunni
-government = theocracy
+capital = 1053 
+primary_culture = avar
+culture = andi_didoic
+culture = dargin
+culture = lezgic
+religion = shiite
+government = colonial_company
 plurality = 0.0
 nationalvalue = nv_order
 literacy = 0.01
@@ -43,12 +43,9 @@ ruling_party = DAG_conservative
 consciousness = 0
 nonstate_consciousness = 0
 
-set_country_flag = theocratic_government
-set_country_flag = sunni_country
+set_country_flag = shiite_country
 
 oob = "DAG_oob.txt"
-
-decision = caucasus_muslims_1836_setup
 
 foreign_weapons = yes_foreign_weapons
 foreign_artillery = yes_foreign_artillery

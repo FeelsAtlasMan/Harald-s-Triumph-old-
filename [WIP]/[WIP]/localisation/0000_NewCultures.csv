@@ -7,7 +7,7 @@ ojibwe;Ojiwbe;;;;;;;;;;;;;x
 shawnee;Shawnee;;;;;;;;;;;;;x
 dakota;Sioux;;;;;;;;;;;;;x
 mexicain;Mexicain;;;;;;;;;;;;;x
-azeri;Caucasus Turk;;;;;;;;;;;;;x
+azeri;Azerler;;;;;;;;;;;;;x
 adari;Adari;;;;;;;;;;;;;x
 illinois;Illinewek;;;;;;;;;;;;;x
 vinlander;Vinlandian;;;;;;;;;;;;;x
@@ -33,7 +33,7 @@ norn;Norn;;;;;;;;;;;;;x
 ukrainian;Ruthenian;;;;;;;;;;;;;x
 janubi;Janubi;;;;;;;;;;;;;x
 swiss_german;Central German;;;;;;;;;;;;;x
-turkish;Anatolian Turk;;;;;;;;;;;;;x
+turkish;Anadoluler;;;;;;;;;;;;;x
 north_german;Lower German;;;;;;;;;;;;;x
 south_german;Upper German;;;;;;;;;;;;;x
 norman;Normaund;;;;;;;;;;;;x
@@ -158,3 +158,8 @@ khaka;Khakas;;;;;;;;;;;;x
 altai;Altai-Tubalar;;;;;;;;;;;;x
 paulang_wa;Paulang-Wa;;;;;;;;;;;;x
 dalecarlian;Dalecarlian;;;;;;;;;;;;x
+kazak;Karakalpak;;;;;;;;;;;;x
+tat;Tat;;;;;;;;;;;;x
+alvuanian;Alvuani;;;;;;;;;;;;x
+kivruli;Kivruli;;;;;;;;;;;;x
+meskheti;Meskhetlar;;;;;;;;;;;;x

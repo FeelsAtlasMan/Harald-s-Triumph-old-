@@ -206,14 +206,15 @@ From;To;Type;Through;Data;Comment
 3274;3349;impassable;0;0;Svateni-Adygei
 1092;1056;impassable;0;0;Kutaisi-Pyatigorsk
 1092;1054;impassable;0;0;Kutaisi-Vladikavkaz
-1090;1055;impassable;0;0;Tblisi-Grozny
-1090;1053;impassable;0;0;Tblisi-Gunib
-1090;3318;impassable;0;0;Tblisi-Nasran
-1090;3314;impassable;0;0;Tblisi-Beshti
-1104;1053;impassable;0;0;Sheki-Gunib
+3363;3314;impassable;0;0;Kakheti-Beshta
+3363;1055;impassable;0;0;Kakheti-Grozny
+3364;3318;impassable;0;0;Mtskheta-Nasran
+3364;1055;impassable;0;0;Mtskheta-Grozny
+3366;1053;impassable;0;0;Ilisu-Gunib
+3366;3317;impassable;0;0;Ilisu-Tshakur
 1104;3317;impassable;0;0;Sheki-Tshakur
 1104;3320;impassable;0;0;Sheki-Quba
-1102;3320;impassable;0;0;Baku-Quba
+3370;3320;impassable;0;0;Shirvan-Quba
 1091;3318;impassable;0;0;Tshvinkhali-Nasran
 1095;3349;impassable;0;0;Sukhumi-Adygei
 

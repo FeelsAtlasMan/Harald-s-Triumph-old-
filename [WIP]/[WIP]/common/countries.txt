@@ -106,6 +106,9 @@ TYM             ="countries/Tymyr.txt"
 YDN             ="countries/Yedisan.txt"
 RTH             ="countries/Great Ruthenia.txt" 
 BGH             ="countries/Bulgharia.txt"
+KMY             ="countries/Kumykistan.txt"
+GMZ             ="countries/Gazikumukh.txt"
+KCN             ="countries/Khachen.txt"
 
 
 ##HFM New Nations
