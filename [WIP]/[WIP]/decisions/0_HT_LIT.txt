@@ -1,0 +1,69 @@
+political_decisions = {
+	unite_lithuania = {
+		potential = {
+			primary_culture = lithuanian
+			NOT = { LIT = { exists = yes } }
+		}
+		
+		allow = {
+			owns = 361
+			owns = 360
+			owns = 364
+			war = no
+		}
+		effect = {
+			all_core = {
+				add_core = LIT
+				remove_core = THIS
+			}		
+			change_tag = LIT
+			698 = { add_core = THIS }
+			RUS_707 = { add_core = THIS }
+			RUS_360 = { add_core = THIS }
+			719 = { add_core = THIS }
+			RUS_718 = { add_core = THIS }
+			RUS_937 = { add_core = THIS }
+			RUS_947 = { add_core = THIS }
+			3331 = { add_core = THIS }
+			949 = { add_core = THIS }
+			prestige = 20
+		}
+		
+	}
+	
+	declare_grand_duchy = {
+		potential = {
+			tag = LIT
+			NOT = { has_country_flag = grand_duchy }
+		}
+		allow = {
+			all_core = {
+				owned_by = THIS
+			}
+			prestige = 60
+			is_greater_power = yes
+			war_policy = jingoism
+			NOT = { RTH = { exists = yes } }
+			owns = 958
+		}
+		effect = {
+			RUS_958 = { add_core = THIS }
+			RUS_959 = { add_core = THIS }
+			RUS_963 = { add_core = THIS }
+			RUS_954 = { add_core = THIS }
+			RUS_968 = { add_core = THIS }
+			RUS_955 = { add_core = THIS }
+			RUS_962 = { add_core = THIS }
+			1018 = { add_core = THIS }
+			977 = { add_core = THIS }
+			1015 = { add_core = THIS }
+			1016 = { add_core = THIS }
+			1017 = { add_core = THIS }
+			3356 = { add_core = THIS }
+			943 = { add_core = THIS }
+			1007 = { add_core = THIS }
+			prestige = 40
+			add_accepted_culture = ruthenian
+		}
+	}
+}

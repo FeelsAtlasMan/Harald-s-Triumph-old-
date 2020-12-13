@@ -1,0 +1,55 @@
+political_decisions = {
+	become_zapadoslavia = {
+		potential = {
+			is_culture_group = western_slavic
+			WSF = { exists = no }
+		}
+		allow = {
+			POL = { all_core = { OR = { owned_by = THIS owner = { in_sphere = THIS } } } }
+			BOH = { all_core = { OR = { owned_by = THIS owner = { in_sphere = THIS } } } }
+			SLV = { all_core = { OR = { owned_by = THIS owner = { in_sphere = THIS } } } }
+			PLB = { all_core = { OR = { owned_by = THIS owner = { in_sphere = THIS } } } }
+			nationalism_n_imperialism = 1
+			is_greater_power = yes
+		}
+		effect = {
+			all_core = {
+				add_core = WSF
+				remove_core = THIS
+			}
+			POL = { all_core = { add_core = WSF } }
+			BOH = { all_core = { add_core = WSF } }
+			SLV = { all_core = { add_core = WSF } }
+			PLB = { all_core = { add_core = WSF } }
+			change_tag = WSF
+			prestige = 60
+		}
+	}
+	
+	unite_ireland = {
+		potential = {
+			primary_culture = irish
+			IRE = { exists = no }
+		}
+		allow = {
+			IRE = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+			is_vassal = no
+		}
+		effect = {
+			all_core = {
+				add_core = IRE
+			}
+			change_tag = IRE
+			prestige = 20
+		}
+	}
+}
