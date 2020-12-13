@@ -29,37 +29,73 @@
 	aristocrats = {
 		culture = mashriqi
 		religion = sunni
-		size = 300
+		size = 200
 	}
 	
 	officers = {
 		culture = mashriqi
 		religion = sunni
-		size = 100
+		size = 70
 	}
 
 	clergymen = {
 		culture = mashriqi
 		religion = sunni
-		size = 100
+		size = 70
 	}
 
 	artisans = {
 		culture = mashriqi
 		religion = sunni
-		size = 1100
+		size = 900
 	}
 
 	soldiers = {
 		culture = mashriqi
 		religion = sunni
-		size = 1100
+		size = 900
 	}
 
 	farmers = {
 		culture = mashriqi
 		religion = sunni
-		size = 18150
+		size = 20000
+	}
+	
+	aristocrats = {
+		culture = mashriqi
+		religion = shiite
+		size = 100
+	}
+	
+	officers = {
+		culture = mashriqi
+		religion = shiite
+		size = 20
+	}
+
+	clergymen = {
+		culture = mashriqi
+		religion = shiite
+		size = 20
+	}
+
+	artisans = {
+		culture = mashriqi
+		religion = shiite
+		size = 200
+	}
+
+	soldiers = {
+		culture = mashriqi
+		religion = shiite
+		size = 200
+	}
+
+	farmers = {
+		culture = mashriqi
+		religion = shiite
+		size = 13150
 	}
 	
 	farmers = {
@@ -137,11 +173,11 @@
 	farmers = {
 		culture = assyrian
 		religion = catholic
-		size = 24325
+		size = 9325
 	}
 
 	slaves = {
-		culture = scythian
+		culture = georgian
 		religion = orthodox
 		size = 500
 	}
@@ -865,33 +901,39 @@
 #Kut (100000/25000 POPS)
 930 = {
 	aristocrats = {
-		culture = lurish
-		religion = sunni
+		culture = persian
+		religion = shiite
 		size = 75
 	}
 
 	clergymen = {
-		culture = lurish
-		religion = sunni
+		culture = persian
+		religion = shiite
 		size = 75
 	}
 
 	artisans = {
-		culture = lurish
-		religion = sunni
+		culture = persian
+		religion = shiite
 		size = 200
 	}
 
 	soldiers = {
-		culture = lurish
-		religion = sunni
+		culture = persian
+		religion = shiite
 		size = 350
 	}
 
 	farmers = {
+		culture = persian
+		religion = shiite
+		size = 4300
+	}
+	
+	farmers = {
 		culture = lurish
 		religion = sunni
-		size = 4300
+		size = 1300
 	}
 
 	aristocrats = {
@@ -1097,7 +1139,13 @@
 	farmers = {
 		culture = mashriqi
 		religion = shiite
-		size = 19375
+		size = 16375
+	}
+	
+	farmers = {
+		culture = persian
+		religion = shiite
+		size = 3375
 	}
 }
 #Nasiriyya (152000/38000 POPS)
@@ -1183,7 +1231,13 @@
 	farmers = {
 		culture = mashriqi
 		religion = shiite
-		size = 25825
+		size = 22825
+	}
+	
+	farmers = {
+		culture = persian
+		religion = shiite
+		size = 3825
 	}
 }
 #Najaf (96000/24000 POPS)
@@ -1263,13 +1317,37 @@
 	artisans = {
 		culture = mashriqi
 		religion = shiite
-		size = 650
+		size = 500
 	}
 
 	farmers = {
 		culture = mashriqi
 		religion = shiite
-		size = 12025
+		size = 11025
+	}
+	
+	aristocrats = {
+		culture = persian
+		religion = shiite
+		size = 200
+	}
+
+	clergymen = {
+		culture = persian
+		religion = shiite
+		size = 125
+	}
+
+	artisans = {
+		culture = persian
+		religion = shiite
+		size = 150
+	}
+
+	farmers = {
+		culture = persian
+		religion = shiite
+		size = 1025
 	}
 
 }

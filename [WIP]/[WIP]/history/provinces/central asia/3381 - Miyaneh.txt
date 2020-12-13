@@ -1,5 +1,5 @@
 owner = TIM
 controller = TIM
 add_core = PER
-trade_goods = coal
+trade_goods = tobacco
 life_rating = 35
