@@ -511,23 +511,33 @@ PER_1113 = { 1113 3383 1107 } #Gilan
 
 PER_1116 = { 1114 1115 } #Mazandaran
 
-PER_1121 = { 1121 1124 1125 1126 1128 1122 } #Ajam
+PER_1121 = { 1121 1124 1125 1128 1122 } #Ajam
 
 PER_1117 = { 1117 1118 1119 1111 } #Kordestan
 
-PER_1127 = { 1127 1129 1130 } #Isfahan
+PER_1127 = { 1127 1129 3387 } #Isfahan
+
+PER_1139 = { 1130 3392 } #Yazd
 
 PER_1120 = { 1120 1133 1134 } #Lorestan
 
-PER_1132 = { 1132 1131 } #Khuzestan
+PER_1132 = { 1132 1131 3388 } #Khuzestan
 
-PER_1136 = { 1136 1138 1141 1071 1142 } #Hormuzgan
+PER_1136 = { 1136 1138 } #Bushehr
 
-PER_1140 = { 1140 1139 1135 1137 } #Kerman-Farsestan
+PER_1142 = { 1142 1071 1141 1145 } #Hormuzgan
 
-PER_1145 = { 1145 1143 1146 1144 2640 1312} #West-Baluchistan
+PER_1140 = { 1140 1139 1143 } #Kerman
 
-PER_1148 = { 1148 1147 1150 1149 1116 } #Khorasan
+PER_1135 = { 1135 1137 3389 3390 3391 } #Fars
+
+PER_1145 = { 1146 1144 2640 1312} #West-Baluchistan
+
+PER_1148 = { 1148 3384 3385 } #Kohestan
+
+PER_1147 = { 1147 1150 1149 } #Khorasan
+
+PER_1126 = { 1126 3386 1116 } #Semnan va Golestan
 
 HDJ_1151 = { 1151 1152 1153 1154 1155 } #Hedjaz
 

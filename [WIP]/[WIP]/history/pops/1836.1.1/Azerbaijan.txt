@@ -153,6 +153,12 @@
 		religion = shiite
 		size = 40
 	}
+	
+	farmers = {
+		culture = azeri
+		religion = shiite
+		size = 285
+	}
 
 	aristocrats = {
 		culture = persian
@@ -415,23 +421,35 @@
 		religion = shiite
 		size = 245
 	}
-
+	
 	artisans = {
 		culture = persian
 		religion = shiite
-		size = 1600
-	}
-
-	soldiers = {
-		culture = persian
-		religion = shiite
-		size = 1025
+		size = 200
 	}
 
 	farmers = {
 		culture = persian
 		religion = shiite
-		size = 7800
+		size = 100
+	}
+
+	artisans = {
+		culture = tat
+		religion = shiite
+		size = 1400
+	}
+
+	soldiers = {
+		culture = tat
+		religion = shiite
+		size = 1025
+	}
+
+	farmers = {
+		culture = tat
+		religion = shiite
+		size = 7700
 	}
 
 	clergymen = {
@@ -627,7 +645,7 @@
 	artisans = {
 		culture = persian
 		religion = shiite
-		size = 2500
+		size = 3500
 	}
 
 	soldiers = {
@@ -639,7 +657,7 @@
 	farmers = {
 		culture = persian
 		religion = shiite
-		size = 9100
+		size = 3000
 	}
 
 	aristocrats = {
@@ -669,7 +687,7 @@
 	farmers = {
 		culture = armenian
 		religion = orthodox
-		size = 5425
+		size = 8625
 	}
 	
 	aristocrats = {
@@ -699,7 +717,13 @@
 	farmers = {
 		culture = alvuanian
 		religion = orthodox
-		size = 10000
+		size = 9000
+	}
+	
+	farmers = {
+		culture = azeri
+		religion = shiite
+		size = 2000
 	}
 }
 #Qazakh (68000/17000 POPS)
