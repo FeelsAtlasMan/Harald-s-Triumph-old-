@@ -2119,8 +2119,24 @@ iranian_turanian = {
 			}
 	}
 	
+	lurish = {
+		color = {0 78 40}
+		first_names = {
+			Abbas Abolghasem Abdolhossein Abdolsamad Abdolazim Ahmad Ali Bahram
+			Ebrahim Esmail "Fath Ali" Fazlollah Hamzeh Hasan Hossein Kamran Karim "Lotf Ali" 
+			Mahmoud Massoud Mohammad "Moin ed-Din" "Mozzafer ed-Din" Murad Muhsin 
+			"Naser ed-Din" Nosret Reza
+			}
+		last_names = {
+			Airom Ansari Ayrum Buzarjomehri Davallu Esfahani Farhani 
+			Jahanbani Kashani Khan Khuzai
+			Meshhedi Nakhchevani Pesyan Rokni Shafaei Shahbakhti 
+			Shirazi Tabrizi Tahmasebi Zahedi
+			}
+	}
+	
 	scythian = {
-		color = {70 128 10}
+		color = {70 130 10}
 		first_names = {
 			Æfsati Alægatæ Alardy Aminon Anigol Atsa Barastyr Borkhuarali Donbettyr Pettyr Fælværa Gatag Ældar Huyædon Khæmyts Khoraældar
 			Khutsau Kurdalægon Safa Saubarag Syrdon Tætærtupp Totraž Tutyr Uarkhag Uastyržhi Uatsilla
@@ -2138,7 +2154,7 @@ iranian_turanian = {
 	}
 	
 	jassic = {
-		color = {100 178 10}
+		color = {100 180 10}
 			first_names = {
 			Æfsati Alægatæ Alardy Aminon Anigol Atsa Barastyr Borkhuarali Donbettyr Pettyr Fælværa Gatag Ældar Huyædon Khæmyts Khoraældar
 			Khutsau Kurdalægon Safa Saubarag Syrdon Tætærtupp Totraž Tutyr Uarkhag Uastyržhi Uatsilla
@@ -2155,8 +2171,8 @@ iranian_turanian = {
 			}
 	}
 	
-	lurish = {
-		color = {0 78 40}
+	yaghnobi = {
+		color = {70 160 60}
 		first_names = {
 			Abbas Abolghasem Abdolhossein Abdolsamad Abdolazim Ahmad Ali Bahram
 			Ebrahim Esmail "Fath Ali" Fazlollah Hamzeh Hasan Hossein Kamran Karim "Lotf Ali" 
@@ -2327,19 +2343,6 @@ iranian_turanian = {
 		radicalism = 10
 	} 
 	
-	pashtun = {
-		color = {100 150 100}
-		
-		first_names = {
-			Abdallah "Abd al-Rahman" "Abd al-Quddus" Afzal Ahmad Akbar Akram Ayyub Fath "Firuz al-Din" "Habib Alllah" Haydar Humayun "Inayat Allah" Ishaq Jamal Kamran Kohandil Mahmud Mahsud Mihrdil Muhammad Murad Nadir "Nasr Allah" Omar Qaysar Shahpur "Sher Ali" Shuja Suleyman Timur Yaqub Zaman
-		}
-		last_names = {
-			Khan Ghilzai Adamkhel Afridi Sarbanri Abdali Yusufzai Omarkhel Pashtun Dilazak Atcha Babar Burki Bangash Bannuchi Chamkanni "Daulat Khel" "isa Khel" Davi Durrani Edo-Khel Gandapur Gujjar "Hafiz Khel" Jadoon Jahangiri Kakakhel Khakwani Kakar Kakazai Khalil Kharoti Khattak Khudiadadzai Khulozai Kuchelai Kuchis Kundi Lodhi Mian "Maghdud Khel" "Mahmud Khel" Tanoli Malik Mughal "Mahsud Khel" Mamund Manduri Marwat Mashwanis Mohamedzai Mohmand Mullagori Niazi Noorzai Orakzai Popalzai Qazi Shinwari Sadozai Salarzai Sarbans Shilmani Sulemani Shirani Sumbal Suri Swati Tareen Tarkani Tahirkheli Tokhi Turkhel "Umar Khel" Umarzai "Uthman khel" Wur "Yousafzai" "Yusaf Khel"
-		}
-		radicalism = 35
-
-	}
-	
 	baluchi = {
 		color = {100 60 50}
 		first_names = {
@@ -2351,6 +2354,19 @@ iranian_turanian = {
 		last_names = {
 			Khan
 		}
+	}
+	
+	pashtun = {
+		color = {100 150 100}
+		
+		first_names = {
+			Abdallah "Abd al-Rahman" "Abd al-Quddus" Afzal Ahmad Akbar Akram Ayyub Fath "Firuz al-Din" "Habib Alllah" Haydar Humayun "Inayat Allah" Ishaq Jamal Kamran Kohandil Mahmud Mahsud Mihrdil Muhammad Murad Nadir "Nasr Allah" Omar Qaysar Shahpur "Sher Ali" Shuja Suleyman Timur Yaqub Zaman
+		}
+		last_names = {
+			Khan Ghilzai Adamkhel Afridi Sarbanri Abdali Yusufzai Omarkhel Pashtun Dilazak Atcha Babar Burki Bangash Bannuchi Chamkanni "Daulat Khel" "isa Khel" Davi Durrani Edo-Khel Gandapur Gujjar "Hafiz Khel" Jadoon Jahangiri Kakakhel Khakwani Kakar Kakazai Khalil Kharoti Khattak Khudiadadzai Khulozai Kuchelai Kuchis Kundi Lodhi Mian "Maghdud Khel" "Mahmud Khel" Tanoli Malik Mughal "Mahsud Khel" Mamund Manduri Marwat Mashwanis Mohamedzai Mohmand Mullagori Niazi Noorzai Orakzai Popalzai Qazi Shinwari Sadozai Salarzai Sarbans Shilmani Sulemani Shirani Sumbal Suri Swati Tareen Tarkani Tahirkheli Tokhi Turkhel "Umar Khel" Umarzai "Uthman khel" Wur "Yousafzai" "Yusaf Khel"
+		}
+		radicalism = 35
+
 	}
 	
 	pamiri = {
@@ -2367,12 +2383,38 @@ iranian_turanian = {
 	}
 	
 	hazara = {
-		color = {108 203 223}
+		color = {60 110 60}
 		first_names = {
 			Ali Azim Jafar Mohammad Riza
 		}
 		last_names = {
 			Beg Khan
+		}
+	}
+	
+	shugni = {
+		color = {40 90 40}
+		first_names = {
+			Abdullah Ahmad Azam Khudadad
+			Mehrab Mohammad Muhabbat 
+			Nasir Nawaz
+			Samandar Sherdil
+		}
+		last_names = {
+			Khan
+		}
+	}
+	
+	sanglechi = {
+		color = {20 70 20}
+		first_names = {
+			Abdullah Ahmad Azam Khudadad
+			Mehrab Mohammad Muhabbat 
+			Nasir Nawaz
+			Samandar Sherdil
+		}
+		last_names = {
+			Khan
 		}
 	}
 }
@@ -2383,6 +2425,21 @@ kafiri = {
 	unit = MiddleEasternGC
 	nuristani = {
 		color = {110 200 220}
+		first_names = {
+			Ali Azim Jafar Mohammad Riza
+		}
+		last_names = {
+			Beg Khan
+		}
+	}
+}
+
+burushaskic = {
+	leader = arab
+	is_overseas = no
+	unit = MiddleEasternGC
+	burushaski = {
+		color = {10 60 120}
 		first_names = {
 			Ali Azim Jafar Mohammad Riza
 		}
@@ -2629,6 +2686,17 @@ central_asian = {
 	unit = AsianGC
 	mongol = {
 		color = {230 230 45}
+		first_names = { 
+               Peljidiin Balingiin Sodnomyn Kubilai Baterdene Dogsomyn Damdin Khorloogiin Dambyan 
+               Gonchigjalzangiin Badamdorj Chingis Otgonbayar Batbayar }
+
+		last_names = { 
+               Genden Amar Tserendorj Tomorbaatar Damdinbazar Bodoo Sukhbaatar Jamyan Choibalsan Chagdarjav
+		}
+	}
+	
+	moghol = {
+		color = {45 230 230}
 		first_names = { 
                Peljidiin Balingiin Sodnomyn Kubilai Baterdene Dogsomyn Damdin Khorloogiin Dambyan 
                Gonchigjalzangiin Badamdorj Chingis Otgonbayar Batbayar }

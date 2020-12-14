@@ -498,7 +498,9 @@ KCN_absolute_monarchy;Melikdom of Khachen;;;;;;;;;;;;x
 KCN_hms_government;Melikdom of Khachen;;;;;;;;;;;;x
 KCN_prussian_constitutionalism;Melikdom of Khachen;;;;;;;;;;;;x
 KCN_colonial_company;Melikdom of Khachen;;;;;;;;;;;;x
-KCN_ADJ;Dagestani;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+KCN_ADJ;Khachenian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+HNZ;Hunza;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+HNZ_ADJ;Burushaskian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 LIT_absolute_monarchy;Grand Duchy of Lithuania;;;;;;;;;;;;x
 LIT_hms_government;Grand Duchy of Lithuania;;;;;;;;;;;;x
 LIT_prussian_constitutionalism;Grand Duchy of Lithuania;;;;;;;;;;;;x

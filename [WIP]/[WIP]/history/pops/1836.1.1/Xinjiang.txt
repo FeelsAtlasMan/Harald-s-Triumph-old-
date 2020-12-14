@@ -76,20 +76,20 @@
 
 	clergymen = {
 		culture = persian
-		religion = shiite
-		size = 2050
+		religion = sunni
+		size = 250
 	}
 
 	artisans = {
 		culture = persian
-		religion = shiite
-		size = 12500
+		religion = sunni
+		size = 2500
 	}
 
 	farmers = {
 		culture = persian
-		religion = shiite
-		size = 6000
+		religion = sunni
+		size = 4000
 	}
 	
 	farmers = {
@@ -97,19 +97,6 @@
 		religion = shiite
 		size = 10450
 	}
-
-	clergymen = {
-		culture = badakhshani
-		religion = shiite
-		size = 25
-	}
-
-	artisans = {
-		culture = badakhshani
-		religion = shiite
-		size = 6975
-	}
-
 }
 #Taklamakan
 3311 = {

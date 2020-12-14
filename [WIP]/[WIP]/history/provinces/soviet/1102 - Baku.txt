@@ -1,7 +1,6 @@
 owner = TIM
 controller = TIM
-add_core = AZB
-add_core = TCA
+add_core = TTN
 trade_goods = grain
 life_rating = 35
 terrain = baku

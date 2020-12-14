@@ -3,4 +3,4 @@ controller = TIM
 add_core = TIM
 add_core = PER
 trade_goods = opium
-life_rating = 35
+life_rating = 40

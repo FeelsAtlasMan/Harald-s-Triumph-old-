@@ -1,115 +1,3 @@
-#New provinces for HPM
-#Former Tranquebar- now Maymana
-2591 = {
-	clergymen = {
-		culture = persian
-		religion = shiite
-		size = 113
-	}
-
-	artisans = {
-		culture = persian
-		religion = shiite
-		size = 150
-	}
-
-	farmers = {
-		culture = persian
-		religion = shiite
-		size = 3112
-	}
-
-	aristocrats = {
-		culture = uzbek
-		religion = sunni
-		size = 150
-	}
-
-	clergymen = {
-		culture = uzbek
-		religion = sunni
-		size = 388
-	}
-
-	artisans = {
-		culture = uzbek
-		religion = sunni
-		size = 500
-	}
-
-	soldiers = {
-		culture = uzbek
-		religion = sunni
-		size = 875
-	}
-
-	farmers = {
-		culture = uzbek
-		religion = sunni
-		size = 3000
-	}
-
-	farmers = {
-		culture = persian
-		religion = shiite
-		size = 3500
-	}
-
-	clergymen = {
-		culture = hazara
-		religion = shiite
-		size = 88
-	}
-	
-	artisans = {
-		culture = hazara
-		religion = shiite
-		size = 100
-	}
-	
-	farmers = {
-		culture = hazara
-		religion = shiite
-		size = 1087
-	}
-
-	aristocrats = {
-		culture = hazara
-		religion = shiite
-		size = 150
-	}
-
-	clergymen = {
-		culture = hazara
-		religion = shiite
-		size = 88
-	}
-
-	artisans = {
-		culture = hazara
-		religion = shiite
-		size = 500
-	}
-
-	soldiers = {
-		culture = hazara
-		religion = shiite
-		size = 100
-	}
-
-	farmers = {
-		culture = hazara
-		religion = shiite
-		size = 2162
-	}
-
-	slaves = {
-		culture = pashtun
-		religion = sunni
-		size = 3000
-	}
-}
-
 #India.txt includes modern India, Pakistan and Bangladesh
 #Northwest Frontier Region (1076000)
 #Under the Rule of Panjab 1836
@@ -148,13 +36,13 @@
 	artisans = {
 		culture = pashtun
 		religion = sunni
-		size = 10000
+		size = 1000
 	}
 	
 	artisans = {
 		culture = pashtun
 		religion = sunni
-		size = 4500
+		size = 2500
 	}
 
 	soldiers = {
@@ -172,27 +60,75 @@
 	farmers = {
 		culture = pashtun
 		religion = sunni
-		size = 108250
+		size = 58250
 	}
 }
-#Chitral (160000/40000 POPS)
-1223 = {
+#Dera ismail Khan (476000/119000 POPS)
+3393 = {
+	bureaucrats = {
+		culture = panjabi
+		religion = sunni
+		size = 50
+	}
+
+	soldiers = {
+		culture = panjabi
+		religion = sunni
+		size = 300
+	}
+
 	aristocrats = {
-		culture = pashtun
+		culture = panjabi
+		religion = sunni
+		size = 1200
+	}
+
+	bureaucrats = {
+		culture = panjabi
+		religion = sunni
+		size = 150
+	}
+	
+	clergymen = {
+		culture = panjabi
+		religion = sunni
+		size = 100
+	}
+	
+	artisans = {
+		culture = panjabi
 		religion = sunni
 		size = 500
+	}
+
+	soldiers = {
+		culture = panjabi
+		religion = sunni
+		size = 1000
+	}
+
+	farmers = {
+		culture = panjabi
+		religion = sunni
+		size = 6250
 	}
 
 	clergymen = {
 		culture = pashtun
 		religion = sunni
-		size = 500
+		size = 200
 	}
 
 	artisans = {
 		culture = pashtun
 		religion = sunni
-		size = 2000
+		size = 1000
+	}
+	
+	artisans = {
+		culture = pashtun
+		religion = sunni
+		size = 500
 	}
 
 	soldiers = {
@@ -201,36 +137,130 @@
 		size = 3000
 	}
 
+	soldiers = {
+		culture = pashtun
+		religion = sunni
+		size = 1000
+	}
+
 	farmers = {
 		culture = pashtun
 		religion = sunni
-		size = 22000
+		size = 38250
 	}
-	
-	soldiers = {
-		culture = nuristani
-		religion = shiite
-		size = 1000
+}
+#Chitral (160000/40000 POPS)
+1223 = {
+	aristocrats = {
+		culture = kashmiri
+		religion = sunni
+		size = 500
 	}
 
-	farmers = {
-		culture = nuristani
-		religion = shiite
+	clergymen = {
+		culture = kashmiri
+		religion = sunni
+		size = 500
+	}
+
+	artisans = {
+		culture = kashmiri
+		religion = sunni
 		size = 2000
 	}
+
+	soldiers = {
+		culture = kashmiri
+		religion = sunni
+		size = 3000
+	}
+
+	farmers = {
+		culture = kashmiri
+		religion = sunni
+		size = 9000
+	}
+	
+	soldiers = {
+		culture = hazara
+		religion = shiite
+		size = 500
+	}
+
+	farmers = {
+		culture = hazara
+		religion = shiite
+		size = 4000
+	}
+	
+	soldiers = {
+		culture = pamiri
+		religion = shiite
+		size = 200
+	}
+
+	farmers = {
+		culture = pamiri
+		religion = shiite
+		size = 1000
+	}
 	
 	soldiers = {
 		culture = nuristani
 		religion = animist
-		size = 1000
+		size = 500
 	}
 
 	farmers = {
 		culture = nuristani
 		religion = animist
-		size = 13000
+		size = 2000
 	}
 
+}
+#Kohistan (160000/40000 POPS)
+3394 = {
+	aristocrats = {
+		culture = kashmiri
+		religion = sunni
+		size = 500
+	}
+
+	clergymen = {
+		culture = kashmiri
+		religion = sunni
+		size = 500
+	}
+
+	artisans = {
+		culture = kashmiri
+		religion = sunni
+		size = 2000
+	}
+
+	soldiers = {
+		culture = kashmiri
+		religion = sunni
+		size = 3000
+	}
+
+	farmers = {
+		culture = kashmiri
+		religion = sunni
+		size = 9000
+	}
+	
+	soldiers = {
+		culture = pashtun
+		religion = sunni
+		size = 1500
+	}
+
+	farmers = {
+		culture = pashtun
+		religion = sunni
+		size = 8500
+	}
 }
 #Under the Rule of Kalat 1836
 #Quetta (124000/31000 POPS)
@@ -643,26 +673,26 @@
 #Gilgit (264000/66000 POPS)
 1225 = {
 	aristocrats = {
-		culture = pashtun
-		religion = sunni
+		culture = pamiri
+		religion = shiite
 		size = 50
 	}
 
 	clergymen = {
-		culture = pashtun
-		religion = sunni
+		culture = pamiri
+		religion = shiite
 		size = 50
 	}
 
 	soldiers = {
-		culture = pashtun
-		religion = sunni
+		culture = pamiri
+		religion = shiite
 		size = 50
 	}
 
 	farmers = {
-		culture = pashtun
-		religion = sunni
+		culture = pamiri
+		religion = shiite
 		size = 4600
 	}
 
@@ -724,6 +754,62 @@
 		culture = u_tsang
 		religion = mahayana
 		size = 19575
+	}
+}
+#Gilgit (264000/66000 POPS)
+3395 = {
+	aristocrats = {
+		culture = pamiri
+		religion = shiite
+		size = 50
+	}
+
+	clergymen = {
+		culture = pamiri
+		religion = shiite
+		size = 50
+	}
+
+	soldiers = {
+		culture = pamiri
+		religion = shiite
+		size = 50
+	}
+
+	farmers = {
+		culture = pamiri
+		religion = shiite
+		size = 4600
+	}
+
+	aristocrats = {
+		culture = burushaski
+		religion = shiite
+		size = 50
+	}
+
+	clergymen = {
+		culture = burushaski
+		religion = shiite
+		size = 125
+	}
+
+	artisans = {
+		culture = burushaski
+		religion = shiite
+		size = 200
+	}
+
+	soldiers = {
+		culture = burushaski
+		religion = shiite
+		size = 400
+	}
+
+	farmers = {
+		culture = burushaski
+		religion = shiite
+		size = 1725
 	}
 }
 #Leh (196000/49000 POPS)

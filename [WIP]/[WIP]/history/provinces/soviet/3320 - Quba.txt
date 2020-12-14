@@ -1,6 +1,6 @@
 owner = TIM
 controller = TIM
-add_core = AZB
+add_core = TTN
 trade_goods = silk
 life_rating = 35
 

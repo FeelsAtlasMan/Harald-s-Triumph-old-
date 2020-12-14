@@ -2,5 +2,5 @@ owner = TIM
 controller = TIM
 add_core = TIM
 add_core = BDK
-trade_goods = fish
+trade_goods = wool
 life_rating = 35

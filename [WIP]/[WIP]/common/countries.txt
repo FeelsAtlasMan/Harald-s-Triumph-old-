@@ -109,6 +109,10 @@ BGH             ="countries/Bulgharia.txt"
 KMY             ="countries/Kumykistan.txt"
 GMZ             ="countries/Gazikumukh.txt"
 KCN             ="countries/Khachen.txt"
+HNZ             ="countries/Hunza.txt"
+TTN             ="countries/Tatistan.txt"
+KRB             ="countries/Karabagh.txt"
+GNJ             ="countries/Ganjeh.txt"
 
 
 ##HFM New Nations

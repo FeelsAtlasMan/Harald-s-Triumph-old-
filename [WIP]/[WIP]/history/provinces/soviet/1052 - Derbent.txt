@@ -1,6 +1,6 @@
 owner = TIM
 controller = TIM
-add_core = GMZ
+add_core = TTN
 trade_goods = fruit
 life_rating = 35
 

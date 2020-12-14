@@ -2871,29 +2871,35 @@
 	aristocrats = {
 		culture = persian
 		religion = shiite
-		size = 50
+		size = 250
 	}
 
 	clergymen = {
 		culture = persian
 		religion = shiite
-		size = 50
+		size = 350
 	}
 
 	artisans = {
 		culture = persian
 		religion = shiite
-		size = 200
+		size = 3200
 	}
 
 	soldiers = {
 		culture = persian
 		religion = shiite
-		size = 25
+		size = 125
 	}
 
 	farmers = {
 		culture = persian
+		religion = shiite
+		size = 10000
+	}
+	
+	farmers = {
+		culture = turkmen
 		religion = shiite
 		size = 3675
 	}
@@ -2941,7 +2947,13 @@
 	farmers = {
 		culture = persian
 		religion = shiite
-		size = 18125
+		size = 28125
+	}
+	
+	farmers = {
+		culture = turkmen
+		religion = shiite
+		size = 5125
 	}
 }
 #Lengeh (76000/19000 POPS)

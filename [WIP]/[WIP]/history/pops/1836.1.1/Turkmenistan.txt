@@ -17,7 +17,7 @@
 	artisans = {
 		culture = persian
 		religion = shiite
-		size = 8500
+		size = 1500
 	}
 	
 	soldiers = {
@@ -29,19 +29,19 @@
 	farmers = {
 		culture = persian
 		religion = shiite
-		size = 1200
+		size = 200
 	}
 
 	soldiers = {
 		culture = turkmen
 		religion = sunni
-		size = 1000
+		size = 3000
 	}
 
 	farmers = {
 		culture = turkmen
 		religion = sunni
-		size = 32000
+		size = 10000
 	}
 	
 	aristocrats = {
@@ -65,13 +65,13 @@
 	soldiers = {
 		culture = uzbek
 		religion = sunni
-		size = 250
+		size = 1250
 	}
 
 	farmers = {
 		culture = uzbek
 		religion = sunni
-		size = 15825
+		size = 4825
 	}
 	
 }
@@ -128,9 +128,9 @@
 	}
 	
 	farmers = {
-		culture = uzbek
+		culture = turkmen
 		religion = shiite
-		size = 5000
+		size = 2000
 	}
 
 	clergymen = {
@@ -142,7 +142,7 @@
 	artisans = {
 		culture = persian
 		religion = shiite
-		size = 10200
+		size = 6200
 	}
 
 	soldiers = {
@@ -225,19 +225,19 @@
 	soldiers = {
 		culture = uzbek
 		religion = sunni
-		size = 25
+		size = 4025
 	}
 
 	farmers = {
 		culture = uzbek
 		religion = sunni
-		size = 14000
+		size = 8000
 	}
 
 	soldiers = {
 		culture = turkmen
 		religion = sunni
-		size = 250
+		size = 2250
 	}
 
 	farmers = {
@@ -267,7 +267,7 @@
 	farmers = {
 		culture = persian
 		religion = shiite
-		size = 4825
+		size = 2825
 	}
 }
 
@@ -276,13 +276,13 @@
 	aristocrats = {
 		culture = turkmen
 		religion = sunni
-		size = 100
+		size = 10
 	}
 
 	clergymen = {
 		culture = turkmen
 		religion = sunni
-		size = 200
+		size = 20
 	}
 
 	artisans = {
@@ -294,37 +294,13 @@
 	soldiers = {
 		culture = turkmen
 		religion = sunni
-		size = 50
+		size = 1550
 	}
 
 	farmers = {
 		culture = turkmen
 		religion = sunni
-		size = 2500
-	}
-	
-	aristocrats = {
-		culture = uzbek
-		religion = shiite
-		size = 100
-	}
-
-	clergymen = {
-		culture = uzbek
-		religion = shiite
-		size = 100
-	}
-
-	soldiers = {
-		culture = uzbek
-		religion = shiite
-		size = 200
-	}
-
-	farmers = {
-		culture = uzbek
-		religion = shiite
-		size = 1800
+		size = 3000
 	}
 	
 	clergymen = {
@@ -342,19 +318,19 @@
 	aristocrats = {
 		culture = persian
 		religion = shiite
-		size = 50
+		size = 150
 	}
 
 	clergymen = {
 		culture = persian
 		religion = shiite
-		size = 50
+		size = 250
 	}
 
 	artisans = {
 		culture = persian
 		religion = shiite
-		size = 400
+		size = 1400
 	}
 
 	soldiers = {
@@ -366,7 +342,7 @@
 	farmers = {
 		culture = persian
 		religion = shiite
-		size = 2425
+		size = 3425
 	}
 }
 	
@@ -375,31 +351,31 @@
 	aristocrats = {
 		culture = turkmen
 		religion = sunni
-		size = 300
+		size = 3
 	}
 
 	clergymen = {
 		culture = turkmen
 		religion = sunni
-		size = 300
+		size = 3
 	}
 
 	artisans = {
 		culture = turkmen
 		religion = sunni
-		size = 300
+		size = 30
 	}
 
 	soldiers = {
 		culture = turkmen
 		religion = sunni
-		size = 1100
+		size = 4100
 	}
 
 	farmers = {
 		culture = turkmen
 		religion = sunni
-		size = 12500
+		size = 8500
 	}
 	
 	aristocrats = {
@@ -425,37 +401,37 @@
 	farmers = {
 		culture = persian
 		religion = shiite
-		size = 5000
+		size = 2000
 	}
 	
 	aristocrats = {
 		culture = uzbek
-		religion = shiite
-		size = 150
+		religion = sunni
+		size = 50
 	}
 	clergymen = {
 		culture = uzbek
-		religion = shiite
-		size = 150
+		religion = sunni
+		size = 50
 	}
 	artisans = {
 		culture = uzbek
-		religion = shiite
-		size = 1500
+		religion = sunni
+		size = 200
 	}
 	soldiers = {
 		culture = uzbek
-		religion = shiite
+		religion = sunni
 		size = 300
 	}
 	farmers = {
 		culture = uzbek
-		religion = shiite
-		size = 13000
+		religion = sunni
+		size = 1000
 	}
 }
 
-#Sagat
+#Sadagh
 3284 = {
 	aristocrats = {
 		culture = turkmen
@@ -486,28 +462,28 @@
 	aristocrats = {
 		culture = persian
 		religion = shiite
-		size = 200
+		size = 20
 	}
 	clergymen = {
 		culture = persian
 		religion = shiite
-		size = 150
+		size = 15
 	}
 	artisans = {
 		culture = persian
 		religion = shiite
-		size = 700
+		size = 300
 	}
 	farmers = {
 		culture = persian
 		religion = shiite
-		size = 700
+		size = 100
 	}
 	
 	farmers = {
 		culture = uzbek
-		religion = shiite
-		size = 6500
+		religion = sunni
+		size = 1500
 	}
 }
 
@@ -528,31 +504,31 @@
 	artisans = {
 		culture = turkmen
 		religion = sunni
-		size = 400
+		size = 100
 	}
 
 	soldiers = {
 		culture = turkmen
 		religion = sunni
-		size = 200
+		size = 1200
 	}
 
 	farmers = {
 		culture = turkmen
 		religion = sunni
-		size = 6400
+		size = 3400
 	}
 
 	artisans = {
 		culture = persian
 		religion = shiite
-		size = 200
+		size = 400
 	}
 
 	farmers = {
 		culture = persian
 		religion = shiite
-		size = 700
+		size = 300
 	}
 }
 
