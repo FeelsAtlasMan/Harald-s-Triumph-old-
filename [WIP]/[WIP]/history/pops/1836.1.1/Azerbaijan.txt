@@ -106,13 +106,13 @@
 
 	clergymen = {
 		culture = armenian
-		religion = orthodox
+		religion = coptic
 		size = 210
 	}
 
 	artisans = {
 		culture = armenian
-		religion = orthodox
+		religion = coptic
 		size = 4540
 	}
 
@@ -662,31 +662,31 @@
 
 	aristocrats = {
 		culture = armenian
-		religion = orthodox
+		religion = coptic
 		size = 75
 	}
 
 	clergymen = {
 		culture = armenian
-		religion = orthodox
+		religion = coptic
 		size = 75
 	}
 
 	artisans = {
 		culture = armenian
-		religion = orthodox
+		religion = coptic
 		size = 1350
 	}
 
 	soldiers = {
 		culture = armenian
-		religion = orthodox
+		religion = coptic
 		size = 1075
 	}
 
 	farmers = {
 		culture = armenian
-		religion = orthodox
+		religion = coptic
 		size = 8625
 	}
 	
@@ -784,31 +784,31 @@
 	
 	aristocrats = {
 		culture = armenian
-		religion = orthodox
+		religion = coptic
 		size = 75
 	}
 
 	clergymen = {
 		culture = armenian
-		religion = orthodox
+		religion = coptic
 		size = 75
 	}
 
 	artisans = {
 		culture = armenian
-		religion = orthodox
+		religion = coptic
 		size = 350
 	}
 
 	soldiers = {
 		culture = armenian
-		religion = orthodox
+		religion = coptic
 		size = 375
 	}
 
 	farmers = {
 		culture = armenian
-		religion = orthodox
+		religion = coptic
 		size = 4000
 	}
 }
@@ -900,31 +900,31 @@
 
 	aristocrats = {
 		culture = armenian
-		religion = orthodox
+		religion = coptic
 		size = 100
 	}
 
 	clergymen = {
 		culture = armenian
-		religion = orthodox
+		religion = coptic
 		size = 50
 	}
 
 	artisans = {
 		culture = armenian
-		religion = orthodox
+		religion = coptic
 		size = 1300
 	}
 
 	soldiers = {
 		culture = armenian
-		religion = orthodox
+		religion = coptic
 		size = 75
 	}
 
 	farmers = {
 		culture = armenian
-		religion = orthodox
+		religion = coptic
 		size = 3075
 	}
 }
@@ -933,31 +933,31 @@
 3368 = {
 	aristocrats = {
 		culture = armenian
-		religion = orthodox
+		religion = coptic
 		size = 150
 	}
 
 	clergymen = {
 		culture = armenian
-		religion = orthodox
+		religion = coptic
 		size = 75
 	}
 
 	artisans = {
 		culture = armenian
-		religion = orthodox
+		religion = coptic
 		size = 450
 	}
 
 	soldiers = {
 		culture = armenian
-		religion = orthodox
+		religion = coptic
 		size = 3000
 	}
 
 	farmers = {
 		culture = armenian
-		religion = orthodox
+		religion = coptic
 		size = 8000
 	}
 	

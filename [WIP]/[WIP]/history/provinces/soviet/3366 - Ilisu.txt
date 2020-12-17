@@ -2,5 +2,6 @@ owner = TIM
 controller = TIM
 add_core = GEO
 add_core = DAG
+add_core = KKH
 trade_goods = grain
 life_rating = 35

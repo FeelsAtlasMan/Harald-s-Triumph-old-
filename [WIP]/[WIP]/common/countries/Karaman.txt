@@ -1,5 +1,5 @@
 color = { 200 200 250 }
-colonial_company = { 180 80 90 }
+colonial_company = { 220 20 50 } 
 graphical_culture = OttomanGC
 
 party = {

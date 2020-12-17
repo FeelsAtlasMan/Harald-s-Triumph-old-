@@ -1,5 +1,6 @@
 owner = TIM
 controller = TIM
 add_core = ARM
+add_core = IRV
 trade_goods = coal
 life_rating = 35

@@ -52,4 +52,68 @@ political_decisions = {
 			prestige = 20
 		}
 	}
+	
+	reunite_imeretia = {
+	    picture = "georgia"
+		potential = {
+		    OR = {
+			  tag = MIG
+			  tag = IMR
+			  tag = SVA
+			  tag = GRI
+			}
+			GEO = { exists = no }
+			NOT = { has_country_flag = IMR_united }
+		}
+		allow = {
+			IMR = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+			is_vassal = no
+		}
+		effect = {
+			change_tag = IMR
+			set_country_flag = IMR_united
+			prestige = 10
+		}
+	}
+	
+	restore_georgia = {
+	    picture = "georgia"
+		potential = {
+			OR = {
+			   tag = KRT
+			   tag = KKH
+			   AND = {
+			      tag = IMR
+			      has_country_flag = IMR_united
+			   }
+			}
+			GEO = { exists = no }
+		}
+		allow = {
+			GEO = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+			is_vassal = no
+		}
+		effect = {
+			change_tag = GEO
+			prestige = 30
+		}
+	}
 }

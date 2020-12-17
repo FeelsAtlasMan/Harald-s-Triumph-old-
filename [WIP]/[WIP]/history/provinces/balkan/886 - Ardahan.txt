@@ -1,6 +1,6 @@
 owner = TIM
 controller = TIM
 add_core = GEO
-add_core = ARM
+add_core = SMZ
 trade_goods = wool
 life_rating = 35

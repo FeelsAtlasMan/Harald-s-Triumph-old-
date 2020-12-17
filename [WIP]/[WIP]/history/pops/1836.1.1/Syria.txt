@@ -120,37 +120,37 @@
 
 	clergymen = {
 		culture = armenian
-		religion = orthodox
+		religion = coptic
 		size = 75
 	}
 
 	artisans = {
 		culture = armenian
-		religion = orthodox
+		religion = coptic
 		size = 750
 	}
 
 	farmers = {
 		culture = armenian
-		religion = orthodox
+		religion = coptic
 		size = 3300
 	}
 	
 	clergymen = {
 		culture = assyrian
-		religion = catholic
+		religion = coptic
 		size = 200
 	}
 
 	artisans = {
 		culture = assyrian
-		religion = catholic
+		religion = coptic
 		size = 1600
 	}
 
 	farmers = {
 		culture = assyrian
-		religion = catholic
+		religion = coptic
 		size = 15000
 	}
 
@@ -297,19 +297,19 @@
 
 	clergymen = {
 		culture = assyrian
-		religion = catholic
+		religion = coptic
 		size = 100
 	}
 
 	artisans = {
 		culture = assyrian
-		religion = catholic
+		religion = coptic
 		size = 550
 	}
 
 	farmers = {
 		culture = assyrian
-		religion = catholic
+		religion = coptic
 		size = 10350
 	}
 	
@@ -397,19 +397,19 @@
 
 	clergymen = {
 		culture = assyrian
-		religion = orthodox
+		religion = coptic
 		size = 175
 	}
 
 	artisans = {
 		culture = assyrian
-		religion = orthodox
+		religion = coptic
 		size = 5500
 	}
 
 	farmers = {
 		culture = assyrian
-		religion = orthodox
+		religion = coptic
 		size = 14325
 	}
 
@@ -496,19 +496,19 @@
 
 	clergymen = {
 		culture = assyrian
-		religion = orthodox
+		religion = coptic
 		size = 75
 	}
 
 	artisans = {
 		culture = assyrian
-		religion = orthodox
+		religion = coptic
 		size = 400
 	}
 
 	farmers = {
 		culture = assyrian
-		religion = orthodox
+		religion = coptic
 		size = 10575
 	}
 }
@@ -688,19 +688,19 @@
 
 	clergymen = {
 		culture = assyrian
-		religion = orthodox
+		religion = coptic
 		size = 20
 	}
 
 	artisans = {
 		culture = assyrian
-		religion = orthodox
+		religion = coptic
 		size = 50
 	}
 
 	farmers = {
 		culture = assyrian
-		religion = orthodox
+		religion = coptic
 		size = 700
 	}
 	
@@ -875,19 +875,19 @@
 
 	clergymen = {
 		culture = assyrian
-		religion = catholic
+		religion = coptic
 		size = 100
 	}
 
 	artisans = {
 		culture = assyrian
-		religion = catholic
+		religion = coptic
 		size = 550
 	}
 
 	farmers = {
 		culture = assyrian
-		religion = catholic
+		religion = coptic
 		size = 14350
 	}
 }

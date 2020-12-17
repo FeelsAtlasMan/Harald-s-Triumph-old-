@@ -203,6 +203,7 @@ From;To;Type;Through;Data;Comment
 #Caucasus
 3274;1051;impassable;0;0;Svateni-Sukhumi
 3274;1056;impassable;0;0;Svateni-Pyatigorsk
+3274;3397;impassable;0;0;Svateni-Elbrus
 3274;3349;impassable;0;0;Svateni-Adygei
 1092;1056;impassable;0;0;Kutaisi-Pyatigorsk
 1092;1054;impassable;0;0;Kutaisi-Vladikavkaz

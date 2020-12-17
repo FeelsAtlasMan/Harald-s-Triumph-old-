@@ -1,7 +1,9 @@
 capital = 1051
 primary_culture = circassian
-culture = chechen
-culture = dagestani
+culture = ubykh
+culture = abkhaz
+culture = kabardian
+culture = tawlula
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0

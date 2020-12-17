@@ -1,6 +1,6 @@
 capital = 3368
 primary_culture = armenian
-religion = orthodox
+religion = coptic
 government = colonial_company
 plurality = 0.0
 nationalvalue = nv_order
@@ -38,11 +38,11 @@ centralization = unitary
 colonial_policy = no_colonies 
 
 #admin_reform = yes_admin_reform
-#land_reform = land_reform
+land_reform = land_reform
 #finance_reform = yes_finance_reform
 #finance_reform_two = yes_finance_reform_two
-#monetary_reform = yes_monetary_reform
-monetary_reform_two = yes_monetary_reform_two
+monetary_reform = yes_monetary_reform
+#monetary_reform_two = yes_monetary_reform_two
 education_reform = yes_education_reform
 research_reform = yes_research_reform
 #transport_improv = yes_transport_improv

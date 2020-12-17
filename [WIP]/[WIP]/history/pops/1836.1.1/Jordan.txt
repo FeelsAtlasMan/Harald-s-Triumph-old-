@@ -70,19 +70,19 @@
 	
 	clergymen = {
 		culture = assyrian
-		religion = orthodox
+		religion = coptic
 		size = 100
 	}
 
 	artisans = {
 		culture = assyrian
-		religion = orthodox
+		religion = coptic
 		size = 100
 	}
 
 	farmers = {
 		culture = assyrian
-		religion = orthodox
+		religion = coptic
 		size = 500
 	}
 	
@@ -162,19 +162,19 @@
 	
 	clergymen = {
 		culture = assyrian
-		religion = orthodox
+		religion = coptic
 		size = 100
 	}
 
 	artisans = {
 		culture = assyrian
-		religion = orthodox
+		religion = coptic
 		size = 100
 	}
 
 	farmers = {
 		culture = assyrian
-		religion = orthodox
+		religion = coptic
 		size = 500
 	}
 }

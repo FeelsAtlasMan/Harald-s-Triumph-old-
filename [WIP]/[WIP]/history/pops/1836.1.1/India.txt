@@ -6615,7 +6615,7 @@
 	aristocrats = {
 		culture = sindi
 		religion = sunni
-		size = 1900
+		size = 1300
 	}
 
 	bureaucrats = {
@@ -6633,13 +6633,13 @@
 	clergymen = {
 		culture = sindi
 		religion = sunni
-		size = 1875
+		size = 1325
 	}
 
 	artisans = {
 		culture = sindi
 		religion = sunni
-		size = 9000
+		size = 6700
 	}
 
 	soldiers = {
@@ -6648,46 +6648,70 @@
 		size = 3000
 	}
 
-	soldiers = {
-		culture = sindi
-		religion = sunni
-		size = 1000
-	}
-
 	farmers = {
 		culture = sindi
 		religion = sunni
-		size = 164125
+		size = 90125
 	}
 
 	aristocrats = {
+		culture = baluchi
+		religion = sunni
+		size = 50
+	}
+
+	clergymen = {
+		culture = baluchi
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = baluchi
+		religion = sunni
+		size = 300
+	}
+
+	soldiers = {
+		culture = baluchi
+		religion = sunni
+		size = 2050
+	}
+
+	farmers = {
+		culture = baluchi
+		religion = sunni
+		size = 30000
+	}
+	
+	aristocrats = {
 		culture = sindi
 		religion = shiite
-		size = 50
+		size = 350
 	}
 
 	clergymen = {
 		culture = sindi
 		religion = shiite
-		size = 50
+		size = 550
 	}
 
 	artisans = {
 		culture = sindi
 		religion = shiite
-		size = 300
+		size = 2300
 	}
 
 	soldiers = {
 		culture = sindi
 		religion = shiite
-		size = 50
+		size = 3050
 	}
 
 	farmers = {
 		culture = sindi
 		religion = shiite
-		size = 5650
+		size = 45650
 	}
 
 	aristocrats = {
@@ -6725,13 +6749,13 @@
 	clergymen = {
 		culture = sindi
 		religion = sunni
-		size = 850
+		size = 800
 	}
 
 	artisans = {
 		culture = sindi
 		religion = sunni
-		size = 4000
+		size = 3800
 	}
 
 	soldiers = {
@@ -6740,16 +6764,34 @@
 		size = 3000
 	}
 
-	soldiers = {
-		culture = sindi
-		religion = sunni
-		size = 1000
-	}
-
 	farmers = {
 		culture = sindi
 		religion = sunni
-		size = 73300
+		size = 50000
+	}
+	
+	clergymen = {
+		culture = baluchi
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = baluchi
+		religion = sunni
+		size = 200
+	}
+
+	soldiers = {
+		culture = baluchi
+		religion = sunni
+		size = 4000
+	}
+
+	farmers = {
+		culture = baluchi
+		religion = sunni
+		size = 20300
 	}
 
 	aristocrats = {
@@ -6781,7 +6823,7 @@
 	aristocrats = {
 		culture = sindi
 		religion = sunni
-		size = 1350
+		size = 1100
 	}
 
 	clergymen = {
@@ -6793,7 +6835,7 @@
 	artisans = {
 		culture = sindi
 		religion = sunni
-		size = 6750
+		size = 6000
 	}
 
 	soldiers = {
@@ -6802,16 +6844,34 @@
 		size = 3000
 	}
 
-	soldiers = {
-		culture = sindi
-		religion = sunni
-		size = 1000
-	}
-
 	farmers = {
 		culture = sindi
 		religion = sunni
-		size = 112700
+		size = 90000
+	}
+	
+	clergymen = {
+		culture = baluchi
+		religion = sunni
+		size = 250
+	}
+
+	artisans = {
+		culture = baluchi
+		religion = sunni
+		size = 750
+	}
+
+	soldiers = {
+		culture = baluchi
+		religion = sunni
+		size = 3000
+	}
+
+	farmers = {
+		culture = baluchi
+		religion = sunni
+		size = 20700
 	}
 
 	aristocrats = {

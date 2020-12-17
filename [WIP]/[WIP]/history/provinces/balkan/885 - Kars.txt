@@ -1,5 +1,7 @@
 owner = TIM
 controller = TIM
 add_core = ARM
+add_core = SMZ
+add_core = GEO
 trade_goods = iron
 life_rating = 35
