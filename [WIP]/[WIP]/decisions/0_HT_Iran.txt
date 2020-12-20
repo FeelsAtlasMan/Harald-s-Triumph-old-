@@ -1,0 +1,430 @@
+political_decisions = {
+	unite_iran = {
+	    picture = "restore_iran"
+		potential = {
+			is_culture_group = iranian_turanian
+			NOT = { primary_culture = kurdish }
+			NOT = { primary_culture = pashtun }
+			PER = { exists = no }
+		}
+		
+		allow = {
+		    AJM = { all_core = { owned_by = THIS } }
+			YZD = { all_core = { owned_by = THIS } }
+			FRS = { all_core = { owned_by = THIS } }
+			AZB = { all_core = { owned_by = THIS } }
+			KHR = { all_core = { owned_by = THIS } }
+			war = no
+		}
+		
+		effect = {
+			AJM = { all_core = { remove_core = AJM } }
+			FRS = { all_core = { remove_core = FRS } }
+			AZB = { all_core = { remove_core = AZB } }
+			KHR = { all_core = { remove_core = KHR } }	
+			change_tag = PER
+			prestige = 40
+		}	
+	}
+	
+	reclaim_the_west = {
+	    picture = "map_iraq"
+		potential = {
+		    tag = PER
+			has_country_flag = claimed_kurdistan
+			NOT = { has_country_flag = claimed_iraq }
+		}
+		
+		allow = {
+		    PER = { all_core = { owned_by = THIS } }
+			civilized = yes
+			war = no
+		}
+		
+		effect = {
+			IRQ = { all_core = { add_core = THIS } }
+            LUR = { all_core = { add_core = THIS } }
+			badboy = 8
+			set_country_flag = claimed_iraq
+			prestige = 10
+		}
+		ai_will_do = {
+		    factor = 1
+			modifier = {
+			     factor = 0
+				 badboy = 0.75
+			}
+	}
+	
+	reclaim_kurdistan = {
+	    picture = "kurdistan"
+		potential = {
+		    tag = PER
+			NOT = { has_country_flag = claimed_kurdistan }
+		}
+		
+		allow = {
+		    PER = { all_core = { owned_by = THIS } }
+			civilized = yes
+			war = no
+		}
+		
+		effect = {
+			TUR_890 = { add_core = THIS }
+			924 = { add_core = THIS }
+			925 = { add_core = THIS }
+			928 = { add_core = THIS }
+			PER_1117 = { add_core = THIS }
+			badboy = 8
+			set_country_flag = claimed_kurdistan
+			prestige = 10
+		}
+		ai_will_do = {
+		    factor = 1
+			modifier = {
+			     factor = 0
+				 badboy = 0.75
+			}
+		
+	}
+	
+	reclaim_the_caucasus = {
+	    picture = "unite_caucasus"
+		potential = {
+		    tag = PER
+			NOT = { has_country_flag = claimed_caucasus }
+		}
+		
+		allow = {
+		    PER = { all_core = { owned_by = THIS } }
+			civilized = yes
+			war = no
+		}
+		
+		effect = {
+			RUS_1102 = { add_core = THIS }
+            RUS_1098 = { add_core = THIS }
+			RUS_1090 = { add_core = THIS }
+			TUR_885 = { add_core = THIS }
+			1054 = { add_core = THIS }
+			TTN = { all_core = { add_core = THIS } }
+			badboy = 15
+			set_country_flag = claimed_caucasus
+			prestige = 20
+		}
+		ai_will_do = {
+		    factor = 1
+			modifier = {
+			     factor = 0
+				 badboy = 0.75
+			}
+	}
+	
+	stop_balochi_raids = {
+	    picture = "balochistan_map"
+		potential = {
+		    tag = PER
+			has_country_flag = claimed_ekhorasan
+			NOT = { has_country_flag = ended_balochi_raids }
+		}
+		
+		allow = {
+		    PER = { all_core = { owned_by = THIS } }
+			civilized = yes
+			war = no
+		}
+		
+		effect = {
+			MAK = { all_core = { add_core = THIS } }
+            1220 = { add_core = THIS }
+			1221 = { add_core = THIS }
+			1222 = { add_core = THIS }
+			badboy = 5
+			set_country_flag = ended_balochi_raids
+			prestige = 10
+		}
+		ai_will_do = {
+		    factor = 1
+			modifier = {
+			     factor = 0
+				 badboy = 0.75
+			}
+	}
+	
+	reclaim_khorasan = {
+	    picture = "khorasan_map"
+		potential = {
+		    tag = PER
+			NOT = { has_country_flag = claimed_ekhorasan }
+		}
+		
+		allow = {
+		    PER = { all_core = { owned_by = THIS } }
+			civilized = yes
+			war = no
+		}
+		
+		effect = {
+            AFG_1212 = { add_core = THIS }
+			AFG_3288 = { add_core = THIS }
+			AFG_1215 = { add_core = THIS }
+			badboy = 15
+			set_country_flag = claimed_ekhorasan
+			prestige = 20
+		}
+		ai_will_do = {
+		    factor = 1
+			modifier = {
+			     factor = 0
+				 badboy = 0.75
+			}
+		}
+	}
+	
+	unite_turkomans = {
+	    picture = "turkomans"
+		potential = {
+			primary_culture = azeri
+			PER = { exists = no }
+			TKO = { exists = no }
+		}
+		
+		allow = {
+		    KRB = { all_core = { owned_by = THIS } }
+			GNJ = { all_core = { owned_by = THIS } }
+			IRV = { all_core = { owned_by = THIS } }
+			MKU = { all_core = { owned_by = THIS } }
+			AKK = { all_core = { owned_by = THIS } }
+			NKH = { all_core = { owned_by = THIS } }
+			SMZ = { all_core = { owned_by = THIS } }
+			war = no
+		}
+		
+		effect = {
+			KRB = { all_core = { add_core = TKO } }
+			KRB = { all_core = { remove_core = KRB } }
+			GNJ = { all_core = { add_core = TKO } }
+			GNJ = { all_core = { remove_core = GNJ } }
+			IRV = { all_core = { add_core = TKO } }
+			IRV = { all_core = { remove_core = IRV } }
+			AKK = { all_core = { add_core = TKO } }
+			AKK = { all_core = { remove_core = AKK } }
+            MKU = { all_core = { add_core = TKO } }	
+			MKU = { all_core = { remove_core = MKU } }
+			NKH = { all_core = { add_core = TKO } }	
+			NKH = { all_core = { remove_core = NKH } }
+			SMZ = { all_core = { add_core = TKO } }	
+			add_accepted_culture = meskheti
+			change_tag = TKO
+			prestige = 30
+		}	
+	}
+	
+	unite_western_turks = {
+	    picture = "turkoman_western_anatolia"
+		potential = {
+			tag = TKO
+			NOT = { has_country_flag = united_western_turks }
+			NOT = { has_country_flag = invaded_kurds }
+		}
+		
+		allow = {
+		    TKO = { all_core = { owned_by = THIS } }
+			URF = { all_core = { owned_by = THIS } }
+			civilized = yes
+			war = no
+		}
+		
+		effect = {
+		    KRM = { all_core = { add_core = TKO } } 
+			DUL = { all_core = { add_core = TKO } }
+			ANK = { all_core = { add_core = TKO } }
+			CND = { all_core = { add_core = TKO } }
+			TUR = { all_core = { add_core = TKO } }
+			add_accepted_culture = turkish
+			badboy = 20
+			set_country_flag = united_western_turks
+			prestige = 70
+		}	
+		ai_will_do = {
+		    factor = 1
+			modifier = {
+			     factor = 0
+				 badboy = 0.75
+			}
+		}
+	}
+	
+	claim_fertile_crescent = {
+	    picture = "turkoman_anatolia"
+		potential = {
+			tag = TKO
+            has_country_flag = united_western_turks 
+			NOT = { has_country_flag = claimed_fertile_crescent }
+		}
+		
+		allow = {
+		    TKO = { all_core = { owned_by = THIS } }
+			is_greater_power = yes
+			war = no
+		}
+		
+		effect = {
+		    EGY_921 = { add_core = THIS }
+			EGY_915 = { add_core = THIS }
+			EGY_908 = { add_core = THIS }
+			EGY_897 = { add_core = THIS }
+			EGY_903 = { add_core = THIS }
+		    TUR_923 = { add_core = THIS }
+			IRQ = { all_core = { add_core = TKO } } 
+			3282 = { add_core = THIS }
+			badboy = 20
+			set_country_flag = claimed_fertile_crescent
+			prestige = 50
+		}	
+		ai_will_do = {
+		    factor = 1
+			modifier = {
+			     factor = 0
+				 badboy = 0.75
+			}
+		}
+	}
+	
+	invade_caucasus = {
+	    picture = "unite_caucasus"
+		potential = {
+			tag = TKO
+            NOT = { has_country_flag = invaded_caucasus }
+		}
+		
+		allow = {
+		    TKO = { all_core = { owned_by = THIS } }
+			civilized = yes
+			war = no
+		}
+		
+		effect = {
+		    3320 = { add_core = THIS }
+			1103 = { add_core = THIS }
+			1050 = { add_core = THIS }
+			1054 = { add_core = THIS }
+			RUS_1102 = { add_core = THIS }
+			RUS_1090 = { add_core = THIS }
+			badboy = 10
+			set_country_flag = invaded_caucasus
+			prestige = 20
+		}	
+		ai_will_do = {
+		    factor = 1
+			modifier = {
+			     factor = 0
+				 badboy = 0.75
+			}
+		}
+	}
+	
+	invade_kurds = {
+	    picture = "kurdistan"
+		potential = {
+			tag = TKO
+            NOT = { has_country_flag = united_western_turks }
+			NOT = { has_country_flag = invaded_kurds }
+		}
+		
+		allow = {
+		    TKO = { all_core = { owned_by = THIS } }
+			civilized = yes
+			war = no
+		}
+		
+		effect = {
+		    URF = { all_core = { add_core = TKO } }
+			PER_1117 = { add_core = THIS }
+			TUR_890 = { add_core = THIS }
+			925 = { add_core = THIS }
+			928 = { add_core = THIS }
+			924 = { add_core = THIS }
+			badboy = 10
+			set_country_flag = invaded_kurds
+			prestige = 20
+		}	
+		ai_will_do = {
+		    factor = 1
+			modifier = {
+			     factor = 0
+				 badboy = 0.75
+			}
+		}
+	}
+	
+	invade_iraq = {
+	    picture = "map_iraq"
+		potential = {
+			tag = TKO
+            has_country_flag = invaded_kurds 
+			NOT = { has_country_flag = invaded_iraq }
+		}
+		
+		allow = {
+		    TKO = { all_core = { owned_by = THIS } }
+			civilized = yes
+			war = no
+		}
+		
+		effect = {
+		    IRQ = { all_core = { add_core = TKO } }
+			PER_1120 = { add_core = THIS }
+			3388 = { add_core = THIS }
+			badboy = 10
+			set_country_flag = invaded_iraq
+			prestige = 20
+		}	
+		ai_will_do = {
+		    factor = 1
+			modifier = {
+			     factor = 0
+				 badboy = 0.75
+			}
+		}
+	}
+	
+	claim_iran = {
+	    picture = "unite_iran"
+		potential = {
+			tag = TKO
+            has_country_flag = invaded_iraq 
+			NOT = { has_country_flag = claimed_iran }
+		}
+		
+		allow = {
+		    TKO = { all_core = { owned_by = THIS } }
+			civilized = yes
+			war = no
+		}
+		
+		effect = {
+		    PER_1127 = { add_core = THIS }
+			PER_1113 = { add_core = THIS }
+			PER_1116 = { add_core = THIS }
+			AZB = { all_core = { add_core = TKO } }
+			PER_1135 = { add_core = THIS }
+			PER_1121 = { add_core = THIS }
+			PER_1126 = { add_core = THIS }
+			PER_1136 = { add_core = THIS }
+			PER_1140 = { add_core = THIS }
+			PER_1139 = { add_core = THIS }
+			PER_1142 = { add_core = THIS }
+			badboy = 20
+			set_country_flag = claimed_iran
+			prestige = 20
+		}	
+		ai_will_do = {
+		    factor = 1
+			modifier = {
+			     factor = 0
+				 badboy = 0.75
+			}
+		}
+	}
+}

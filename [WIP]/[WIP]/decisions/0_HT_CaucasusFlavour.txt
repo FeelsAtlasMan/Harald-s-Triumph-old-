@@ -217,7 +217,6 @@ political_decisions = {
 	    picture = "unite_caucasus"
 		potential = {
 	        tag = ALN
-			is_greater_power = yes
 			NOT = { has_country_flag = alanian_kingdom }
 		}
 		allow = {

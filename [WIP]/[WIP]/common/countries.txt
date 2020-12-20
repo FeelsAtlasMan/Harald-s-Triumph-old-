@@ -132,6 +132,7 @@ BDK		        ="countries/Badakhshan.txt"
 KND		        ="countries/Kunduz.txt"
 SST		        ="countries/Sistan.txt"
 BLA		        ="countries/Bela.txt"
+TKO		        ="countries/Tourkistan.txt"
 
 ##HFM New Nations
 #ATB	= "countries/Saxe-Altenburg.txt"

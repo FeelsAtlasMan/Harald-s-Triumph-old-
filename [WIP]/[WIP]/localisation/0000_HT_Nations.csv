@@ -300,7 +300,7 @@ PNJ_ADJ;Punjabian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 BLC;Baluchistan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 BLC_absolute_monarchy;Baluchistan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 BLC_hms_government;Baluchistan;;;;;;;;;;;;x
-BLC_colonial_company;Ostanha-ye Baluchestan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+BLC_colonial_company;Baluchestan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 BLC_prussian_constitutionalism;Baluchistan;;;;;;;;;;;;x
 BLC_ADJ;Baluchi;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 TAR_absolute_monarchy;Kipchak Khanate;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
@@ -617,3 +617,15 @@ BLA_absolute_monarchy;Bela;;;;;;;;;;;;x
 BLA_hms_government;Bela;;;;;;;;;;;;x
 BLA_prussian_constitutionalism;Bela;;;;;;;;;;;;x
 BLA_ADJ;Bela;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+PER;Iran;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+PER_absolute_monarchy;Shahdom of Iran;;;;;;;;;;;;x
+PER_hms_government;Shahdom of Iran;;;;;;;;;;;;x
+PER_prussian_constitutionalism;Shahdom of Iran;;;;;;;;;;;;x
+PER_republic;Dschomhuri-ye Iran;;;;;;;;;;;;x
+PER_ADJ;Iranian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TKO;Tourkistan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TKO_absolute_monarchy;Turkoman Empire;;;;;;;;;;;;x
+TKO_hms_government;Turkoman Empire;;;;;;;;;;;;x
+TKO_prussian_constitutionalism;Turkoman Empire;;;;;;;;;;;;x
+TKO_republic;Tourkistan;;;;;;;;;;;;x
+TKO_ADJ;Turkoman;;;;;;;;;;;;;;x;;;;;;;;;;;;;;

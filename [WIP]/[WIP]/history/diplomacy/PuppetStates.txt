@@ -428,6 +428,20 @@ vassal = {
 }
 
 #Dehli
+substate = {
+	first = MUG
+	second = SIN
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = MUG
+	second = KUT
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
 vassal = {
 	first = MUG
 	second = AWA
