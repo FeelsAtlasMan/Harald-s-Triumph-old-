@@ -6,12 +6,29 @@ political_decisions = {
 		}
 		
 		allow = {
-			owns = 361
-			owns = 360
-			owns = 364
+			OR = {
+				owns = 361
+				361 = { owner = { vassal_of = THIS } }
+			}
+			OR = {
+				owns = 360
+				360 = { owner = { vassal_of = THIS } }
+			}
+			OR = {
+				owns = 364
+				364 = { owner = { vassal_of = THIS } }
+			}
 			war = no
 		}
 		effect = {
+			any_country = {
+				limit = {
+					exists = yes
+					primary_culture = lithuanian
+					vassal_of = THIS
+				}
+				annex_to = THIS
+			}
 			all_core = {
 				add_core = LIT
 				remove_core = THIS
@@ -27,10 +44,41 @@ political_decisions = {
 			3331 = { add_core = THIS }
 			949 = { add_core = THIS }
 			prestige = 20
+			capital = 360
+			random_owned = {
+				limit = {
+					owner = {
+						has_country_modifier = sajungos_judejimas
+					}
+				}
+				remove_country_modifier = sajungos_judejimas
+			}
+		}	
+	}
+
+	spread_the_uprising = {
+		potential = {
+			tag = SMG
+			NOT = { LIT = { exists = yes } }
+			has_global_flag = LIT_uprising
+			NOT = { has_country_flag { spread_the_uprising } }
+			LIH = { vassal_of = THIS }
 		}
 		
+		allow = {
+			war = no
+		}
+		
+		effect = {
+			set_country_flag = spread_the_uprising
+			360 = {
+				owner = {
+					country_event = 123601
+				}
+			}
+		}
 	}
-	
+
 	declare_grand_duchy = {
 		potential = {
 			tag = LIT
@@ -63,7 +111,7 @@ political_decisions = {
 			943 = { add_core = THIS }
 			1007 = { add_core = THIS }
 			prestige = 40
-			add_accepted_culture = ruthenian
+			add_accepted_culture = ukrainian
 		}
 	}
 }

@@ -1,7 +1,18 @@
 political_decisions = {
+
+	propose_zapadoslavia = {
+		potential = {
+			is_culture_group = western_slavic
+			NOT = { has_global_flag = proposed_zapadoslavia }
+		}
+		allow = {
+			is_greater_power = yes
+		}
+	}
 	become_zapadoslavia = {
 		potential = {
 			is_culture_group = western_slavic
+			has_global_flag = proposed_zapadoslavia
 			WSF = { exists = no }
 		}
 		allow = {
@@ -50,6 +61,76 @@ political_decisions = {
 			}
 			change_tag = IRE
 			prestige = 20
+		}
+	}
+	
+	form_belgica = {
+		potential = {
+			OR = {
+				tag = FLA
+				tag = WLL
+				tag = LUX
+				tag = BRB
+				tag = LIG
+				tag = LBG
+			}
+			NOT = { BEL = { exists = yes } }
+		}
+		allow = {
+			392 = {
+				OR = {
+					owned_by = THIS
+					owner = {
+						in_sphere = THIS
+					}
+				}
+			}
+			387 = {
+				OR = {
+					owned_by = THIS
+					owner = {
+						in_sphere = THIS
+					}
+				}
+			}
+			395 = {
+				OR = {
+					owned_by = THIS
+					owner = {
+						in_sphere = THIS
+					}
+				}
+			}
+			381 = {
+				OR = {
+					owned_by = THIS
+					owner = {
+						in_sphere = THIS
+					}
+				}
+			}
+			397 = {
+				OR = {
+					owned_by = THIS
+					owner = {
+						in_sphere = THIS
+					}
+				}
+			}
+		}
+		effect = {
+			all_core = {
+				add_core = BEL
+				remove_core = THIS
+			}
+			change_tag = BEL
+			FLA = { all_core = { add_core = THIS } }
+			WLL = { all_core = { add_core = THIS } }
+			LUX = { all_core = { add_core = THIS } }
+			LIG = { all_core = { add_core = THIS ) )
+			BRB = { all_core = { add_core = THIS } }
+			LBG = { all_core = { add_core = THIS } }
+			NET = { all_core = { add_core = THIS } }
 		}
 	}
 }

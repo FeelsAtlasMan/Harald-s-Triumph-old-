@@ -3297,3 +3297,13 @@ already_annexed = {
 statehood_choice = {
 	icon = 7
 }
+###Harald's Triumph###
+sajungos_judejimas = {
+	org_regain = 0.1
+	land_organisation = 0.1
+	land_defense_modifier = 0.1
+	global_pop_militancy_modifier = -0.05
+	diplomatic_points_modifier = 0.05
+	supply_consumption = -0.15
+	icon = 7
+}

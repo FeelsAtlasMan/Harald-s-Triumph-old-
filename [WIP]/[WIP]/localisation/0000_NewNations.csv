@@ -504,3 +504,13 @@ HNZ_ADJ;Burushaskian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 LIT_absolute_monarchy;Grand Duchy of Lithuania;;;;;;;;;;;;x
 LIT_hms_government;Grand Duchy of Lithuania;;;;;;;;;;;;x
 LIT_prussian_constitutionalism;Grand Duchy of Lithuania;;;;;;;;;;;;x
+BEL_absolute_monarchy;Kingdom of Belgica;;;;;;;;;;;;x
+BEL_hms_government;Kingdom of Belgica;;;;;;;;;;;;x
+BEL_prussian_constitutionalism;Kingdom of Belgica;;;;;;;;;;;;x
+BEL_democracy;Belgica;;;;;;;;;;;;x
+BEL;Belgica;;;;;;;;;;;;x
+NET_absolute_monarchy;Holland;;;;;;;;;;;;x
+NET_hms_government;Holland;;;;;;;;;;;;x
+NET_prussian_constitutionalism;Holland;;;;;;;;;;;;x
+NET_democracy;Holland;;;;;;;;;;;;x
+NET;Holland;;;;;;;;;;;;x
