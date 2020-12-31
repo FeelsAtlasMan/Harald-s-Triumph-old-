@@ -34,19 +34,19 @@
 
 	clergymen = {
 		culture = assyrian
-		religion = orthodox
+		religion = coptic
 		size = 25
 	}
 
 	artisans = {
 		culture = assyrian
-		religion = orthodox
+		religion = coptic
 		size = 100
 	}
 
 	farmers = {
 		culture = assyrian
-		religion = orthodox
+		religion = coptic
 		size = 1875
 	}
 
@@ -152,19 +152,19 @@
 
 	clergymen = {
 		culture = assyrian
-		religion = orthodox
+		religion = coptic
 		size = 75
 	}
 
 	artisans = {
 		culture = assyrian
-		religion = orthodox
+		religion = coptic
 		size = 825
 	}
 
 	farmers = {
 		culture = assyrian
-		religion = orthodox
+		religion = coptic
 		size = 3100
 	}
 
@@ -226,19 +226,19 @@
 
 	clergymen = {
 		culture = assyrian
-		religion = orthodox
+		religion = coptic
 		size = 25
 	}
 
 	artisans = {
 		culture = assyrian
-		religion = orthodox
+		religion = coptic
 		size = 125
 	}
 
 	farmers = {
 		culture = assyrian
-		religion = orthodox
+		religion = coptic
 		size = 850
 	}
 
@@ -294,19 +294,19 @@
 
 	clergymen = {
 		culture = assyrian
-		religion = orthodox
+		religion = coptic
 		size = 25
 	}
 
 	artisans = {
 		culture = assyrian
-		religion = orthodox
+		religion = coptic
 		size = 100
 	}
 
 	farmers = {
 		culture = assyrian
-		religion = orthodox
+		religion = coptic
 		size = 875
 	}
 
@@ -362,19 +362,19 @@
 
 	clergymen = {
 		culture = assyrian
-		religion = orthodox
+		religion = coptic
 		size = 25
 	}
 
 	artisans = {
 		culture = assyrian
-		religion = orthodox
+		religion = coptic
 		size = 250
 	}
 
 	farmers = {
 		culture = assyrian
-		religion = orthodox
+		religion = coptic
 		size = 1725
 	}
 }

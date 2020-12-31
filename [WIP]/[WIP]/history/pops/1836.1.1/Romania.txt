@@ -2315,12 +2315,6 @@
 		religion = orthodox
 		size = 62075
 	}
-	
-	clergymen = {
-		culture = armenian
-		religion = coptic
-		size = 1500 
-	}	
 
 	slaves = {
 		culture = gypsy
@@ -2354,12 +2348,6 @@
 		size = 1100
 	}
 
-	artisans = {
-		culture = armenian
-		religion = coptic
-		size = 500
-	}	
-	
 	farmers = {
 		culture = romanian
 		religion = orthodox

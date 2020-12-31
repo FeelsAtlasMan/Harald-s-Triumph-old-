@@ -7507,6 +7507,152 @@
 		size = 18875
 	}
 	
+	aristocrats = {
+		culture = scythian
+		religion = shiite
+		size = 75
+	}
+
+	clergymen = {
+		culture = scythian
+		religion = shiite
+		size = 50
+	}
+
+	officers = {
+		culture = scythian
+		religion = shiite
+		size = 10
+	}
+
+	artisans = {
+		culture = scythian
+		religion = shiite
+		size = 200
+	}
+
+	soldiers = {
+		culture = scythian
+		religion = shiite
+		size = 1350
+	}
+
+	farmers = {
+		culture = scythian
+		religion = shiite
+		size = 3875
+	}
+	
+	artisans = {
+		culture = tawlula
+		religion = sunni
+		size = 50
+	}
+
+	soldiers = {
+		culture = tawlula
+		religion = sunni
+		size = 2350
+	}
+
+	farmers = {
+		culture = tawlula
+		religion = sunni
+		size = 9875
+	}
+	
+	soldiers = {
+		culture = kabardian
+		religion = sunni
+		size = 1000
+	}
+	
+	clergymen = {
+		culture = kabardian
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = kabardian
+		religion = sunni
+		size = 100
+	}
+	
+	farmers = {
+		culture = kabardian
+		religion = sunni
+		size = 100
+	}
+	
+	clergymen = {
+		culture = kabardian
+		religion = shiite
+		size = 50
+	}
+
+	artisans = {
+		culture = kabardian
+		religion = shiite
+		size = 100
+	}
+	
+	farmers = {
+		culture = kabardian
+		religion = shiite
+		size = 1000
+	}
+	
+	soldiers = {
+		culture = kabardian
+		religion = animist
+		size = 3000
+	}
+	
+	farmers = {
+		culture = kabardian
+		religion = animist
+		size = 5875
+	}
+}
+#Elbrus (136000/34000 POPS)
+3397 = {
+	aristocrats = {
+		culture = scythian
+		religion = orthodox
+		size = 75
+	}
+
+	clergymen = {
+		culture = scythian
+		religion = orthodox
+		size = 50
+	}
+
+	officers = {
+		culture = scythian
+		religion = orthodox
+		size = 50
+	}
+
+	artisans = {
+		culture = scythian
+		religion = orthodox
+		size = 70
+	}
+
+	soldiers = {
+		culture = scythian
+		religion = orthodox
+		size = 1350
+	}
+
+	farmers = {
+		culture = scythian
+		religion = orthodox
+		size = 2875
+	}
+	
 	artisans = {
 		culture = tawlula
 		religion = sunni
@@ -7551,19 +7697,19 @@
 	
 	clergymen = {
 		culture = kabardian
-		religion = orthodox
+		religion = shiite
 		size = 50
 	}
 
 	artisans = {
 		culture = kabardian
-		religion = orthodox
+		religion = shiite
 		size = 100
 	}
 	
 	farmers = {
 		culture = kabardian
-		religion = orthodox
+		religion = shiite
 		size = 1000
 	}
 	

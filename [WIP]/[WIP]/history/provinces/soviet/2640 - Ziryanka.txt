@@ -1,5 +1,6 @@
 owner = TIM
 controller = TIM
+add_core = MAK
 add_core = BLC
 trade_goods = fish
 terrain = mountain

@@ -1,6 +1,7 @@
 owner = TIM
 controller = TIM
 add_core = GEO
-trade_goods = wool
+add_core = KRT
+trade_goods = cattle
 life_rating = 35
 

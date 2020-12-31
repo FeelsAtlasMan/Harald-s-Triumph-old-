@@ -1,13 +1,11 @@
 capital = 1095
-primary_culture = circassian
-religion = orthodox
+primary_culture = abkhaz
+religion = shiite
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_order
-literacy = 0.04
-non_state_culture_literacy = 0.02
-civilized = yes
-prestige = 2
+literacy = 0.1
+civilized = no
 
 # Political reforms
 slavery = no_slavery
@@ -28,8 +26,9 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
 
-# New Reforms
-conscription = two_year_draft
+
+#New Reforms
+conscription = four_year_draft
 debt_law = serfdom
 penal_system = capital_punishment
 child_labor = child_labor_legal
@@ -38,47 +37,40 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies 
 
+#admin_reform = yes_admin_reform
+land_reform = land_reform
+#finance_reform = yes_finance_reform
+#finance_reform_two = yes_finance_reform_two
+monetary_reform = yes_monetary_reform
+#monetary_reform_two = yes_monetary_reform_two
+education_reform = yes_education_reform
+research_reform = yes_research_reform
+#transport_improv = yes_transport_improv
+#firearms_production = yes_firearms_production
+#pre_indust = yes_pre_indust
+#industrial_construction = yes_industrial_construction
 
-set_country_flag = orthodox_country
+foreign_training = yes_foreign_training
+foreign_weapons = yes_foreign_weapons
+military_constructions = yes_military_constructions
+#foreign_officers = yes_foreign_officers
+army_schools = yes_army_schools
+#foreign_naval_officers = yes_foreign_naval_officers
+#naval_schools = yes_naval_schools
+#foreign_navies = yes_foreign_navies
+#western_shipyards = yes_western_shipyards
+#foreign_artillery = yes_foreign_artillery
+
+
+set_country_flag = shiite_country
 
 ruling_party = ABK_conservative
 upper_house = {
 	fascist = 0
-	liberal = 15
-	conservative = 68
-	reactionary = 17
+	liberal = 16
+	conservative = 75
+	reactionary = 9
 	anarcho_liberal = 0
 	socialist = 0
 	communist = 0
-}
-
-decision = abkhazia_1836_setup
-set_country_flag = is_orthodox
-
-# Technologies
-flintlock_rifles = 1
-bronze_muzzle_loaded_artillery = 1
-no_standard = 1
-guild_based_production = 1
-classicism_n_early_romanticism = 1
-late_enlightenment_philosophy = 1
-piston_steam_engine = 1
-
-# Inventions
-
-# Starting Consciousness
-consciousness = 0
-nonstate_consciousness = 0
-
-1861.1.1 = {
-# Technologies
-	flintlock_rifles = 1
-	bronze_muzzle_loaded_artillery = 1
-	no_standard = 1
-	guild_based_production = 1
-	classicism_n_early_romanticism = 1
-	late_enlightenment_philosophy = 1
-	piston_steam_engine = 1
-
-#Inventions
 }

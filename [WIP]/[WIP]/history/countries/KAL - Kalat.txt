@@ -1,7 +1,8 @@
 capital = 1221
-primary_culture = baluchi
+primary_culture = brahui
+culture = baluchi
 religion = sunni
-government = absolute_monarchy
+government = colonial_company
 plurality = 0.0
 nationalvalue = nv_tradition
 literacy = 0.01

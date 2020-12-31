@@ -1,0 +1,6 @@
+owner = TIM
+controller = TIM
+add_core = TIM
+add_core = PER
+trade_goods = coal
+life_rating = 30

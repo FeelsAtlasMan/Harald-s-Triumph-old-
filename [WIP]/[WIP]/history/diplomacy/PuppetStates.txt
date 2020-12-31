@@ -6,6 +6,34 @@ substate = {
 	end_date = 1937.1.1
 }
 
+substate = {
+	first = TIM
+	second = PNJ
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+substate = {
+	first = TIM
+	second = KMY
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+substate = {
+	first = TIM
+	second = KWT
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+substate = {
+	first = TIM
+	second = OMA
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
 vassal = {
 	first = TIM
 	second = CHY
@@ -29,14 +57,42 @@ vassal = {
 
 vassal = {
 	first = TIM
-	second = KCN
+	second = ABK
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }
 
-substate = {
+vassal = {
 	first = TIM
-	second = KMY
+	second = ALN
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = TIM
+	second = HNZ
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = TIM
+	second = IMR
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = TIM
+	second = GRI
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = TIM
+	second = KCN
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }
@@ -50,14 +106,28 @@ vassal = {
 
 vassal = {
 	first = TIM
-	second = BLC
+	second = KAL
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }
 
 vassal = {
 	first = TIM
-	second = PNJ
+	second = BLA
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = TIM
+	second = MAK
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = TIM
+	second = SST
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }
@@ -100,20 +170,6 @@ vassal = {
 vassal = {
 	first = TIM
 	second = DUL
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-
-substate = {
-	first = TIM
-	second = KWT
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-
-substate = {
-	first = TIM
-	second = OMA
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }
@@ -372,6 +428,20 @@ vassal = {
 }
 
 #Dehli
+substate = {
+	first = MUG
+	second = SIN
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = MUG
+	second = KUT
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
 vassal = {
 	first = MUG
 	second = AWA

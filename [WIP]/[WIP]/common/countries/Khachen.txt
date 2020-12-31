@@ -1,5 +1,5 @@
 color = { 128  170  63 }
-colonial_company = { 170 60 60 }
+colonial_company = { 220 20 50 }  
 graphical_culture = MiddleEasternGC
 party = {
 	name = "ARM_conservative"

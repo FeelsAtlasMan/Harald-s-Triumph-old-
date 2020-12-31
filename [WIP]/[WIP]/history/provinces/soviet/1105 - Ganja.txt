@@ -1,6 +1,5 @@
 owner = TIM
 controller = TIM
-add_core = AZB
 add_core = ARM
 add_core = GNJ
 trade_goods = wool

@@ -1,5 +1,5 @@
-owner = MUG
-controller = MUG
+owner = KUT
+controller = KUT
 add_core = KUT
 trade_goods = cotton
 life_rating = 32

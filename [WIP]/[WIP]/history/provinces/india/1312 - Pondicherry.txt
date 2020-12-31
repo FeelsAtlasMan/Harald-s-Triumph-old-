@@ -1,5 +1,6 @@
-owner = BLC
-controller = BLC
+owner = MAK
+controller = MAK
+add_core = MAK
 add_core = BLC
 trade_goods = fish
 life_rating = 25

@@ -1,4 +1,4 @@
-capital = 1210
+capital = 2591
 primary_culture = badakhshani
 culture = persian
 religion = shiite
