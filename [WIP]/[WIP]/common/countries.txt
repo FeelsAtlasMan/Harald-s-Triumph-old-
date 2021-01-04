@@ -133,6 +133,9 @@ KND		        ="countries/Kunduz.txt"
 SST		        ="countries/Sistan.txt"
 BLA		        ="countries/Bela.txt"
 TKO		        ="countries/Tourkistan.txt"
+ALH		        ="countries/Al Ahsa.txt"
+ALW		        ="countries/Aghwank.txt"
+MDS		        ="countries/Madistan.txt"
 
 ##HFM New Nations
 #ATB	= "countries/Saxe-Altenburg.txt"

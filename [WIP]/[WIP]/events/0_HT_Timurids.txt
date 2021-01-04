@@ -1,0 +1,893 @@
+#########################################################
+#														#
+#      			  Timurid Events   					    #
+#														#
+#########################################################
+
+#Losing control in Anatolia
+country_event = {
+        id = 9900
+        title = "EVTNAME9900"
+        desc = "EVTDESC9900"
+        picture = "bedr_khan_massacres"
+        
+        fire_only_once = yes
+        trigger = {
+                tag = TIM
+                OR = {
+                   civilization_progress = 0.9
+				   civilized = yes
+                   year = 1850
+                }			
+    }
+	    mean_time_to_happen = {
+		months = 8
+	}
+
+    option = {
+		name = "EVT9900OPTA"
+		release_vassal = KRM
+		release_vassal = ANK
+		KRM = { country_event = 60160 }
+		set_country_flag = intervention_in_anatolia
+		leave_alliance = ANK
+		leave_alliance = KRM
+	}
+
+	option = {
+		name = "EVT9900OPTB" 
+        change_tag_no_core_switch = KRM
+		KRM = { country_event = 60160 }
+		TIM = { release_vassal = KRM }
+		TIM = { release_vassal = ANK }
+		TIM = { leave_alliance = ANK }
+		TIM = { leave_alliance = KRM }
+		TIM = { set_country_flag = intervention_in_anatolia }
+	}
+}
+
+#War against Anatolian Kurds
+country_event = {
+        id = 9901
+        title = "EVTNAME9901"
+        desc = "EVTDESC9901"
+        picture = "young_turks_meeting"
+        
+        fire_only_once = yes
+        trigger = {
+                tag = KRM
+                TIM = { has_country_flag = intervention_in_anatolia } 				
+        }
+	    mean_time_to_happen = {
+		months = 1
+	    }
+
+        option = {
+		   name = "EVT9901OPTA"
+		   war = {
+	          target = ANK
+	          attacker_goal = { casus_belli = conquest country = ANK }
+	          defender_goal = { casus_belli = status_quo }
+	          call_ally = no
+           }
+	   }
+}
+
+#War against Karamans
+country_event = {
+        id = 9911
+        title = "EVTNAME9911"
+        desc = "EVTDESC9911"
+        picture = "young_turks"
+        
+        fire_only_once = yes
+        trigger = {
+                tag = TIM
+                has_country_flag = intervention_in_anatolia
+				OR = {
+                   KRM = { war_with = ANK }	
+				   ANK = { exists = no }
+                }				
+        }
+	    mean_time_to_happen = {
+		months = 1
+	    }
+
+        option = {
+		   name = "EVT9911OPTA"
+		   KRM = { inherit = DUL }
+		   KRM = { inherit = CND }
+		   war = {
+	          target = KRM
+	          attacker_goal = { casus_belli = civil_war target = KRM }
+	          defender_goal = { casus_belli = humiliate target = TIM }
+	          call_ally = no
+           }
+	   }
+}
+
+#Governor of Multan dethrowned
+country_event = {
+        id = 9912
+        title = "EVTNAME9912"
+        desc = "EVTDESC9912"
+        picture = "storming_of_multan"
+        
+        fire_only_once = yes
+        trigger = {
+                tag = TIM
+                AND = { 
+				    war_with = KRM
+					has_country_flag = intervention_in_anatolia
+                } 				
+        }
+	    mean_time_to_happen = {
+		months = 1
+	    }
+
+        option = {
+		   name = "EVT9912OPTA"
+		   release_vassal = PNJ
+		   #PNJ = { end_war = KRM }
+		   leave_alliance = PNJ
+		   set_country_flag = lost_punjab
+	   }
+}
+
+#Sayyids take control in Punjab
+country_event = {
+        id = 9913
+        title = "EVTNAME9913"
+        desc = "EVTDESC9913"
+        picture = "panjab_lost"
+        
+        fire_only_once = yes
+        trigger = {
+                tag = TIM
+                has_country_flag = lost_punjab			
+        }
+	    mean_time_to_happen = {
+		months = 1
+	    }
+
+        option = {
+		   name = "EVT9913OPTA"
+		   MUG = { inherit = PNJ }
+		   war = {
+	          target = MUG
+	          attacker_goal = { casus_belli = liberate_country country = PNJ }
+	          defender_goal = { casus_belli = humiliate }
+	          call_ally = no
+           }
+	   }
+}
+
+#Pashtuns rise up
+country_event = {
+        id = 9914
+        title = "EVTNAME9914"
+        desc = "EVTDESC9914"
+        picture = "anglo_persian_war"
+        
+        fire_only_once = yes
+        trigger = {
+                tag = TIM
+                PNJ = { exists = no }	
+                war_with = MUG				
+        }
+	    mean_time_to_happen = {
+		months = 1
+	    }
+
+        option = {
+		   name = "EVT9914OPTA"
+		   release = AFG
+		   AFG = { country_event = 60160 }
+		   set_country_flag = pashtun_rebellion
+		   AFG = { military_access = MUG }
+	   }
+	   
+	   option = {
+		   name = "EVT9914OPTB"
+		   AFG = { military_access = MUG }
+		   AFG = { country_event = 60160 }
+		   change_tag_no_core_switch = AFG
+	    }
+}
+
+#Pashtun War
+country_event = {
+        id = 9915
+        title = "EVTNAME9915"
+        desc = "EVTDESC9915"
+        picture = "anglo_persian_war"
+        
+        fire_only_once = yes
+        trigger = {
+                tag = AFG	
+                TIM = { has_country_flag = pashtun_rebellion }				
+        }
+	    mean_time_to_happen = {
+		months = 2
+	    }
+
+        option = {
+		   name = "EVT9915OPTA"
+		   AFG = { create_alliance = MUG }
+		   TIM = {
+		       war = {
+	               target = AFG
+	               attacker_goal = { casus_belli = civil_war country = AFG }
+	               defender_goal = { casus_belli = humiliate }
+	               call_ally = no
+               } 
+		   }
+		   ai_chance = { factor = 100 }
+	    }
+}
+
+#Balochis turn against us
+country_event = {
+        id = 9916
+        title = "EVTNAME9916"
+        desc = "EVTDESC9916"
+        picture = "graveyard_of_empires"
+        
+        fire_only_once = yes
+        trigger = {
+                tag = TIM	
+                war_with = AFG			
+        }
+		
+	    immediate = {     
+	    }
+
+        option = {
+		   name = "EVT9916OPTA"
+		   MAK = { end_war = AFG }
+		   release_vassal = MAK
+           war = {
+	          target = MAK
+	          attacker_goal = { casus_belli = civil_war country = MAK }
+	          defender_goal = { casus_belli = humiliate }
+	          call_ally = no
+           } 
+		   KAL = { end_war = AFG }
+		   1219 = { secede_province = KAL }
+		   3340 = { secede_province = KAL }
+           release_vassal = KAL
+           war = {
+	          target = KAL
+	          attacker_goal = { casus_belli = civil_war country = KAL }
+	          defender_goal = { casus_belli = humiliate }
+	          call_ally = no
+           } 	
+		   BLA = { end_war = AFG }
+           release_vassal = BLA
+           war = {
+	          target = BLA
+	          attacker_goal = { casus_belli = civil_war country = BLA }
+	          defender_goal = { casus_belli = humiliate }
+	          call_ally = no
+           }
+           set_country_flag = balochi_rebellion 	
+           1144 = { secede_province = MAK }		
+           1146 = { secede_province = MAK }			   
+	   }
+}
+
+#Western Collapse
+country_event = {
+        id = 9917
+        title = "EVTNAME9917"
+        desc = "EVTDESC9917"
+        picture = "arab_revolt"
+        
+        fire_only_once = yes
+        trigger = {
+                tag = TIM	
+                war = yes	 
+                has_country_flag = balochi_rebellion 				
+        }
+		
+	    mean_time_to_happen = {
+		months = 4
+	    }
+
+        option = {
+		   name = "EVT9917OPTA"
+		   release = IRQ 	
+           war = {
+	          target = IRQ
+	          attacker_goal = { casus_belli = conquest country = IRQ }
+	          defender_goal = { casus_belli = humiliate }
+	          call_ally = no
+           }	
+		   IRQ = { country_event = 60160 }
+           release = KDS 	
+           war = {
+	          target = KDS
+	          attacker_goal = { casus_belli = conquest country = KDS }
+	          defender_goal = { casus_belli = humiliate }
+	          call_ally = no
+           }
+		   KDS = { country_event = 60160 }
+		   KDS = { inherit = URF }	   
+	   }
+	   
+	   option = {
+		   name = "EVT9917OPTB"	
+		   TIM = { release = IRQ }	   
+           TIM = { country_event = 9923 }
+		   IRQ = { country_event = 60160 }
+           TIM = { release = KDS }
+		   KDS = { country_event = 60160 }
+		   KDS = { inherit = URF }		
+           change_tag_no_core_switch = IRQ			   
+	   }
+	   
+	   option = {
+		   name = "EVT9917OPTC"
+		   TIM = { release = IRQ }	   
+           TIM = { country_event = 9924 }
+		   IRQ = { country_event = 60160 }
+           TIM = { release = KDS }
+		   KDS = { country_event = 60160 }
+		   KDS = { inherit = URF }  
+		   change_tag_no_core_switch = KDS
+	   }
+}
+
+#War fix irq
+country_event = {
+        id = 9923
+        title = "EVTNAME9923"
+        desc = "EVTDESC9923"
+        picture = "arab_revolt"
+		
+        is_triggered_only = yes
+
+        option = {
+		   name = "EVT9923OPTA" 	
+           war = {
+	          target = IRQ
+	          attacker_goal = { casus_belli = civil_war country = IRQ }
+	          defender_goal = { casus_belli = humiliate }
+	          call_ally = no
+           }	
+           war = {
+	          target = KDS
+	          attacker_goal = { casus_belli = civil_war country = KDS }
+	          defender_goal = { casus_belli = humiliate }
+	          call_ally = no
+           }   
+	   }
+}
+
+#War fix kds
+country_event = {
+        id = 9924
+        title = "EVTNAME9924"
+        desc = "EVTDESC9924"
+        picture = "arab_revolt"
+		
+        is_triggered_only = yes
+
+        option = {
+		   name = "EVT9924OPTA" 	
+           war = {
+	          target = IRQ
+	          attacker_goal = { casus_belli = civil_war country = IRQ }
+	          defender_goal = { casus_belli = humiliate }
+	          call_ally = no
+           }	
+           war = {
+	          target = KDS
+	          attacker_goal = { casus_belli = civil_war country = KDS }
+	          defender_goal = { casus_belli = humiliate }
+	          call_ally = no
+           }   
+	   }
+}
+
+#Aq Qonyolu collapses
+country_event = {
+        id = 9918
+        title = "EVTNAME9918"
+        desc = "EVTDESC9918"
+        picture = "abd_al_qadir"
+        
+        fire_only_once = yes
+        trigger = {
+                tag = AKK	
+                893 = { controlled_by = KDS }				
+        }
+		
+	    immediate = {     
+	    }
+
+        option = {
+		   name = "EVT9918OPTA" 
+		      any_owned = { 
+		             limit = { 
+						 is_core = KDS 
+					     } 
+					 secede_province = KDS  
+					 }
+           release = PNT 			   
+	   }
+}
+
+#Khorasan Revolution
+country_event = {
+        id = 9919
+        title = "EVTNAME9919"
+        desc = "EVTDESC9919"
+        picture = "PER_pcr_embassy"
+        
+        fire_only_once = yes
+        trigger = {
+                tag = TIM	
+                AKK = { exists = no }				
+        }
+		
+	    mean_time_to_happen = {
+		months = 1
+	    }
+
+        option = {
+		   name = "EVT9919OPTA" 
+		   release = KHR
+           KHR = { country_event = 60160 }	
+           war = {
+	          target = KHR
+	          attacker_goal = { casus_belli = civil_war country = KHR }
+	          defender_goal = { casus_belli = humiliate }
+	          call_ally = no
+           }		
+           1212 = { add_core = KHR }
+		   3396 = { add_core = KHR }		   
+	    }
+		
+		option = {
+		   name = "EVT9919OPTB" 
+		   release = KHR
+           KHR = { country_event = 60160 }	
+           war = {
+	          target = KHR
+	          attacker_goal = { casus_belli = civil_war country = KHR }
+	          defender_goal = { casus_belli = humiliate }
+	          call_ally = no
+           }	
+		   1212 = { add_core = KHR }
+		   3396 = { add_core = KHR }
+           change_tag_no_core_switch = KHR		   
+	    }
+}
+
+#Fall of Herat/Iranian Breakaways
+country_event = {
+        id = 9920
+        title = "EVTNAME9920"
+        desc = "EVTDESC9920"
+        picture = "capturing_khiva"
+        
+        fire_only_once = yes
+        trigger = {
+                tag = TIM	
+                1212 = { controlled_by = KHR }				
+        }
+		
+	    immediate = {     
+	    }
+
+		#Resume as Timurids
+        option = {
+		   name = "EVT9920OPTA" 
+		   capital = 1199
+		   release = MKU
+		   release = AZB
+		   release = MZN
+           release = GLN
+           release = AJM
+		   release = YZD
+           release = FRS
+           release = GLN
+		   release = TLY
+           release = TTN
+           release = KRB
+		   release = GNJ
+           release = NKH
+           release = IRV
+           release = SMZ
+           release = KRT
+		   release = KKH
+           release = LUR
+           release = TKM
+		   release = KHI
+           release = KND
+           release = BDK
+		   release_vassal = OMA
+		   release_vassal = KCN
+		   release_vassal = GMZ
+		   release_vassal = DAG
+		   release_vassal = KMY
+		   release_vassal = CHY
+		   release_vassal = ALN
+		   release_vassal = ALH
+		   release_vassal = KUW
+		   release_vassal = IMR
+		   release_vassal = GRI
+		   release_vassal = MIG
+		   release_vassal = SVA
+		   release_vassal = ABK
+		   1054 = { secede_province = ALN }		
+           1594 = { secede_province = UYG }		
+           2664 = { secede_province = OMA }
+           1212 = { secede_province = KHR }
+		   3396 = { secede_province = KHR }		   
+	   }
+	   
+	   #Resume as Breakaway
+	   option = {
+		   name = "EVT9920OPTB" 
+		   capital = 1199 
+		   release = MKU
+		   release = AZB
+		   release = AJM
+           release = GLN
+           release = MZN
+		   release = YZD
+           release = FRS
+		   release = TLY
+           release = TTN
+           release = KRB
+		   release = GNJ
+           release = NKH
+           release = IRV
+           release = SMZ
+           release = KRT
+		   release = KKH
+           release = LUR
+           release = KHI
+		   release = TKM
+           release = KND
+           release = BDK
+		   release_vassal = OMA
+		   release_vassal = KCN
+		   release_vassal = GMZ
+		   release_vassal = DAG
+		   release_vassal = KMY
+		   release_vassal = CHY
+		   release_vassal = ALN
+		   release_vassal = ALH
+		   release_vassal = KUW
+		   release_vassal = IMR
+		   release_vassal = GRI
+		   release_vassal = MIG
+		   release_vassal = SVA
+		   release_vassal = ABK
+		   1054 = { secede_province = ALN }		
+           1594 = { secede_province = UYG }		
+           2664 = { secede_province = OMA }
+           1212 = { secede_province = KHR }
+		   3396 = { secede_province = KHR }			   
+           country_event = 9922	   
+	   }
+}
+
+#Breakaway Pick 1
+country_event = {
+        id = 9922
+        title = "EVTNAME9922"
+        desc = "EVTDESC9922"
+        
+        is_triggered_only = yes
+	   
+	   option = {
+		   name = "EVT9922OPTA"  
+		   change_tag_no_core_switch = MKU   
+	   }
+	   option = {
+		   name = "EVT9922OPTB"  
+		   change_tag_no_core_switch = AZB   
+	   }
+	   option = {
+		   name = "EVT9922OPTC"  
+		   change_tag_no_core_switch = AJM   
+	   }
+	   option = {
+		   name = "EVT9922OPTD" 
+           country_event = 9923		     
+	   } 
+}
+
+#Breakaway Pick 2
+country_event = {
+        id = 9925
+        title = "EVTNAME9925"
+        desc = "EVTDESC9925"
+        
+        is_triggered_only = yes
+	   
+	   option = {
+		   name = "EVT9925OPTA"  
+		   change_tag_no_core_switch = GLN   
+	   }
+	   option = {
+		   name = "EVT9925OPTB"  
+		   change_tag_no_core_switch = MZN   
+	   }
+	   option = {
+		   name = "EVT9925OPTC"  
+		   change_tag_no_core_switch = YZD   
+	   }
+	   option = {
+		   name = "EVT9925OPTD" 
+           country_event = 9929		     
+	   } 
+}
+
+#Breakaway Pick 3
+country_event = {
+        id = 9929
+        title = "EVTNAME9929"
+        desc = "EVTDESC9929"
+        
+        is_triggered_only = yes
+	   
+	   option = {
+		   name = "EVT9929OPTA"  
+		   change_tag_no_core_switch = FRS   
+	   }
+	   option = {
+		   name = "EVT9929OPTB"  
+		   change_tag_no_core_switch = TLY   
+	   }
+	   option = {
+		   name = "EVT9929OPTC"  
+		   change_tag_no_core_switch = TTN   
+	   }
+	   option = {
+		   name = "EVT9929OPTD" 
+           country_event = 9926	     
+	   } 
+}
+
+#Breakaway Pick 4
+country_event = {
+        id = 9926
+        title = "EVTNAME9926"
+        desc = "EVTDESC9926"
+        
+        is_triggered_only = yes
+	   
+	   option = {
+		   name = "EVT9926OPTA"  
+		   change_tag_no_core_switch = KRB   
+	   }
+	   option = {
+		   name = "EVT9926OPTB"  
+		   change_tag_no_core_switch = GNJ   
+	   }
+	   option = {
+		   name = "EVT9926OPTC"  
+		   change_tag_no_core_switch = NKH   
+	   }
+	   option = {
+		   name = "EVT9926OPTD" 
+           country_event = 9927		     
+	   } 
+}
+
+#Breakaway Pick 5
+country_event = {
+        id = 9927
+        title = "EVTNAME9927"
+        desc = "EVTDESC9927"
+        
+        is_triggered_only = yes
+	   
+	   option = {
+		   name = "EVT9927OPTA"  
+		   change_tag_no_core_switch = IRV   
+	   }
+	   option = {
+		   name = "EVT9927OPTB"  
+		   change_tag_no_core_switch = SMZ   
+	   }
+	   option = {
+		   name = "EVT9927OPTC"  
+		   change_tag_no_core_switch = KRT   
+	   }
+	   option = {
+		   name = "EVT9927OPTD" 
+           country_event = 9928		     
+	   } 
+}
+
+#Breakaway Pick 6
+country_event = {
+        id = 9928
+        title = "EVTNAME9928"
+        desc = "EVTDESC9928"
+        
+        is_triggered_only = yes
+	   
+	   option = {
+		   name = "EVT9928OPTA"  
+		   change_tag_no_core_switch = KKH   
+	   }
+	   option = {
+		   name = "EVT9928OPTB"  
+		   change_tag_no_core_switch = LUR   
+	   }
+	   option = {
+		   name = "EVT9928OPTC"  
+		   change_tag_no_core_switch = KHI   
+	   }
+	   option = {
+		   name = "EVT9928OPTD" 
+           country_event = 9929		     
+	   } 
+}
+
+#Breakaway Pick 7
+country_event = {
+        id = 9929
+        title = "EVTNAME9929"
+        desc = "EVTDESC9929"
+        
+        is_triggered_only = yes
+	   
+	   option = {
+		   name = "EVT9929OPTA"  
+		   change_tag_no_core_switch = TKM   
+	   }
+	   option = {
+		   name = "EVT9929OPTB"  
+		   change_tag_no_core_switch = KND   
+	   }
+	   option = {
+		   name = "EVT9929OPTC"  
+		   change_tag_no_core_switch = BKD   
+	   }
+	   option = {
+		   name = "EVT9929OPTD"  
+		   country_event = 9922   
+	   }
+}
+
+#Tribal Disunity
+country_event = {
+        id = 9921
+        title = "EVTNAME9921"
+        desc = "EVTDESC9921"
+        picture = "pashtunistan"
+        
+        fire_only_once = yes
+        trigger = {
+                tag = AFG	
+                NOT = { war_with = TIM }
+                MUG = { NOT = { war_with = TIM } }				
+        }
+		
+	    mean_time_to_happen = {
+		months = 5
+	    }
+
+        option = {
+		   name = "EVT9921OPTA" 
+		   release = SST
+		   MUG = { create_vassal = AFG }	   
+	    }
+		
+		option = {
+		   name = "EVT9921OPTB" 
+		   change_tag_no_core_switch = SST
+		   MUG = { create_vassal = AFG }	   
+	    }
+}
+
+#Shiite Refugees
+country_event = {
+    id = 9902
+    title = "EVTNAME9902"
+    desc = "EVTDESC9902"
+	picture = "kazan_refugees"
+        
+    is_triggered_only = yes
+
+    option = {
+		name = "EVT9902OPTA"
+        1032 = { 
+		     any_pop = { 
+			      limit = {
+				        religion = shiite
+				  }
+		    reduce_pop = 0.9
+			move_pop = 1123 #Zanjan
+			}
+		}
+		1123 = {
+	          add_province_modifier = {
+		      name = kazan_refugees
+		      duration = 856
+	        }
+	    }
+		1033 = { 
+		     any_pop = { 
+			      limit = {
+				        religion = shiite
+				  }
+		    reduce_pop = 0.95
+			move_pop = 3319 #Tarki
+			}
+		}
+		3319 = {
+	          add_province_modifier = {
+		      name = kazan_refugees
+		      duration = 856
+	        }
+	    }
+		1034 = { 
+		     any_pop = { 
+			      limit = {
+				        religion = shiite
+				  }
+		    reduce_pop = 0.95
+			move_pop = 1112 #Ardabil
+			}
+		}
+		1112 = {
+	          add_province_modifier = {
+		      name = kazan_refugees
+		      duration = 856
+	        }
+	    }
+		1030 = { 
+		     any_pop = { 
+			      limit = {
+				        religion = shiite
+				  }
+		    reduce_pop = 0.9
+			move_pop = 1124 #Qazvin
+			}
+		}
+	   1124 = {
+	          add_province_modifier = {
+		      name = kazan_refugees
+		      duration = 856
+	        }
+	    }
+	}
+}
+
+#Shiite Refugees (Candar)
+country_event = {
+    id = 9903
+    title = "EVTNAME9903"
+    desc = "EVTDESC9903"
+	picture = "kazan_refugees"
+        
+    is_triggered_only = yes
+
+    option = {
+		name = "EVT9903OPTA"
+        1042 = { 
+		     any_pop = { 
+			      limit = {
+				        religion = shiite
+				  }
+		    reduce_pop = 0.98
+			move_pop = 883 #Sinope
+			}
+		}
+		883 = {
+	          add_province_modifier = {
+		      name = kazan_refugees
+		      duration = 856
+	        }
+	    }
+	}
+}

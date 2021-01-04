@@ -5883,7 +5883,7 @@
 		size = 50
 	}
 }
-#Temen/Novorossiysk (60000/15000 POPS)
+#Shapsug (60000/15000 POPS)
 1049 = {
 	clergymen = {
 		culture = crimean_tatar
@@ -5910,57 +5910,57 @@
 	}
 
 	aristocrats = {
-		culture = ubykh
+		culture = circassian
 		religion = sunni
 		size = 750
 	}
 
 	clergymen = {
-		culture = ubykh
+		culture = circassian
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = ubykh
+		culture = circassian
 		religion = sunni
 		size = 300
 	}
 
 	soldiers = {
-		culture = ubykh
+		culture = circassian
 		religion = sunni
 		size = 1000
 	}
 
 	farmers = {
-		culture = ubykh
+		culture = circassian
 		religion = sunni
 		size = 10000
 	}
 	
 	artisans = {
-		culture = ubykh
+		culture = circassian
 		religion = animist
 		size = 200
 	}
 
 	soldiers = {
-		culture = ubykh
+		culture = circassian
 		religion = animist
 		size = 4000
 	}
 
 	farmers = {
-		culture = ubykh
+		culture = circassian
 		religion = animist
-		size = 30000
+		size = 25000
 	}
 	
 	farmers = {
-		culture = abkhaz
-		religion = sunni
-		size = 2250
+		culture = ubykh
+		religion = animist
+		size = 7250
 	}
 }
 
@@ -5992,7 +5992,7 @@
 
 	aristocrats = {
 		culture = abkhaz
-		religion = orthodox
+		religion = sunni
 		size = 750
 	}
 
@@ -6017,25 +6017,25 @@
 	artisans = {
 		culture = abkhaz
 		religion = orthodox
-		size = 8200
+		size = 1200
 	}
 
 	soldiers = {
 		culture = abkhaz
 		religion = orthodox
-		size = 4000
+		size = 500
 	}
 
 	farmers = {
 		culture = abkhaz
 		religion = orthodox
-		size = 20000
+		size = 2000
 	}
 	
 	farmers = {
 		culture = ubykh
-		religion = sunni
-		size = 22250
+		religion = animist
+		size = 32250
 	}
 }
 
@@ -6126,28 +6126,28 @@
 
 	aristocrats = {
 		culture = kabardian
-		religion = sunni
+		religion = animist
 		size = 250
 		militancy = 3
 	}
 
 	officers = {
 		culture = kabardian
-		religion = sunni
+		religion = animist
 		size = 50
 		militancy = 3
 	}
 
 	clergymen = {
 		culture = kabardian
-		religion = sunni
+		religion = animist
 		size = 125
 		militancy = 3
 	}
 
 	artisans = {
 		culture = kabardian
-		religion = sunni
+		religion = animist
 		size = 650
 		militancy = 3
 	}
@@ -6168,15 +6168,15 @@
 
 	soldiers = {
 		culture = kabardian
-		religion = sunni
+		religion = animist
 		size = 1150
 		militancy = 3
 	}
 
 	farmers = {
 		culture = kabardian
-		religion = sunni
-		size = 7775
+		religion = animist
+		size = 17775
 		militancy = 3
 	}
 
@@ -6261,8 +6261,77 @@
 		size = 42175
 	}
 }
-#Maikop (136000/34000 POPS)
+#Ashuwa (136000/34000 POPS)
 3349 = {
+	aristocrats = {
+		culture = abazaa
+		religion = sunni
+		size = 225
+	}
+
+	clergymen = {
+		culture = abaza
+		religion = sunni
+		size = 600
+	}
+
+	artisans = {
+		culture = abaza
+		religion = sunni
+		size = 1000
+	}
+
+	soldiers = {
+		culture = abaza
+		religion = sunni
+		size = 2000
+	}
+
+	farmers = {
+		culture = abaza
+		religion = sunni
+		size = 10000
+	}
+	
+	artisans = {
+		culture = abaza
+		religion = animist
+		size = 100
+	}
+
+	soldiers = {
+		culture = abaza
+		religion = animist
+		size = 8000
+	}
+
+	farmers = {
+		culture = abaza
+		religion = animist
+		size = 30000
+	}
+	
+	artisans = {
+		culture = tawlula
+		religion = sunni
+		size = 100
+	}
+
+	soldiers = {
+		culture = tawlula
+		religion = sunni
+		size = 1000
+	}
+
+	farmers = {
+		culture = tawlula
+		religion = sunni
+		size = 6175
+	}
+}
+
+#Ashuwa (136000/34000 POPS)
+3401 = {
 	aristocrats = {
 		culture = circassian
 		religion = sunni
@@ -6290,7 +6359,7 @@
 	farmers = {
 		culture = circassian
 		religion = sunni
-		size = 10000
+		size = 5000
 	}
 	
 	artisans = {
@@ -6308,25 +6377,7 @@
 	farmers = {
 		culture = circassian
 		religion = animist
-		size = 30000
-	}
-	
-	artisans = {
-		culture = tawlula
-		religion = sunni
-		size = 100
-	}
-
-	soldiers = {
-		culture = tawlula
-		religion = sunni
-		size = 1000
-	}
-
-	farmers = {
-		culture = tawlula
-		religion = sunni
-		size = 12175
+		size = 20000
 	}
 }
 #Dagestan Region (324000)
@@ -7116,6 +7167,56 @@
 		size = 3000
 	}
 }
+#Enderi
+3400 = {
+    	aristocrats = {
+		culture = avar
+		religion = sunni
+		size = 5
+	}
+
+	clergymen = {
+		culture = avar
+		religion = sunni
+		size = 5
+	}
+
+	artisans = {
+		culture = avar
+		religion = sunni
+		size = 50
+	}
+
+	soldiers = {
+		culture = avar
+		religion = sunni
+		size = 375
+	}
+
+	farmers = {
+		culture = avar
+		religion = sunni
+		size = 500
+	}
+	
+	clergymen = {
+		culture = kumyk
+		religion = sunni
+		size = 150
+	}
+
+	soldiers = {
+		culture = kumyk
+		religion = sunni
+		size = 4750
+	}
+	
+	farmers = {
+		culture = kumyk
+		religion = sunni
+		size = 15200
+	}
+}
 #Quba
 3320 = {
 	clergymen = {
@@ -7644,13 +7745,13 @@
 	soldiers = {
 		culture = scythian
 		religion = orthodox
-		size = 1350
+		size = 350
 	}
 
 	farmers = {
 		culture = scythian
 		religion = orthodox
-		size = 2875
+		size = 875
 	}
 	
 	artisans = {
@@ -7668,7 +7769,7 @@
 	farmers = {
 		culture = tawlula
 		religion = sunni
-		size = 13875
+		size = 30875
 	}
 	
 	soldiers = {
@@ -7692,7 +7793,7 @@
 	farmers = {
 		culture = kabardian
 		religion = sunni
-		size = 4000
+		size = 2000
 	}
 	
 	clergymen = {
@@ -7722,39 +7823,51 @@
 	farmers = {
 		culture = kabardian
 		religion = animist
-		size = 15875
+		size = 5875
 	}
 }
 #Majar (136000/34000 POPS)
 3351 = {
 	aristocrats = {
-		culture = kumyk
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 75
 	}
 
 	clergymen = {
-		culture = kumyk
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 150
 	}
 
 	artisans = {
-		culture = kumyk
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 300
 	}
 
 	soldiers = {
-		culture = kumyk
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 3350
 	}
 
 	farmers = {
-		culture = kumyk
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 15875
+	}
+	
+	soldiers = {
+		culture = kabardian
+		religion = animist
+		size = 350
+	}
+
+	farmers = {
+		culture = kabardian
+		religion = animist
+		size = 2875
 	}
 	
 	soldiers = {
@@ -7771,36 +7884,6 @@
 }
 #Kyzylyar (68000/17000 POPS)
 1057 = {
-
-	aristocrats = {
-		culture = avar
-		religion = sunni
-		size = 5
-	}
-
-	clergymen = {
-		culture = avar
-		religion = sunni
-		size = 5
-	}
-
-	artisans = {
-		culture = avar
-		religion = sunni
-		size = 50
-	}
-
-	soldiers = {
-		culture = avar
-		religion = sunni
-		size = 375
-	}
-
-	farmers = {
-		culture = avar
-		religion = sunni
-		size = 500
-	}
 	
 	clergymen = {
 		culture = kumyk

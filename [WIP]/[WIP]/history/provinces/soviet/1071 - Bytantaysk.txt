@@ -3,5 +3,6 @@ controller = TIM
 add_core = TIM
 add_core = FRS
 add_core = PER
+terrain = coastal_desert
 trade_goods = fish
 life_rating = 35

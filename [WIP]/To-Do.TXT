@@ -1,6 +1,5 @@
 
 Roadmap:
-1. Russia
 2. Timurids
 3. North Africa, Sahel and Medit.
 4. Americas
@@ -13,8 +12,7 @@ Roadmap:
 
 
 OOBs for America, Asia, Africa and Oceania
-OOBs for Russia, the Steppe and Siberia
-
+Remove Irish Famine
 Break-Up of Timurids after westernization
 
 Rework of Northern Africa:
@@ -57,28 +55,8 @@ Unifications of Iberia and Italy
 Iberia: (help me Major :c )
 
 Russia:
--scripted Russia
-1. Muscovite Revolution (done)
-2. End Tatar raids (annexation of Kazan (done), vassalization of Perm)
-3. Control the Cossacks
-4. Gain control over the North (Sweden vs. Muscovy, Novgorod and Smolensk join Muscovite SoI)
-5. Gain control over Kiev (Bohemia vs. Muscovy, Kiev joins Muscovite SoI)
-6. Push to the Pacific
-
-1. Crimea Reaction to Muscovy (done)
-2. Avenge Kazan (done)
-3. Centralize the Khanate (done)
-4. Subdue the Steppe (done)
-5. Push to the Pacific (done)
 6. War over Manchuria (need to do chinese stuff,done)
-7. Claims for Northern Caucasus and Qasim (done)
-
-?????
-1. Cossack Hetmanate (done)
-2. Cossack Expansion Crimea
-3. Cossack Expansion Kiev
-4. Cossack Expansion Astrakhan
-5. Cossack Expansion Northern Caucasus
+7. NC war
 
 Italy:
 1. Burgundy(depends on Burgundy losing Provence or German Switzerland:

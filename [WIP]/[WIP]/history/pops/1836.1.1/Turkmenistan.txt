@@ -17,7 +17,7 @@
 	artisans = {
 		culture = persian
 		religion = shiite
-		size = 1500
+		size = 3500
 	}
 	
 	soldiers = {
@@ -41,7 +41,7 @@
 	farmers = {
 		culture = turkmen
 		religion = sunni
-		size = 10000
+		size = 8000
 	}
 	
 	aristocrats = {
@@ -198,7 +198,7 @@
 	farmers = {
 		culture = persian
 		religion = shiite
-		size = 700
+		size = 100
 	}
 }
 #under the rule of Bukhara in 1836  
@@ -431,6 +431,162 @@
 	}
 }
 
+#Mashrian
+3398 = {
+	aristocrats = {
+		culture = turkmen
+		religion = sunni
+		size = 3
+	}
+
+	clergymen = {
+		culture = turkmen
+		religion = sunni
+		size = 3
+	}
+
+	artisans = {
+		culture = turkmen
+		religion = sunni
+		size = 30
+	}
+
+	soldiers = {
+		culture = turkmen
+		religion = sunni
+		size = 4100
+	}
+
+	farmers = {
+		culture = turkmen
+		religion = sunni
+		size = 12500
+	}
+	
+	aristocrats = {
+		culture = persian
+		religion = shiite
+		size = 200
+	}
+	
+	clergymen = {
+		culture = persian
+		religion = shiite
+		size = 200
+	}
+	
+	artisans = {
+		culture = persian
+		religion = shiite
+		size = 2000
+	}
+	
+	soldiers = {
+		culture = persian
+		religion = shiite
+		size = 250
+	}
+	
+	farmers = {
+		culture = persian
+		religion = shiite
+		size = 500
+	}
+	
+	aristocrats = {
+		culture = mazanderani
+		religion = shiite
+		size = 200
+	}
+	
+	clergymen = {
+		culture = mazanderani
+		religion = shiite
+		size = 200
+	}
+	
+	artisans = {
+		culture = mazanderani
+		religion = shiite
+		size = 4000
+	}
+	
+	soldiers = {
+		culture = mazanderani
+		religion = shiite
+		size = 250
+	}
+	
+	farmers = {
+		culture = mazanderani
+		religion = shiite
+		size = 2000
+	}
+}
+
+#Uzboy
+3399 = {
+	aristocrats = {
+		culture = turkmen
+		religion = sunni
+		size = 3
+	}
+
+	clergymen = {
+		culture = turkmen
+		religion = sunni
+		size = 3
+	}
+
+	artisans = {
+		culture = turkmen
+		religion = sunni
+		size = 30
+	}
+
+	soldiers = {
+		culture = turkmen
+		religion = sunni
+		size = 4100
+	}
+
+	farmers = {
+		culture = turkmen
+		religion = sunni
+		size = 10500
+	}
+	
+	aristocrats = {
+		culture = persian
+		religion = shiite
+		size = 200
+	}
+	
+	clergymen = {
+		culture = persian
+		religion = shiite
+		size = 200
+	}
+	
+	artisans = {
+		culture = persian
+		religion = shiite
+		size = 4000
+	}
+	
+	soldiers = {
+		culture = persian
+		religion = shiite
+		size = 250
+	}
+	
+	farmers = {
+		culture = persian
+		religion = shiite
+		size = 2500
+	}
+}
+
 #Sadagh
 3284 = {
 	aristocrats = {
@@ -522,13 +678,13 @@
 	artisans = {
 		culture = persian
 		religion = shiite
-		size = 400
+		size = 300
 	}
 
 	farmers = {
 		culture = persian
 		religion = shiite
-		size = 300
+		size = 100
 	}
 }
 

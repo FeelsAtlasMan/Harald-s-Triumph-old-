@@ -639,3 +639,31 @@ TKO_hms_government;Turkoman Empire;;;;;;;;;;;;x
 TKO_prussian_constitutionalism;Turkoman Empire;;;;;;;;;;;;x
 TKO_republic;Tourkistan;;;;;;;;;;;;x
 TKO_ADJ;Turkoman;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+ALH;Al-Ahsa;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+ALH_absolute_monarchy;Al-Ahsa;;;;;;;;;;;;x
+ALH_hms_government;Al-Ahsa;;;;;;;;;;;;x
+ALH_prussian_constitutionalism;Al-Ahsa;;;;;;;;;;;;x
+ALH_republic;Al-Ahsa;;;;;;;;;;;;x
+ALH_ADJ;Ahsan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TKS;Turan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TKS_ADJ;Turanian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+MDS;Medistan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+MDS_absolute_monarchy;Median Empire;;;;;;;;;;;;x
+MDS_hms_government;Median Empire;;;;;;;;;;;;x
+MDS_prussian_constitutionalism;Median Empire;;;;;;;;;;;;x
+MDS_republic;Medistan;;;;;;;;;;;;x
+MDS_ADJ;Median;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+RUM;Anatolia;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+RUM_absolute_monarchy;Rum Sultanate;;;;;;;;;;;;x
+RUM_hms_government;Rum Sultanate;;;;;;;;;;;;x
+RUM_prussian_constitutionalism;Rum Sultanate;;;;;;;;;;;;x
+RUM_republic;Anatolia;;;;;;;;;;;;x
+RUM_ADJ;Rumi;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TCA;UNC;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TCA_absolute_monarchy;Caucasian Imamate;;;;;;;;;;;;x
+TCA_hms_government;Caucasian Imamate;;;;;;;;;;;;x
+TCA_prussian_constitutionalism;Caucasian Imamate;;;;;;;;;;;;x
+TCA_republic;UNC;;;;;;;;;;;;x
+TCA_ADJ;Caucasian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+ALW;Aghwank;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+ALW_ADJ;Aghwank;;;;;;;;;;;;;;x;;;;;;;;;;;;;;

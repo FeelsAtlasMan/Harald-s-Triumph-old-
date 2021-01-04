@@ -22,14 +22,21 @@ substate = {
 
 substate = {
 	first = TIM
+	second = OMA
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = TIM
 	second = KWT
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }
 
-substate = {
+vassal = {
 	first = TIM
-	second = OMA
+	second = ALH
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }

@@ -900,6 +900,12 @@
 		religion = shiite
 		size = 21050
 	}
+	
+	farmers = {
+		culture = gilaki
+		religion = shiite
+		size = 3050
+	}
 }
 #Sari (52000/13000 POPS)
 1115 = {
@@ -912,31 +918,37 @@
 	clergymen = {
 		culture = mazanderani
 		religion = shiite
-		size = 125
+		size = 425
 	}
 
 	artisans = {
 		culture = mazanderani
 		religion = shiite
-		size = 650
+		size = 4650
 	}
 
 	soldiers = {
 		culture = mazanderani
 		religion = shiite
-		size = 125
+		size = 1125
 	}
 
 	farmers = {
 		culture = mazanderani
 		religion = shiite
-		size = 10000
+		size = 40000
 	}
 	
 	farmers = {
 		culture = turkmen
 		religion = shiite
-		size = 1850
+		size = 8850
+	}
+	
+	farmers = {
+		culture = pashtun
+		religion = shiite
+		size = 2850
 	}
 }
 #Astarabad (140000/35000 POPS)
@@ -1440,17 +1452,77 @@
 	farmers = {
 		culture = persian
 		religion = shiite
-		size = 20600
+		size = 20000
+	}
+	
+	aristocrats = {
+		culture = lurish
+		religion = shiite
+		size = 55
 	}
 
 	clergymen = {
-		culture = sephardic
+		culture = lurish
+		religion = shiite
+		size = 25
+	}
+
+	artisans = {
+		culture = lurish
+		religion = shiite
+		size = 100
+	}
+
+	soldiers = {
+		culture = lurish
+		religion = shiite
+		size = 2100
+	}
+
+	farmers = {
+		culture = lurish
+		religion = shiite
+		size = 5000
+	}
+	
+	aristocrats = {
+		culture = kurdish
+		religion = sunni
+		size = 125
+	}
+
+	clergymen = {
+		culture = kurdish
+		religion = sunni
+		size = 25
+	}
+
+	artisans = {
+		culture = kurdish
+		religion = sunni
+		size = 200
+	}
+
+	soldiers = {
+		culture = kurdish
+		religion = sunni
+		size = 3100
+	}
+
+	farmers = {
+		culture = kurdish
+		religion = sunni
+		size = 8600
+	}
+
+	clergymen = {
+		culture = adari
 		religion = jewish
 		size = 10
 	}
 
 	artisans = {
-		culture = sephardic
+		culture = adari
 		religion = jewish
 		size = 490
 	}
@@ -1550,25 +1622,25 @@
 	}
 	
 	artisans = {
-		culture = khalaj
+		culture = persian
 		religion = shiite
 		size = 300
 	}
 
 	farmers = {
-		culture = khalaj
+		culture = persian
 		religion = shiite
 		size = 2575
 	}
 	
 	soldiers = {
-		culture = gorani
+		culture = sorani
 		religion = shiite
 		size = 125
 	}
 
 	farmers = {
-		culture = gorani
+		culture = sorani
 		religion = shiite
 		size = 1000
 	}
@@ -1934,7 +2006,7 @@
 	artisans = {
 		culture = persian
 		religion = shiite
-		size = 750
+		size = 4750
 	}
 
 	soldiers = {
@@ -1946,13 +2018,37 @@
 	labourers = {
 		culture = persian
 		religion = shiite
-		size = 13000
+		size = 14000
+	}
+	
+	clergymen = {
+		culture = khalaj
+		religion = shiite
+		size = 50
+	}
+
+	artisans = {
+		culture = khalaj
+		religion = shiite
+		size = 150
+	}
+
+	soldiers = {
+		culture = khalaj
+		religion = shiite
+		size = 2150
+	}
+
+	labourers = {
+		culture = khalaj
+		religion = shiite
+		size = 7000
 	}
 
 	labourers = {
 		culture = deylemi
 		religion = shiite
-		size = 900
+		size = 3900
 	}
 }
 #Kashan (112000/28000 POPS)
@@ -3377,7 +3473,7 @@
 	aristocrats = {
 		culture = baluchi
 		religion = sunni
-		size = 125
+		size = 625
 	}
 
 	clergymen = {
@@ -3395,13 +3491,13 @@
 	soldiers = {
 		culture = baluchi
 		religion = sunni
-		size = 75
+		size = 5075
 	}
 
 	farmers = {
 		culture = baluchi
 		religion = sunni
-		size = 6375
+		size = 14375
 	}
 }
 #Jask (92000/23000 POPS)
@@ -3477,13 +3573,13 @@
 	aristocrats = {
 		culture = persian
 		religion = shiite
-		size = 275
+		size = 75
 	}
 
 	clergymen = {
 		culture = persian
 		religion = shiite
-		size = 175
+		size = 75
 	}
 
 	artisans = {
@@ -3501,25 +3597,25 @@
 	farmers = {
 		culture = persian
 		religion = shiite
-		size = 15525
+		size = 2525
 	}
 
 	aristocrats = {
 		culture = baluchi
 		religion = sunni
-		size = 125
+		size = 5
 	}
 
 	clergymen = {
 		culture = baluchi
 		religion = sunni
-		size = 75
+		size = 5
 	}
 
 	artisans = {
 		culture = baluchi
 		religion = sunni
-		size = 350
+		size = 50
 	}
 
 	soldiers = {
@@ -3531,19 +3627,7 @@
 	farmers = {
 		culture = baluchi
 		religion = sunni
-		size = 6375
-	}
-
-	slaves = {
-		culture = forest_bantu #african_minor
-		religion = animist
-		size = 2000
-	}
-
-	slaves = {
-		culture = panjabi
-		religion = hindu
-		size = 4000
+		size = 375
 	}
 }
 #Khurasan Region (600000)

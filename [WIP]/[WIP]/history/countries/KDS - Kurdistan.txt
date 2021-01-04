@@ -1,6 +1,9 @@
 capital = 893
-primary_culture = kurdish
-culture = turkish
+primary_culture = kurmanji
+culture = gorani
+culture = zaza
+culture = sorani
+culture = kurdish
 religion = sunni
 government = absolute_monarchy
 plurality = 0

@@ -235,7 +235,79 @@
 	farmers = {
 		culture = tat
 		religion = shiite
-		size = 8985
+		size = 6000
+	}
+	
+	clergymen = {
+		culture = lezgic
+		religion = shiite
+		size = 2
+	}
+
+	artisans = {
+		culture = lezgic
+		religion = shiite
+		size = 10
+	}
+
+	soldiers = {
+		culture = lezgic
+		religion = shiite
+		size = 25
+	}
+
+	farmers = {
+		culture = lezgic
+		religion = shiite
+		size = 185
+	}
+	
+	clergymen = {
+		culture = lezgic
+		religion = sunni
+		size = 6
+	}
+
+	artisans = {
+		culture = lezgic
+		religion = sunni
+		size = 22
+	}
+
+	soldiers = {
+		culture = lezgic
+		religion = sunni
+		size = 200
+	}
+
+	farmers = {
+		culture = lezgic
+		religion = sunni
+		size = 800
+	}
+	
+	clergymen = {
+		culture = lezgic
+		religion = animist
+		size = 2
+	}
+
+	artisans = {
+		culture = lezgic
+		religion = animist
+		size = 10
+	}
+
+	soldiers = {
+		culture = lezgic
+		religion = animist
+		size = 600
+	}
+
+	farmers = {
+		culture = lezgic
+		religion = animist
+		size = 2000
 	}
 	
 	artisans = {
