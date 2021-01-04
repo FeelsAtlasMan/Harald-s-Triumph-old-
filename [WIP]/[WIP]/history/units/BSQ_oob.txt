@@ -55,7 +55,7 @@ CST = {
 
 
 army = {
-	name = "Navarran Army"
+	name = "Army of Navarra"
 	location = 492
 	regiment = {
 		name= "1. Infantry"
@@ -69,5 +69,26 @@ army = {
 		home = 493
 	}
 	
+	regiment = {
+		name= "3. Infantry"
+		type = infantry
+		home = 480
+	}
+	
+	regiment = {
+		name= "4. Infantry"
+		type = infantry
+		home = 478
+	}	
+	
+}
+
+leader = {
+	name = "Ander Jáuregui"
+	date = 1823.1.1
+	type = land
+	personality = relentless
+	background = natural_born_leader
+	prestige = 0.4
 }
 

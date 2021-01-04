@@ -54,31 +54,31 @@ CST = {
 }
 
 army = {
-	name = "Catalonian Army"
+	name = "Exèrcit de la Corona Aragonesa"
 	location = 498
 	regiment = {
-		name= "1. Brigada de Infantaria"
+		name= "1. Brigada d'Infanteria"
 		type = infantry
 		home = 498
 	}
 
 	regiment = {
-		name= "2. Brigada de Infantaria"
+		name= "2. Brigada d'Infanteria"
 		type = infantry
 		home = 503
 	}
      }
 army = {
-        name = "Aragonian Army"
+        name = "Exèrcit de l'Ebre"
 	location = 495
 	regiment = {
-		name= "3. Brigada de Infantaria"
+		name= "3. Brigada d'Infanteria"
 		type = infantry
 		home = 495
 	}
 
 	regiment = {
-		name= "4. Brigada de Infantaria"
+		name= "4. Brigada d'Infanteria"
 		type = infantry
 		home = 497
 	}
@@ -86,35 +86,35 @@ army = {
 }
 
 navy = {
-	name = "Catalan Royal Navy"
+	name = "Armada Reial"
 	location = 503
 	ship = {
-		name= "Rainha de Portugal"
+		name= "Comte d'Urgell"
 		type = manowar
 	}
 
 	ship = {
-		name= "Amazônia"
+		name= "Besós"
 		type = manowar
 	}
 
 	ship = {
-		name= "7o Navios de Transporte"
+		name= "1a Flota de Transport"
 		type = clipper_transport
 	}
 	ship = {
-		name= "8o Navios de Transporte"
+		name= "2a Flota de Transport"
 		type = clipper_transport
 	}
 	ship = {
-		name= "9o Navios de Transporte"
+		name= "3a Flota de Transport"
 		type = clipper_transport
 	}
 
 }
 
 leader = {
-	name = "Duke of Saldanha"
+	name = "Infant Ramón de Barcelona"
 	picture = european_general_55
 	type = land
 	date = 1825.8.20
@@ -124,7 +124,7 @@ leader = {
 	}
 	
 leader = {
-	name = "José Joaquim da Rosa Coelho"
+	name = "Albert Verdaguer"
 	picture = european_admiral_5
 	type = sea
 	date = 1820.12.14
@@ -134,7 +134,7 @@ leader = {
 	}
 
 leader = {
-	name = "Nunes Vidigal"
+	name = "Miquel Montfort"
 	date = 1808.1.1
 	type = land
 	personality = aggressive
@@ -143,7 +143,7 @@ leader = {
 }
 
 leader = {
-	name = "Luís Barreto"
+	name = "Adam Bertran"
 	date = 1824.1.1
 	type = land
 	personality = resolute
@@ -152,7 +152,7 @@ leader = {
 }
 
 leader = {
-	name = "Vicente de Mesquita"
+	name = "Vicenç Aregall"
 	date = 1808.1.1
 	type = land
 	personality = dauntless
