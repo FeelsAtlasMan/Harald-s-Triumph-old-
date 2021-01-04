@@ -177,7 +177,7 @@ CAL_colonial_company;West Coast Company;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 CAL;New Scotland;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 CAL_ADJ;Scottish;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 BYZ_absolute_monarchy;The Bulgarian Empire;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-CST;Castile;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+CST;Toledo;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 CST_ADJ;Castilian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 INC;Inca;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 INC_absolute_monarchy;The Incan Empire;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
@@ -259,7 +259,10 @@ BRY_absolute_monarchy;Buryat Khanate;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 BRY_hms_government;Buryat Khanate;;;;;;;;;;;;x
 BRY_prussian_constitutionalism;Buryat Khanate;;;;;;;;;;;;x
 BRY_ADJ;Buryat-Mongol;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-CAT;Catalonia-Aragon;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+CAT;Catalonia;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+CAT_absolute_monarchy;Aragon;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+CAT_hms_government;Aragon;;;;;;;;;;;;x
+CAT_prussian_constitutionalism;Aragon;;;;;;;;;;;;x
 CAT_ADJ;Catalonian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 TRR;Trier;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 TRR_ADJ;Trierian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
