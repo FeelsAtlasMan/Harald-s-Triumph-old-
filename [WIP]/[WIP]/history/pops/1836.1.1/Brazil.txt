@@ -2565,25 +2565,25 @@
 	}
 
 	clergymen = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 150
 	}
 
 	artisans = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 2350
 	}
 
 	soldiers = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 300
 	}
 
 	farmers = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 9200
 	}
@@ -2627,25 +2627,25 @@
 	}
 
 	clergymen = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 1100
 	}
 
 	soldiers = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 200
 	}
 
 	farmers = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 8100
 	}
@@ -2689,25 +2689,25 @@
 	}
 
 	clergymen = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 600
 	}
 
 	soldiers = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 125
 	}
 
 	farmers = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 4225
 	}
@@ -2853,25 +2853,25 @@
 	}
 
 	clergymen = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 500
 	}
 
 	soldiers = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 3350
 	}

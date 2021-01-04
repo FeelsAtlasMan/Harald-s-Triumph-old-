@@ -2,6 +2,7 @@ owner = ATR
 controller = ATR
 add_core = ATR
 add_core = IBR
+add_core = POR
 trade_goods = coal
 life_rating = 35
 
