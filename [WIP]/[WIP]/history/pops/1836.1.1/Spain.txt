@@ -83,7 +83,7 @@
 	soldiers = {
 		culture = asturleonese
 		religion = catholic
-		size = 1100
+		size = 3100
 	}
 
 	farmers = {
@@ -216,7 +216,7 @@
 	soldiers = {
 		culture = asturleonese
 		religion = catholic
-		size = 400
+		size = 3400
 	}
 
 	farmers = {
@@ -310,7 +310,7 @@
 	soldiers = {
 		culture = asturleonese
 		religion = catholic
-		size = 500
+		size = 3500
 	}
 
 	farmers = {
@@ -847,7 +847,7 @@
 	soldiers = {
 		culture = basque
 		religion = catholic
-		size = 550
+		size = 3550
 	}
 
 	farmers = {
@@ -921,7 +921,7 @@
 	soldiers = {
 		culture = basque
 		religion = catholic
-		size = 400
+		size = 3400
 	}
 
 	labourers = {
@@ -1464,64 +1464,47 @@
 }
 #Balearics (240000/60000 POPS)
 502 = {
-	aristocrats = {
-		culture = catalan
-		religion = catholic
-		size = 400
-	}
-
-	clergymen = {
-		culture = catalan
-		religion = catholic
-		size = 400
-	}
 
 	artisans = {
-		culture = catalan
+		culture = mozarabic
 		religion = catholic
-		size = 6000
-	}
-
-	soldiers = {
-		culture = catalan
-		religion = catholic
-		size = 400
+		size = 500
 	}
 
 	farmers = {
-		culture = catalan
+		culture = mozarabic
 		religion = catholic
-		size = 33300
+		size = 1300
 	}
 
 	aristocrats = {
 		culture = algaravian
 		religion = sunni
-		size = 200
+		size = 600
 	}
 
 	clergymen = {
 		culture = algaravian
 		religion = sunni
-		size = 200
+		size = 600
 	}
 
 	artisans = {
 		culture = algaravian
 		religion = sunni
-		size = 3000
+		size = 8500
 	}
 
 	soldiers = {
 		culture = algaravian
 		religion = sunni
-		size = 200
+		size = 600
 	}
 
 	labourers = {
 		culture = algaravian
 		religion = sunni
-		size = 15900
+		size = 47900
 	}
 
 }

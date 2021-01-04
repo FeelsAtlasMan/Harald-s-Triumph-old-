@@ -55,35 +55,35 @@ CST = {
 
 
 army = {
-	name = "Asturian Army"
+	name = "Exércitu de Llión"
 	location = 475
 	regiment = {
-		name= "1. Infantry"
+		name= "1. Infantería"
 		type = infantry
 		home = 474
 	}
 	
 	regiment = {
-		name= "2. Infantry"
+		name= "2. Infantería"
 		type = infantry
 		home = 474
 	}
 	
 	regiment = {
-		name= "1. Dragoons"
+		name= "1. Dragones"
 		type = dragoon
 		home = 476
 	}
 	
 	regiment = {
-		name= "1. Artillery"
+		name= "1. Artillería"
 		type = artillery
 		home = 475
 	}
 }
 
 leader = {
-	name = "Gonzalo Acuña"
+	name = "Xosé Antón d'Arriba"
 	picture = european_general_55
 	type = land
 	date = 1825.8.20

@@ -47,7 +47,7 @@ ATR = {
 	value = -135
 }
 MOR = {
-	value = -200
+	value = 100
 }
 CST = {
 	value = -120

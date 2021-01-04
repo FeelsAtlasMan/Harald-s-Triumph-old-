@@ -55,35 +55,35 @@ CST = {
 
 
 army = {
-	name = "Castilian Army"
+	name = "Ejército Toledano"
 	location = 487
 	regiment = {
-		name= "1. Infantry"
+		name= "1o de Infantería"
 		type = infantry
 		home = 487
 	}
 	
 	regiment = {
-		name= "2. Infantry"
+		name= "2o de Infantería"
 		type = infantry
 		home = 487
 	}
 	
 	regiment = {
-		name= "1. Dragoons"
+		name= "1o de Dragones"
 		type = dragoon
 		home = 489
 	}
 	
 	regiment = {
-		name= "1. Artillery"
+		name= "1o de Artillería"
 		type = artillery
 		home = 482
 	}
 }
 
 leader = {
-	name = "Agustín Acuña"
+	name = "Fernando Jiménez"
 	picture = european_general_55
 	type = land
 	date = 1825.8.20

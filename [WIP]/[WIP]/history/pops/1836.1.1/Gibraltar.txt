@@ -15,7 +15,7 @@
 	}
 
 	soldiers = {
-		culture = maghrebi
+		culture = algaravian
 		religion = sunni
 		size = 674
 	}
@@ -39,13 +39,13 @@
 	}
 	
 	farmers = {
-		culture = spanish
-		religion = catholic
+		culture = algaravian
+		religion = sunni
 		size = 1069
 	}
 	
 	farmers = {
-		culture = spanish
+		culture = mozarabic
 		religion = catholic
 		size = 169
 	}
