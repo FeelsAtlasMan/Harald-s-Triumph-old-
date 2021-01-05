@@ -133,6 +133,11 @@ KND		        ="countries/Kunduz.txt"
 SST		        ="countries/Sistan.txt"
 BLA		        ="countries/Bela.txt"
 TKO		        ="countries/Tourkistan.txt"
+WSX		= "countries/WSX.txt"
+SUX		= "countries/SUX.txt"
+ESX		= "countries/ESX.txt"
+KNT		= "countries/KNT.txt"
+MRC		= "countries/MRC.txt"
 
 ##HFM New Nations
 #ATB	= "countries/Saxe-Altenburg.txt"

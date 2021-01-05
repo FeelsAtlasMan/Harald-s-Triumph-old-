@@ -54,6 +54,7 @@ political_decisions = {
 			     factor = 0
 				 badboy = 0.75
 			}
+		}
 	}
 	
 	reclaim_kurdistan = {
@@ -85,7 +86,7 @@ political_decisions = {
 			     factor = 0
 				 badboy = 0.75
 			}
-		
+		}
 	}
 	
 	reclaim_the_caucasus = {
@@ -118,6 +119,7 @@ political_decisions = {
 			     factor = 0
 				 badboy = 0.75
 			}
+		}
 	}
 	
 	stop_balochi_raids = {
@@ -149,6 +151,7 @@ political_decisions = {
 			     factor = 0
 				 badboy = 0.75
 			}
+		}
 	}
 	
 	reclaim_khorasan = {

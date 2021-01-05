@@ -7,6 +7,11 @@ political_decisions = {
 		}
 		allow = {
 			is_greater_power = yes
+			state_n_government = 1
+		}
+		effect = {
+			set_global_flag = proposed_zapadoslavia
+			prestige = 20
 		}
 	}
 	become_zapadoslavia = {
@@ -32,9 +37,16 @@ political_decisions = {
 			BOH = { all_core = { add_core = WSF } }
 			SLV = { all_core = { add_core = WSF } }
 			PLB = { all_core = { add_core = WSF } }
+			any_country = {
+				limit = {
+					is_culture_group = western_slavic
+				}
+				annex_to = THIS
+			}
 			change_tag = WSF
 			prestige = 60
 		}
+		ai_will_do = { factor = 1 }
 	}
 	
 	unite_ireland = {
@@ -62,6 +74,7 @@ political_decisions = {
 			change_tag = IRE
 			prestige = 20
 		}
+		ai_will_do = { factor = 1 }
 	}
 	
 	form_belgica = {
@@ -132,6 +145,7 @@ political_decisions = {
 			LBG = { all_core = { add_core = THIS } }
 			NET = { all_core = { add_core = THIS } }
 		}
+		ai_will_do = { factor = 1 }
 	}
 	reunite_imeretia = {
 	    picture = "georgia"
@@ -163,6 +177,7 @@ political_decisions = {
 			set_country_flag = IMR_united
 			prestige = 10
 		}
+		ai_will_do = { factor = 1 }
 	}
 	
 	restore_georgia = {
@@ -195,5 +210,80 @@ political_decisions = {
 			change_tag = GEO
 			prestige = 30
 		}
+		ai_will_do = { factor = 1 }
+	}
+	
+	unite_ango_saxons = {
+		potential = {
+			NOT = { ENL = { exists = yes } }
+			OR = {
+				tag = WSX
+				tag = SUX
+				tag = ESX
+				tag = KNT
+				tag = MRC
+			}
+		}
+		allow = {
+			owns = 300
+			owns = 294
+			owns = 284
+			owns = 298
+		}
+		effect = {
+			all_core = {
+				add_core = ENL
+				remove_core = THIS
+			}
+			change_tag = ENL
+			WES = { all_core = { add_core = THIS } }
+			SUX = { all_core = { add_core = THIS } }
+			ESX = { all_core = { add_core = THIS } }
+			KNT = { all_core = { add_core = THIS } }
+			MRC = { all_core = { add_core = THIS } }
+			prestige = 25
+			add_accepted_culture = polish
+			add_accepted_culture = czech
+			add_accepted_culture = polabian
+			add_accepted_culture = slovak
+			add_accepted_culture = sorbian
+			add_accepted_culture = silesian
+		}
+		ai_will_do = { factor = 1 }
+	}
+	
+	become_jorvik = {
+		potential = {
+			NOT = { ENG = { exists = yes } }
+			tag = NRD
+			NOT = {
+				any_owned_province = { is_core = NOR }
+				any_owned_province = { is_core = DEN }
+			}
+		}
+		
+		allow = {
+			exists = yes
+			DEN = { exists = yes }
+			NOR = { exists = yes }
+		}
+		effect = {
+			DEN = {
+				all_core = {
+					remove_core = THIS
+				}
+			}
+			NOR = {
+				all_core = {
+					remove_core = THIS
+				}
+			}
+			all_core = {
+				add_core = ENG
+				remove_core = THIS
+			}
+			change_tag = ENG
+		}
+		ai_will_do = { factor = 1 }
 	}
 }

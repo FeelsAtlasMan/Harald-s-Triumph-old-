@@ -6943,7 +6943,7 @@ install_monarchy_make_puppet = {
 		}
 	}
 	
-	on_po_accepted = { THIS = { set_country_flag = friendly_democracy_puppet } country_event = 96094 }
+	on_po_accepted = { THIS = { set_country_flag = friendly_monarchy_puppet } country_event = 96094 }
 }
 
 #Colonial Conquest

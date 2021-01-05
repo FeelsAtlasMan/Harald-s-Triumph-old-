@@ -36,12 +36,12 @@ country_event = {
 		political_reform = state_equal_weight
 		government = democracy
 		political_reform = gerrymandering
+		ruling_party_ideology = liberal
 		election = yes
 		random_owned = { limit = { owner = { border_policy = closed_borders } } owner = { political_reform = open_borders } }
 		random_owned = { limit = { owner = { centralization = totalitarianism } } owner = { political_reform = unitary } }
 		random_owned = { limit = { owner = { part_of_sphere = yes } } owner = { sphere_owner = { diplomatic_influence = { value = -200 who = THIS } } } }
 		any_country = { limit = { government = absolute_monarchy } leave_alliance = THIS relation = { value = -100 who = THIS } }
-		ruling_party_ideology = liberal
 		add_country_modifier = {
 			name = fanatic_army
 			duration = 3600
@@ -64,7 +64,7 @@ country_event = {
 			tag = WLL
 		}
 		NOT = { government = democracy }
-		NOT = [ has_country_flag = pussy_backed_off }
+		NOT = { has_country_flag = pussy_backed_off }
 		NOT = { has_country_flag = chad_intervention }
 	}
 	

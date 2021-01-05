@@ -3,6 +3,7 @@ country_event = {
 	title = "January Uprising"
 	desc = "EVTDESC130800"
 	picture = "polish_uprising_aus"
+	fire_only_once = yes
 	
 	trigger = {
 		tag = BOH

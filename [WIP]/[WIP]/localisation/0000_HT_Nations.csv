@@ -517,6 +517,7 @@ NET_hms_government;Holland;;;;;;;;;;;;x
 NET_prussian_constitutionalism;Holland;;;;;;;;;;;;x
 NET_democracy;Holland;;;;;;;;;;;;x
 NET;Holland;;;;;;;;;;;;x
+NET_ADJ;Hollandish;;;;;;;;;;;;x
 GRI;Guria;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 GRI_absolute_monarchy;Guria;;;;;;;;;;;;x
 GRI_hms_government;Guria;;;;;;;;;;;;x
@@ -639,3 +640,114 @@ TKO_hms_government;Turkoman Empire;;;;;;;;;;;;x
 TKO_prussian_constitutionalism;Turkoman Empire;;;;;;;;;;;;x
 TKO_republic;Tourkistan;;;;;;;;;;;;x
 TKO_ADJ;Turkoman;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+CZH;Sorbia;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+CZH_absolute_monarchy;Sorbia;;;;;;;;;;;;x
+CZH_hms_government;Sorbia;;;;;;;;;;;;x
+CZH_prussian_constitutionalism;Sorbia;;;;;;;;;;;;x
+CZH_republic;Republic of Sorbia;;;;;;;;;;;;x
+CZH_ADJ;Sorbia;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+WSX_ADJ;Wessexian;Wessexian;Wessexian;;;;;;;;;;;x;
+WSX;Wessex;Wessex;Wessex;;;;;;;;;;;x;
+WSX_proletarian_dictatorship;Wessex;Wessex;Wessex;;;;;;;;;;;x;
+WSX_presidential_dictatorship;Wessex;Wessex;Wessex;;;;;;;;;;;x;
+WSX_bourgeois_dictatorship;Wessex;Wessex;Wessex;;;;;;;;;;;x;
+WSX_fascist_dictatorship;Wessex;Wessex;Wessex;;;;;;;;;;;x;
+WSX_absolute_monarchy;Wessex;Wessex;Wessex;;;;;;;;;;;x;
+WSX_prussian_constitutionalism;Wessex;Wessex;Wessex;;;;;;;;;;;x;
+WSX_hms_government;Wessex;Wessex;Wessex;;;;;;;;;;;x;
+WSX_democracy;Wessex;Wessex;Wessex;;;;;;;;;;;x;
+WSX_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
+WSX_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
+WSX_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
+WSX_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
+WSX_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
+WSX_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
+WSX_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+WSX_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
+WSX_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
+SUX_ADJ;Sussex;Sussex;Sussex;;;;;;;;;;;x;
+SUX;Sussex;Sussex;Sussex;;;;;;;;;;;x;
+SUX_proletarian_dictatorship;Sussex;Sussex;Sussex;;;;;;;;;;;x;
+SUX_presidential_dictatorship;Sussex;Sussex;Sussex;;;;;;;;;;;x;
+SUX_bourgeois_dictatorship;Sussex;Sussex;Sussex;;;;;;;;;;;x;
+SUX_fascist_dictatorship;Sussex;Sussex;Sussex;;;;;;;;;;;x;
+SUX_absolute_monarchy;Sussex;Sussex;Sussex;;;;;;;;;;;x;
+SUX_prussian_constitutionalism;Sussex;Sussex;Sussex;;;;;;;;;;;x;
+SUX_hms_government;Sussex;Sussex;Sussex;;;;;;;;;;;x;
+SUX_democracy;Sussex;Sussex;Sussex;;;;;;;;;;;x;
+SUX_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
+SUX_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
+SUX_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
+SUX_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
+SUX_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
+SUX_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
+SUX_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+SUX_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
+SUX_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
+MRC_ADJ;Mercian;Mercian;Mercian;;;;;;;;;;;x;
+MRC;Mercia;Mercia;Mercia;;;;;;;;;;;x;
+MRC_proletarian_dictatorship;Mercia;Mercia;Mercia;;;;;;;;;;;x;
+MRC_presidential_dictatorship;Mercia;Mercia;Mercia;;;;;;;;;;;x;
+MRC_bourgeois_dictatorship;Mercia;Mercia;Mercia;;;;;;;;;;;x;
+MRC_fascist_dictatorship;Mercia;Mercia;Mercia;;;;;;;;;;;x;
+MRC_absolute_monarchy;Mercia;Mercia;Mercia;;;;;;;;;;;x;
+MRC_prussian_constitutionalism;Mercia;Mercia;Mercia;;;;;;;;;;;x;
+MRC_hms_government;Mercia;Mercia;Mercia;;;;;;;;;;;x;
+MRC_democracy;Mercia;Mercia;Mercia;;;;;;;;;;;x;
+MRC_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
+MRC_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
+MRC_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
+MRC_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
+MRC_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
+MRC_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
+MRC_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+MRC_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
+MRC_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
+ESX_ADJ;Essexian;Essexian;Essexian;;;;;;;;;;;x;
+ESX;Essex;Essex;Essex;;;;;;;;;;;x;
+ESX_proletarian_dictatorship;Essex;Essex;Essex;;;;;;;;;;;x;
+ESX_presidential_dictatorship;Essex;Essex;Essex;;;;;;;;;;;x;
+ESX_bourgeois_dictatorship;Essex;Essex;Essex;;;;;;;;;;;x;
+ESX_fascist_dictatorship;Essex;Essex;Essex;;;;;;;;;;;x;
+ESX_absolute_monarchy;Essex;Essex;Essex;;;;;;;;;;;x;
+ESX_prussian_constitutionalism;Essex;Essex;Essex;;;;;;;;;;;x;
+ESX_hms_government;Essex;Essex;Essex;;;;;;;;;;;x;
+ESX_democracy;Essex;Essex;Essex;;;;;;;;;;;x;
+ESX_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
+ESX_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
+ESX_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
+ESX_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
+ESX_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
+ESX_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
+ESX_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+ESX_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
+ESX_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
+KNT_ADJ;Kentian;Kentian;Kentian;;;;;;;;;;;x;
+KNT;Kent;Kent;Kent;;;;;;;;;;;x;
+KNT_proletarian_dictatorship;Kent;Kent;Kent;;;;;;;;;;;x;
+KNT_presidential_dictatorship;Kent;Kent;Kent;;;;;;;;;;;x;
+KNT_bourgeois_dictatorship;Kent;Kent;Kent;;;;;;;;;;;x;
+KNT_fascist_dictatorship;Kent;Kent;Kent;;;;;;;;;;;x;
+KNT_absolute_monarchy;Kent;Kent;Kent;;;;;;;;;;;x;
+KNT_prussian_constitutionalism;Kent;Kent;Kent;;;;;;;;;;;x;
+KNT_hms_government;Kent;Kent;Kent;;;;;;;;;;;x;
+KNT_democracy;Kent;Kent;Kent;;;;;;;;;;;x;
+KNT_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
+KNT_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
+KNT_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
+KNT_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
+KNT_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
+KNT_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
+KNT_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+KNT_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
+KNT_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
+ENG;Jorvik;Jorvik;Jorvik;;;;;;;;;;;x;
+ENG_ADJ;Jorvik;Jorvik;Jorvik;;;;;;;;;;;x;
+ENG_proletarian_dictatorship;Jorvik Commonwealth;Jorvik Commonwealth;Jorvik Commonwealth;;;;;;;;;;;x;
+ENG_presidential_dictatorship;Republic of Jorvik;Republic of Jorvik;Republic of Jorvik;;;;;;;;;;;x;
+ENG_bourgeois_dictatorship;Republic of Jorvik;Republic of Jorvik;Republic of Jorvik;;;;;;;;;;;x;
+ENG_fascist_dictatorship;Republic of Jorvik;Republic of Jorvik;Republic of Jorvik;;;;;;;;;;;x;
+ENG_absolute_monarchy;Kingdom of Jorvik;Kingdom of Jorvik;Kingdom of Jorvik;;;;;;;;;;;x;
+ENG_prussian_constitutionalism;Kingdom of Jorvik;Kingdom of Jorvik;Kingdom of Jorvik;;;;;;;;;;;x;
+ENG_hms_government;Kingdom of Jorvik;Kingdom of Jorvik;Kingdom of Jorvik;;;;;;;;;;;x;
+ENG_democracy;Republic of Jorvik;Republic of Jorvik;Republic of Jorvik;;;;;;;;;;;x;
