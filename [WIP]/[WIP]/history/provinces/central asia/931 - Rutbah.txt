@@ -1,3 +1,2 @@
-add_core = IRQ
 trade_goods = sulphur
 life_rating = 10

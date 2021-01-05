@@ -83,7 +83,7 @@
 	soldiers = {
 		culture = asturleonese
 		religion = catholic
-		size = 1100
+		size = 3100
 	}
 
 	farmers = {
@@ -96,21 +96,18 @@
 		culture = basque
 		religion = catholic
 		size = 50
-		militancy = 8
 	}
 
 	soldiers = {
 		culture = basque
 		religion = catholic
 		size = 50
-		militancy = 8
 	}
 
 	farmers = {
 		culture = basque
 		religion = catholic
 		size = 3900
-		militancy = 8
 	}
 }
 #Vigo (328000/82000 POPS)
@@ -219,7 +216,7 @@
 	soldiers = {
 		culture = asturleonese
 		religion = catholic
-		size = 400
+		size = 3400
 	}
 
 	farmers = {
@@ -232,21 +229,18 @@
 		culture = basque
 		religion = catholic
 		size = 50
-		militancy = 8
 	}
 
 	soldiers = {
 		culture = basque
 		religion = catholic
 		size = 50
-		militancy = 8
 	}
 
 	farmers = {
 		culture = basque
 		religion = catholic
 		size = 3900
-		militancy = 8
 	}
 }
 #Burgos (236000/59000 POPS)
@@ -285,14 +279,12 @@
 		culture = basque
 		religion = catholic
 		size = 25
-		militancy = 8
 	}
 
 	farmers = {
 		culture = basque
 		religion = catholic
-		size = 975
-		militancy = 8
+		size = 1975
 	}
 }
 #Valladolid (194000/48500 POPS)
@@ -318,7 +310,7 @@
 	soldiers = {
 		culture = asturleonese
 		religion = catholic
-		size = 500
+		size = 3500
 	}
 
 	farmers = {
@@ -332,6 +324,18 @@
 		religion = catholic
 		size = 17900
 	}
+	
+	clergymen = {
+		culture = basque
+		religion = catholic
+		size = 50
+	}
+
+	farmers = {
+		culture = basque
+		religion = catholic
+		size = 675
+	}	
 
 }
 #Castilla Vieja Region (724000)
@@ -378,6 +382,19 @@
 		religion = catholic
 		size = 62700
 	}
+	
+	clergymen = {
+		culture = basque
+		religion = catholic
+		size = 75
+	}
+
+	farmers = {
+		culture = basque
+		religion = catholic
+		size = 1320
+	}	
+	
 }
 #Soria (216000/54000 POPS)
 482 = {
@@ -454,63 +471,63 @@
 #Badajoz (216000/54000 POPS)
 484 = {
 	aristocrats = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 1250
 	}
 
 	officers = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 200
 	}
 
 	bureaucrats = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 250
 	}
 
 	clergymen = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 500
 	}
 
 	artisans = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 4000
 	}
 
 	soldiers = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 600
 	}
 
 	farmers = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
-		size = 30000
+		size = 40000
 	}
 	
 	clergymen = {
-		culture = spanish
+		culture = mozarabic
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = spanish
+		culture = mozarabic
 		religion = catholic
 		size = 500
 	}
 
 	farmers = {
-		culture = spanish
+		culture = mozarabic
 		religion = catholic
-		size = 16650
+		size = 6650
 	}
 }
 #Almendralejo (192000/48000 POPS)
@@ -813,40 +830,30 @@
 		culture = basque
 		religion = catholic
 		size = 600
-		militancy = 8
-		rebel_type = carlist_rebels
 	}
 
 	clergymen = {
 		culture = basque
 		religion = catholic
 		size = 550
-		militancy = 8
-		rebel_type = carlist_rebels
 	}
 
 	artisans = {
 		culture = basque
 		religion = catholic
 		size = 3000
-		militancy = 8
-		rebel_type = carlist_rebels
 	}
 
 	soldiers = {
 		culture = basque
 		religion = catholic
-		size = 550
-		militancy = 8
-		rebel_type = carlist_rebels
+		size = 3550
 	}
 
 	farmers = {
 		culture = basque
 		religion = catholic
 		size = 51800
-		militancy = 8
-		rebel_type = carlist_rebels
 	}
 
 	aristocrats = {
@@ -914,7 +921,7 @@
 	soldiers = {
 		culture = basque
 		religion = catholic
-		size = 400
+		size = 3400
 	}
 
 	labourers = {
@@ -1457,64 +1464,47 @@
 }
 #Balearics (240000/60000 POPS)
 502 = {
-	aristocrats = {
-		culture = catalan
-		religion = catholic
-		size = 400
-	}
-
-	clergymen = {
-		culture = catalan
-		religion = catholic
-		size = 400
-	}
 
 	artisans = {
-		culture = catalan
+		culture = mozarabic
 		religion = catholic
-		size = 6000
-	}
-
-	soldiers = {
-		culture = catalan
-		religion = catholic
-		size = 400
+		size = 500
 	}
 
 	farmers = {
-		culture = catalan
+		culture = mozarabic
 		religion = catholic
-		size = 33300
+		size = 1300
 	}
 
 	aristocrats = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
-		size = 200
+		size = 600
 	}
 
 	clergymen = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
-		size = 200
+		size = 600
 	}
 
 	artisans = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
-		size = 3000
+		size = 8500
 	}
 
 	soldiers = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
-		size = 200
+		size = 600
 	}
 
 	labourers = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
-		size = 15900
+		size = 47900
 	}
 
 }
@@ -1522,43 +1512,43 @@
 #Valencia (420000/105000 POPS)
 503 = {
 	aristocrats = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 1100
 	}
 
 	officers = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 175
 	}
 
 	bureaucrats = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 275
 	}
 
 	clergymen = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 550
 	}
 
 	artisans = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 10000
 	}
 
 	artisans = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 1100
 	}
 	
 	farmers = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 7900
 	}
@@ -1702,31 +1692,31 @@
 #Alicante (384000/96000 POPS)
 505 = {
 	aristocrats = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 1100
 	}
 
 	clergymen = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 525
 	}
 
 	artisans = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 25000
 	}
 
 	soldiers = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 550
 	}
 
 	farmers = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 9825
 	}
@@ -1771,34 +1761,11 @@
 #Murcia Region (504000/121000 POPS)
 #Cartagena (212000/53000 POPS)
 506 = {
-	aristocrats = {
-		culture = spanish
-		religion = catholic
-		size = 100
-	}
-
-	officers = {
-		culture = spanish
-		religion = catholic
-		size = 150
-	}
-
-	bureaucrats = {
-		culture = spanish
-		religion = catholic
-		size = 800
-	}
-
-	clergymen = {
-		culture = spanish
-		religion = catholic
-		size = 300
-	}
 
 	artisans = {
 		culture = spanish
 		religion = catholic
-		size = 3000
+		size = 1000
 	}
 
 	soldiers = {
@@ -1810,97 +1777,151 @@
 	farmers = {
 		culture = spanish
 		religion = catholic
-		size = 20000
+		size = 8000
 	}
 	
 	aristocrats = {
-		culture = mozarabic
+		culture = catalan
+		religion = catholic
+		size = 100
+	}
+
+	officers = {
+		culture = catalan
+		religion = catholic
+		size = 150
+	}
+
+	bureaucrats = {
+		culture = catalan
+		religion = catholic
+		size = 800
+	}
+
+	clergymen = {
+		culture = catalan
+		religion = catholic
+		size = 300
+	}
+
+	artisans = {
+		culture = catalan
+		religion = catholic
+		size = 2000
+	}
+
+	soldiers = {
+		culture = catalan
+		religion = catholic
+		size = 1550
+	}
+
+	farmers = {
+		culture = catalan
+		religion = catholic
+		size = 12000
+	}	
+	
+	aristocrats = {
+		culture = algaravian
 		religion = sunni
 		size = 1000
 	}
 
 	officers = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 150
 	}
 
 	bureaucrats = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 225
 	}
 
 	artisans = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 4000
 	}
 
 	farmers = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 22375
 	}
 }
 #Murcia (92000/23000 POPS)
 507 = {
-	aristocrats = {
+	artisans = {
 		culture = spanish
+		religion = catholic
+		size = 45
+	}
+
+	farmers = {
+		culture = spanish
+		religion = catholic
+		size = 6000
+	}
+	
+	aristocrats = {
+		culture = catalan
 		religion = catholic
 		size = 200
 	}
 
 	clergymen = {
-		culture = spanish
+		culture = catalan
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = spanish
+		culture = catalan
 		religion = catholic
-		size = 100
+		size = 55
 	}
 
 	soldiers = {
-		culture = spanish
+		culture = catalan
 		religion = catholic
 		size = 250
 	}
 
 	farmers = {
-		culture = spanish
+		culture = catalan
 		religion = catholic
-		size = 13000
-	}
+		size = 7000
+	}	
 	
 	aristocrats = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 300
 	}
 
 	clergymen = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 125
 	}
 
 	artisans = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 1000
 	}
 
 	farmers = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 8025
 	}
@@ -1913,50 +1934,62 @@
 		size = 100
 	}
 
-	clergymen = {
+	artisans = {
 		culture = spanish
+		religion = catholic
+		size = 300
+	}
+
+	farmers = {
+		culture = spanish
+		religion = catholic
+		size = 21000
+	}
+
+	clergymen = {
+		culture = catalan
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = spanish
+		culture = catalan
 		religion = catholic
-		size = 400
+		size = 100
 	}
 
 	soldiers = {
-		culture = spanish
+		culture = catalan
 		religion = catholic
 		size = 500
 	}
 
 	farmers = {
-		culture = spanish
+		culture = catalan
 		religion = catholic
-		size = 30000
+		size = 9000
 	}
 	
 	aristocrats = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 1000
 	}
 
 	clergymen = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 400
 	}
 
 	artisans = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 2000
 	}
 
 	farmers = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 15600
 	}
@@ -1966,350 +1999,437 @@
 #Seville (376000/94000 POPS)
 509 = {
 	aristocrats = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 1800
 	}
 
 	officers = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 550
 	}
 
 	bureaucrats = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 450
 	}
 
 	clergymen = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 1100
 	}
 
 	artisans = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 10000
 	}
 
 	artisans = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 10000
 	}
 
 	soldiers = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 3000
 	}
 
 	farmers = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
-		size = 60000
+		size = 51000
 	}
 	
 	artisans = {
-		culture = spanish
+		culture = mozarabic
 		religion = catholic
-		size = 5000
+		size = 500
 	}
 	
 	farmers = {
-		culture = spanish
+		culture = mozarabic
 		religion = catholic
 		size = 2200
 	}
+	
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 175
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 750
+	}
+
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 9000
+	}	
+	
 }
 #Cordoba (324000/81000 POPS)
 510 = {
 	aristocrats = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 1700
 	}
 
 	clergymen = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 700
 	}
 
 	artisans = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
-		size = 8000
+		size = 8775
 	}
 
 	soldiers = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 1100
 	}
 
 	farmers = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
-		size = 60000
+		size = 60800
 	}
 	
 	clergymen = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 200
 	}
 
 	artisans = {
-		culture = spanish
+		culture = mozarabic
 		religion = catholic
-		size = 1000
+		size = 25
 	}
 
 	farmers = {
-		culture = spanish
+		culture = mozarabic
 		religion = catholic
-		size = 8500
+		size = 500
 	}
 }
 #Huelva (140000/35000 POPS)
 511 = {
 	aristocrats = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 750
 	}
 
 	clergymen = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 375
 	}
 
 	artisans = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 2000
 	}
 
 	soldiers = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 500
 	}
 
 	farmers = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
-		size = 31375
+		size = 30000
 	}
+	
+	artisans = {
+		culture = mozarabic
+		religion = catholic
+		size = 50
+	}
+	
+	farmers = {
+		culture = mozarabic
+		religion = catholic
+		size = 1375
+	}	
 	
 }
 #Cadiz (336000/84000 POPS)
 512 = {
 	aristocrats = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 1100
 	}
 
 	clergymen = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 850
 	}
 
 	artisans = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 10000
 	}
 
 	artisans = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 6500
 	}
 
 	soldiers = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 1100
 	}
 
 	farmers = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
-		size = 64650
+		size = 64000
 	}
+	
+	artisans = {
+		culture = mozarabic
+		religion = catholic
+		size = 25
+	}
+	
+	farmers = {
+		culture = mozarabic
+		religion = catholic
+		size = 650
+	}	
 
 }
 #Alpujarras Region (1296000)
 #Granada (382000/95500 POPS)
 513 = {
 	aristocrats = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 2750
 	}
 
 	officers = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 450
 	}
 
 	bureaucrats = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 500
 	}
 
 	clergymen = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 950
 	}
 
 	artisans = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 10000
 	}
 
-	artisans = {
-		culture = spanish
+	farmers = {
+		culture = mozarabic
 		religion = catholic
-		size = 5000
+		size = 1000
 	}
 
 	soldiers = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 3000
 	}
 
 	farmers = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
-		size = 72850
+		size = 56850
 	}
+	
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 200
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 1200
+	}
+
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 15000
+	}		
+	
 }
 #Malaga (402000/100500 POPS)
 514 = {
 	aristocrats = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 2700
 	}
 
 	clergymen = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 900
 	}
 
 	artisans = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 10000
 	}
 
 	artisans = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 7500
 	}
 
 	soldiers = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 1100
 	}
 
 	farmers = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
-		size = 78400
+		size = 68000
 	}
+	
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 250
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 1500
+	}
+
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 10400
+	}
+
+	farmers = {
+		culture = mozarabic
+		religion = catholic
+		size = 500
+	}		
+	
 }
 #Almeria (242000/60500 POPS)
 515 = {
 	aristocrats = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 1650
 	}
 
 	clergymen = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 550
 	}
 
 	artisans = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 5000
 	}
 
 	soldiers = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 1100
 	}
 
 	farmers = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
-		size = 30000
+		size = 51000
 	}
 	
 	farmers = {
-		culture = spanish
+		culture = mozarabic
 		religion = catholic
-		size = 22600
+		size = 1600
 	}
 }
 #Jaen (270000/67500 POPS)
 516 = {
 	aristocrats = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 1700
 	}
 
 	clergymen = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 600
 	}
 
 	artisans = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 6000
 	}
 
 	soldiers = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
 		size = 1100
 	}
 
 	farmers = {
-		culture = mozarabic
+		culture = algaravian
 		religion = sunni
-		size = 40000
+		size = 57000
 	}
 	
 	farmers = {
-		culture = spanish
+		culture = mozarabic
 		religion = catholic
-		size = 18200
+		size = 1200
 	}
 
 }

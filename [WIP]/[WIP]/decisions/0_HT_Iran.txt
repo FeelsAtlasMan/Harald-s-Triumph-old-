@@ -1,9 +1,10 @@
 political_decisions = {
+    #Iranian Flavour
 	unite_iran = {
 	    picture = "restore_iran"
 		potential = {
 			is_culture_group = iranian_turanian
-			NOT = { primary_culture = kurdish }
+			NOT = { primary_culture = kurmanji }
 			NOT = { primary_culture = pashtun }
 			PER = { exists = no }
 		}
@@ -184,11 +185,316 @@ political_decisions = {
 		}
 	}
 	
+	claim_mawarannahr = {
+	    picture = "transoxania"
+		potential = {
+		    tag = PER
+			has_country_flag = subdued_afghans 
+			has_country_flag = reclaimed_khwarzem
+			NOT = { has_country_flag = claimed_mawarannahr }
+		}
+		
+		allow = {
+		    PER = { all_core = { owned_by = THIS } }
+			is_greater_power = yes
+			war = no
+		}
+		
+		effect = {
+            KHI_1198 = { add_core = THIS }
+			KHI_1202 = { add_core = THIS }
+			KHI_1193 = { add_core = THIS }
+			KHI_1207 = { add_core = THIS }
+			1594 = { add_core = THIS }
+			badboy = 25
+			set_country_flag = claimed_mawarannahr
+		}
+		ai_will_do = {
+		    factor = 1
+			modifier = {
+			     factor = 0
+				 badboy = 0.75
+			}
+		}
+	}
+	
+	subdue_afghans = {
+	    picture = "kabulestan"
+		potential = {
+		    tag = PER
+			has_country_flag = claimed_ekhorasan 
+			NOT = { has_country_flag = subdued_afghans }
+		}
+		
+		allow = {
+		    PER = { all_core = { owned_by = THIS } }
+			is_greater_power = yes
+			war = no
+		}
+		
+		effect = {
+            AFG_1217 = { add_core = THIS }
+			AFG_1218 = { add_core = THIS }
+			badboy = 10
+			set_country_flag = subdued_afghans
+		}
+		ai_will_do = {
+		    factor = 1
+			modifier = {
+			     factor = 0
+				 badboy = 0.75
+			}
+		}
+	}
+	
+	reclaim_khwarzem = {
+	    picture = "khwarzem"
+		potential = {
+		    tag = PER
+			has_country_flag = claimed_ekhorasan 
+			NOT = { has_country_flag = reclaimed_khwarzem }
+		}
+		
+		allow = {
+		    PER = { all_core = { owned_by = THIS } }
+			is_greater_power = yes
+			war = no
+		}
+		
+		effect = {
+            RUS_1215 = { add_core = THIS }
+			KHI_1191 = { add_core = THIS }
+			badboy = 10
+			set_country_flag = reclaimed_khwarzem
+		}
+		ai_will_do = {
+		    factor = 1
+			modifier = {
+			     factor = 0
+				 badboy = 0.75
+			}
+		}
+	}
+	
+	western_ambition = {
+	    picture = "turkomans"
+		potential = {
+		    tag = PER
+			has_country_flag = claimed_caucasus 
+			has_country_flag = claimed_caucasus 
+			has_country_flag = claimed_kurdistan
+			has_country_flag = claimed_iraq
+			NOT = { has_country_flag = wester_amb }
+		}
+		
+		allow = {
+		    PER = { all_core = { owned_by = THIS } }
+			is_greater_power = yes
+			war = no
+		}
+		
+		effect = {
+            TUR_889 = { add_core = THIS }
+			TUR_893 = { add_core = THIS }
+			badboy = 10
+			set_country_flag = wester_amb
+		}
+		ai_will_do = {
+		    factor = 1
+			modifier = {
+			     factor = 0
+				 badboy = 0.75
+			}
+		}
+	}
+	
+	proclaim_iranzamin = {
+	    picture = "iranzemin"
+		potential = {
+		    tag = PER
+			has_country_flag = claimed_mawarannahr 
+			has_country_flag = wester_amb 
+			NOT = { has_country_flag = iranzemin }
+		}
+		
+		allow = {
+		    PER = { all_core = { owned_by = THIS } }
+			TIM = { exists = no }
+			nationalism_n_imperialism = 1
+			prestige = 300
+			is_greater_power = yes
+			war = no
+		}
+		
+		effect = {
+		    set_country_flag = iranzemin
+            add_accepted_culture = tat
+			add_accepted_culture = lurish
+			add_accepted_culture = scythian
+			add_accepted_culture = adari
+			add_accepted_culture = dari
+			add_accepted_culture = talysh
+			add_accepted_culture = gilaki
+			add_accepted_culture = mazanderani
+			add_accepted_culture = kurmanji
+			add_accepted_culture = zaza
+			add_accepted_culture = baluchi
+			add_accepted_culture = pashtun
+			add_core = 1056
+			prestige = 100
+		}
+		ai_will_do = {
+		    factor = 1
+		}
+	}
+	
+	#Uzbek Flavour
+	unite_uzbeks = {
+	    picture = "become_uzbekistan"
+		potential = {
+		    AND = {
+			primary_culture = uzbek	
+			primary_culture = sart	
+            primary_culture = badakhshani				
+			}
+			NOT = { tag = TIM }
+			UZB = { exists = no }
+		}
+		
+		allow = {
+		    AFG_1212 = { owned_by = THIS }
+			KHI_1198 = { owned_by = THIS }
+			KHI_1202 = { owned_by = THIS }
+			KHI_1193 = { owned_by = THIS }
+			KHI_1207 = { owned_by = THIS }
+			nationalism_n_imperialism = 1
+			civilized = yes
+			war = no
+		}
+		
+		effect = {
+		    change_tag = UZB
+			add_accepted_culture = uzbek
+			add_accepted_culture = sart
+			add_accepted_culture = badakhshani
+            KND = { all_core = { add_core = UZB } }
+			KND = { all_core = { remove_core = KND } }
+			BDK = { all_core = { add_core = UZB } }
+			BDK = { all_core = { remove_core = BDK } }
+			BUK = { all_core = { add_core = UZB } }
+			BUK = { all_core = { remove_core = BUK } }
+			KHI = { all_core = { add_core = UZB } }
+			KHI = { all_core = { remove_core = KHI } }
+			prestige = 50
+		}
+		ai_will_do = {
+		    factor = 1
+		}
+	}
+	
+	embrace_uzbek_identity = {
+	    picture = "transoxania"
+		potential = {
+			tag = TIM
+			#has_country_flag = timurid_collapsed
+			BUK = { exists = no }
+		}
+		
+		allow = {
+			civilized = yes
+			war = no
+		}
+		
+		effect = {
+		    TIM = { all_core = { remove_core = TIM } }
+		    change_tag = BUK
+			KHI_1198 = { add_core = BUK }
+			KHI_1202 = { add_core = BUK }
+            remove_accepted_culture = adari
+			remove_accepted_culture = mashriqi
+			remove_accepted_culture = farsi
+			add_accepted_culture = uzbek
+		}
+		ai_will_do = {
+		    factor = 1
+		}
+	}
+	
+	unite_turan = {
+	    picture = "unite_turkestan"
+		potential = {
+		    OR = {
+			  tag = UZB
+			  tag = TKM
+			}
+			TKS = { exists = no }
+		}
+		
+		allow = {
+			civilized = yes
+            is_secondary_power = yes
+			RUS_1205 = { owned_by = THIS }
+			war = no
+		}
+		
+		effect = {
+		    change_tag = TKS
+			TKM = { all_core = { add_core = TKS } } 
+			UZB = { all_core = { add_core = TKS } } 
+            add_accepted_culture = uzbek
+			add_accepted_culture = sart
+			add_accepted_culture = badakhshani
+			add_accepted_culture = uighur
+			add_accepted_culture = turkmen
+			badboy = 10
+		}
+		
+		ai_will_do = {
+		    factor = 1
+			modifier = {
+			     factor = 0
+				 badboy = 0.75
+			}
+		}
+	}
+	
+	greater_turan = {
+	    picture = "transoxania"
+		potential = {
+			tag = TKS
+			NOT = { has_country_flag = claimed_greater_turan }
+		}
+		
+		allow = {
+			TKS = { all_core = { owned_by = THIS } }
+            is_greater_power = yes
+			war = no
+		}
+		
+		effect = {
+		    change_tag = TKS
+			KAZ = { all_core = { add_core = TKS } } 
+			UYG = { all_core = { add_core = TKS } }
+            add_accepted_culture = kirgiz	
+            add_accepted_culture = khorasani		
+            add_accepted_culture = nogay_tatar			
+            set_country_flag = claimed_greater_turan
+			badboy = 10
+		}
+		ai_will_do = {
+		    factor = 1
+			modifier = {
+			     factor = 0
+				 badboy = 0.75
+			}
+		}
+	}
+	
+	#Azeri Flavour
 	unite_turkomans = {
 	    picture = "turkomans"
 		potential = {
 			primary_culture = azeri
-			PER = { exists = no }
 			TKO = { exists = no }
 		}
 		
@@ -420,6 +726,8 @@ political_decisions = {
 			PER_1142 = { add_core = THIS }
 			badboy = 20
 			set_country_flag = claimed_iran
+			add_accepted_culture = turkmen
+			add_accepted_culture = qashqai
 			prestige = 20
 		}	
 		ai_will_do = {
@@ -428,6 +736,144 @@ political_decisions = {
 			     factor = 0
 				 badboy = 0.75
 			}
+		}
+	}
+	
+	#Unciv Mob. 
+	mobilize_tribesmen = {
+		picture = form_the_ikhwan
+		potential = {
+			OR = {
+				tag = IRQ
+				tag = KDS
+				tag = KRM
+				tag = AFG
+				AND = { 
+				    tag = KHR
+					KHR = { war_with = TIM }
+				}
+				primary_culture = baluchi
+			}
+			NOT = { has_country_modifier = rally_tribesmen }
+			civilized = no
+		}
+
+		allow = {
+			war = yes
+		}
+
+		effect = {
+			add_country_modifier = { name = rally_tribesmen duration = 730 }
+		}
+
+		ai_will_do = { factor = 1 }
+	}
+	
+	#Kurdish Flavour
+	greater_kurdistan = {
+	    picture = "kurdistan"
+		potential = {
+			tag = KDS
+			NOT = { has_country_flag = united_kurds }
+		}
+		
+		allow = {
+		    KDS = { all_core = { owned_by = THIS } }
+			war_policy = jingoism
+			civilized = yes
+			war = no
+		}
+		
+		effect = {
+            890 = { add_core = KDS }
+			1109 = { add_core = KDS }
+			107 = { add_core = KDS }
+			885 = { add_core = KDS }
+			890 = { add_core = KDS }
+			873 = { add_core = KDS }
+			895 = { add_core = KDS }
+			TUR_3339 = { add_core = KDS }
+			TUR_876 = { add_core = KDS }
+			TUR_878 = { add_core = KDS }
+			TUR_894 = { add_core = KDS }
+			EGY_897 = { add_core = KDS }
+			set_country_flag = united_kurds
+			badboy = 15
+			prestige = 20
+		}	
+		ai_will_do = {
+		    factor = 1
+			modifier = {
+			     factor = 0
+				 badboy = 0.75
+			}
+		}
+	}
+	
+	new_median_empire = {
+	    picture = "median_empire"
+		potential = {
+			tag = KDS
+			has_country_flag = united_kurds
+			MDS = { exists = no }
+		}
+		
+		allow = {
+		    KDS = { all_core = { owned_by = THIS } }
+			OR = {
+			    is_greater_power = yes
+				is_secondary_power = yes
+			}
+			civilized = yes
+			war = no
+		}
+		
+		effect = {
+		    PER_1112 = { add_core = THIS }
+			PER_1123 = { add_core = THIS }
+			PER_1121 = { add_core = THIS }
+			PER_1113 = { add_core = THIS }
+			PER_1112 = { add_core = THIS }
+			AJM = { all_core = { add_core = THIS } }
+			add_accepted_culture = adari
+			add_accepted_culture = deylemi
+			add_accepted_culture = talysh
+			add_accepted_culture = gilaki
+			add_accepted_culture = mazanderani
+			add_accepted_culture = semnani
+            change_tag = MDS
+			prestige = 60
+		}	
+		ai_will_do = {
+		    factor = 1
+		}
+	}
+	
+	claim_iraq = {
+	    picture = "map_iraq"
+		potential = {
+			tag = MDS
+			NOT = { has_country_flag = claimed_iraq_mds }
+		}
+		
+		allow = {
+		    KDS = { all_core = { owned_by = THIS } }
+			OR = {
+			    is_greater_power = yes
+				is_secondary_power = yes
+			}
+			civilized = yes
+			war = no
+		}
+		
+		effect = {
+		    IRQ = { all_core = { add_core = THIS } }
+            LUR = { all_core = { add_core = THIS } }
+            set_country_flag = claimed_iraq_mds
+			prestige = 20
+		}	
+		ai_will_do = {
+		    factor = 1
 		}
 	}
 }

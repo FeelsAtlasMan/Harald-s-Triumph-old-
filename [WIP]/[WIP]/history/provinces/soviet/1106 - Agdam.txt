@@ -2,5 +2,6 @@ owner = TIM
 controller = TIM
 add_core = ARM
 add_core = KRB
+add_core = ALW
 trade_goods = wool
 life_rating = 35

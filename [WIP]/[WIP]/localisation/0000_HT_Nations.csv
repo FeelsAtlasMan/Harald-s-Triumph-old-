@@ -177,7 +177,7 @@ CAL_colonial_company;West Coast Company;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 CAL;New Scotland;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 CAL_ADJ;Scottish;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 BYZ_absolute_monarchy;The Bulgarian Empire;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-CST;Castile;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+CST;Toledo;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 CST_ADJ;Castilian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 INC;Inca;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 INC_absolute_monarchy;The Incan Empire;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
@@ -259,7 +259,10 @@ BRY_absolute_monarchy;Buryat Khanate;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 BRY_hms_government;Buryat Khanate;;;;;;;;;;;;x
 BRY_prussian_constitutionalism;Buryat Khanate;;;;;;;;;;;;x
 BRY_ADJ;Buryat-Mongol;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-CAT;Catalonia-Aragon;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+CAT;Catalonia;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+CAT_absolute_monarchy;Aragon;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+CAT_hms_government;Aragon;;;;;;;;;;;;x
+CAT_prussian_constitutionalism;Aragon;;;;;;;;;;;;x
 CAT_ADJ;Catalonian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 TRR;Trier;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 TRR_ADJ;Trierian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
@@ -751,3 +754,31 @@ ENG_absolute_monarchy;Kingdom of Jorvik;Kingdom of Jorvik;Kingdom of Jorvik;;;;;
 ENG_prussian_constitutionalism;Kingdom of Jorvik;Kingdom of Jorvik;Kingdom of Jorvik;;;;;;;;;;;x;
 ENG_hms_government;Kingdom of Jorvik;Kingdom of Jorvik;Kingdom of Jorvik;;;;;;;;;;;x;
 ENG_democracy;Republic of Jorvik;Republic of Jorvik;Republic of Jorvik;;;;;;;;;;;x;
+ALH;Al-Ahsa;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+ALH_absolute_monarchy;Al-Ahsa;;;;;;;;;;;;x
+ALH_hms_government;Al-Ahsa;;;;;;;;;;;;x
+ALH_prussian_constitutionalism;Al-Ahsa;;;;;;;;;;;;x
+ALH_republic;Al-Ahsa;;;;;;;;;;;;x
+ALH_ADJ;Ahsan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TKS;Turan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TKS_ADJ;Turanian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+MDS;Medistan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+MDS_absolute_monarchy;Median Empire;;;;;;;;;;;;x
+MDS_hms_government;Median Empire;;;;;;;;;;;;x
+MDS_prussian_constitutionalism;Median Empire;;;;;;;;;;;;x
+MDS_republic;Medistan;;;;;;;;;;;;x
+MDS_ADJ;Median;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+RUM;Anatolia;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+RUM_absolute_monarchy;Rum Sultanate;;;;;;;;;;;;x
+RUM_hms_government;Rum Sultanate;;;;;;;;;;;;x
+RUM_prussian_constitutionalism;Rum Sultanate;;;;;;;;;;;;x
+RUM_republic;Anatolia;;;;;;;;;;;;x
+RUM_ADJ;Rumi;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TCA;UNC;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TCA_absolute_monarchy;Caucasian Imamate;;;;;;;;;;;;x
+TCA_hms_government;Caucasian Imamate;;;;;;;;;;;;x
+TCA_prussian_constitutionalism;Caucasian Imamate;;;;;;;;;;;;x
+TCA_republic;UNC;;;;;;;;;;;;x
+TCA_ADJ;Caucasian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+ALW;Aghwank;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+ALW_ADJ;Aghwank;;;;;;;;;;;;;;x;;;;;;;;;;;;;;

@@ -3094,6 +3094,7 @@ categories =  {
 		min_build_naval_base = 4
 		min_build_railroad = 4
 		min_build_fort = 1
+                immigrant_attract = -1.5
 		combat_width = -0.20
 	}
 
@@ -3182,6 +3183,7 @@ categories =  {
 		
 		combat_width = -0.6
 		attrition = 2
+                immigrant_attract = -0.5
 	}
 	
 	montane_forest = {
@@ -3224,7 +3226,7 @@ categories =  {
 		mine_rgo_eff = -0.1
 		supply_limit = 2
 		min_build_railroad = 2
-		immigrant_attract = -1.5
+		immigrant_attract = -0.35
 		attrition = 1
 	}
 	
@@ -3252,7 +3254,7 @@ categories =  {
 		mine_rgo_eff = 0.0
 		supply_limit = 2
 		combat_width = -0.3
-		immigrant_attract = -0.25
+		immigrant_attract = -0.15
 	}
 	
 	coral_island = {
@@ -3267,7 +3269,7 @@ categories =  {
 		min_build_railroad = 6
 		min_build_fort = 2
 		immigrant_push = -1.0
-		immigrant_attract = -0.25
+		immigrant_attract = -0.15
 	}
 	
 	new_world_boreal = {
@@ -3281,7 +3283,7 @@ categories =  {
 		mine_rgo_size = -10.0
 		mine_rgo_eff = -0.2
 		
-		immigrant_attract = -0.6
+		immigrant_attract = -1.5
 		min_build_naval_base = 4
 		min_build_railroad = 4
 		min_build_fort = 1
@@ -3301,7 +3303,7 @@ categories =  {
 		min_build_naval_base = 4
 		min_build_railroad = 4
 		min_build_fort = 1
-		immigrant_attract = -0.9
+		immigrant_attract = -1.5
 		combat_width = -0.6
 		attrition = 2
 	}
@@ -3317,7 +3319,7 @@ categories =  {
 		min_build_railroad = 4
 		min_build_fort = 1
 		attrition = 2
-		immigrant_attract = -0.9
+		immigrant_attract = -1.9
 	}
 
 	new_world_mountain = {
@@ -3331,7 +3333,7 @@ categories =  {
 		supply_limit = 2
 		combat_width = -0.6
 		min_build_railroad = 3
-		immigrant_attract = -0.4
+		immigrant_attract = -0.1
 	}
 
 	new_world_jungle = {
@@ -3349,7 +3351,7 @@ categories =  {
 		min_build_railroad = 3
 		min_build_fort = 1
 		combat_width = -0.25
-		immigrant_attract = -0.4
+		immigrant_attract = -0.8
 	}
 
 	new_world_plains = {
@@ -3376,7 +3378,7 @@ categories =  {
 		supply_limit = 2
 		combat_width = -0.3
 		assimilation_rate = -0.5
-		immigrant_attract = -0.75
+		immigrant_attract = -0.25
 	}
 	
 	new_world_desert = {
@@ -3390,7 +3392,7 @@ categories =  {
 		min_build_railroad = 4
 		min_build_fort = 1
 		attrition = 2
-		immigrant_attract = -0.5
+		immigrant_attract = -1.5
 	}
 	
 	new_world_semidesert = {

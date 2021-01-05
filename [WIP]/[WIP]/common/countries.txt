@@ -138,6 +138,9 @@ SUX		= "countries/SUX.txt"
 ESX		= "countries/ESX.txt"
 KNT		= "countries/KNT.txt"
 MRC		= "countries/MRC.txt"
+ALH		        ="countries/Al Ahsa.txt"
+ALW		        ="countries/Aghwank.txt"
+MDS		        ="countries/Madistan.txt"
 
 ##HFM New Nations
 #ATB	= "countries/Saxe-Altenburg.txt"

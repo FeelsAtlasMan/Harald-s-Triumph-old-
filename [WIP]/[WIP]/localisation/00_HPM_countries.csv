@@ -781,8 +781,8 @@ ASY;Assyria;;;;;;;;;;;;x
 ASY_ADJ;Assyrian;;;;;;;;;;;;x
 ASY_fascist_dictatorship;Aramaea;;;;;;;;;;;;x
 ASY_fascist_dictatorship_ADJ;Aramaic;;;;;;;;;;;;x
-ATR;Asturias;Asturias;Asturias;;Asturias;;;;;;;;;x
-ATR_ADJ;Asturian;Asturien;Asturisch;;Asturiano;;;;;;;;;x
+ATR;Leon;Asturias;Asturias;;Asturias;;;;;;;;;x
+ATR_ADJ;Leonese;Asturien;Asturisch;;Asturiano;;;;;;;;;x
 ATR_conservative;Partido Moderado;Partido Moderado;Partido Moderado;;;;;;;;;;;x
 ATR_liberal;Partido Progresista;Partido Progresista;Partido Progresista;;;;;;;;;;;x
 ATR_reactionary;Comunión Carlista;Comunión Carlista;Comunión Carlista;;;;;;;;;;;x
