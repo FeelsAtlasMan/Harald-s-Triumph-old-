@@ -209,6 +209,7 @@ From;To;Type;Through;Data;Comment
 1092;1054;impassable;0;0;Kutaisi-Vladikavkaz
 3363;3314;impassable;0;0;Kakheti-Beshta
 3363;1055;impassable;0;0;Kakheti-Grozny
+3363;1053;impassable;0;0;Kakheti-Gunib
 3364;3318;impassable;0;0;Mtskheta-Nasran
 3364;1055;impassable;0;0;Mtskheta-Grozny
 3366;1053;impassable;0;0;Ilisu-Gunib
@@ -217,7 +218,10 @@ From;To;Type;Through;Data;Comment
 1104;3320;impassable;0;0;Sheki-Quba
 3370;3320;impassable;0;0;Shirvan-Quba
 1091;3318;impassable;0;0;Tshvinkhali-Nasran
+1091;1056;impassable;0;0;Tshvinkhali-Khokhifondz
 1095;3349;impassable;0;0;Sukhumi-Adygei
+1095;3401;impassable;0;0;Sukhumi-Abdzakh
+1095;3400;impassable;0;0;Sukhumi-Elbrus
 
 #Alaskan Panhandle
 

@@ -352,10 +352,12 @@ NNI;Daur;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 NNI_absolute_monarchy;Daur Khanate;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 NNI_hms_government;Daur Khanate;;;;;;;;;;;;x
 NNI_ADJ;Daur;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-VDB;Vidarbha;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-VDB_ADJ;Vidarbhian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-VDB;Vidarbha;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-VDB_ADJ;Vidarbhian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+VDB;Ahmednagar;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+VDB_ADJ;Ahmednagarian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+NAG;Bijapur;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+NAG_ADJ;Bijapurian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+BAS;Gondwana;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+BAS_ADJ;Gondwanian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 BIH_colonial_company;Putna;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 BNG_colonial_company;Gaur;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 MNP_colonial_company;Manipur-Tripura;;;;;;;;;;;;;;x;;;;;;;;;;;;;; 
@@ -622,10 +624,10 @@ BDK_hms_government;Badakhshan Khanate;;;;;;;;;;;;x
 BDK_prussian_constitutionalism;Badakhshan Khanate;;;;;;;;;;;;x
 BDK_ADJ;Badakhshani;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 SST;Sistan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-SST_absolute_monarchy;Sistan;;;;;;;;;;;;x
-SST_hms_government;Sistan;;;;;;;;;;;;x
-SST_prussian_constitutionalism;Sistan;;;;;;;;;;;;x
-SST_ADJ;Sistani;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+SST_absolute_monarchy;Abdali Shahdom;;;;;;;;;;;;x
+SST_hms_government;Abdali Shahdom;;;;;;;;;;;;x
+SST_prussian_constitutionalism;Abdali Shahdom;;;;;;;;;;;;x
+SST_ADJ;Abdali;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 BLA;Bela;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 BLA_absolute_monarchy;Bela;;;;;;;;;;;;x
 BLA_hms_government;Bela;;;;;;;;;;;;x
@@ -782,3 +784,7 @@ TCA_republic;UNC;;;;;;;;;;;;x
 TCA_ADJ;Caucasian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 ALW;Aghwank;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 ALW_ADJ;Aghwank;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+GJR;Gujarat;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+GJR_ADJ;Gujarati;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+DCC;Deccan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+DCC_ADJ;Deccani;;;;;;;;;;;;;;x;;;;;;;;;;;;;;

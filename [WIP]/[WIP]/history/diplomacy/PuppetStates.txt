@@ -134,13 +134,6 @@ vassal = {
 
 vassal = {
 	first = TIM
-	second = SST
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-
-vassal = {
-	first = TIM
 	second = MIG
 	start_date = 1836.1.1
 	end_date = 1937.1.1
@@ -391,51 +384,8 @@ vassal = {
 	end_date = 1937.1.1
 }
 
-#Marathi Confederation
-vassal = {
-	first = MAH
-	second = IND
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-
-vassal = {
-	first = MAH
-	second = BUN
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-
-vassal = {
-	first = MAH
-	second = NAG
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-
-vassal = {
-	first = MAH
-	second = VDB
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-
-vassal = {
-	first = MAH
-	second = BER
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-
-vassal = {
-	first = MAH
-	second = GWA
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-
 #Dehli
-substate = {
+vassal = {
 	first = MUG
 	second = SIN
 	start_date = 1836.1.1
@@ -498,10 +448,24 @@ vassal = {
 	end_date = 1937.1.1
 }
 
+vassal = {
+	first = MUG
+	second = GJR
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
 #Sur Empire
 vassal = {
 	first = SUR
 	second = BIH
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = SUR
+	second = ORI
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }

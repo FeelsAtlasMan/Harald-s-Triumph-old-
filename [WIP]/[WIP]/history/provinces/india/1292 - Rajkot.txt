@@ -1,5 +1,5 @@
-owner = MUG
-controller = MUG
-add_core = KUT
+owner = GJR
+controller = GJR
+add_core = GJR
 trade_goods = fish
 life_rating = 32

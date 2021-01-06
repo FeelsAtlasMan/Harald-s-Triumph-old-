@@ -143,6 +143,7 @@ political_decisions = {
 	               personality = implacable
 	               background = natural_born_leader
                 }
+				prestige = 10
 				badboy = 10
                 set_country_flag = sent_general_skobelev				
 	}
