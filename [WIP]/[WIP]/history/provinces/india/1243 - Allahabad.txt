@@ -1,7 +1,7 @@
-owner = BUN
-controller = BUN
+owner = MUG
+controller = MUG
+add_core = MUG
 add_core = BUN
-add_core = AWA
 trade_goods = tobacco
 life_rating = 32
 

@@ -4,6 +4,12 @@ NOV = {
 	influence_value = 100
 }
 
+PLK = { 
+	value = 200
+	level = 5		
+	influence_value = 100
+}
+
 LAT = { 
 	value = 200
 	level = 5		

@@ -345,13 +345,13 @@ political_decisions = {
 	           tag = DAG
 			   tag = GMZ
 			   tag = CHY
-			   NOT = { has_country_flag = united_daghestan }
 			}
+			NOT = { has_country_flag = united_daghestan }
 		}
 		allow = {
 			is_vassal = no
 			RUS_1052 = { owned_by = THIS }
-			RUS_1055 = { owned_by = THIS }
+			TIM_1055 = { owned_by = THIS }
 			GMZ = { all_core = { owned_by = THIS } }
 		}
 		effect = {
@@ -362,7 +362,7 @@ political_decisions = {
 			add_accepted_culture = kumyk
 			prestige = 10
 			RUS_1052 = { add_core = THIS }
-			RUS_1055 = { add_core = THIS }
+			TIM_1055 = { add_core = THIS }
 			GMZ = { all_core = { add_core = THIS } }
 			set_country_flag = united_daghestan
 		}

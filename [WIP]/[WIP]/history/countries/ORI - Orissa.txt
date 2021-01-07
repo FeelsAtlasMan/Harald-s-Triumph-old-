@@ -1,8 +1,7 @@
 capital = 1261
 primary_culture = oriya
-culture = marathi
 religion = hindu
-government = absolute_monarchy
+government = colonial_company
 plurality = 0.0
 nationalvalue = nv_tradition
 literacy = 0.01

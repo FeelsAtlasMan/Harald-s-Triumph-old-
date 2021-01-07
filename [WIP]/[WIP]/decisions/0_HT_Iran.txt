@@ -396,7 +396,7 @@ political_decisions = {
 	    picture = "transoxania"
 		potential = {
 			tag = TIM
-			#has_country_flag = timurid_collapsed
+			has_country_flag = timurid_collapsed
 			BUK = { exists = no }
 		}
 		
@@ -751,6 +751,11 @@ political_decisions = {
 				AND = { 
 				    tag = KHR
 					KHR = { war_with = TIM }
+				}
+				AND = { 
+				    primary_culture = rajput
+					war_with = TIM 
+					NOT = { tag = MEW }
 				}
 				primary_culture = baluchi
 			}

@@ -1,8 +1,8 @@
 capital = 1283
-primary_culture = avadhi
-culture = marathi
+primary_culture = persian
+culture = hindi
 culture = telegu
-religion = sunni
+religion = shiite
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition

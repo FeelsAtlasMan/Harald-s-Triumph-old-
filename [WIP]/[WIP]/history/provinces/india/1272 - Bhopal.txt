@@ -1,5 +1,5 @@
-owner = GWA
-controller = GWA
-add_core = GWA
+owner = MEW
+controller = MEW
+add_core = MEW
 trade_goods = dye
 life_rating = 32

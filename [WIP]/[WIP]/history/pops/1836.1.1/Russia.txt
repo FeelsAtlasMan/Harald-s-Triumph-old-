@@ -7886,27 +7886,33 @@
 1057 = {
 	
 	clergymen = {
-		culture = kumyk
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = kumyk
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 350
 	}
 
 	soldiers = {
-		culture = kumyk
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 3075
 	}
 	
 	farmers = {
+		culture = astrakhan_tatar
+		religion = sunni
+		size = 7375
+	}
+	
+	farmers = {
 		culture = kumyk
 		religion = sunni
-		size = 10375
+		size = 3000
 	}
 }
 #Urals Region (832000)

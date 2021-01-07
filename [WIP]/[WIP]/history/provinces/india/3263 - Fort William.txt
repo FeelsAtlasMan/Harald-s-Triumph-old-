@@ -1,7 +1,7 @@
-owner = SUR
-controller = SUR
-add_core = SUR
-add_core = BNG
+owner = BAS
+controller = BAS
+add_core = BAS
+add_core = ORI
 trade_goods = precious_goods
 life_rating = 35
 terrain = fort_william

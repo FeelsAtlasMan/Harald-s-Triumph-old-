@@ -141,6 +141,8 @@ MRC		= "countries/MRC.txt"
 ALH		        ="countries/Al Ahsa.txt"
 ALW		        ="countries/Aghwank.txt"
 MDS		        ="countries/Madistan.txt"
+GJR		        ="countries/Gujarat.txt"
+DCC		        ="countries/Deccan.txt"
 
 ##HFM New Nations
 #ATB	= "countries/Saxe-Altenburg.txt"

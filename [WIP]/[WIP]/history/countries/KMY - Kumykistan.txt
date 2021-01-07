@@ -42,7 +42,7 @@ nonstate_consciousness = 0
 
 set_country_flag = sunni_country
 
-oob = "DAG_oob.txt"
+oob = "KMY_oob.txt"
 
 foreign_weapons = yes_foreign_weapons
 foreign_artillery = yes_foreign_artillery
