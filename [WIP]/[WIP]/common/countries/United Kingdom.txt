@@ -1,4 +1,4 @@
-color = { 8  82  165 }
+color = { 209  66  58 }
 proletarian_dictatorship = { 208 12 39 }
 graphical_culture = BritishGC
 

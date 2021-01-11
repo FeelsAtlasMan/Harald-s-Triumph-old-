@@ -1,11 +1,7 @@
 capital = 1775
 primary_culture = maures
-culture = berber
-culture = bedouin
-culture = fulbe
-culture = wolof
 religion = sunni
-government = absolute_monarchy
+government = colonial_company
 plurality = 0.0
 nationalvalue = nv_tradition
 literacy = 0.01

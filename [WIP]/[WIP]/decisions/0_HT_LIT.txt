@@ -51,9 +51,7 @@ political_decisions = {
 						has_country_modifier = sajungos_judejimas
 					}
 				}
-				owner = {
-					remove_country_modifier = sajungos_judejimas
-				}
+				remove_country_modifier = sajungos_judejimas
 			}
 		}
 		ai_will_do = { factor = 1 }

@@ -613,3 +613,53 @@ vassal = {
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }
+
+#Morocco
+substate = {
+	first = MOR
+	second = TMB
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+substate = {
+	first = MOR
+	second = MTF
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+substate = {
+	first = MOR
+	second = ZYD
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = MOR
+	second = TRZ
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = MOR
+	second = MZB
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = MOR
+	second = BBB
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = MOR
+	second = ANU
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}

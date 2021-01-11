@@ -1,6 +1,7 @@
-add_core = DAR
+owner = SUD
+controller = SUD
 add_core = SUD
 trade_goods = grain
 terrain = semidesert
-life_rating = 10
-colonial = 2
+life_rating = 31
+

@@ -189,6 +189,7 @@ TUA_ADJ;Tuareg;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 KJP;Kirisuto Japan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 KJP_ADJ;Japanese;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 ANU;Andalusia;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+ANU_colonial_company;Pashalik of Al-Andalus;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 ANU_ADJ;Andalusian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 KOK;Argyn Zhuz;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 KOK_absolute_monarchy;Argyn Zhuz;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
@@ -788,3 +789,28 @@ GJR;Gujarat;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 GJR_ADJ;Gujarati;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 DCC;Deccan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 DCC_ADJ;Deccani;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+WDD;Waddai;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+WDD_ADJ;Waddaian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TOO;Fulani Imamate;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TOO_absolute_monarchy;Fulani Sultanate;;;;;;;;;;;;x
+TOO_hms_government;Fulani Sultanate;;;;;;;;;;;;x
+TOO_prussian_constitutionalism;Fulani Sultanate;;;;;;;;;;;;x
+TOO_republic;Fulani Republic;;;;;;;;;;;;x
+TOO_ADJ;Fulani;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TRZ;Mauretania;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TRZ_absolute_monarchy;Beni Hassan;;;;;;;;;;;;x
+TRZ_hms_government;Beni Hassan;;;;;;;;;;;;x
+TRZ_prussian_constitutionalism;Beni Hassan;;;;;;;;;;;;x
+TRZ_republic;Mauretania;;;;;;;;;;;;x
+TRZ_ADJ;Mauretanian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+BBB;Beni Abbas;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+BBB_ADJ;Abbasid;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+ZYD;Zayyanids;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+ZYD_ADJ;Zayyanid;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+MZB;M'zab;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+MZB_ADJ;Mzabian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+MTF;Tafilalt;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+MTF_ADJ;Tafilaltian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TMB;Timbuktu;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TMB_colonial_company;Pashalik of Timbuktu;;;;;;;;;;;;x
+TRZ_ADJ;Timbuktian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;

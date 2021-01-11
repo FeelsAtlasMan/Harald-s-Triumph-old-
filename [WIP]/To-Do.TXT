@@ -1,6 +1,5 @@
 
 Roadmap:
-2. Timurids
 3. North Africa, Sahel and Medit.
 4. Americas
 6. Western Europe
@@ -9,17 +8,15 @@ Roadmap:
 9. Japan
 10. SEA
 
-
-
 OOBs for America, Asia, Africa and Oceania
 Remove Irish Famine
-Break-Up of Timurids after westernization
 
 Rework of Northern Africa:
 1. Trans-Saharan Trade
 2. Actual Alt-Hist for West Africa
 
-Minor Stuff for China and Indochina
+Minor Stuff for China, Indochina and India
+Indochina:
 -french trading posts in Champa
 -Nakhon Si Thammarat needs flag
 -Champassak kingdom needs flag
@@ -103,9 +100,6 @@ NSE:
 - Direct Control of Ireland (annexes LIR, other irish minors rebel)
 
 - ideas?
-
-Chuvashia:
--Recreate the Bulghar Khanate
 
 The Knights:
 -Reclaim Malta (not sure how/balance)

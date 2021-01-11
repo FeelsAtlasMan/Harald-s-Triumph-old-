@@ -1,5 +1,5 @@
-owner = KBO
-controller = KBO
-add_core = KBO
+owner = DAR
+controller = DAR
+add_core = DAR
 trade_goods = timber
-life_rating = 10
+life_rating = 30
