@@ -5,7 +5,7 @@ culture = basque
 culture = asturleonese
 culture = galician
 religion = catholic
-government = absolute_monarchy
+government = hms_government
 plurality = 0.0
 nationalvalue = nv_order
 literacy = 0.13
@@ -44,7 +44,7 @@ colonial_policy = no_colonies
 set_country_flag = catholic_country
 
 govt_flag = {
-	government = absolute_monarchy
+	government = presidential_dictatorship
 	flag = theocracy
 }
 

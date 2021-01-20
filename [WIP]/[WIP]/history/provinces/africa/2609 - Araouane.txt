@@ -1,4 +1,6 @@
-add_core = TUA
-trade_goods = grain
-life_rating = 5
-colonial = 1
+owner = TMB
+controller = TMB
+add_core = TMB
+terrain = oasis
+trade_goods = fruit
+life_rating = 20

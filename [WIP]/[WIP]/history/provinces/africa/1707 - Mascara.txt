@@ -1,7 +1,6 @@
-owner = MOR
-controller = MOR
-add_core = MOR
-add_core = ALD
+owner = ZYD
+controller = ZYD
+add_core = ZYD
 trade_goods = iron
 life_rating = 35
 

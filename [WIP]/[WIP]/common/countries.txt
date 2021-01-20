@@ -143,6 +143,12 @@ ALW		        ="countries/Aghwank.txt"
 MDS		        ="countries/Madistan.txt"
 GJR		        ="countries/Gujarat.txt"
 DCC		        ="countries/Deccan.txt"
+WDD		        ="countries/Waddai.txt"
+TMB		        ="countries/Timbuktu.txt"
+MTF		        ="countries/Tafilalt.txt"
+ZYD		        ="countries/Zayyanids.txt"
+MZB		        ="countries/Mzab.txt"
+BBB		        ="countries/Beni Abbas.txt"
 
 ##HFM New Nations
 #ATB	= "countries/Saxe-Altenburg.txt"

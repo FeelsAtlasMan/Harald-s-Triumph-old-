@@ -40,7 +40,7 @@ penal_system = colonial_transportation
 child_labor = child_labor_restricted
 citizens_rights = culture_voting_only
 border_policy = open_borders
-centralization = confederalism
+centralization = confderalism
 colonial_policy = exploitation
 
 set_country_flag = protestant_country

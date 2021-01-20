@@ -2,5 +2,5 @@ owner = TUA
 controller = TUA
 add_core = TUA
 trade_goods = grain
-terrain = desert
-life_rating = 10 
+terrain = oasis
+life_rating = 20 

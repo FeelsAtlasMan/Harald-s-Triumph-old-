@@ -1,0 +1,7 @@
+owner = ABB
+controller = ABB
+add_core = ABB
+add_core = SUD
+trade_goods = tropical_wood
+terrain = semidesert
+life_rating = 32

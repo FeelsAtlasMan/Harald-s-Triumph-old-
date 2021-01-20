@@ -1,4 +1,8 @@
+owner = TMB
+controller = TMB
+add_core = TMB
 add_core = TRZ
-trade_goods = wool
-life_rating = 5
-colonial = 1
+terrain = oasis
+trade_goods = cattle
+life_rating = 20
+

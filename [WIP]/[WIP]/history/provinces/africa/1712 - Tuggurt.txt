@@ -1,3 +1,6 @@
-add_core = ALD
+owner = MZB
+controller = MZB
+add_core = MZB
+add_core = MOR
 trade_goods = wool
-life_rating = 10
+life_rating = 5

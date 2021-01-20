@@ -1,0 +1,6 @@
+owner = SEG
+controller = SEG
+add_core = SEG
+add_core = TRZ
+trade_goods = fruit
+life_rating = 31

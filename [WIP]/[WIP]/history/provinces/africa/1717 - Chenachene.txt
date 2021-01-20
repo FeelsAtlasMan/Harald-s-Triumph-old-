@@ -1,2 +1,7 @@
+owner = TMB
+controller = TMB
+add_core = TMB
+add_core = TRZ
+terrain = oasis
 trade_goods = grain
-life_rating = 10
+life_rating = 20
