@@ -31,6 +31,10 @@ country_event = {
 	option = {
 		name = "Make a speech among the crowd"
 		prestige = -20
+		set_variable = { 
+			which = revolution_progress
+			value = 0
+		}
 		capital_scope = {
 			any_pop = {
 				limit = {
@@ -60,6 +64,10 @@ country_event = {
 	
 	option = {
 		name = "Make a speech from the University balcony"
+		set_variable = { 
+			which = revolution_progress
+			value = 0
+		}
 		capital_scope = {
 			any_pop = {
 				limit = {
@@ -89,6 +97,10 @@ country_event = {
 	
 	option = {
 		name = "Do not attend the ceremony"
+		set_variable = { 
+			which = revolution_progress
+			value = 0
+		}
 		prestige = -5
 		capital_scope = {
 			any_pop = {
