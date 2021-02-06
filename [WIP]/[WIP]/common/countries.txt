@@ -149,6 +149,9 @@ MTF		        ="countries/Tafilalt.txt"
 ZYD		        ="countries/Zayyanids.txt"
 MZB		        ="countries/Mzab.txt"
 BBB		        ="countries/Beni Abbas.txt"
+TBT		        ="countries/Tibesti.txt"
+FTM		        ="countries/Fatimid.txt"
+AZH		        ="countries/Anizzah.txt"
 
 ##HFM New Nations
 #ATB	= "countries/Saxe-Altenburg.txt"

@@ -668,7 +668,7 @@ political_decisions = {
 				literacy = 0.45
 			}
 			any_pop = {
-				limit = { has_pop_culture = western_slavic has_pop_religion = protestant }
+				limit = { has_pop_culture = veleti has_pop_religion = protestant }
 				literacy = 0.1
 			}
 			any_pop = {
@@ -885,25 +885,6 @@ political_decisions = {
 				diplomatic_influence = { who = BDN value = -400 }
 			}
 			
-			TUR_860 = {
-				add_core = ANT
-			}
-			TUR_863 = {
-				add_core = ANT
-			}
-			TUR_869 = {
-				add_core = ANT
-			}
-			881 = {
-				add_core = ANT
-			}
-			880 = { 
-				add_core = ANT
-			}
-			
-			TUR_809 = {
-				add_core = RUM
-			}
 			diplomatic_influence = { who = SAM value = 400 }
 			SAM = {
 				any_pop = { limit = { culture = greek } literacy = 0.07 }
@@ -933,7 +914,7 @@ political_decisions = {
 			any_pop = {
 				limit = { 
 					NOT = { has_pop_religion = sunni } 
-					OR = { has_pop_culture = ashkenazi has_pop_culture = sephardic }
+					OR = { has_pop_religion = jewish }
 				}
 			literacy = 0.2
 			}
@@ -958,35 +939,35 @@ political_decisions = {
 			any_pop = {
 				limit = {
 					OR = {
-						has_pop_culture = turkish 
 						has_pop_culture = persian 
-						has_pop_culture = azerbaijani 
-						has_pop_culture = circassian 
-						has_pop_culture = chechen 
+						has_pop_culture = adari 
 						has_pop_culture = armenian
+						has_pop_culture = greek
+						has_pop_culture = georgian
 					} 
 				}
-				literacy = 0.02
+				literacy = 0.2
 			}
 			
 			any_pop = {
 				limit = {
 					NOT = { has_pop_religion = sunni } 
-					OR = { has_pop_culture = ashkenazi has_pop_culture = sephardic }
+					OR = { has_pop_religion = jewish }
 				}
-			literacy = 0.2
+			literacy = 0.5
 			}
 			
 			any_pop = { limit = { is_culture_group = arab } literacy = 0.01 }
-			any_pop = { limit = { has_pop_religion = catholic NOT = { has_pop_culture = assyrian } } literacy = 0.01 }
-			any_pop = { limit = { has_pop_culture = greek } literacy = 0.07 }
+			any_pop = { limit = { has_pop_religion = catholic NOT = { has_pop_culture = assyrian } } literacy = 0.1 }
+			any_pop = { limit = { has_pop_culture = azeri } literacy = 0.01 }
+			any_pop = { limit = { has_pop_culture = turkish } literacy = 0.01 }
 		}
 	}
 	
 	persia_1836_setup = {
 		picture = constantinople
 		potential = {
-			tag = PER
+			tag = TIM
 			always = no
 		}
 		
@@ -996,21 +977,21 @@ political_decisions = {
 		
 		effect = {
 			any_pop = {
-				limit = { OR = { has_pop_culture = turkish has_pop_culture = circassian has_pop_culture = chechen } }
-				literacy = 0.02
+				limit = { OR = { has_pop_culture = azeri has_pop_culture = circassian has_pop_culture = chechen } }
+				literacy = 0.01
 			}
 			
 			any_pop = {
 				limit = { 
 					NOT = { has_pop_religion = sunni } 
-					OR = { has_pop_culture = ashkenazi has_pop_culture = sephardic }
+					OR = { has_pop_religion = jewish }
 				}
 				literacy = 0.1
 			}
 			
 			any_pop = { limit = { has_pop_culture = baluchi } literacy = -0.02 }
 			
-			any_pop = { limit = { OR = { has_pop_culture = georgian has_pop_culture = armenian } } literacy = 0.03 }
+			any_pop = { limit = { OR = { has_pop_culture = georgian has_pop_culture = armenian } } literacy = 0.02 }
 			
 			any_pop = { limit = { is_culture_group = arab } literacy = 0.01 }
 			any_pop = { limit = { has_pop_religion = catholic NOT = { has_pop_culture = assyrian } } literacy = 0.01 }
@@ -1035,8 +1016,6 @@ political_decisions = {
 			1008 = { any_pop = { literacy = 0.1 } }
 			994 = { any_pop = { literacy = 0.1 } }
 			any_pop = { limit = { has_pop_culture = ashkenazi } literacy = 0.54 }
-			any_pop = { limit = { has_pop_culture = volga_german } literacy = 0.4 }
-			any_pop = { limit = { has_pop_culture = south_italian } literacy = 0.15 }
 			any_pop = { limit = { has_pop_culture = mongol } literacy = 0.01 }
 			any_pop = {
 				limit = {
@@ -1048,18 +1027,6 @@ political_decisions = {
 					} 
 				}
 				literacy = 0.49
-			}
-			any_pop = {
-				limit = {
-					has_pop_culture = volga_german
-					location = { 
-						OR = {
-							province_id = 1037 
-							is_core = UKR
-						}
-					}
-				}
-				literacy = -0.2
 			}
 			any_pop = {
 				limit = {

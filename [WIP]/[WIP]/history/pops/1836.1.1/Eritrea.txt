@@ -29,7 +29,7 @@
 	farmers = {
 		culture = tigray
 		religion = sunni
-		size = 2700
+		size = 4300
 	}
 
 	bureaucrats = {
@@ -45,33 +45,33 @@
 	}
 
 	aristocrats = {
-		culture = bedouin
+		culture = hejazi_arabic
 		religion = sunni
 		size = 75
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = hejazi_arabic
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = hejazi_arabic
 		religion = sunni
 		size = 200
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = hejazi_arabic
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = hejazi_arabic
 		religion = sunni
-		size = 3600
+		size = 2000
 	}
 }
 #Assab (44000/11000 POPS)  
@@ -103,7 +103,13 @@
 	farmers = {
 		culture = tigray
 		religion = sunni
-		size = 6375
+		size = 2375
+	}
+	
+	farmers = {
+		culture = yemeni_arabic
+		religion = sunni
+		size = 1375
 	}
 
 	aristocrats = {
@@ -127,13 +133,13 @@
 	soldiers = {
 		culture = afar
 		religion = sunni
-		size = 50
+		size = 350
 	}
 
 	farmers = {
 		culture = afar
 		religion = sunni
-		size = 3600
+		size = 4300
 	}
 }
 #under the rule of Ethiopia in 1836  

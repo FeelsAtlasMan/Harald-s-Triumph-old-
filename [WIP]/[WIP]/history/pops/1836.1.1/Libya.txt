@@ -81,13 +81,13 @@
 	}
 
 	clergymen = {
-		culture = sephardic
+		culture = judeo_arabic
 		religion = jewish
 		size = 25
 	}
 
 	artisans = {
-		culture = sephardic
+		culture = judeo_arabic
 		religion = jewish
 		size = 1475
 	}
@@ -229,13 +229,13 @@
 	}
 
 	clergymen = {
-		culture = sephardic
+		culture = judeo_arabic
 		religion = jewish
 		size = 10
 	}
 
 	artisans = {
-		culture = sephardic
+		culture = judeo_arabic
 		religion = jewish
 		size = 490
 	}
@@ -391,13 +391,13 @@
 	}
 
 	clergymen = {
-		culture = sephardic
+		culture = judeo_arabic
 		religion = jewish
 		size = 5
 	}
 
 	artisans = {
-		culture = sephardic
+		culture = judeo_arabic
 		religion = jewish
 		size = 245
 	}
@@ -639,33 +639,33 @@
 2585 = {
 
 	aristocrats = {
-		culture = bedouin
+		culture = libi
 		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = libi
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = libi
 		religion = sunni
 		size = 150
 	}
 	
 	soldiers = {
-		culture = bedouin
+		culture = libi
 		religion = sunni
 		size = 1100
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = libi
 		religion = sunni
-		size = 1650
+		size = 2650
 	}
 
 	aristocrats = {
@@ -765,7 +765,7 @@
 	farmers = {
 		culture = libi
 		religion = sunni
-		size = 880
+		size = 2280
 	}
 
 	aristocrats = {
@@ -795,7 +795,7 @@
 	farmers = {
 		culture = tuareg
 		religion = sunni
-		size = 1875
+		size = 275
 	}
 
 	slaves = {
@@ -837,39 +837,111 @@
 	}
 
 	aristocrats = {
-		culture = bedouin
+		culture = libi
 		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = libi
 		religion = sunni
 		size = 25
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = libi
 		religion = sunni
 		size = 100
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = libi
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = libi
 		religion = sunni
-		size = 1875
+		size = 2275
 	}
 
 	slaves = {
 		culture = teda
 		religion = sunni
-		size = 500
+		size = 100
+	}
+}
+
+#Sabha (14000/3500 POPS)
+3413 = {
+	aristocrats = {
+		culture = libi
+		religion = sunni
+		size = 15
+	}
+
+	clergymen = {
+		culture = libi
+		religion = sunni
+		size = 25
+	}
+
+	artisans = {
+		culture = libi
+		religion = sunni
+		size = 50
+	}
+
+	soldiers = {
+		culture = libi
+		religion = sunni
+		size = 10
+	}
+
+	farmers = {
+		culture = libi
+		religion = sunni
+		size = 300
+	}
+}
+
+#Sabha (14000/3500 POPS)
+3412 = {
+	aristocrats = {
+		culture = libi
+		religion = sunni
+		size = 15
+	}
+
+	clergymen = {
+		culture = libi
+		religion = sunni
+		size = 25
+	}
+
+	artisans = {
+		culture = libi
+		religion = sunni
+		size = 50
+	}
+
+	soldiers = {
+		culture = libi
+		religion = sunni
+		size = 10
+	}
+
+	farmers = {
+		culture = libi
+		religion = sunni
+		size = 300
+	}
+	
+	farmers = {
+		culture = tuareg
+		religion = sunni
+		size = 150
 	}
 }
 
@@ -902,7 +974,7 @@
 	farmers = {
 		culture = libi
 		religion = sunni
-		size = 2650
+		size = 1650
 	}
 
 	aristocrats = {
@@ -932,7 +1004,7 @@
 	farmers = {
 		culture = tuareg
 		religion = sunni
-		size = 1800
+		size = 2800
 	}
 
 	slaves = {

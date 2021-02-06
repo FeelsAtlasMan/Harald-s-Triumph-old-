@@ -1,9 +1,7 @@
-owner = KTH
-controller = KTH
-add_core = KTH
+owner = NYE
+controller = NYE
+add_core = NYE
 add_core = MHR
-add_core = FDL
-add_core = LHJ
 trade_goods = opium
 life_rating = 32
 terrain = semidesert

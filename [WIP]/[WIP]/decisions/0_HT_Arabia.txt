@@ -1,0 +1,210 @@
+political_decisions = {
+	reestablish_fatimids = {
+	    picture = "egypt"
+		potential = {
+			tag = NYE
+			FTM = { exists = no }
+		}
+		
+		allow = {
+			HDJ_1151 = { owned_by = THIS }
+			war = no
+		}
+		effect = {
+			change_tag = FTM
+			HDJ_1151 = { add_core = THIS }
+			EGY_908 = { add_core = THIS }
+			EGY_921 = { add_core = THIS }
+			EGY_1755 = { add_core = THIS }
+			EGY_1751 = { add_core = THIS }
+			EGY_1745 = { add_core = THIS }
+			EGY_1762 = { add_core = THIS }
+			EGY_1758 = { add_core = THIS }
+			EGY_1771 = { add_core = THIS }
+			TRI_1735 = { add_core = THIS }
+			prestige = 20
+		}
+		
+	}
+	
+	#Iraq
+	claim_upper_euphrates = {
+	    picture = "map_iraq"
+		potential = {
+			tag = IRQ
+			NOT = { has_country_flag = claimed_urfa }
+		}
+		
+		allow = {
+			IRQ = { all_core = { owned_by = THIS } }
+			war = no
+			is_vassal = no
+		}
+		effect = {
+			URF_920 = { add_core = THIS }
+			TUR_893 = { add_core = THIS }
+			TUR_923 = { add_core = THIS }
+			prestige = 5
+			badboy = 5
+			set_country_flag = claimed_urfa
+		}
+		ai_will_do = {
+		    factor = 1
+			modifier = {
+			     factor = 0
+				 badboy = 0.75
+			}
+		}
+	}
+	
+	end_anizzah_raids = {
+	    picture = "map_arabia"
+		potential = {
+			tag = IRQ
+			has_country_flag = claimed_urfa
+			NOT = { has_country_flag = ended_anizzah_raids }
+		}
+		
+		allow = {
+			IRQ = { all_core = { owned_by = THIS } }
+			war = no
+			is_vassal = no
+		}
+		effect = {
+			AZH = { all_core = { add_core = THIS } }
+			badboy = 2
+			set_country_flag = ended_anizzah_raids
+		}
+		ai_will_do = {
+		    factor = 1
+			modifier = {
+			     factor = 0
+				 badboy = 0.75
+			}
+		}
+	}
+	
+	claim_al_sham = {
+	    picture = "map_arabia"
+		potential = {
+			tag = IRQ
+			has_country_flag = ended_anizzah_raids
+			NOT = { has_country_flag = claimed_levante }
+		}
+		
+		allow = {
+			IRQ = { all_core = { owned_by = THIS } }
+			war = no
+			is_vassal = no
+		}
+		effect = {
+			SYR = { all_core = { add_core = THIS } }
+			badboy = 8
+			set_country_flag = claimed_levante
+		}
+		ai_will_do = {
+		    factor = 1
+			modifier = {
+			     factor = 0
+				 badboy = 0.75
+			}
+		}
+	}
+	
+	push_to_taurus = {
+	    picture = "map_arabia"
+		potential = {
+			tag = IRQ
+			has_country_flag = claimed_levante
+			NOT = { has_country_flag = claimed_cilicia }
+		}
+		
+		allow = {
+			IRQ = { all_core = { owned_by = THIS } }
+			war = no
+			is_vassal = no
+		}
+		effect = {
+			TUR_894 = { all_core = { add_core = THIS } }
+			badboy = 4
+			set_country_flag = claimed_cilicia
+		}
+		ai_will_do = {
+		    factor = 1
+			modifier = {
+			     factor = 0
+				 badboy = 0.75
+			}
+		}
+	}
+	
+	#Expend into Sudan
+	sudan_expedition = {
+	    picture = "sudan_map"
+		potential = {
+			tag = IRQ
+			has_country_flag = claimed_levante
+			NOT = { has_country_flag = claimed_cilicia }
+		}
+		
+		allow = {
+			IRQ = { all_core = { owned_by = THIS } }
+			war = no
+			is_vassal = no
+		}
+		effect = {
+			TUR_894 = { all_core = { add_core = THIS } }
+			badboy = 4
+			set_country_flag = claimed_cilicia
+		}
+		ai_will_do = {
+		    factor = 1
+			modifier = {
+			     factor = 0
+				 badboy = 0.75
+			}
+		}
+	}
+	
+	#Claim Deserts
+	claim_palmyra = {
+	    picture = "map_arabia"
+		potential = {
+			OR = {
+			   904 = { owned_by = THIS }
+			   903 = { owned_by = THIS }
+			   897 = { owned_by = THIS }
+			   920 = { owned_by = THIS }
+			   3282 = { owned_by = THIS }
+			}
+			NOT = { has_country_flag = claimed_palmyra }
+		}
+		
+		allow = {
+			OR = {
+			  AND = {
+			    904 = { owned_by = THIS }
+			    903 = { owned_by = THIS }
+			    897 = { owned_by = THIS }
+			  }
+			  AND = {
+			    903 = { owned_by = THIS }
+			    897 = { owned_by = THIS }
+			    920 = { owned_by = THIS }
+			    3282 = { owned_by = THIS }
+			  }
+			}
+			war = no
+			is_vassal = no
+			medicine = 1
+		}
+		effect = {
+			907 = { secede_province = THIS }
+			prestige = 5
+			set_country_flag = claimed_palmyra
+		}
+		ai_will_do = {
+		    factor = 1
+		}
+	}
+}

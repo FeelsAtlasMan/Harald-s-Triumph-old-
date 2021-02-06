@@ -171,8 +171,8 @@ BRB_communist;Brabantiske Revolutionspartie;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 BRB_fascist;Nationalsotialistiske Partie;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 ALN;Alania;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 ALN_ADJ;Alanian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-URF;Urfa;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-URF_ADJ;Urfan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+URF;Milan Federation;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+URF_ADJ;Milani;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 CAL_colonial_company;West Coast Company;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 CAL;New Scotland;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 CAL_ADJ;Scottish;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
@@ -814,3 +814,22 @@ MTF_ADJ;Tafilaltian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 TMB;Timbuktu;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 TMB_colonial_company;Pashalik of Timbuktu;;;;;;;;;;;;x
 TRZ_ADJ;Timbuktian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TBT;Tibesti;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TBT_ADJ;Tibestian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+FTM;Fatimid Caliphate;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+FTM_ADJ;Fatimid;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+NYE;North Yemen;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+NYE_absolute_monarchy;Qasimids;;;;;;;;;;;;x
+NYE_hms_government;Qasimids;;;;;;;;;;;;x
+NYE_prussian_constitutionalism;Qasimids;;;;;;;;;;;;x
+NYE_ADJ;Qasimid;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+AZH;Anizzah;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+AZH_absolute_monarchy;Anizzah Sheikhdom;;;;;;;;;;;;x
+AZH_hms_government;Anizzah Sheikhdom;;;;;;;;;;;;x
+AZH_prussian_constitutionalism;Anizzah Sheikhdom;;;;;;;;;;;;x
+AZH_ADJ;Anizzah;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+SYR;Sham;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+SYR_absolute_monarchy;Sham;;;;;;;;;;;;x
+SYR_hms_government;Sham;;;;;;;;;;;;x
+SYR_prussian_constitutionalism;Sham;;;;;;;;;;;;x
+SYR_ADJ;Shami;;;;;;;;;;;;;;x;;;;;;;;;;;;;;

@@ -22,18 +22,14 @@ country_event = {
 	}
 	
 	immediate = {
-		set_variable = { 
-			which = revolution_progress
-			value = 0
-		}
 	}
 	
 	option = {
 		name = "Make a speech among the crowd"
 		prestige = -20
-		set_variable = { 
+		set_variable = {
 			which = revolution_progress
-			value = 0
+			value = -1
 		}
 		capital_scope = {
 			any_pop = {
@@ -55,18 +51,18 @@ country_event = {
 				consciousness = -1
 			}
 		}
-		change_variable = {
-			which = revolution_progress
-			value = -1
-		}
+		#change_variable = {
+		#	which = revolution_progress
+		#	value = -1
+		#}
 		ai_chance = { factor = 0 }
 	}
 	
 	option = {
 		name = "Make a speech from the University balcony"
-		set_variable = { 
+		set_variable = {
 			which = revolution_progress
-			value = 0
+			value = 1
 		}
 		capital_scope = {
 			any_pop = {
@@ -88,18 +84,18 @@ country_event = {
 				consciousness = 1
 			}
 		}
-		change_variable = {
-			which = revolution_progress
-			value = 1
-		}
+		#change_variable = {
+		#	which = revolution_progress
+		#	value = 1
+		#}
 		ai_chance = { factor = 1 }
 	}
 	
 	option = {
 		name = "Do not attend the ceremony"
-		set_variable = { 
+		set_variable = {
 			which = revolution_progress
-			value = 0
+			value = 2
 		}
 		prestige = -5
 		capital_scope = {
@@ -122,10 +118,10 @@ country_event = {
 				consciousness = 1
 			}
 		}
-		change_variable = {
-			which = revolution_progress
-			value = 2
-		}
+		#change_variable = {
+		#	which = revolution_progress
+		#	value = 2
+		#}
 		ai_chance = { factor = 0 }
 	}
 }

@@ -7,7 +7,7 @@ ojibwe;Ojiwbe;;;;;;;;;;;;;x
 shawnee;Shawnee;;;;;;;;;;;;;x
 dakota;Sioux;;;;;;;;;;;;;x
 mexicain;Mexicain;;;;;;;;;;;;;x
-azeri;Azerler;;;;;;;;;;;;;x
+azeri;Azeri;;;;;;;;;;;;;x
 adari;Adari;;;;;;;;;;;;;x
 illinois;Illinewek;;;;;;;;;;;;;x
 vinlander;Vinlandian;;;;;;;;;;;;;x
@@ -35,7 +35,7 @@ norn;Norn;;;;;;;;;;;;;x
 ukrainian;Ruthenian;;;;;;;;;;;;;x
 janubi;Janubi;;;;;;;;;;;;;x
 swiss_german;Central German;;;;;;;;;;;;;x
-turkish;Rumler;;;;;;;;;;;;;x
+turkish;Rumi;;;;;;;;;;;;;x
 north_german;Lower German;;;;;;;;;;;;;x
 south_german;Upper German;;;;;;;;;;;;;x
 norman;Normaund;;;;;;;;;;;;x
@@ -189,4 +189,22 @@ persian;Farsi;;;;;;;;;;;;x
 moghol;Moghol;;;;;;;;;;;;x
 rumi;Greco-Turkish;;;;;;;;;;;;x
 kashmiri;Dardic;;;;;;;;;;;;x
+levantine;Shami;;;;;;;;;;;;x
+mashriqi;Iraqi;;;;;;;;;;;;x
+najdi_arabic;Najdi;;;;;;;;;;;;x
+gulf_arabic;Khaliji;;;;;;;;;;;;x
+hejazi_arabic;Hijazi;;;;;;;;;;;;x
+mehri;Mehri;;;;;;;;;;;;x
+yemeni_arabic;Yemeni;;;;;;;;;;;;x
+hobyot;Hobyot;;;;;;;;;;;;x
+jibbali;Jibbali;;;;;;;;;;;;x
+bathari;Bathari;;;;;;;;;;;;x
+harsusi;Harsusi;;;;;;;;;;;;x
+soqotri;Soqotri;;;;;;;;;;;;x
+bedouin;Badawi;;;;;;;;;;;;x
+khuzestani;Khuzestani;;;;;;;;;;;;x
+assyrian;Neo-Aramaic;;;;;;;;;;;;x
+judeo_arabic;Judeo-Arabic;;;;;;;;;;;;x
+saidi_arabic;Sa'idi;;;;;;;;;;;;x
+yunani;Yunani;;;;;;;;;;;;x
 cappadocian;Cappadocian Greek;;;;;;;;;;;;x

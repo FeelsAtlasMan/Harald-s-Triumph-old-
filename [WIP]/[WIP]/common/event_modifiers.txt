@@ -1981,7 +1981,8 @@ rally_tribesmen = {
 
 timurid_collapse = {
 	supply_consumption = 1.8
-	tax_efficiency = -0.4
+	tax_efficiency = -0.8
+	mobilisation_size = -1.0
 	icon = 17
 }
 

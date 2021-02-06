@@ -5,4 +5,5 @@ add_core = ASY
 add_core = IRQ
 trade_goods = grain
 life_rating = 35
+terrain = semidesert
 colonial = 2

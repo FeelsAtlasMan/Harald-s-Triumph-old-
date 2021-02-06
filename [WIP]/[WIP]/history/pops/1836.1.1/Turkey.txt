@@ -4934,19 +4934,37 @@
 	artisans = {
 		culture = turkish
 		religion = sunni
-		size = 550
+		size = 400
 	}
 
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size = 4000
+		size = 3600
 	}
 
 	farmers = {
 		culture = turkish
 		religion = sunni
-		size = 16375
+		size = 14000
+	}
+	
+	artisans = {
+		culture = levantine
+		religion = sunni
+		size = 150
+	}
+
+	soldiers = {
+		culture = levantine
+		religion = sunni
+		size = 400
+	}
+
+	farmers = {
+		culture = levantine
+		religion = sunni
+		size = 2375
 	}
 	
 	clergymen = {
@@ -5030,7 +5048,7 @@
 	farmers = {
 		culture = armenian
 		religion = coptic
-		size = 20075
+		size = 15075
 	}
 }
 #Mersin (96000/24000 POPS)
@@ -5163,6 +5181,24 @@
 		size = 13400
 	}
 	
+	artisans = {
+		culture = levantine
+		religion = sunni
+		size = 20
+	}
+
+	soldiers = {
+		culture = levantine
+		religion = sunni
+		size = 525
+	}
+
+	farmers = {
+		culture = levantine
+		religion = sunni
+		size = 3400
+	}
+	
 	clergymen = {
 		culture = cappadocian
 		religion = orthodox
@@ -5234,37 +5270,37 @@
 #Antep (248000/62000 POPS)
 898 = {
 	aristocrats = {
-		culture = turkish
+		culture = azeri
 		religion = sunni
 		size = 450
 	}
 
 	clergymen = {
-		culture = turkish
+		culture = azeri
 		religion = sunni
 		size = 350
 	}
 
 	artisans = {
-		culture = turkish
+		culture = azeri
 		religion = sunni
 		size = 150
 	}
 
 	soldiers = {
-		culture = turkish
+		culture = azeri
 		religion = sunni
 		size = 3000
 	}
 
 	soldiers = {
-		culture = turkish
+		culture = azeri
 		religion = sunni
 		size = 425
 	}
 
 	farmers = {
-		culture = turkish
+		culture = azeri
 		religion = sunni
 		size = 8025
 	}
@@ -5296,13 +5332,13 @@
 	farmers = {
 		culture = kurmanji
 		religion = sunni
-		size = 20525
+		size = 15525
 	}
 	
 	farmers = {
 		culture = mashriqi
 		religion = sunni
-		size = 8000
+		size = 19000
 	}
 	
 	soldiers = {
@@ -5326,7 +5362,7 @@
 	farmers = {
 		culture = armenian
 		religion = coptic
-		size = 15425
+		size = 9425
 	}
 }
 #Urfa (348000/87000 POPS)
@@ -5454,33 +5490,39 @@
 #Antioch (160000/40000 POPS)
 900 = {
 	aristocrats = {
-		culture = turkish
+		culture = kurmanji
 		religion = sunni
 		size = 270
 	}
 
 	clergymen = {
-		culture = turkish
+		culture = kurmanji
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = turkish
+		culture = kurmanji
 		religion = sunni
 		size = 300
 	}
 
 	soldiers = {
-		culture = turkish
+		culture = kurmanji
 		religion = sunni
-		size = 225
+		size = 825
 	}
 
 	farmers = {
+		culture = kurmanji
+		religion = sunni
+		size = 6025
+	}
+	
+	farmers = {
 		culture = turkish
 		religion = sunni
-		size = 7025
+		size = 425
 	}
 	
 	aristocrats = {
@@ -5508,51 +5550,51 @@
 	}
 
 	aristocrats = {
-		culture = mashriqi
+		culture = levantine
 		religion = sunni
 		size = 200
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = levantine
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = levantine
 		religion = sunni
 		size = 300
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = levantine
 		religion = sunni
 		size = 175
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = levantine
 		religion = sunni
-		size = 3975
+		size = 7975
 	}
 
 	clergymen = {
-		culture = assyrian
+		culture = levantine
 		religion = coptic
 		size = 75
 	}
 
 	artisans = {
-		culture = assyrian
+		culture = levantine
 		religion = coptic
 		size = 450
 	}
 
 	farmers = {
-		culture = assyrian
+		culture = levantine
 		religion = coptic
-		size = 8475
+		size = 4475
 	}
 
 	clergymen = {
@@ -5574,19 +5616,19 @@
 	}
 	
 	clergymen = {
-		culture = mashriqi
+		culture = levantine
 		religion = shiite
 		size = 100
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = levantine
 		religion = shiite
 		size = 550
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = levantine
 		religion = shiite
 		size = 5500
 	}

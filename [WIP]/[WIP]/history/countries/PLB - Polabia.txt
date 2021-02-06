@@ -1,5 +1,5 @@
 capital = 544
-primary_culture = western_slavic
+primary_culture = veleti
 culture = kashubian
 culture = sorbian
 religion = protestant
