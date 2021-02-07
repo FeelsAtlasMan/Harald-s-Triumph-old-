@@ -687,6 +687,7 @@ reconquesta = {
 			}
 		}
 		NOT = { has_country_modifier = neutrality }
+		THIS = { has_global_flag = iberian_failure }		
 		NOT = { in_sphere = THIS }
 		THIS = { NOT = { has_country_modifier = neutrality } }
 		OR = {
