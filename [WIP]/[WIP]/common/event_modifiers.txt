@@ -3314,6 +3314,7 @@ sajungos_judejimas = {
 	supply_consumption = -0.15
 	icon = 7
 }
+
 huit_regles_du_commerce = {
 	tariff_efficiency_modifier = 0.15
 	tax_efficiency = 0.1
