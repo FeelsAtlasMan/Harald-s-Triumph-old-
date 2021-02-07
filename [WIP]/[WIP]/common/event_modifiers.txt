@@ -3320,3 +3320,10 @@ huit_regles_du_commerce = {
 	min_tariff = 0.15
 	icon = 9
 }
+
+algaravian_revolution = {
+	mobilisation_size = 0.02
+	supply_consumption = -0.2
+	war_exhaustion = -0.25
+	icon = 16
+}
