@@ -189,7 +189,7 @@ TUA_ADJ;Tuareg;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 KJP;Kirisuto Japan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 KJP_ADJ;Japanese;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 ANU;Andalusia;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-ANU_colonial_company;Pashalik of Al-Andalus;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+ANU_colonial_company;Wilaya of Al-Andalus;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 ANU_ADJ;Andalusian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 KOK;Argyn Zhuz;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 KOK_absolute_monarchy;Argyn Zhuz;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
@@ -812,7 +812,7 @@ MZB_ADJ;Mzabian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 MTF;Tafilalt;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 MTF_ADJ;Tafilaltian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 TMB;Timbuktu;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-TMB_colonial_company;Pashalik of Timbuktu;;;;;;;;;;;;x
+TMB_colonial_company;Wilaya of Timbuktu;;;;;;;;;;;;x
 TRZ_ADJ;Timbuktian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 TBT;Tibesti;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 TBT_ADJ;Tibestian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;

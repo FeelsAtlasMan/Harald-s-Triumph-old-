@@ -293,7 +293,7 @@ country_event = {
         }
 		
 	    mean_time_to_happen = {
-		months = 4
+		months = 3
 	    }
 
         option = {
@@ -325,7 +325,7 @@ country_event = {
            TIM = { release = KDS }
 		   KDS = { country_event = 60160 }
 		   KDS = { inherit = URF }		
-           change_tag_no_core_switch = IRQ			   
+           change_tag_no_core_switch = KDS			   
 	   }
 	   
 	   option = {
@@ -336,7 +336,7 @@ country_event = {
            TIM = { release = KDS }
 		   KDS = { country_event = 60160 }
 		   KDS = { inherit = URF }  
-		   change_tag_no_core_switch = KDS
+		   change_tag_no_core_switch = IRQ
 	   }
 }
 
@@ -536,7 +536,8 @@ country_event = {
 		   release_vassal = SVA
 		   release_vassal = ABK
 		   release_vassal = HNZ
-		   1054 = { secede_province = ALN }		
+		   1054 = { secede_province = ALN }	
+           1146 = { secede_province = MAK }		   
            1594 = { secede_province = UYG }		
            2664 = { secede_province = OMA }
            1212 = { secede_province = KHR }

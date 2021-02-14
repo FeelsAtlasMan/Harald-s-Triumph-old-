@@ -460,7 +460,7 @@ country_event = {
 }
 country_event = {
 	id = 178911
-	title = "Versailles Incident" #Liberals force the king to move to Paris
+	title = "Versailles Incident" #Liberalas force the king to move to Paris
 	desc = "EVTDESC178905"
 	picture = "lithuanian_uprising"
 	major = yes

@@ -318,9 +318,9 @@ political_decisions = {
 			is_greater_power = yes
 			NOT = { has_global_flag = white_sea_canal_global }
 			NOT = { is_canal_enabled = 7 }
+			owns = 3361
 		}
 		allow = {
-			owns = 3361
 			invention = machine_tools
 			invention = nitroglycerin		
 			iron_steamers = 1
