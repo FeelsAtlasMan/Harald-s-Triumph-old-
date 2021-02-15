@@ -43,7 +43,11 @@ political_decisions = {
 		}
 		
 		effect = {
-			IRQ = { all_core = { add_core = THIS } }
+			3282 = { add_core = THIS } 
+			TUR_923 = { add_core = THIS }
+			TUR_931 = { add_core = THIS }
+			TUR_935 = { add_core = THIS }
+			TUR_935 = { add_core = THIS }
             LUR = { all_core = { add_core = THIS } }
 			badboy = 8
 			set_country_flag = claimed_iraq
@@ -352,7 +356,7 @@ political_decisions = {
 	unite_uzbeks = {
 	    picture = "become_uzbekistan"
 		potential = {
-		    AND = {
+		    OR = {
 			primary_culture = uzbek	
 			primary_culture = sart	
             primary_culture = badakhshani				
