@@ -26,7 +26,12 @@ substate = {
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }
-
+vassal = {
+	first = BOH
+	second = CPL
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
 vassal = {
 	first = TIM
 	second = KWT

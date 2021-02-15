@@ -16,71 +16,9 @@ political_decisions = {
 			}
 		
 			allow = {
-				NOT = { war = yes }
+				war = no
 				prestige = 40
-				OR = {
-				MUS = {
-					all_core = {
-						OR = {
-							owned_by = THIS
-							owner = {
-								in_sphere = THIS
-							}
-						}
-					}
-				}
-				MSS = {
-					all_core = {
-						OR = {
-							owned_by = THIS
-							owner = {
-								in_sphere = THIS
-							}
-						}
-					}
-				}
-				}
-				SMK = {
-					all_core = {
-						OR = {
-							owned_by = THIS
-							owner = {
-								in_sphere = THIS
-							}
-						}
-					}
-				}
-				UKR = {
-					all_core = {
-						OR = {
-							owned_by = THIS
-							owner = {
-								in_sphere = THIS
-							}
-						}
-					}
-				}
-				MNK = {
-					all_core = {
-						OR = {
-							owned_by = THIS
-							owner = {
-								in_sphere = THIS
-							}
-						}
-					}
-				}
-				GLM = {
-					all_core = {
-						OR = {
-							owned_by = THIS
-							owner = {
-								in_sphere = THIS
-							}
-						}
-					}
-				}
-				NOV = {
+				RUS = {
 					all_core = {
 						OR = {
 							owned_by = THIS

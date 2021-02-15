@@ -3328,3 +3328,10 @@ algaravian_revolution = {
 	war_exhaustion = -0.25
 	icon = 16
 }
+
+magiarisation = {
+	global_assimilation_rate = 0.2
+	supply_consumption = 0.05
+	min_social_spending = 0.2
+	icon = 7
+}

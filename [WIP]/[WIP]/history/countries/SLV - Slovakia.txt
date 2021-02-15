@@ -1,4 +1,4 @@
-capital = 633
+capital = 635
 primary_culture = slovak
 culture = czech
 religion = catholic

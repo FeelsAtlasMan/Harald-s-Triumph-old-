@@ -44,6 +44,12 @@ political_decisions = {
 				annex_to = THIS
 			}
 			change_tag = WSF
+			add_accepted_culture = czech
+			add_accepted_culture = slovak
+			add_accepted_culture = polish
+			add_accepted_culture = sorbian
+			add_accepted_culture = veleti
+			add_accepted_culture = kashubian
 			prestige = 60
 		}
 		ai_will_do = { factor = 1 }
@@ -285,5 +291,68 @@ political_decisions = {
 			change_tag = ENG
 		}
 		ai_will_do = { factor = 1 }
+	}
+	
+	restore_poland = {
+		picture = become_poland
+		potential = {
+			primary_culture = polish
+			NOT = { POL = { exists = yes } }
+			NOT = { tag = WSF }
+		}
+		allow = {
+			war = no
+			is_vassal = no
+			706 = {
+				OR = {
+					owned_by = THIS
+					owner = {
+						OR = {
+							vassal_of = THIS
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+			703 = {
+				OR = {
+					owned_by = THIS
+					owner = {
+						OR = {
+							vassal_of = THIS
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+			699 = {
+				OR = {
+					owned_by = THIS
+					owner = {
+						OR = {
+							vassal_of = THIS
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+		}
+		effect = {
+			any_country = {
+				limit = {
+					primary_culture = polish
+					OR = {
+						vassal_of = THIS
+						in_sphere = THIS
+					}
+				}
+				annex_to = THIS
+			}
+			all_core = {
+				add_core = POL
+				remove_core = THIS
+			}
+			change_tag = POL
+		}
 	}
 }

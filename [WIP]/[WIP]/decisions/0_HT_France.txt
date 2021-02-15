@@ -52,4 +52,21 @@ political_decisions = {
 			}
 		}
 	}
+	
+	setup_france = {
+		potential = {
+			tag = FRA
+			NOT = { has_country_flag = setup_france }
+		}
+		allow = {
+			always = no
+		}
+		effect = {
+			set_country_flag = setup_france
+			set_variable = {
+				which = revolution_progress_FRA
+				value = 2
+			}
+		}
+	}
 }
