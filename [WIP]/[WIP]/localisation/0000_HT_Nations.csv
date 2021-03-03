@@ -278,7 +278,7 @@ UKR_ADJ;Kievian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 VEN;Venice;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 VEN_ADJ;Venetian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 SIC;Naples;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-SIC_ADJ;Naples;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+SIC_ADJ;Neapolitan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 BSQ;Basque Country;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 BSQ_absolute_monarchy;Navarra;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 BSQ_hms_government;Navarra;;;;;;;;;;;;x
@@ -876,3 +876,36 @@ VGR_reactionary_78;Reactionaries;Reactionaries;Reactionaries;;;;;;;;;;;x;
 VGR_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
 VGR_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
 VGR_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
+ANC;Ancona;;;;;;;;;;;;x
+ANC_ADJ;Anconan;;;;;;;;;;;;x
+ANC_democracy;Republic of Ancona;;;;;;;;;;;;x
+SWI;Milan;;;;;;;;;;;;x
+SWI_democracy;Golden Ambrosian Republic;;;;;;;;;;;;x
+SWI_ADJ;Ambrosian;;;;;;;;;;;;x
+SNA;Siena;;;;;;;;;;;;x
+SNA_ADJ;Sienese;;;;;;;;;;;;x
+SNA_democracy;Republic of Siena;;;;;;;;;;;;x
+TUS;Florence;;;;;;;;;;;;x
+TUS_ADJ;Florentine;;;;;;;;;;;;x
+TUS_democracy;Florentine Republic;;;;;;;;;;;;x
+ABA;Alba;;;;;;;;;;;;x
+ABA_ADJ;Alban;;;;;;;;;;;;x
+FRR;Ferrara;;;;;;;;;;;;x
+FRR_ADJ;Ferraran;;;;;;;;;;;;x
+MTU;Mantua;;;;;;;;;;;;x
+MTU_ADJ;Mantuan;;;;;;;;;;;;x
+MTU_absolute_monarchy;The Duchy of Mantua;;;;;;;;;;;;x
+MTU_prussian_constitutionalism;The Duchy of Mantua;;;;;;;;;;;;x
+MTU_hms_government;The Duchy of Mantua;;;;;;;;;;;;x
+RGU;Ragusa;;;;;;;;;;;;x
+RGU_democracy;Republic of Ragusa;;;;;;;;;;;;x
+RGU_ADJ;Ragusan;;;;;;;;;;;;x
+NLI;Noli;;;;;;;;;;;;x
+NLI_democracy;The Republic of Noli;;;;;;;;;;;;x
+NLI_ADJ;Nolian;;;;;;;;;;;;x
+ATI;Asti;;;;;;;;;;;;x
+ATI_ADJ;Astese;;;;;;;;;;;;x
+MFT;Montferrat;;;;;;;;;;;;x
+MFT_ADJ;Montferratese;;;;;;;;;;;;x
+PVI;Pavia;;;;;;;;;;;;x
+PVI_ADJ;Pavian;;;;;;;;;;;;x

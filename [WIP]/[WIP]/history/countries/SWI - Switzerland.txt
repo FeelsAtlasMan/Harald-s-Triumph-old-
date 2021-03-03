@@ -1,9 +1,6 @@
-capital = 605
-primary_culture = south_german
-culture = swiss_french
-culture = swiss_italian
-culture = romansh
-religion = protestant
+capital = 726
+primary_culture = north_italian
+religion = catholic
 government = democracy
 plurality = 40.0
 nationalvalue = nv_liberty
@@ -42,7 +39,7 @@ colonial_policy = no_colonies
 
 set_country_flag = protestant_country
 
-ruling_party = SWI_conservative
+ruling_party = SAR_conservative
 last_election = 1835.1.1
 upper_house = {
 	fascist = 0
