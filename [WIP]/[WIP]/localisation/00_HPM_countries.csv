@@ -2028,8 +2028,8 @@ RHI_anarcho_liberal;Radical Arbeiterpartei;Arbeiterpartei radical;Radikale Arbei
 RHI_communist;Communist Arbeiterpartei;Arbeiterpartei communiste;Kommunistische Arbeiterpartei;;;;;;;;;;;;x;;;;;;;;;;;;;;
 RHI_fascist;NSDP;NSDP;NSDP;;;;;;;;;;;;x;;;;;;;;;;;;;;
 RHO_democracy;Rhodesia;;;;;;;;;;;;x;;;;;;;;;;;;;;
-RMG;Romagna;;;;;;;;;;;;;x
-RMG_ADJ;Romagnan;;;;;;;;;;;;;x
+RMG;Bologna;;;;;;;;;;;;;x
+RMG_ADJ;Bolognese;;;;;;;;;;;;;x
 RPL_colonial_company;Hvit Bukt Company;;;;;;;;;;;;x,
 RPL_dominion;Hvit Bukt Company;;;;;;;;;;;;x,
 RPL_colonial_company_ADJ;Anglo-Norse;;;;;;;;;;;;x
@@ -2264,8 +2264,8 @@ SUL_communist;Communist Faction;;;;;;;;;;;;;x
 SUL_reactionary;Nationalist Faction;;;;;;;;;;;;;x
 SUL_anarcho_liberal;Radical Faction;;;;;;;;;;;;;x
 SUL_fascist;Fascist faction;;;;;;;;;;;;;x
-SVY;Savoy;;;;;;;;;;;;;x
-SVY_ADJ;Savoyard;;;;;;;;;;;;;x
+SVY;Torino;;;;;;;;;;;;;x
+SVY_ADJ;Torinese;;;;;;;;;;;;;x
 SWH;Schleswig-Holstein;;;;;;;;;;;;x
 SWH_ADJ;Schleswigian;;;;;;;;;;;;x
 SWH_liberal;Liberaldem. Partei;Liberaldem. Partei;Liberaldem. Partei;;;;;;;;;;;;x;;;;;;;;;;;;;;

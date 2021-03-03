@@ -1,9 +1,7 @@
-owner = BRG
-controller = BRG
-add_core = BRG
+owner = ABA
+controller = ABA
+add_core = ABA
 add_core = ITA
-add_core = LOM
 terrain = urban
 trade_goods = fruit
 life_rating = 35
-terrain = monaco
