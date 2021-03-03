@@ -43,7 +43,7 @@ political_decisions = {
 			remove_accepted_culture = cuman
 			any_pop = {
 				limit = {
-					NOT = { is_culture = hungarian }
+					NOT = { has_pop_culture = hungarian }
 				}
 				militancy = 3
 			}

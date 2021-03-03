@@ -845,3 +845,34 @@ CPL_absolute_monarchy;Masovia;;;;;;;;;;;;x
 CPL_hms_government;Masovia;;;;;;;;;;;;x
 CPL_prussian_constitutionalism;Masovia;;;;;;;;;;;;x
 CPL_democracy;Masovia;;;;;;;;;;;;x
+GER_absolute_monarchy;The Kingdom of Germany;;;;;;;;;;;;x
+GER_hms_government;The Kingdom of Germany;;;;;;;;;;;;x
+GER_prussian_constitutionalism;The Kingdom of Germany;;;;;;;;;;;;x
+AST;Suori jöro;;;;;;;;;;;;x
+AST_absolute_monarchy;Suori jöro;;;;;;;;;;;;x
+AST_hms_government;Suori jöro;;;;;;;;;;;;x
+AST_prussian_constitutionalism;Suori jöro;;;;;;;;;;;;x
+AST_democracy;Suori jöro;;;;;;;;;;;;x
+AST_proleterian_dictatorship;Suori jöro;;;;;;;;;;;;x
+AST_fascist_dictatorship;Suori jöro;;;;;;;;;;;;x
+AST_colonial_company;Suori jöro;;;;;;;;;;;;x
+AST_dominion;Suori jöro;;;;;;;;;;;;x
+VGR_ADJ;Vagr;Vagr;Vagr;;;;;;;;;;;x;
+VGR;Vagrland;Vagrland;Vagrland;;;;;;;;;;;x;
+VGR_proletarian_dictatorship;Vagrland;Vagrland;Vagrland;;;;;;;;;;;x;
+VGR_presidential_dictatorship;Vagrland;Vagrland;Vagrland;;;;;;;;;;;x;
+VGR_bourgeois_dictatorship;Vagrland;Vagrland;Vagrland;;;;;;;;;;;x;
+VGR_fascist_dictatorship;Vagrland;Vagrland;Vagrland;;;;;;;;;;;x;
+VGR_absolute_monarchy;Vagrland;Vagrland;Vagrland;;;;;;;;;;;x;
+VGR_prussian_constitutionalism;Vagrland;Vagrland;Vagrland;;;;;;;;;;;x;
+VGR_hms_government;Vagrland;Vagrland;Vagrland;;;;;;;;;;;x;
+VGR_democracy;Vagrland;Vagrland;Vagrland;;;;;;;;;;;x;
+VGR_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
+VGR_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
+VGR_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
+VGR_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
+VGR_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
+VGR_reactionary_78;Reactionaries;Reactionaries;Reactionaries;;;;;;;;;;;x;
+VGR_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+VGR_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
+VGR_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;

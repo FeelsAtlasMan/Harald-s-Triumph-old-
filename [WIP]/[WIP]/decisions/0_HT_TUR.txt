@@ -1,0 +1,17 @@
+political_decisions = {
+	
+	restore_the_ottoman_dynasty = {
+		potential = {
+			tag = TUR
+		}
+		allow = {
+			ai = no
+			is_vassal = no
+		}
+		effect = {
+			government = absolute_monarchy
+			religion = sunni
+		}
+		ai_will_do = { factor = 1 }
+	}
+}

@@ -152,7 +152,7 @@ BBB		        ="countries/Beni Abbas.txt"
 TBT		        ="countries/Tibesti.txt"
 FTM		        ="countries/Fatimid.txt"
 AZH		        ="countries/Anizzah.txt"
-
+VGR		= "countries/Vagerland.txt"
 ##HFM New Nations
 #ATB	= "countries/Saxe-Altenburg.txt"
 ADO		= "countries/Andorra.txt"

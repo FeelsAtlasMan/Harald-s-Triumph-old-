@@ -28,10 +28,6 @@ country_event = {
 	option = {
 		name = "EVTOPTA178900"
 		prestige = -20
-		change_variable = {
-			which = revolution_progress_FRA
-			value = -1
-		}
 		capital_scope = {
 			any_pop = {
 				limit = {

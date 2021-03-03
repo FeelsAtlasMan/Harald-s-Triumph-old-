@@ -3,7 +3,7 @@ primary_culture = englisk
 culture = vinlander
 culture = australian
 religion = protestant
-government = hms_government
+government = prussian_constitutionalism
 plurality = 30
 nationalvalue = nv_order
 literacy = 0.6
@@ -16,7 +16,7 @@ prestige = 100
 # Political reforms
 slavery = no_slavery
 upper_house_composition = appointed
-vote_franschise = wealth_voting
+vote_franschise = wealth_weighted_voting
 public_meetings = yes_meeting
 press_rights = censored_press
 trade_unions = non_socialist
@@ -40,7 +40,7 @@ penal_system = colonial_transportation
 child_labor = child_labor_restricted
 citizens_rights = culture_voting_only
 border_policy = open_borders
-centralization = confderalism
+centralization = confederalism
 colonial_policy = exploitation
 
 set_country_flag = protestant_country
@@ -90,7 +90,7 @@ precision_work = yes
 consciousness = 3
 nonstate_consciousness = 1
 
-ruling_party = NOR_liberal
+ruling_party = "Kustom Sveit"
 last_election = 1835.2.19
 upper_house = {
 	fascist = 0
@@ -107,7 +107,8 @@ schools = naval_tech_school
 decision = literacy_ENG
 
 govt_flag = {
-	government = presidential_dictatorship
+	government = hms_government
+	flag = theocracy
 }
 
 oob = "NRD_oob.txt"

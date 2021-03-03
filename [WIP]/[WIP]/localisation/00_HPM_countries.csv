@@ -2470,15 +2470,16 @@ BYZ_bourgeois_dictatorship;The Greco-Bulgarian Federation;;;;;;;;;;;;;x
 BYZ_proletarian_dictatorship;Eastern Balkan Union;;;;;;;;;;;;;x
 TUR;Turkey;;;;;;;;;x;;;;
 TUR_ADJ;Turkish;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-TUR_absolute_monarchy;Asia Minor;;;;;;;;;;;;;;;;;;;;;;;;x
+TUR_absolute_monarchy;Ottomans;;;;;;;;;;;;;;;;;;;;;;;;x
 TUR_absolute_monarchy_ADJ;Ottoman;;;;;;;;;;;;;;;;;;;;;;;;x
-TUR_prussian_constitutionalism;Asia Minor;;;;;;;;;;;;;;;;;;;;;;;x
+TUR_prussian_constitutionalism;Ottomans;;;;;;;;;;;;;;;;;;;;;;;x
 TUR_prussian_constitutionalism_ADJ;Ottoman;;;;;;;;;;;;;;;;;;;;;;;;x
-TUR_hms_government;Asia Minor;;;;;;;;;;;;;;;;;;;;;;;;x
+TUR_hms_government;Ottomans;;;;;;;;;;;;;;;;;;;;;;;;x
 TUR_hms_government_ADJ;Ottoman;;;;;;;;;;;;;;;;;;;;;;;;x
 TUR_bourgeois_dictatorship;Turkish Free State;;;;;;;;;;;;;x
 TUR_proletarian_dictatorship;Turkish Socialist Republic;;;;;;;;;;;;;x
 TUR_proletarian_dictatorship_ADJ;Turkish;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+TUR_colonial_company;Asia Minor;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
 TUR_reactionary;Nizam-i Alem;;;;;;;;;;;;;x
 TUR_reactionary_2;Ittihad-i Muhammedi Firkasi;;;;;;;;;;;;;x
 TUR_reactionary_3;Halâskâr Zabitân;;;;;;;;;;;;;x

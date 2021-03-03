@@ -2,7 +2,7 @@ color = { 96  96  188 }
 graphical_culture = BritishGC
 
 party = {
-	name = "ENG_liberal"
+	name = "Tveir Sveit"
 	start_date = 1830.1.1
 	end_date = 1859.1.1
 
@@ -17,7 +17,7 @@ party = {
 }
 
 party = {
-	name = "ENG_conservative"
+	name = "Kustom Sveit"
 	start_date = 1830.1.1
 	end_date = 2000.1.1
 
@@ -62,7 +62,7 @@ party = {
 }
 
 party = {
-	name = "ENG_reactionary"
+	name = "Konungr Sveit"
 	start_date = 1820.1.1
 	end_date = 2000.1.1
 
