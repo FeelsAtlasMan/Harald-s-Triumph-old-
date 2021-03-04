@@ -16,16 +16,16 @@
 		size = 5000
 	}
 	
-	soldiers = {
+	clergymen = {
 		culture = north_italian
 		religion = catholic
-		size = 5000
+		size = 1325
 	}
 
 	farmers = {
 		culture = north_italian
 		religion = catholic
-		size = 199900
+		size = 89900
 	}
 
 	clergymen = {
@@ -47,10 +47,103 @@
 	}
 }
 3420 = {
-	aristocrats = {
+	artisans = {
 		culture = north_italian
 		religion = catholic
 		size = 4000
+	}
+
+	craftsmen = {
+		culture = north_italian
+		religion = catholic
+		size = 2200
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = catholic
+		size = 2500
+	}
+	
+	capitalists = {
+		culture = north_italian
+		religion = catholic
+		size = 30
+	}
+	
+	farmers = {
+		culture = north_italian
+		religion = catholic
+		size = 30000
+	}
+	
+	aristocrats = {
+		culture = north_italian
+		religion = catholic
+		size = 1000
+	}
+	
+	clergymen = {
+		culture = north_italian
+		religion = catholic
+		size = 500
+	}
+}
+3421 = {
+	artisans = {
+		culture = north_italian
+		religion = catholic
+		size = 3500
+	}
+
+	craftsmen = {
+		culture = north_italian
+		religion = catholic
+		size = 2300
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = catholic
+		size = 2500
+	}
+	
+	capitalists = {
+		culture = north_italian
+		religion = catholic
+		size = 25
+	}
+	
+	farmers = {
+		culture = north_italian
+		religion = catholic
+		size = 30000
+	}
+	
+	aristocrats = {
+		culture = north_italian
+		religion = catholic
+		size = 1000
+	}
+	
+	clergymen = {
+		culture = north_italian
+		religion = catholic
+		size = 500
+	}
+}
+#Alba
+3251 = {
+	farmers = {
+		culture = north_italian
+		religion = catholic
+		size = 60000
+	}
+	
+	aristocrats = {
+		culture = north_italian
+		religion = catholic
+		size = 2000
 	}
 	
 	capitalists = {
@@ -74,19 +167,19 @@
 	clergymen = {
 		culture = north_italian
 		religion = catholic
-		size = 2325
+		size = 1000
 	}
 
 	artisans = {
 		culture = north_italian
 		religion = catholic
-		size = 15000
+		size = 7500
 	}
 
 	craftsmen = {
 		culture = north_italian
 		religion = catholic
-		size = 9000
+		size = 4500
 	}
 }
 #Aosta (156000/39000 POPS)
@@ -218,7 +311,7 @@
 	farmers = {
 		culture = north_italian
 		religion = catholic
-		size = 65200
+		size = 55200
 	}
 }
 #Liguria Region (960000)

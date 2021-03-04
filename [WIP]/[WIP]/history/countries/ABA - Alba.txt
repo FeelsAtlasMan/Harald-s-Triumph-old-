@@ -1,4 +1,4 @@
-capital = 724
+capital = 3251
 primary_culture = north_italian
 religion = catholic
 government = democracy
