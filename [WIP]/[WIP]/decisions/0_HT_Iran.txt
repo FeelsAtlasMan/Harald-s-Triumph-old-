@@ -6,6 +6,7 @@ political_decisions = {
 			is_culture_group = iranian_turanian
 			NOT = { primary_culture = kurmanji }
 			NOT = { primary_culture = pashtun }
+			NOT = { tag = TIM }
 			PER = { exists = no }
 		}
 		
@@ -416,7 +417,7 @@ political_decisions = {
 			KHI_1202 = { add_core = BUK }
             remove_accepted_culture = adari
 			remove_accepted_culture = mashriqi
-			remove_accepted_culture = farsi
+			primary_culture = sart
 			add_accepted_culture = uzbek
 		}
 		ai_will_do = {
