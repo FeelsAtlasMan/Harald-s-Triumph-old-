@@ -878,3 +878,33 @@ MFT;Montferrat;;;;;;;;;;;;x
 MFT_ADJ;Montferratese;;;;;;;;;;;;x
 PVI;Pavia;;;;;;;;;;;;x
 PVI_ADJ;Pavian;;;;;;;;;;;;x
+MML;Mamluks;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+MML_absolute_monarchy;Mamluks;;;;;;;;;;;;x
+MML_hms_government;Mamluks;;;;;;;;;;;;x
+MML_prussian_constitutionalism;Mamluks;;;;;;;;;;;;x
+MML_ADJ;Mamlukian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+DMC;Damascus;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+DMC_colonial_company;Wilaya of Damascus;;;;;;;;;;;;x
+DMC_absolute_monarchy;Damascus Emirate;;;;;;;;;;;;x
+DMC_hms_government;Damascus Emirate;;;;;;;;;;;;x
+DMC_prussian_constitutionalism;Damascus Emirate;;;;;;;;;;;;x
+DMC_ADJ;Damascusian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TRI_colonial_company;Wilaya of Tripoli;;;;;;;;;;;;x
+MDB;Medri Bahri;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+MDB_absolute_monarchy;Medri Bahri;;;;;;;;;;;;x
+MDB_hms_government;Medri Bahri;;;;;;;;;;;;x
+MDB_prussian_constitutionalism;Medri Bahri;;;;;;;;;;;;x
+MDB_ADJ;Bahrian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+AGW;Agew;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+AGW_ADJ;Agewi;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+GJM;Gojjam;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+GJM_ADJ;Gojjami;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+INY;Innarya;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+INY_ADJ;Innaryi;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+MLO;Mello;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+MLO_ADJ;Melloyi;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+ORM;Oromiya;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+ORM_absolute_monarchy;Bale;;;;;;;;;;;;x
+ORM_hms_government;Bale;;;;;;;;;;;;x
+ORM_prussian_constitutionalism;Bale;;;;;;;;;;;;x
+ORM_ADJ;Oromiyan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;

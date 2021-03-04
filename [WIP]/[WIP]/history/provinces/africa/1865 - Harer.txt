@@ -1,6 +1,5 @@
-owner = SHW
-controller = SHW
-add_core = SHW
+owner = HAR
+controller = HAR
 add_core = HAR
 add_core = ETH
 trade_goods = coffee

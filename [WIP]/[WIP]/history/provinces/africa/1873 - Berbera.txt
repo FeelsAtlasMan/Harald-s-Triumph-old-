@@ -3,6 +3,7 @@ controller = WRL
 add_core = WRL
 add_core = MAJ
 add_core = GEL
+add_core = HBY
 trade_goods = cotton
 terrain = semidesert
 life_rating = 31

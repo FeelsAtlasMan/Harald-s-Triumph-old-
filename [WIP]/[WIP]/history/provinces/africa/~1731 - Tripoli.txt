@@ -1,0 +1,8 @@
+owner = ABB
+controller = ABB
+add_core = TRI
+trade_goods = fruit
+life_rating = 35
+terrain = tripoli
+naval_base = 1
+

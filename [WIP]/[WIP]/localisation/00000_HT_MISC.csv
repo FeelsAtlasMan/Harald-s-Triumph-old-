@@ -140,3 +140,29 @@ western_shipyards_two;Advanced Shipyards;;;;;;;;;;;;;x;;;;;;;;;;;
 western_shipyards_two_desc;With the help of further foreign investment we are able to construct even more advanced shipyards.;;;;;;;;;;;;;x;;;;;;;;;;;
 pre_indust_two;Properly Organized Factories;;;;;;;;;;;;;x;;;;;;;;;;;
 pre_indust_two_desc;Properly Organized Factories;;;;;;;;;;;;;x;;;;;;;;;;;
+HAS_UNION_TAG;has ethnic union;;;;;;;;;;;;;x
+HAS_NO_UNION_TAG;has NO ethnic union;;;;;;;;;;;;;x
+HAS_CULTURE_UNION;Has ethnic union;;;;;;;;;;;;;x
+HAS_NOT_CULTURE_UNION;Has NO ethnic union;;;;;;;;;;;;;x
+TB_NATIONALFOCUS_CULTURE;§Y$NUM$§W people of our official/national language give us §Y$FOCUS$§W focus points;;;;;;;;;;;;;x
+IS_NOT_ACCEPTED_CULTURE_POP;does not belong to a national language.\n;;;;;;;;;;;;;x;
+IS_ACCEPTED_CULTURE_POP;belong to a national language.\n;;;;;;;;;;;;;x;
+COUNTRY_IS_NOT_CULTURE;Official Language is NOT;;;;;;;;;;;;x;
+COUNTRY_IS_CULTURE;Official Language is;;;;;;;;;;;;;x;
+IS_NOT_PRIMARY_CULTURE;§Y$NAME$§W is NOT our official language.\n;;;;;;;;;;;;;x;
+IS_PRIMARY_CULTURE;§Y$NAME$§W is primary our official language.\n;;;;;;;;;;;;;x;
+IS_NOT_ACCEPTED_CULTURE2;§Y$NAME$§W is NOT a national language.\n;;;;;;;;;;;;;x;
+IS_ACCEPTED_CULTURE2;§Y$NAME$§W is a national language.\n;;;;;;;;;;;;;x;
+american_cultures;American Languages;;;;;;;;;;;;;x;
+form_union_nation_desc;Our dominant position among our ethnic brethren puts us in a position to form $CULTURE_GROUP_UNION$.;;;;;;;;;;;;;x;
+residency_desc;Only people of your nation's official language are allowed the vote.;;;;;;;;;;;;;x;
+limited_citizenship_desc;Only people of your nation's official and national languages are allowed the vote.;;;;;;;;;;;;;x;
+CULTURE_IS_NOT;Language is NOT;;;;;;;;;;;;x;;;
+CULTURE_IS;Language is;;;;;;;;;;;;x;;;
+SET_PRIMARY_CULTURE;§Y$CULTURE$§W set to our official language.\n;;;;;;;;;;;;;x
+DIPLOMACY_PRIMARYCULTURE_DESC;The official language represents the language of administration, prestige and cross-cultural communication;La culture principale correspond aux citoyens de première classe de notre pays.;Die Primärkultur repräsentiert den Teil unserer Bevölkerung, die als Bürger erster Klasse gelten.;;La cultura principal representa a los ciudadanos de primera clase de nuestro país.;;;;;;;;;x
+DIPLOMACY_ACCEPTEDCULTURE_DESC;Our national language(s) represent languages or dialects that have an official and protected status within our nation;;;;;;;;;;;;;x
+LEDGER_PROVINCE_CULTURE;Language;;;;;;;;;;;;;x;;;;
+POP_CULTURE;Language;;;;;;;;;;;;;x;;;;
+PV_POP_NATIONALITY;Language;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+NATIONALITY_DISTTITLE;Language;;;;;;;;;;;;;;;;;;;;;;;x;;;;
