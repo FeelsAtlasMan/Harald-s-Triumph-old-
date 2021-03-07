@@ -1,6 +1,7 @@
 political_decisions = {
 
 	propose_zapadoslavia = {
+		picture = create_zapadoslavia
 		potential = {
 			is_culture_group = western_slavic
 			NOT = { has_global_flag = proposed_zapadoslavia }
@@ -15,6 +16,7 @@ political_decisions = {
 		}
 	}
 	become_zapadoslavia = {
+		picture = create_zapadoslavia
 		potential = {
 			is_culture_group = western_slavic
 			has_global_flag = proposed_zapadoslavia
@@ -56,6 +58,7 @@ political_decisions = {
 	}
 	
 	unite_ireland = {
+		picture = ireland
 		potential = {
 			primary_culture = irish
 			IRE = { exists = no }
@@ -84,6 +87,7 @@ political_decisions = {
 	}
 	
 	form_belgica = {
+		picture = become_belgium
 		potential = {
 			OR = {
 				tag = FLA
@@ -353,6 +357,46 @@ political_decisions = {
 				remove_core = THIS
 			}
 			change_tag = POL
+		}
+	}
+	
+	restore_lotharingia = {
+		picture = form_lotharingia
+		potential = {
+			tag = LOR
+			SGF = { exists = no }
+		}
+		allow = {
+			is_greater_power = yes
+			LOR = { all_core = { owned_by = THIS } }
+			BEL_394 = { owned_by = THIS }
+			LUX_397 = { owned_by = THIS }
+			NET_385 = { owned_by = THIS }
+			NET_379 = { owned_by = THIS }
+			NET_375 = { owned_by = THIS }
+			NET_382 = { owned_by = THIS }
+			PRU_575 = { owned_by = THIS }
+			FRA_409 = { owned_by = THIS }
+			FRA_432 = { owned_by = THIS }
+			SWI_606 = { owned_by = THIS }
+			SWI_607 = { owned_by = THIS }
+			BEL_387 = { owned_by = THIS }
+		}
+		effect = {
+			LOR = { all_core = { add_core = SGF remove_core = THIS } }
+			BEL_394 = { add_core = SGF }
+			LUX_397 = { add_core = SGF }
+			NET_385 = { add_core = SGF }
+			NET_379 = { add_core = SGF }
+			NET_375 = { add_core = SGF }
+			NET_382 = { add_core = SGF }
+			PRU_575 = { add_core = SGF }
+			FRA_409 = { add_core = SGF }
+			FRA_432 = { add_core = SGF }
+			SWI_606 = { add_core = SGF }
+			SWI_607 = { add_core = SGF }
+			BEL_387 = { add_core = SGF }
+			change_tag = SGF
 		}
 	}
 }

@@ -11,6 +11,28 @@ political_decisions = {
 		effect = {
 			government = absolute_monarchy
 			religion = sunni
+			TUR_873 = {
+				add_core = THIS
+			}
+			TUR_876 = {
+				add_core = THIS
+			}
+			TUR_878 = {
+				add_core = THIS
+			}
+			TUR_3339 = {
+				add_core = THIS
+			}
+			TUR_880 = {
+				add_core = THIS
+			}
+			TUR_882 = {
+				add_core = THIS
+			}
+			TUR_889 = {
+				add_core = THIS
+			}
+			prestige = 25
 		}
 		ai_will_do = { factor = 1 }
 	}

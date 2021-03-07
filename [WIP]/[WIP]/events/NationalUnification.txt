@@ -26,7 +26,7 @@ country_event = {
 	}
 	
 	option = {				# Accept inheritance
-		name = "EVTOPTA11100"`
+		name = "EVTOPTA11100"
 		clr_country_flag = crown_from_the_gutter
 		random_owned = { 
 			limit = { owner = { primary_culture = polish accepted_culture = south_german } } owner = { remove_accepted_culture = south_german }

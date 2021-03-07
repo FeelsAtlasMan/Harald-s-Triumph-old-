@@ -169,3 +169,9 @@ new_median_empire_desc;Now that our western brothers are freed from turkish oppr
 claim_iraq_title;Claim Iraq;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 claim_iraq_desc;placeholder;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 greater_serbia_title;Restore the Serbian Empire;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+unite_hellas_title;Unite Hellas;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+unite_hellas_desc;For years Hellas has been divided among several kingdoms or occupied by foreigners at the pleasing of our common enemies. To unite the Greek lands under a sole flag and one ruler is our only way to greatness.;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+restore_poland_title;Restore the Kingdom of Poland;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,
+restore_poland_desc;The kingdom that the Piasts once worked so hard to reunify is now divided and without a king. We must strive to unite the Polish people and create a Polish nation to take the place of the kingdom that once was.;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,
+propose_zapadoslavia_title;Call for West-Slavic Unity
+propose_zapadoslavia_desc;For centuries our nation 

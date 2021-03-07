@@ -171,6 +171,9 @@ INY		        ="countries/Innarya.txt"
 AGW		        ="countries/Agew.txt"
 MLO		        ="countries/Mello.txt"
 ORM		        ="countries/Oromiya.txt"
+EPI		= "countries/Epirus.txt"
+MRE		= "countries/Morea.txt"
+ATH		= "countries/Athens.txt"
 
 ##HFM New Nations
 #ATB	= "countries/Saxe-Altenburg.txt"
