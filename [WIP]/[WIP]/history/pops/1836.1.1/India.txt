@@ -63,7 +63,7 @@
 		size = 58250
 	}
 }
-#Dera ismail Khan (476000/119000 POPS)
+#Dera Ismail Khan (476000/119000 POPS)
 3393 = {
 	bureaucrats = {
 		culture = panjabi
@@ -146,7 +146,19 @@
 	farmers = {
 		culture = pashtun
 		religion = sunni
-		size = 38250
+		size = 33000
+	}
+	
+	soldiers = {
+		culture = ormuri
+		religion = sunni
+		size = 1000
+	}
+
+	farmers = {
+		culture = ormuri
+		religion = sunni
+		size = 4250
 	}
 }
 #Chitral (160000/40000 POPS)
@@ -296,7 +308,7 @@
 	}
 
 	soldiers = {
-		culture = pashtun
+		culture = ormuri
 		religion = sunni
 		size = 1000
 	}
@@ -310,7 +322,13 @@
 	farmers = {
 		culture = pashtun
 		religion = sunni
-		size = 8825
+		size = 6000
+	}
+	
+	farmers = {
+		culture = ormuri
+		religion = sunni
+		size = 2825
 	}
 
 	serfs = {

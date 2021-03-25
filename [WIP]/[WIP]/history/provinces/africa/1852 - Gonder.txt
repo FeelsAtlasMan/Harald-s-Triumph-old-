@@ -1,6 +1,7 @@
-owner = ETH
-controller = ETH
-add_core = TIG
+owner = GON
+controller = GON
+add_core = GON
+add_core = SMN
 add_core = ETH
 trade_goods = cattle
 life_rating = 35

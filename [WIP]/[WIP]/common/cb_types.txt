@@ -51,6 +51,7 @@ acquire_core_state
 restore_austrian_empire
 reconquesta
 iran_unification
+eth_unification
 colonial_reconquest_cb
 restore_america
 claim_holy_land
@@ -688,6 +689,7 @@ reconquesta = {
 		}
 		NOT = { has_country_modifier = neutrality }
 		THIS = { has_global_flag = iberian_failure }
+		THIS = { has_global_flag = iberian_failure }		
 		NOT = { in_sphere = THIS }
 		THIS = { NOT = { has_country_modifier = neutrality } }
 		OR = {
@@ -719,6 +721,85 @@ reconquesta = {
 	po_demand_state = yes
 	
 	war_name = WAR_RECONQUESTA_NAME
+	
+	on_add = {
+		move_issue_percentage = { 
+			from = jingoism 
+			to = pro_military
+			value = 0.25
+		}
+	}
+}
+
+eth_unification = {
+	sprite_index = 21
+	is_triggered_only = yes
+	months = 12
+	
+	construction_speed = 0.8
+
+	badboy_factor = 0
+	prestige_factor = 2
+	peace_cost_factor = 0.7
+	penalty_factor = 1
+	always = yes
+
+	break_truce_prestige_factor = 5
+	break_truce_infamy_factor = 2
+	break_truce_militancy_factor = 2
+	truce_months = 48
+	
+	good_relation_prestige_factor = 1
+	good_relation_infamy_factor = 1
+	good_relation_militancy_factor = 1
+
+	can_use = {
+		NOT = { is_our_vassal = THIS }
+		THIS = {
+		    OR = {
+			   is_culture_group = ethiosemetic
+			   primary_culture = oromo
+			}
+			NOT = { has_country_flag = shiite_country }
+			NOT = { has_country_flag = sunni_country }
+		}
+		is_vassal = no
+		neighbour = THIS
+		any_owned_province = {
+			OR = {
+				region = ETH_1852
+				region = ETH_1862
+				region = ETH_1853
+				region = ETH_1859
+				region = ETH_1865
+				region = ETH_1848
+			}
+		}
+		NOT = { has_country_modifier = neutrality }
+		NOT = { in_sphere = THIS }
+		THIS = { NOT = { has_country_modifier = neutrality } }
+		OR = {
+			war_with = THIS
+			THIS = { NOT = { has_country_modifier = punitive_effects } }
+		}
+	}
+	
+	allowed_states = {
+		any_owned_province = {
+			OR = {
+				region = ETH_1852
+				region = ETH_1862
+				region = ETH_1853
+				region = ETH_1859
+				region = ETH_1865
+				region = ETH_1848
+			}
+		}
+	}
+
+	po_demand_state = yes
+	
+	war_name = WAR_ETH_UNIFICATION_NAME
 	
 	on_add = {
 		move_issue_percentage = { 
@@ -7345,10 +7426,11 @@ take_capital = {
 	good_relation_militancy_factor = 1
 
 	can_use = {
+	    ai = no
 		NOT = {
 			AND = {
 				THIS = { tag = JAP }
-				tag = CHI
+				tag = SHN
 			}
 		}
 		this = { NOT = { badboy = 1 } }

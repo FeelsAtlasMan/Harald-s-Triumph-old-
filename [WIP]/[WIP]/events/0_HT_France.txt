@@ -22,13 +22,14 @@ country_event = {
 	}
 	
 	immediate = {
+		set_country_flag = paris_renovated
 	}
 	
 	option = {
-		name = "Make a speech among the crowd"
+		name = "EVTOPTA178900"
 		prestige = -20
-		set_variable = {
-			which = revolution_progress
+		change_variable = {
+			which = revolution_progress_FRA
 			value = -1
 		}
 		capital_scope = {
@@ -52,16 +53,16 @@ country_event = {
 			}
 		}
 		#change_variable = {
-		#	which = revolution_progress
+		#	which = revolution_progress_FRA
 		#	value = -1
 		#}
 		ai_chance = { factor = 0 }
 	}
 	
 	option = {
-		name = "Make a speech from the University balcony"
-		set_variable = {
-			which = revolution_progress
+		name = "EVTOPTB178900"
+		change_variable = {
+			which = revolution_progress_FRA
 			value = 1
 		}
 		capital_scope = {
@@ -85,16 +86,16 @@ country_event = {
 			}
 		}
 		#change_variable = {
-		#	which = revolution_progress
+		#	which = revolution_progress_FRA
 		#	value = 1
 		#}
 		ai_chance = { factor = 1 }
 	}
 	
 	option = {
-		name = "Do not attend the ceremony"
-		set_variable = {
-			which = revolution_progress
+		name = "EVTOPTC178900"
+		change_variable = {
+			which = revolution_progress_FRA
 			value = 2
 		}
 		prestige = -5
@@ -119,7 +120,7 @@ country_event = {
 			}
 		}
 		#change_variable = {
-		#	which = revolution_progress
+		#	which = revolution_progress_FRA
 		#	value = 2
 		#}
 		ai_chance = { factor = 0 }
@@ -143,6 +144,7 @@ country_event = {
 			government = hms_government
 		}
 		NOT = { has_global_flag = french_rev }
+		has_country_flag = paris_renovated
 	}
 	
 	mean_time_to_happen = {
@@ -170,7 +172,7 @@ country_event = {
 	option = {
 		name = "That's ridiculous!"
 		change_variable = {
-			which = revolution_progress
+			which = revolution_progress_FRA
 			value = 1
 		}
 		ai_chance = { factor = 1 }
@@ -195,6 +197,7 @@ country_event = {
 			government = hms_government
 		}
 		NOT = { has_global_flag = french_rev }
+		has_country_flag = paris_renovated
 	}
 	
 	mean_time_to_happen = {
@@ -221,7 +224,7 @@ country_event = {
 			consciousness = -1
 		}
 		change_variable = {
-			which = revolution_progress
+			which = revolution_progress_FRA
 			value = 1
 		}
 		ai_chance = { factor = 0 }
@@ -242,7 +245,7 @@ country_event = {
 		}
 		prestige = 15
 		change_variable = {
-			which = revolution_progress
+			which = revolution_progress_FRA
 			value = 1
 		}
 		ai_chance = { factor = 1 }
@@ -257,7 +260,7 @@ country_event = {
 			consciousness = 1
 		}
 		change_variable = {
-			which = revolution_progress
+			which = revolution_progress_FRA
 			value = 2
 		}
 		ai_chance = { factor = 0 }
@@ -297,6 +300,7 @@ country_event = {
 			government = hms_government
 		}
 		NOT = { has_global_flag = french_rev }
+		has_country_flag = paris_renovated
 	}
 	
 	option = {
@@ -314,7 +318,7 @@ country_event = {
 			consciousness = -1
 		}
 		change_variable = {
-			which = revolution_progress
+			which = revolution_progress_FRA
 			value = -1
 		}
 		ai_chance = { factor = 0 }
@@ -332,7 +336,7 @@ country_event = {
 			militancy = 4
 		}
 		change_variable = {
-			which = revolution_progress
+			which = revolution_progress_FRA
 			value = 2
 		}
 		ai_chance = { factor = 1 }
@@ -355,6 +359,7 @@ country_event = {
 			government = hms_government
 		}
 		NOT = { has_global_flag = french_rev }
+		has_country_flag = paris_renovated
 	}
 	
 	option = {
@@ -399,7 +404,7 @@ country_event = {
 		name = "Told you so!"
 		prestige = -5
 		change_variable = {
-			which = revolution_progress
+			which = revolution_progress_FRA
 			value = -2
 		}
 	}
@@ -416,7 +421,7 @@ country_event = {
 		name = "Oh god, oh fu-"
 		prestige = -15
 		change_variable = {
-			which = revolution_progress
+			which = revolution_progress_FRA
 			value = 1
 		}
 	}
@@ -432,7 +437,7 @@ country_event = {
 		name = "At least they weren't liberals"
 		prestige = -5
 		change_variable = {
-			which = revolution_progress
+			which = revolution_progress_FRA
 			value = 1
 		}
 	}
@@ -470,7 +475,7 @@ country_event = {
 		name = "I hate the plebs"
 		prestige = -15
 		change_variable = {
-			which = revolution_progress
+			which = revolution_progress_FRA
 			value = 2
 		}
 	}
@@ -488,8 +493,8 @@ country_event = {
 		tag = FRA
 		NOT = { government = democracy }
 		check_variable = {
-			which = revolution_progress
-			value = 4
+			which = "revolution_progress_FRA"
+			value = 6
 		}
 	}
 	

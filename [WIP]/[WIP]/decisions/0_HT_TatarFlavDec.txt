@@ -318,8 +318,8 @@ bashkortostan_joins_kipchaks = {
 				war = no
 				prestige = 15
 				AND = {
-				    foreign_training = yes_foreign_training
-					foreign_weapons = yes_foreign_weapons
+				    foreign_training = foreign_training_two
+					foreign_weapons = foreign_weapons_two
 				}
 			}
    	effect = {

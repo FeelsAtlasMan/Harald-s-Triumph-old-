@@ -1036,6 +1036,13 @@ baby_boom = {
 	icon = 19
 }
 
+baby_boom_assimilation = {
+	population_growth = 0.006
+	assimilation_rate = 0.1
+	immigrant_attract = 0.5
+	icon = 19
+}
+
 global_baby_boom = {
 	global_population_growth = 0.006
 	icon = 17
@@ -3327,4 +3334,11 @@ algaravian_revolution = {
 	supply_consumption = -0.2
 	war_exhaustion = -0.25
 	icon = 16
+}
+
+magiarisation = {
+	global_assimilation_rate = 0.2
+	supply_consumption = 0.05
+	min_social_spending = 0.2
+	icon = 7
 }

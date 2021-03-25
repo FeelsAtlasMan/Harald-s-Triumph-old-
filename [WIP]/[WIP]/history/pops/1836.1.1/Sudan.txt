@@ -481,6 +481,63 @@
 		size = 4000
 	}	
 }
+#Al-Nasir (132000/33000 POPS)  
+3425 = {
+	
+	aristocrats = {
+		culture = koman
+		religion = animist
+		size = 275
+	}
+
+	artisans = {
+		culture = koman
+		religion = animist
+		size = 750
+	}
+
+	soldiers = {
+		culture = koman
+		religion = animist
+		size = 150
+	}
+
+	farmers = {
+		culture = koman
+		religion = animist
+		size = 11000
+	}
+	
+	farmers = {
+		culture = nuer
+		religion = animist
+		size = 2825
+	}
+
+	aristocrats = {
+		culture = dinka
+		religion = animist
+		size = 125
+	}
+
+	artisans = {
+		culture = dinka
+		religion = animist
+		size = 350
+	}
+
+	soldiers = {
+		culture = dinka
+		religion = animist
+		size = 75
+	}
+
+	farmers = {
+		culture = dinka
+		religion = animist
+		size = 6450
+	}
+}
 #Red Sea Region (108000) #see Egypt.txt for balance of the region 
 #under the rule of Egypt in 1836
 #Suakin (60000/15000 POPS) #now part of Sudan 

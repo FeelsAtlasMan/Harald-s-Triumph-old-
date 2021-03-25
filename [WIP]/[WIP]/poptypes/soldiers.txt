@@ -414,6 +414,7 @@ migration_target = {
 	modifier = {
 		factor = 0.01
 		terrain = desert
+		terrain = oasis
 		continent = africa
 	}
 	

@@ -1,7 +1,0 @@
-owner = TIM
-controller = TIM
-add_core = CHY
-add_core = ALN
-trade_goods = silk
-life_rating = 35
-

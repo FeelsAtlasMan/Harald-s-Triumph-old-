@@ -16,71 +16,9 @@ political_decisions = {
 			}
 		
 			allow = {
-				NOT = { war = yes }
+				war = no
 				prestige = 40
-				OR = {
-				MUS = {
-					all_core = {
-						OR = {
-							owned_by = THIS
-							owner = {
-								in_sphere = THIS
-							}
-						}
-					}
-				}
-				MSS = {
-					all_core = {
-						OR = {
-							owned_by = THIS
-							owner = {
-								in_sphere = THIS
-							}
-						}
-					}
-				}
-				}
-				SMK = {
-					all_core = {
-						OR = {
-							owned_by = THIS
-							owner = {
-								in_sphere = THIS
-							}
-						}
-					}
-				}
-				UKR = {
-					all_core = {
-						OR = {
-							owned_by = THIS
-							owner = {
-								in_sphere = THIS
-							}
-						}
-					}
-				}
-				MNK = {
-					all_core = {
-						OR = {
-							owned_by = THIS
-							owner = {
-								in_sphere = THIS
-							}
-						}
-					}
-				}
-				GLM = {
-					all_core = {
-						OR = {
-							owned_by = THIS
-							owner = {
-								in_sphere = THIS
-							}
-						}
-					}
-				}
-				NOV = {
+				RUS = {
 					all_core = {
 						OR = {
 							owned_by = THIS
@@ -212,6 +150,10 @@ political_decisions = {
 				MSS = { inherit = RYA }
 				DON = { inherit = KRC }
 				create_vassal = DON
+	 			diplomatic_influence = {
+	                         who = DON
+	                         value = 5
+                }
 				badboy = 2
 				prestige = 10
                 set_country_flag = don_vassal				
@@ -417,20 +359,8 @@ subdue_yugra_rus = {
 			}
 			
    	effect = {
-        THIS = { 
-		    casus_belli = {
-	                target = KHN
-	                type = establish_protectorate_casus_belli
-	                months = 10
-                  }
-				}
-        THIS = { 
-		    casus_belli = {
-	                target = SIB
-	                type = establish_protectorate_casus_belli
-	                months = 10
-                  }
-				}
+        KHN = { all_core = { add_core = THIS }}
+        SIB = { all_core = { add_core = THIS }}
         badboy = 10
         set_country_flag = yugra_conquest		
 	}
@@ -461,20 +391,8 @@ subdue_yugra_rus = {
 				state_n_government = 1
 			}
    	effect = {
-        THIS = { 
-		    casus_belli = {
-	                target = SLK
-	                type = establish_protectorate_casus_belli
-	                months = 10
-                  }
-				}
-		THIS = { 
-		    casus_belli = {
-	                target = SHR
-	                type = establish_protectorate_casus_belli
-	                months = 10
-                  }
-				}
+        SLK = { all_core = { add_core = THIS }}
+		SHR = { all_core = { add_core = THIS }}
         badboy = 5		
         set_country_flag = slk_conquest		
 	}
@@ -504,13 +422,7 @@ subdue_yugra_rus = {
 				state_n_government = 1
 			}
    	effect = {
-        THIS = { 
-		    casus_belli = {
-	                target = SYN
-	                type = establish_protectorate_casus_belli
-	                months = 10
-                  }
-				}
+        SYN = { all_core = { add_core = THIS }}
         badboy = 2	
         set_country_flag = uriankhai_conquest		
 	}
@@ -539,7 +451,8 @@ subdue_yugra_rus = {
 				ALT = { in_sphere = THIS }
 			}
    	effect = {
-        inherit = ALT	
+        inherit = ALT
+        ALT = { all_core = { add_core = THIS }}		
         set_country_flag = tuva_conflict		
 	}
 	
@@ -631,27 +544,9 @@ subdue_yugra_rus = {
 				invention = manifest_destiny
 			}
    	effect = {
-        THIS = { 
-		    casus_belli = {
-	                target = TYM
-	                type = establish_protectorate_casus_belli
-	                months = 10
-                  }
-				}
-		THIS = { 
-		    casus_belli = {
-	                target = YML
-	                type = establish_protectorate_casus_belli
-	                months = 10
-                  }
-				}
-		THIS = { 
-		    casus_belli = {
-	                target = NNT
-	                type = establish_protectorate_casus_belli
-	                months = 10
-                  }
-				}
+        TYM = { all_core = { add_core = THIS }}	
+		YML = { all_core = { add_core = THIS }}	
+		NNT = { all_core = { add_core = THIS }}	
         set_country_flag = claimed_north	
         badboy = 5		
 	}

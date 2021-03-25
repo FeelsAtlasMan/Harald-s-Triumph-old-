@@ -1,7 +1,7 @@
-owner = VEN
-controller = VEN
+owner = RGU
+controller = RGU
 add_core = CRO
-add_core = VEN
+add_core = RGU
 terrain = dubrovnik
 trade_goods = fish
 life_rating = 35

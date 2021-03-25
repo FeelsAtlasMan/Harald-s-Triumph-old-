@@ -138,9 +138,9 @@ political_decisions = {
 		}
 	}
 	
-	#Expend into Sudan
-	sudan_expedition = {
-	    picture = "sudan_map"
+	#Expend into Cilicia
+	cilicia_expedition = {
+	    picture = "greater_armenia"
 		potential = {
 			tag = IRQ
 			has_country_flag = claimed_levante
@@ -165,6 +165,143 @@ political_decisions = {
 			}
 		}
 	}
+	
+	#Abbasids
+	
+	#Take direct control/ Remove Mamluks from Power
+	take_control_caliph = {
+	    #picture = "iraq_map"
+		potential = {
+			tag = ABB
+			has_country_flag = shadow_caliphate 
+		   }
+		
+		allow = {
+		  AND = {
+			  has_country_flag = caliphs_advisors
+			  has_country_flag = caliphs_gov
+		      has_country_flag = pro_australia
+		  }
+		}
+		effect = {
+		   remove_accepted_culture = mamluki
+		   clr_country_flag = shadow_caliphate
+		   set_country_flag = dethrowned_mamluks
+		   prestige = 10
+		   any_pop = {
+		         limit = {
+				       culture = mamluki
+					   culture = abaza
+					   culture = circassian
+				 }
+				 militancy = 9
+		   }
+		}
+		ai_will_do = {
+		    factor = 1
+			}
+	}
+	
+	#Reclaim the long lost territories 
+	reclaim_baghdad = {
+	    picture = "iraq_map"
+		potential = {
+			tag = ABB
+			NOT = { has_country_flag = shadow_caliphate }
+			has_country_flag = dethrowned_mamluks
+			NOT = { has_country_flag = claimed_east }
+		}
+		
+		allow = {
+			ABB = { all_core = { owned_by = THIS } }
+			is_civilized = yes
+			1755 = { owned_by = THIS }
+			war = no
+			is_vassal = no
+		}
+		effect = {
+			TUR_894 = { all_core = { add_core = THIS } }
+			badboy = 4
+			set_country_flag = claimed_east
+		}
+		ai_will_do = {
+		    factor = 1
+			modifier = {
+			     factor = 0
+				 badboy = 0.75
+			}
+		}
+	}
+	
+	#Take direct control/ Remove Caliph from Power
+	take_control_mamluks = {
+	    #picture = "iraq_map"
+		potential = {
+			tag = ABB
+			has_country_flag = shadow_caliphate 
+		}
+		
+		allow = {
+		  AND = {
+			  has_country_flag = mamluks_advisors
+			  has_country_flag = mamluks_gov
+		      has_country_flag = anti_australia
+		  }
+		}
+		effect = {
+		   primary_culture = mamluki
+		   add_accepted_culture = misri
+		   clr_country_flag = shadow_caliphate
+		   change_tag_no_core_switch = MML
+		   prestige = 10
+		}
+		ai_will_do = {
+		    factor = 1
+			}
+		}
+	
+	#Embrace Turkishness 
+	embrace_turkishness = {
+	    #picture = "iraq_map"
+		potential = {
+			tag = MML
+			NOT = { has_country_flag = turkish_mamluks }
+		}
+		
+		allow = {
+		  MML = { all_core = { owned_by = THIS } }
+          OR = {
+		     is_civilized = yes 
+			 AND = {
+			   land_reform = yes_land_reform
+			   admin_reform = yes_admin_reform
+			 }
+		  }
+		}
+		effect = {
+		   set_country_flag = turkish_mamluks
+		   TUR_894 = { add_core = THIS }
+	       TUR_873 = { add_core = THIS }
+	  	   TUR_878 = { add_core = THIS }
+		   TUR_3339 = { add_core = THIS }
+		   TUR_876 = { add_core = THIS }
+		   TUR_883 = { add_core = THIS }
+		   TUR_880 = { add_core = THIS }
+		   prestige = 10
+		   add_accepted_culture = turkish
+		   add_accepted_culture = azeri
+		   remove_accepted_culture = saidi_arabic
+		   remove_accepted_culture = levantine
+		   remove_accepted_culture = bedouin
+		   remove_accepted_culture = hijazi_arabic
+		   remove_accepted_culture = yemeni_arabic
+		   remove_accepted_culture = najdi_arabic
+		   remove_accepted_culture = yunani
+		}
+		ai_will_do = {
+		    factor = 1
+			}
+		}
 	
 	#Claim Deserts
 	claim_palmyra = {

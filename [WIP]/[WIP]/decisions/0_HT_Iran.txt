@@ -6,6 +6,7 @@ political_decisions = {
 			is_culture_group = iranian_turanian
 			NOT = { primary_culture = kurmanji }
 			NOT = { primary_culture = pashtun }
+			NOT = { tag = TIM }
 			PER = { exists = no }
 		}
 		
@@ -43,7 +44,11 @@ political_decisions = {
 		}
 		
 		effect = {
-			IRQ = { all_core = { add_core = THIS } }
+			3282 = { add_core = THIS } 
+			TUR_923 = { add_core = THIS }
+			TUR_931 = { add_core = THIS }
+			TUR_935 = { add_core = THIS }
+			TUR_935 = { add_core = THIS }
             LUR = { all_core = { add_core = THIS } }
 			badboy = 8
 			set_country_flag = claimed_iraq
@@ -352,7 +357,7 @@ political_decisions = {
 	unite_uzbeks = {
 	    picture = "become_uzbekistan"
 		potential = {
-		    AND = {
+		    OR = {
 			primary_culture = uzbek	
 			primary_culture = sart	
             primary_culture = badakhshani				
@@ -412,7 +417,7 @@ political_decisions = {
 			KHI_1202 = { add_core = BUK }
             remove_accepted_culture = adari
 			remove_accepted_culture = mashriqi
-			remove_accepted_culture = farsi
+			primary_culture = sart
 			add_accepted_culture = uzbek
 		}
 		ai_will_do = {

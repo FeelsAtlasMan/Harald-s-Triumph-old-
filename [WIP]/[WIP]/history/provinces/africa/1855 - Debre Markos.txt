@@ -1,5 +1,6 @@
-owner = ETH
-controller = ETH
+owner = GJM
+controller = GJM
+add_core = GJM
 add_core = ETH
 trade_goods = cattle
 life_rating = 35

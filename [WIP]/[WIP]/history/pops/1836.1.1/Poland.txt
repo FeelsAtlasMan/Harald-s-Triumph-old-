@@ -1069,6 +1069,136 @@
 		size = 2625
 	}
 }
+#Luka (484000/121000 POPS)
+3433 = {
+	aristocrats = {
+		culture = yotvingian
+		religion = protestant
+		size = 1250 
+	}
+
+	clergymen = {
+		culture = yotvingian
+		religion = protestant
+		size = 175   
+	}
+
+	artisans = {
+		culture = yotvingian
+		religion = protestant
+		size = 1100
+	}
+
+	soldiers = {
+		culture = yotvingian
+		religion = protestant
+		size = 1000
+	}
+
+	farmers = {
+		culture = yotvingian
+		religion = protestant
+		size = 20025
+	}
+	
+	farmers = {
+		culture = pruthenian
+		religion = protestant
+		size = 5025
+	}
+	
+	farmers = {
+		culture = galindian
+		religion = protestant
+		size = 3025
+	}
+
+	clergymen = {
+		culture = polish
+		religion = protestant
+		size = 75  
+	}
+
+	artisans = {
+		culture = polish
+		religion = protestant
+		size = 250
+	}
+
+	soldiers = {
+		culture = polish
+		religion = protestant
+		size = 50 
+	}
+
+	farmers = {
+		culture = polish
+		religion = protestant
+		size = 2625 
+	}
+}
+#Darkehmen (484000/121000 POPS)
+3432 = {
+	aristocrats = {
+		culture = yotvingian
+		religion = protestant
+		size = 250 
+	}
+
+	clergymen = {
+		culture = yotvingian
+		religion = protestant
+		size = 175   
+	}
+
+	artisans = {
+		culture = yotvingian
+		religion = protestant
+		size = 100
+	}
+
+	soldiers = {
+		culture = yotvingian
+		religion = protestant
+		size = 200
+	}
+
+	farmers = {
+		culture = yotvingian
+		religion = protestant
+		size = 10025
+	}
+	
+	farmers = {
+		culture = pruthenian
+		religion = protestant
+		size = 2025
+	}
+
+	clergymen = {
+		culture = lithuanian
+		religion = protestant
+		size = 5  
+	}
+
+	artisans = {
+		culture = lithuanian
+		religion = protestant
+		size = 50
+	}
+
+	soldiers = {
+		culture = lithuanian
+		religion = protestant
+		size = 50 
+	}
+
+	farmers = {
+		culture = lithuanian
+		religion = protestant
+		size = 625 
+	}
+}
 #Elbing (148000/37000 POPS) 
 693 = {
 	aristocrats = {
@@ -1248,55 +1378,123 @@
 	farmers = {
 		culture = pruthenian
 		religion = protestant
-		size = 60550
+		size = 30550
 	}
 
 	clergymen = {
-		culture = polish
+		culture = north_german
 		religion = protestant
 		size = 325 
 	}
 
 	artisans = {
-		culture = polish
+		culture = north_german
 		religion = protestant
 		size = 1800
 	}
 
 	soldiers = {
-		culture = polish
+		culture = galindian
 		religion = protestant
 		size = 1000
 	}
 
 	farmers = {
-		culture = polish
+		culture = galindian
 		religion = protestant
-		size = 22875  
+		size = 4875  
 	}
 
 	clergymen = {
-		culture = lithuanian
+		culture = polish
 		religion = catholic
 		size = 75 
 	}
 
 	artisans = {
-		culture = lithuanian
+		culture = polish
 		religion = catholic
 		size = 250
 	}
 
 	soldiers = {
-		culture = lithuanian
+		culture = polish
 		religion = catholic
 		size = 50 
 	}
 
 	farmers = {
-		culture = lithuanian
+		culture = polish
 		religion = catholic
-		size = 4625 
+		size = 2625 
+	}
+}
+#Allenstein2 (396000/99000 POPS) 
+3431 = {
+	aristocrats = {
+		culture = galindian
+		religion = protestant
+		size = 2000 
+	}
+
+	clergymen = {
+		culture = galindian
+		religion = protestant
+		size = 550   
+	}
+
+	artisans = {
+		culture = galindian
+		religion = protestant
+		size = 2900
+	}
+
+	soldiers = {
+		culture = galindian
+		religion = protestant
+		size = 2000
+	}
+
+	farmers = {
+		culture = galindian
+		religion = protestant
+		size = 30000
+	}
+
+	soldiers = {
+		culture = pruthenian
+		religion = protestant
+		size = 1000
+	}
+
+	farmers = {
+		culture = pruthenian
+		religion = protestant
+		size = 15875  
+	}
+
+	clergymen = {
+		culture = polish
+		religion = catholic
+		size = 75 
+	}
+
+	artisans = {
+		culture = polish
+		religion = catholic
+		size = 250
+	}
+
+	soldiers = {
+		culture = polish
+		religion = catholic
+		size = 50 
+	}
+
+	farmers = {
+		culture = polish
+		religion = catholic
+		size = 13625 
 	}
 }
 #Posen-Wielkopolska Region (1704000)  
@@ -3033,31 +3231,31 @@
 #Suwalki (196000/49000 POPS)
 707 = {
 	aristocrats = {
-		culture = pruthenian
+		culture = yotvingian
 		religion = protestant
 		size = 1000
 	}
 
 	clergymen = {
-		culture = pruthenian
+		culture = yotvingian
 		religion = protestant
 		size = 300
 	}
 
 	artisans = {
-		culture = pruthenian
+		culture = yotvingian
 		religion = protestant
 		size = 1900
 	}
 
 	soldiers = {
-		culture = pruthenian
+		culture = yotvingian
 		religion = protestant
 		size = 375
 	}
 
 	farmers = {
-		culture = pruthenian
+		culture = yotvingian
 		religion = protestant
 		size = 30000
 	}
@@ -3077,7 +3275,7 @@
 	farmers = {
 		culture = polish
 		religion = catholic
-		size = 20625
+		size = 5625
 	}
 	
 	serfs = {
@@ -3107,7 +3305,7 @@
 	farmers = {
 		culture = lithuanian
 		religion = catholic
-		size = 4625
+		size = 24625
 	}
 
 	clergymen = {
@@ -3218,6 +3416,44 @@
 		culture = czech
 		religion = protestant
 		size = 2690
+	}
+}
+#Plock (396000/99000 POPS)
+3422 = {
+	aristocrats = {
+		culture = polish
+		religion = catholic
+		size = 50
+	}
+
+	clergymen = {
+		culture = polish
+		religion = catholic
+		size = 75
+	}
+
+	artisans = {
+		culture = polish
+		religion = catholic
+		size = 400
+	}
+
+	soldiers = {
+		culture = polish
+		religion = catholic
+		size = 900
+	}
+
+	farmers = {
+		culture = polish
+		religion = catholic
+		size = 10675
+	}
+	
+	serfs = {
+		culture = polish
+		religion = catholic
+		size = 10000
 	}
 }
 #Lomza (200000/50000 POPS)

@@ -332,63 +332,69 @@
 #Marsabit (52000/13000 POPS
 2025 = {
 	aristocrats = {
-		culture = kikuyu
+		culture = oromo
 		religion = animist
 		size = 250
 	}
 
 	clergymen = {
-		culture = kikuyu
+		culture = oromo
 		religion = animist
 		size = 150
 	}
 
 	artisans = {
-		culture = kikuyu
+		culture = oromo
 		religion = animist
 		size = 650
 	}
 
 	soldiers = {
-		culture = kikuyu
+		culture = oromo
 		religion = animist
 		size = 125
 	}
 
 	farmers = {
-		culture = kikuyu
+		culture = oromo
 		religion = animist
-		size = 11875
+		size = 16875
+	}
+	
+	farmers = {
+		culture = nilotic
+		religion = animist
+		size = 4875
 	}
 	
 	aristocrats = {
-		culture = oromo
-		religion = coptic
+		culture = rendille
+		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = oromo
-		religion = coptic
+		culture = rendille
+		religion = animist
 		size = 100
 	}
 
 	artisans = {
-		culture = oromo
-		religion = coptic
+		culture = rendille
+		religion = animist
 		size = 250
 	}
 
 	soldiers = {
-		culture = oromo
-		religion = coptic
+		culture = rendille
+		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = oromo
-		religion = coptic
-		size = 4575
+		culture = rendille
+		religion = animist
+		size = 6575
 	}
 }
 #Wajir (100000/25000 POPS)

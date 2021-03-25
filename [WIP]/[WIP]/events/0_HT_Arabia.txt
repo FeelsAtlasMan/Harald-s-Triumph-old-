@@ -829,7 +829,6 @@ country_event = {
 		}
 		OR = {
 			civilization_progress = 0.8
-			post_napoleonic_thought = 1
 			year = 1850
 			TIM = { has_country_flag = timurid_collapsed }
 		}
@@ -848,6 +847,25 @@ country_event = {
 	option = {
 		name = "There are more important matters."
 		prestige = -10
+	}
+}
+
+#Shadow Caliphate
+country_event = {
+	id = 9932
+	title = "The Shadow Caliphate"
+	desc = "EVTDESC9932"
+	picture = "shadow_caliphate"
+	
+	fire_only_once = yes
+	
+	trigger = {
+		tag = ABB
+	}
+	
+	option = {
+		name = "Interesting"
+		set_country_flag = shadow_caliphate
 	}
 }
 
