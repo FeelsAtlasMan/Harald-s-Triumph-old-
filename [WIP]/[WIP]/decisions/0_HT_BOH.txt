@@ -46,4 +46,36 @@ political_decisions = {
 			set_country_flag = built_the_prauge_vistula_railway
 		}
 	}
+	
+	incorporate_poland = {
+		potential = {
+			tag = BOH
+			FRI = { exists = yes }
+			NOT = { has_country_flag = incorporated_poland }
+		}
+		allow = {
+			is_greater_power = yes
+			war = no
+			POL = { exists = no }
+			CPL = { exists = no }
+			KRA = { exists = no }
+			PZN = { exists = no }
+			SLS = { exists = no }
+		}
+		effect = {
+			prestige = 25
+			any_pop = {
+				limit = {
+					culture = polish
+				}
+				militancy = 5
+			}
+			POL = {
+				all_core = {
+					add_core = THIS
+				}
+			}
+			set_country_flag = incorporated_poland
+		}
+	}
 }

@@ -6,7 +6,7 @@ country_event = {
 	is_triggered_only = yes
 	
 	option = {
-		name = "Accept their Vassalage"
+		name = "PLB_vassal"
 		relation = {
 			who = PLB
 			value = 50
@@ -22,7 +22,7 @@ country_event = {
 	}
 	
 	option = {
-		name = "The German Empire is for germans, and germans only!"
+		name = "The German Confederation is for germans, and germans only!"
 		relation = {
 			who = PLB
 			value = -100
@@ -46,9 +46,6 @@ country_event = {
 	
 	option = {
 		name = "We're safe at last!"
-		all_core = {
-			add_core = GER
-		}
 		set_country_flag = HRE_country
 		prestige = 5
 	}

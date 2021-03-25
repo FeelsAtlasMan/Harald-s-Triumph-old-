@@ -845,6 +845,37 @@ CPL_absolute_monarchy;Masovia;;;;;;;;;;;;x
 CPL_hms_government;Masovia;;;;;;;;;;;;x
 CPL_prussian_constitutionalism;Masovia;;;;;;;;;;;;x
 CPL_democracy;Masovia;;;;;;;;;;;;x
+GER_absolute_monarchy;The Kingdom of Germany;;;;;;;;;;;;x
+GER_hms_government;The Kingdom of Germany;;;;;;;;;;;;x
+GER_prussian_constitutionalism;The Kingdom of Germany;;;;;;;;;;;;x
+AST;Suori jöro;;;;;;;;;;;;x
+AST_absolute_monarchy;Suori jöro;;;;;;;;;;;;x
+AST_hms_government;Suori jöro;;;;;;;;;;;;x
+AST_prussian_constitutionalism;Suori jöro;;;;;;;;;;;;x
+AST_democracy;Suori jöro;;;;;;;;;;;;x
+AST_proleterian_dictatorship;Suori jöro;;;;;;;;;;;;x
+AST_fascist_dictatorship;Suori jöro;;;;;;;;;;;;x
+AST_colonial_company;Suori jöro;;;;;;;;;;;;x
+AST_dominion;Suori jöro;;;;;;;;;;;;x
+VGR_ADJ;Vagr;Vagr;Vagr;;;;;;;;;;;x;
+VGR;Vagrland;Vagrland;Vagrland;;;;;;;;;;;x;
+VGR_proletarian_dictatorship;Vagrland;Vagrland;Vagrland;;;;;;;;;;;x;
+VGR_presidential_dictatorship;Vagrland;Vagrland;Vagrland;;;;;;;;;;;x;
+VGR_bourgeois_dictatorship;Vagrland;Vagrland;Vagrland;;;;;;;;;;;x;
+VGR_fascist_dictatorship;Vagrland;Vagrland;Vagrland;;;;;;;;;;;x;
+VGR_absolute_monarchy;Vagrland;Vagrland;Vagrland;;;;;;;;;;;x;
+VGR_prussian_constitutionalism;Vagrland;Vagrland;Vagrland;;;;;;;;;;;x;
+VGR_hms_government;Vagrland;Vagrland;Vagrland;;;;;;;;;;;x;
+VGR_democracy;Vagrland;Vagrland;Vagrland;;;;;;;;;;;x;
+VGR_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
+VGR_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
+VGR_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
+VGR_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
+VGR_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
+VGR_reactionary_78;Reactionaries;Reactionaries;Reactionaries;;;;;;;;;;;x;
+VGR_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+VGR_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
+VGR_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
 ANC;Ancona;;;;;;;;;;;;x
 ANC_ADJ;Anconan;;;;;;;;;;;;x
 ANC_democracy;Republic of Ancona;;;;;;;;;;;;x
@@ -929,3 +960,63 @@ JWE_absolute_monarchy;Kingdom of Solomon;;;;;;;;;;;;x
 JWE_hms_government;Kingdom of Solomon;;;;;;;;;;;;x
 JWE_prussian_constitutionalism;Kingdom of Solomon;;;;;;;;;;;;x
 JWE_ADJ;Judean;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+WLL_ADJ;Hainaut;Hainaut;Hainaut;;;;;;;;;;;x;
+WLL;Hainaut;Hainaut;Hainaut;;;;;;;;;;;x;
+WLL_proletarian_dictatorship;Hainaut;Hainaut;Hainaut;;;;;;;;;;;x;
+WLL_presidential_dictatorship;Hainaut;Hainaut;Hainaut;;;;;;;;;;;x;
+WLL_bourgeois_dictatorship;Hainaut;Hainaut;Hainaut;;;;;;;;;;;x;
+WLL_fascist_dictatorship;Hainaut;Hainaut;Hainaut;;;;;;;;;;;x;
+WLL_absolute_monarchy;Hainaut;Hainaut;Hainaut;;;;;;;;;;;x;
+WLL_prussian_constitutionalism;Hainaut;Hainaut;Hainaut;;;;;;;;;;;x;
+WLL_hms_government;Hainaut;Hainaut;Hainaut;;;;;;;;;;;x;
+WLL_democracy;Hainaut;Hainaut;Hainaut;;;;;;;;;;;x;
+SGF_ADJ;Lotharingia;Lotharingia;Lotharingia;;;;;;;;;;;x;
+SGF;Lotharingia;Lotharingia;Lotharingia;;;;;;;;;;;x;
+SGF_proletarian_dictatorship;Lotharingia;Lotharingia;Lotharingia;;;;;;;;;;;x;
+SGF_presidential_dictatorship;Lotharingia;Lotharingia;Lotharingia;;;;;;;;;;;x;
+SGF_bourgeois_dictatorship;Lotharingia;Lotharingia;Lotharingia;;;;;;;;;;;x;
+SGF_fascist_dictatorship;Lotharingia;Lotharingia;Lotharingia;;;;;;;;;;;x;
+SGF_absolute_monarchy;Lotharingia;Lotharingia;Lotharingia;;;;;;;;;;;x;
+SGF_prussian_constitutionalism;Lotharingia;Lotharingia;Lotharingia;;;;;;;;;;;x;
+SGF_hms_government;Lotharingia;Lotharingia;Lotharingia;;;;;;;;;;;x;
+SGF_democracy;Lotharingia;Lotharingia;Lotharingia;;;;;;;;;;;x;
+ATH_ADJ;Athenian;Athenian;Athenian;;;;;;;;;;;x;
+ATH;Athens;Athens;Athens;;;;;;;;;;;x;
+ATH_proletarian_dictatorship;Athens;Athens;Athens;;;;;;;;;;;x;
+ATH_presidential_dictatorship;Athens;Athens;Athens;;;;;;;;;;;x;
+ATH_bourgeois_dictatorship;Athens;Athens;Athens;;;;;;;;;;;x;
+ATH_fascist_dictatorship;Athens;Athens;Athens;;;;;;;;;;;x;
+ATH_absolute_monarchy;Athens;Athens;Athens;;;;;;;;;;;x;
+ATH_prussian_constitutionalism;Athens;Athens;Athens;;;;;;;;;;;x;
+ATH_hms_government;Athens;Athens;Athens;;;;;;;;;;;x;
+ATH_democracy;Athens;Athens;Athens;;;;;;;;;;;x;
+ATH_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
+ATH_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
+ATH_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
+ATH_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
+ATH_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
+ATH_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
+ATH_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+ATH_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
+ATH_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
+MRE_ADJ;Morean;Morean;Morean;;;;;;;;;;;x;
+MRE;Morea;Morea;Morea;;;;;;;;;;;x;
+MRE_proletarian_dictatorship;Morea;Morea;Morea;;;;;;;;;;;x;
+MRE_presidential_dictatorship;Morea;Morea;Morea;;;;;;;;;;;x;
+MRE_bourgeois_dictatorship;Morea;Morea;Morea;;;;;;;;;;;x;
+MRE_fascist_dictatorship;Morea;Morea;Morea;;;;;;;;;;;x;
+MRE_absolute_monarchy;Morea;Morea;Morea;;;;;;;;;;;x;
+MRE_prussian_constitutionalism;Morea;Morea;Morea;;;;;;;;;;;x;
+MRE_hms_government;Morea;Morea;Morea;;;;;;;;;;;x;
+MRE_democracy;Morea;Morea;Morea;;;;;;;;;;;x;
+MRE_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
+MRE_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
+MRE_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
+MRE_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
+MRE_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
+MRE_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
+MRE_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+MRE_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
+MRE_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
+EPI;Epirus;;;;;;;;;;;x;
+EPI_ADJ;Epirote;;;;;;;;;;;x;

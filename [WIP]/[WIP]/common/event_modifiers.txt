@@ -3342,3 +3342,14 @@ magiarisation = {
 	min_social_spending = 0.2
 	icon = 7
 }
+
+nordic_monetary_union = {
+	tax_efficiency = 0.1
+	loan_interest = 0.05
+	icon = 7
+}
+
+anglo_saxon_integration = {
+	assimilation_rate = 1.5
+	icon = 19
+}

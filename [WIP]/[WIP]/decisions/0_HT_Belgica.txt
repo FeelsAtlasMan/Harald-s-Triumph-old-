@@ -16,7 +16,7 @@ political_decisions = {
 					NOT = { in_sphere = SAX }
 				}
 			}
-			prestige = 60
+			#prestige = 60
 			any_greater_power = {
 				alliance_with = THIS
 				NOT = { tag = SAX } 

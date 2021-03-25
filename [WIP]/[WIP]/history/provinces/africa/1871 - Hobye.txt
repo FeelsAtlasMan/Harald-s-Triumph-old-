@@ -1,6 +1,7 @@
 owner = HBY
 controller = HBY
 add_core = HBY
+add_core = GEL
 add_core = WRL
 add_core = MAJ
 add_core = GEL

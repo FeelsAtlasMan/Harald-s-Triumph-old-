@@ -4,9 +4,7 @@ BAV = {
 	influence_value = 100
 }
 VEN = {
-	value = 175		
-	level = 5		
-	influence_value = 100
+	value = -60		
 }
 BZN = {
 	value = 200		

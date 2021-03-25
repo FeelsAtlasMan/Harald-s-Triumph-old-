@@ -1,3 +1,4 @@
+absolute_monarchy = { 244  227  160 }
 color = { 125  171  84 }
 graphical_culture = ItalianGC
 

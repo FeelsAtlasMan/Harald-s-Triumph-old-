@@ -44,6 +44,7 @@ political_decisions = {
 			any_pop = {
 				limit = {
 					NOT = { is_culture = hungarian }
+					NOT = { has_pop_culture = hungarian }
 				}
 				militancy = 3
 			}
@@ -205,6 +206,68 @@ political_decisions = {
 			AUS_619 = { add_province_modifer = { name = ruhr_boom_city duration = 2700 } }
 			AUS_623 = { add_province_modifer = { name = ruhr_boom_city duration = 2700 } }
 			618 = { add_province_modifer = { name = ruhr_boom_city duration = 2700 } }
+			AUS_619 = { add_province_modifier = { name = ruhr_boom_city duration = 2700 } }
+			AUS_623 = { add_province_modifier = { name = ruhr_boom_city duration = 2700 } }
+			618 = { add_province_modifier = { name = ruhr_boom_city duration = 2700 } }
+		}
+	}
+	
+	create_dacia = {
+		potential = {
+			OR = {
+				tag = HUN
+				tag = BYZ
+			}
+			is_greater_power = yes
+			WAL = { ai = yes }
+			MOL = { ai = yes }
+			ROM = { exists = no }
+		}
+		allow = {
+			nationalism_n_imperialism = 1
+			MOL = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+			WAL = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+		}
+		effect = {
+			WAL = {
+				inherit = MOL
+				change_tag = ROM
+			}
+			ROM = {
+				all_core = {
+					limit = {
+						NOT = { owned_by = THIS }
+					}
+					secede_province = ROM
+				}
+				government = colonial_company
+			}
+			all_core = {
+				limit = {
+					is_core = ROM
+					owned_by = THIS
+				}
+				remove_core = ROM
+			}
+			create_vassal = ROM
 		}
 	}
 }

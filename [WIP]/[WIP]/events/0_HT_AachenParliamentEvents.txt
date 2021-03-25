@@ -5,27 +5,39 @@ country_event = {
         desc = "EVTDESC666000"
       
         trigger = {
-                has_country_flag = HRE_country
-				is_greater_power = no
+			tag = AAC
+            has_country_flag = HRE_country
+			is_greater_power = no
         }
 		
 	    mean_time_to_happen = {
-		months = 6
+			months = 6
 		}
 		
         option = {
-		        name = "EVT666000OPTA"
-		        any_greater_power = {
+			name = "EVT666000OPTA"
+			any_country = {
 				limit = {
-				NOT = {
-	                is_sphere_leader_of = THIS
+					has_country_flag = HRE_country
+					part_of_sphere = yes
 				}
-            }
+				any_greater_power = {
+					diplomatic_influence = { 
+						value = -100 
+					}
 				}
-		        diplomatic_influence = {
-	            who = THIS 
-		        value = -100 
-            }
+			}
+			#any_greater_power = {
+			#	limit = {
+			#		NOT = {
+			#			is_sphere_leader_of = THIS
+			#		}
+			#	}
+			#}
+	        #diplomatic_influence = {
+	        #    who = THIS 
+		    #    value = -100 
+            #}
 	    }
 	}
 

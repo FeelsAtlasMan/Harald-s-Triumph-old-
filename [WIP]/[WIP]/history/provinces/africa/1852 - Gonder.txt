@@ -2,6 +2,7 @@ owner = GON
 controller = GON
 add_core = GON
 add_core = SMN
+add_core = TIG
 add_core = ETH
 trade_goods = cattle
 life_rating = 35

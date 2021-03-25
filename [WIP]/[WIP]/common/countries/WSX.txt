@@ -2,7 +2,7 @@
 
 #========================= H E A D E R =========================
 
-color = { 240  230  140 }
+color = { 225  69  69 }
 graphical_culture = BritishGC
 
 
