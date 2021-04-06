@@ -65,7 +65,7 @@
 	farmers = {
 		culture = baganda
 		religion = animist
-		size = 48025
+		size = 57025
 	}
 	
 	farmers = {
@@ -75,37 +75,37 @@
 	}
 
 	aristocrats = {
-		culture = lacustrine_bantu
+		culture = nyoro
 		religion = animist
 		size = 575
 	}
 
 	clergymen = {
-		culture = lacustrine_bantu
+		culture = nyoro
 		religion = animist
 		size = 300
 	}
 
 	artisans = {
-		culture = lacustrine_bantu
+		culture = nyoro
 		religion = animist
 		size = 1500
 	}
 
 	soldiers = {
-		culture = lacustrine_bantu
+		culture = nyoro
 		religion = animist
 		size = 300
 	}
 
 	farmers = {
-		culture = lacustrine_bantu
+		culture = nyoro
 		religion = animist
-		size = 10325
+		size = 1325
 	}
 
 	slaves = {
-		culture = lacustrine_bantu
+		culture = nyoro
 		religion = animist
 		size = 7000
 	}
@@ -113,81 +113,87 @@
 #Mbarara (232000/53000 POPS) 
 2020 = {
 	aristocrats = {
-		culture = baganda
+		culture = nkore
 		religion = animist
 		size = 650
 	}
 
 	clergymen = {
-		culture = baganda
+		culture = nkore
 		religion = animist
 		size = 350
 	}
 
 	artisans = {
-		culture = baganda
+		culture = nkore
 		religion = animist
 		size = 1650
 	}
 
 	soldiers = {
-		culture = baganda
+		culture = nkore
 		religion = animist
 		size = 1350
 	}
 
 	farmers = {
-		culture = baganda
+		culture = nkore
 		religion = animist
-		size = 41920
+		size = 25000
 	}
 	
 	farmers = {
-		culture = ruanda
+		culture = tooro
 		religion = animist
-		size = 4000
+		size = 16920
 	}
 	
 	farmers = {
-		culture = baganda
+		culture = konzo
+		religion = animist
+		size = 7000
+	}
+	
+	farmers = {
+		culture = nkore
 		religion = sunni
 		size = 2080
 	}
 
 	slaves = {
-		culture = lacustrine_bantu
+		culture = konzo
 		religion = animist
-		size = 4000
+		size = 7000
 	}
 
 	aristocrats = {
-		culture = luo
+		culture = shi_havu
 		religion = animist
 		size = 350
 	}
 
 	clergymen = {
-		culture = luo
+		culture = shi_havu
 		religion = animist
 		size = 175
 	}
 
 	artisans = {
-		culture = luo
+		culture = shi_havu
 		religion = animist
 		size = 725
 	}
 
 	soldiers = {
-		culture = luo
+		culture = shi_havu
 		religion = animist
 		size = 200
 	}
 
 	farmers = {
-		culture = luo
+		culture = shi_havu
 		religion = animist
-		size = 8550
+		size = 2550
 	}
 }
 #Masindi (192000/48000 POPS) 
@@ -217,19 +223,19 @@
 	}
 	
 	artisans = {
-		culture = nilotic
+		culture = nyoro
 		religion = animist
 		size = 1450
 	}
 	
 	farmers = {
-		culture = nilotic
+		culture = nyoro
 		religion = animist
 		size = 3700
 	}
 
 	slaves = {
-		culture = nilotic
+		culture = nyoro
 		religion = animist
 		size = 4000
 	}
@@ -341,55 +347,55 @@
 #Jinja (208000/52000 POPS) 
 2023 = {
 	aristocrats = {
-		culture = baganda
+		culture = soga
 		religion = animist
 		size = 275
 	}
 
 	clergymen = {
-		culture = baganda
+		culture = soga
 		religion = animist
 		size = 150
 	}
 	
 	aristocrats = {
-		culture = baganda
+		culture = soga
 		religion = sunni
 		size = 750
 	}
 
 	clergymen = {
-		culture = baganda
+		culture = soga
 		religion = sunni
 		size = 375
 	}
 
 	artisans = {
-		culture = baganda
+		culture = soga
 		religion = animist
 		size = 575
 	}
 
 	soldiers = {
-		culture = baganda
+		culture = soga
 		religion = animist
 		size = 150
 	}
 	
 	soldiers = {
-		culture = baganda
+		culture = soga
 		religion = sunni
 		size = 375
 	}
 
 	farmers = {
-		culture = baganda
+		culture = soga
 		religion = animist
 		size = 52850
 	}
 	
 	farmers = {
-		culture = baganda
+		culture = soga
 		religion = sunni
 		size = 9000
 	}
@@ -407,13 +413,13 @@
 	}
 
 	artisans = {
-		culture = lacustrine_bantu
+		culture = luo
 		religion = animist
 		size = 200
 	}
 	
 	slaves = {
-		culture = lacustrine_bantu
+		culture = luo
 		religion = animist
 		size = 6000
 	}

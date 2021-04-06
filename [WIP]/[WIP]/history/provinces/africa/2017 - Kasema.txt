@@ -1,5 +1,7 @@
-add_core = KZB
+owner = BBM
+controller = BBM
+add_core = BBM
 trade_goods = cattle
-life_rating = 10
-colonial = 1
+life_rating = 35
+
 

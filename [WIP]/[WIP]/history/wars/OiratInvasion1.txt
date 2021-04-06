@@ -2,7 +2,7 @@ name = "Oirat Invasion of Kazakhstan"
 
 1836.1.1 = {
 	add_attacker = OIR
-	add_defender = KAZ
+	add_defender = KML
 	
 	# actor
 	# receiver
@@ -12,12 +12,12 @@ name = "Oirat Invasion of Kazakhstan"
 	war_goal = {
 		casus_belli = conquest
 		actor = OIR
-		receiver = KAZ
+		receiver = KML
 	}
 	
 	war_goal = {
 		casus_belli = status_quo
-		actor = KAZ
+		actor = KML
 		receiver = OIR
 	}
 

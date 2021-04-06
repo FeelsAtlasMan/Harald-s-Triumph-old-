@@ -365,23 +365,29 @@ political_decisions = {
 			AWS = { all_core = { add_core = SOM } }
 			ETH_1859 = { add_core = SOM }
 			ETH_1865 = { add_core = SOM }
+			ETH_1862 = { add_core = SOM }
 			2025 = { add_core = SOM }
 			2025 = { secede_province = THIS }
+			2025 = { life_rating = 25 }
+			3439 = { add_core = SOM }
+			3439 = { secede_province = THIS }
+			3439 = { life_rating = 25 }
 			2027 = { add_core = SOM }
-			2025 = { secede_province = THIS }
+			2024 = { add_core = SOM }
 			2033 = { add_core = SOM }
 			2032 = { add_core = SOM }
-			2032 = { secede_province = THIS }
 			2030 = { add_core = SOM }
 			2029 = { add_core = SOM }	
-            3424 = { add_core = SOM }	
+            2047 = { add_core = SOM }			
 			add_accepted_culture = iraqw
 			add_accepted_culture = cushitic
 			add_accepted_culture = afar
 			add_accepted_culture = harari
 			add_accepted_culture = rendille
             add_accepted_culture = oromo
-            add_accepted_culture = sidama			
+            add_accepted_culture = sidama	
+            add_accepted_culture = beja
+            add_accepted_culture = agaw			
 		}
 
 		ai_will_do = {

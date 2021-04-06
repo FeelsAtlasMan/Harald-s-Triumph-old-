@@ -389,7 +389,7 @@ luxury_furniture_factory = {
 steel_factory = {       
 	template = factory_template
 	input_goods = { 
-		iron = 18		#70
+		iron = 22		#70
 		coal = 5		#11.5	total input+maint = 81.5
 	}
 

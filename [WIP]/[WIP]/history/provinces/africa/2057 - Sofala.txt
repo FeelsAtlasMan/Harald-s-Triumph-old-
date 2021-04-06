@@ -1,7 +1,6 @@
-owner = GAZ
-controller = GAZ
-add_core = GAZ
-add_core = SHO
-add_core = AGC
+owner = SFL
+controller = SFL
+add_core = SFL
+add_core = SWA
 trade_goods = tobacco
 life_rating = 35

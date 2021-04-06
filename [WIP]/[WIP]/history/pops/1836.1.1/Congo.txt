@@ -3,21 +3,51 @@
 #Nkuna (400000/100000 POPS)
 1977 = {
 	aristocrats = {
+		culture = teke
+		religion = animist
+		size = 1500
+	}
+
+	clergymen = {
+		culture = teke
+		religion = animist
+		size = 1000
+	}
+
+	artisans = {
+		culture = teke
+		religion = animist
+		size = 3000
+	}
+
+	soldiers = {
+		culture = teke
+		religion = animist
+		size = 1000
+	}
+
+	farmers = {
+		culture = teke
+		religion = animist
+		size = 60000
+	}
+	
+	aristocrats = {
 		culture = bakongo
 		religion = animist
-		size = 1750
+		size = 250
 	}
 
 	clergymen = {
 		culture = bakongo
 		religion = animist
-		size = 1100
+		size = 100
 	}
 
 	artisans = {
 		culture = bakongo
 		religion = animist
-		size = 4000
+		size = 1000
 	}
 
 	soldiers = {
@@ -29,11 +59,11 @@
 	farmers = {
 		culture = bakongo
 		religion = animist
-		size = 72250
+		size = 12250
 	}
 
 	slaves = {
-		culture = bakongo
+		culture = teke
 		religion = animist
 		size = 20000
 	}
@@ -41,37 +71,91 @@
 #Madingou (160000/40000 POPS)
 1978 = {
 	aristocrats = {
-		culture = bakongo
+		culture = teke
 		religion = animist
-		size = 750
+		size = 700
 	}
 
 	clergymen = {
-		culture = bakongo
+		culture = teke
 		religion = animist
-		size = 500
+		size = 495
 	}
 
 	artisans = {
-		culture = bakongo
+		culture = teke
 		religion = animist
-		size = 1750
+		size = 1700
 	}
 
 	soldiers = {
-		culture = bakongo
+		culture = teke
 		religion = animist
 		size = 500
 	}
 
 	farmers = {
+		culture = teke
+		religion = animist
+		size = 20000
+	}
+	
+	farmers = {
+		culture = njebi
+		religion = animist
+		size = 2000
+	}
+	
+	farmers = {
+		culture = sira
+		religion = animist
+		size = 4000
+	}
+	
+	aristocrats = {
 		culture = bakongo
 		religion = animist
-		size = 26500
+		size = 50
+	}
+
+	clergymen = {
+		culture = bakongo
+		religion = animist
+		size = 5
+	}
+
+	artisans = {
+		culture = bakongo
+		religion = animist
+		size = 50
+	}
+
+	farmers = {
+		culture = bakongo
+		religion = animist
+		size = 500
+	}
+	
+	artisans = {
+		culture = suundi
+		religion = animist
+		size = 100
+	}
+
+	soldiers = {
+		culture = suundi
+		religion = animist
+		size = 500
+	}
+
+	farmers = {
+		culture = suundi
+		religion = animist
+		size = 1000
 	}
 
 	slaves = {
-		culture = bakongo
+		culture = suundi
 		religion = animist
 		size = 10000
 	}
@@ -115,7 +199,7 @@
 	}
 
 	slaves = {
-		culture = bakongo
+		culture = teke
 		religion = animist
 		size = 20000
 	}
@@ -124,65 +208,107 @@
 #Djambala (28000/7000 POPS)
 1980 = {
 	aristocrats = {
-		culture = forest_bantu
+		culture = teke
 		religion = animist
 		size = 125
 	}
 
 	clergymen = {
-		culture = forest_bantu
+		culture = teke
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = forest_bantu
+		culture = teke
 		religion = animist
 		size = 350
 	}
 
 	soldiers = {
-		culture = forest_bantu
+		culture = teke
 		religion = animist
 		size = 75
 	}
 
 	farmers = {
-		culture = forest_bantu
+		culture = teke
 		religion = animist
-		size = 6375
+		size = 4000
+	}
+	
+	farmers = {
+		culture = mbere
+		religion = animist
+		size = 2375
 	}
 }
 #Impfondo (32000/8000 POPS)
 1981 = {
 	aristocrats = {
-		culture = forest_bantu
+		culture = mbosi
 		religion = animist
 		size = 150
 	}
 
 	clergymen = {
-		culture = forest_bantu
+		culture = mbosi
 		religion = animist
 		size = 100
 	}
 
 	artisans = {
-		culture = forest_bantu
+		culture = mbosi
 		religion = animist
 		size = 400
 	}
 
 	soldiers = {
-		culture = forest_bantu
+		culture = mbosi
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = forest_bantu
+		culture = mbosi
 		religion = animist
-		size = 7300
+		size = 2000
+	}
+	
+	farmers = {
+		culture = likuba
+		religion = animist
+		size = 1000
+	}
+	
+	farmers = {
+		culture = aka
+		religion = animist
+		size = 1000
+	}
+	
+	farmers = {
+		culture = akwa
+		religion = animist
+		size = 300
+	}
+	
+	farmers = {
+		culture = mboko
+		religion = animist
+		size = 300
+	}
+	
+	farmers = {
+		culture = bangi
+		religion = animist
+		size = 200
+	}
+	
+	farmers = {
+		culture = makaa_njem
+		religion = animist
+		size = 2500
 	}
 	
 	slaves = {

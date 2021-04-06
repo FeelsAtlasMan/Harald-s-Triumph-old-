@@ -6,7 +6,7 @@ trade_goods = coal
 life_rating = 35
 terrain = newcastle
 state_building = {
-	level = 1
+	level = 4
 	building = fabric_factory
 	upgrade = yes
 }

@@ -449,39 +449,45 @@
 #Mahajanga (188000/47000 POPS)
 2121 = {
 	aristocrats = {
-		culture = malagasy #african_minor
+		culture = swahili #african_minor
 		religion = sunni
 		size = 525
 	}
 
 	clergymen = {
-		culture = malagasy #african_minor
+		culture = swahili #african_minor
 		religion = sunni
 		size = 275
 	}
 
 	artisans = {
-		culture = malagasy #african_minor
+		culture = swahili #african_minor
 		religion = sunni
-		size = 1100
+		size = 6100
 	}
 
 	soldiers = {
-		culture = malagasy #african_minor
+		culture = swahili #african_minor
 		religion = sunni
-		size = 275
+		size = 3275
 	}
 
 	farmers = {
-		culture = malagasy #african_minor
+		culture = swahili #african_minor
 		religion = sunni
-		size = 13275
+		size = 4275
 	}
 
 	slaves = {
-		culture = malagasy #african_minor
+		culture = malagasy 
 		religion = animist
-		size = 10550
+		size = 8000
+	}
+	
+	slaves = {
+		culture = kilombero 
+		religion = animist
+		size = 2000
 	}
 
 	aristocrats = {
@@ -505,13 +511,13 @@
 	soldiers = {
 		culture = malagasy
 		religion = animist
-		size = 200
+		size = 5200
 	}
 
 	farmers = {
 		culture = malagasy
 		religion = animist
-		size = 18225
+		size = 13225
 	}
 }
 #Toliara (172000/43000 POPS)

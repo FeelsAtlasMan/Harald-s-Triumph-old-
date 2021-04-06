@@ -493,7 +493,7 @@ TUR_923 = { 923 924 925 928 } #Mosul
 
 TUR_931 = { 926 927 929 934 } #Baghdad
 
-TUR_935 = { 935 932 933 930 } #Basra
+TUR_935 = { 932 933 930 } #Basra
 
 RUS_1090 = { 1090 1091 3363 3364 3365 3367 } #Eastern Georgia
 
@@ -501,7 +501,7 @@ RUS_1092 = { 1092 1094 1095 3274 1096 } #Western Georgia
 
 RUS_1098 = { 1098 1100 1101 3369 } #Armenia
 
-RUS_1102 = { 1102 1104 1105 1106 3366 3368 3370 } #Aran
+RUS_1102 = { 1102 1104 1105 1106 3366 3368 3370 3434 } #Aran
 
 TIM_3320 = { 3320 3317 1103 } #Lezgistan
 
@@ -545,15 +545,17 @@ HDJ_1151 = { 1151 1152 1153 1154 } #Hedjaz
 
 NEJ_1156 = { 1160 1156 1158 911 922 } #Hail
 
-NEJ_1157 = { 1157 1164 2586 1159 1163 } #Nejd
+NEJ_1157 = { 1157 1159 3441 1161 3442 } #Nejd
 
-ABU_1162 = { 1162 1165 1167 1168 2664 } #Abu Dhabi
+NEJ_2586 = { 2586 3280 1180 } #Rub Al-Khali
 
-OMA_1166 = { 1166 1169 1170 1171 1172 1180 } #Oman
+ABU_1162 = { 1162 1165 1167 1168 2664 1163 1164 935 } #Khalij
 
-YEM_1412 = { 1412 1173 1175 1176 1177 3280 1174 } #Hadhramut
+OMA_1166 = { 1166 1169 1170 1171 1172 } #Oman
 
-YEM_1178 = { 1178 1179 1155 1161 } #Sanaa
+YEM_1412 = { 1412 1173 1175 1176 1177 1174 } #Hadhramut
+
+YEM_1178 = { 1178 1179 1155 3443 } #Sanaa
 
 KOK_1190 = { 1190 1186 1187 1188 } #Outer Dzungaria
 
@@ -1028,7 +1030,7 @@ ENG_1818 = { 1818 1819 1820 1822 1823 1821 } #Waddai
 
 ENG_1825 = { 1824 1826 1825 1814 1817 } #Djurab
 
-EGY_1827 = { 1827 1829 1828 1830 1831 } #Sudan
+EGY_1827 = { 1827 1829 1828 1830 1831 3446 } #Sudan
 
 EGY_1834 = { 1834 1836 1833 1835 1837 } #Dongola
 
@@ -1053,19 +1055,19 @@ ETH_1865 = { 1866 1867 1864 3426 3427 3428 } #Ogaden
 
 ETH_1848 = { 1848 1849 1850 1856 } #Eritrea
 
-SOM_1868 = { 1868 1869 1870 1871 1872 } #South Somaliland
+SOM_1868 = { 1868 1869 1871 1872 } #South Somaliland
 
 SOM_1872 = { 1873 1874 1875 } #North Somaliland
 
-ENG_2024 = { 2024 2030 2032 2027 2029 2033 } #Kenya
+ENG_2024 = { 2024 2032 2027 2047 3444 } #Kenya - now Kilimanjaro
 
-ENG_2026 = { 2026 2025 2028 2031 } #Rift Valley
+ENG_2026 = { 2025 2031 2033 3439 } #Rift Valley - now Garissa
 
-ENG_2036 = { 2036 2048 2045 2037 2047 } #Zanzibar
+ENG_2036 = { 2036 2048 2030 2029 1870 } #Zanzibar - now Northern Swahili Coast
 
-ENG_2039 = { 2039 2040 2041 2038 } #Lindi
+ENG_2039 = { 2040 2041 2042 3435 2045 } #Lindi - now Outer Tanganyika
 
-ENG_2044 = { 2044 2043 2046 2042 } #Tanganyika
+ENG_2044 = { 2044 2043 2046 3437 3440 3445 } #Tanganyika - now Inner Tanganyika
 
 
 ### West Africa
@@ -1149,11 +1151,11 @@ BEL_1990 = { 1990 1991 } #Kivu
 
 ENG_2014 = { 790 2012 2013 2014 2015 } #Zambia
 
-ENG_2016 = { 2016 2017 2018 } #Kazembe
+ENG_2016 = { 2016 2017 } #Kazembe
 
-ENG_2019 = { 2019 2020 2021 2022 2023 } #Uganda
+ENG_2019 = { 2021 2022 2023 2026 2028 } #Uganda - now Iteso
 
-BEL_2034 = { 2034 2035 } #Ruanda-Urundi
+BEL_2034 = { 2034 2035 3438 2019 2020 } #Ruanda-Urundi - now Chwezi
 
 
 ### Southern Africa
@@ -1166,13 +1168,13 @@ POR_2006 = { 2006 2007 2010 2011 } #East Angola
 
 POR_2049 = { 2049 2050 2051 } #Lourenço Marques - Gaza
 
-POR_2053 = { 2059  2065 2054 2056 } #Zambezia
+POR_2053 = { 2059 2061 2060 2063 2038 2039 } #Zambezia - now Southern Swahili Coast
 
-POR_2054 = { 2057 2052 2058 2053 2055 } #Tete - Now Sofala
+POR_2054 = { 2057 2052 2058 2053 } #Tete - now Sofala/Shonaland
 
-POR_2060 = { 2060 2061 2063 2064 2581 } #Moçambique
+POR_2060 = { 2064 2581 3436 2065 2037 } #Moçambique - now Yao-Makua
 
-ENG_2067 = { 2067 2066 } #Nyasaland
+ENG_2067 = { 2067 2066 2018 2054 2055 2056 } #Malawi
 
 ENG_2068 = { 2068 2070 2635 } #Mashonaland
 
@@ -1198,9 +1200,9 @@ TRN_2108 = { 2105 2108 2110 2109 2107 2106 2114 3273 } #Transvaal - called origi
 
 ZUL_2113 = { 2113 2112 2111 2104 } #Zululand - Natal
 
-MAD_2117 = { 2117 2122 2116 2118 } #South Madagascar
+MAD_2117 = { 2117 2122 2116 2118 2121 } #South Madagascar
 
-MAD_2121 = { 2121 2115 2120 2119 } #North Madagascar
+MAD_2121 = { 2115 2120 2119 } #North Madagascar
 
 
 ### Mexico

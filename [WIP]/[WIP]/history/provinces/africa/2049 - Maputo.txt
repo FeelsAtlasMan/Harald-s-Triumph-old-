@@ -1,6 +1,5 @@
-owner = ZUL
-controller = ZUL
-add_core = ZUL
+owner = GAZ
+controller = GAZ
 add_core = GAZ
 trade_goods = fish
 terrain = savanna

@@ -162,6 +162,7 @@ country_event = {
 	          defender_goal = { casus_belli = humiliate }
 	          call_ally = no
            }
+		   ai_chance = { factor = 100 }
 	   }
 }
 
@@ -187,13 +188,16 @@ country_event = {
 		   AFG = { country_event = 60160 }
 		   set_country_flag = pashtun_rebellion
 		   AFG = { military_access = MUG }
+		   ai_chance = { factor = 100 }
 	   }
 	   
 	   option = {
 		   name = "EVT9914OPTB"
+		   release = AFG
 		   AFG = { military_access = MUG }
 		   AFG = { country_event = 60160 }
 		   change_tag_no_core_switch = AFG
+		   ai_chance = { factor = 0 }
 	    }
 }
 
@@ -247,6 +251,8 @@ country_event = {
         option = {
 		   name = "EVT9916OPTA"
 		   MAK = { end_war = AFG }
+		   1146 = { secede_province = MAK }		
+           2640 = { secede_province = MAK }
 		   release_vassal = MAK
            war = {
 	          target = MAK
@@ -273,8 +279,7 @@ country_event = {
 	          call_ally = no
            }
            set_country_flag = balochi_rebellion 	
-           1144 = { secede_province = MAK }		
-           2640 = { secede_province = MAK }			   
+           ai_chance = { factor = 100 }		   
 	   }
 }
 
@@ -314,7 +319,8 @@ country_event = {
 	          call_ally = no
            }
 		   KDS = { country_event = 60160 }
-		   KDS = { inherit = URF }	   
+		   KDS = { inherit = URF }
+           ai_chance = { factor = 100 }		   
 	   }
 	   
 	   option = {
@@ -325,7 +331,8 @@ country_event = {
            TIM = { release = KDS }
 		   KDS = { country_event = 60160 }
 		   KDS = { inherit = URF }		
-           change_tag_no_core_switch = KDS			   
+           change_tag_no_core_switch = KDS	
+           ai_chance = { factor = 0 }		   
 	   }
 	   
 	   option = {
@@ -337,6 +344,7 @@ country_event = {
 		   KDS = { country_event = 60160 }
 		   KDS = { inherit = URF }  
 		   change_tag_no_core_switch = IRQ
+		   ai_chance = { factor = 0 }
 	   }
 }
 
@@ -416,7 +424,8 @@ country_event = {
 					     } 
 					 secede_province = KDS  
 					 }
-           release = PNT 			   
+           release = PNT 
+           ai_chance = { factor = 100 }		   
 	   }
 }
 
@@ -447,7 +456,8 @@ country_event = {
 	          call_ally = no
            }		
            1212 = { add_core = KHR }
-		   3396 = { add_core = KHR }		   
+		   3396 = { add_core = KHR }	
+           ai_chance = { factor = 100 }		   
 	    }
 		
 		option = {
@@ -462,7 +472,8 @@ country_event = {
            }	
 		   1212 = { add_core = KHR }
 		   3396 = { add_core = KHR }
-           change_tag_no_core_switch = KHR		   
+           change_tag_no_core_switch = KHR	
+           ai_chance = { factor = 0 }		   
 	    }
 }
 
@@ -542,7 +553,8 @@ country_event = {
            2664 = { secede_province = OMA }
            1212 = { secede_province = KHR }
 		   3396 = { secede_province = KHR }		
-           set_country_flag = timurid_collapsed		   
+           set_country_flag = timurid_collapsed	
+           ai_chance = { factor = 100 }		   
 	   }
 	   
 	   #Resume as Breakaway
@@ -601,7 +613,8 @@ country_event = {
            1212 = { secede_province = KHR }
 		   3396 = { secede_province = KHR }			   
            country_event = 9922	  
-           set_country_flag = timurid_collapsed		   
+           set_country_flag = timurid_collapsed
+           ai_chance = { factor = 0 }		   
 	   }
 }
 
@@ -680,7 +693,8 @@ country_event = {
            2664 = { secede_province = OMA }
            1212 = { secede_province = KHR }
 		   3396 = { secede_province = KHR }	
-           set_country_flag = timurid_collapsed		   
+           set_country_flag = timurid_collapsed		
+           		   
 	   }
 	   
 	   #Resume as Breakaway
@@ -946,13 +960,16 @@ country_event = {
         option = {
 		   name = "EVT9921OPTA" 
 		   release = SST
-		   MUG = { create_vassal = AFG }	   
+		   MUG = { create_vassal = AFG }	
+           ai_chance = { factor = 100 }		   
 	    }
 		
 		option = {
 		   name = "EVT9921OPTB" 
+		   release = SST
 		   change_tag_no_core_switch = SST
-		   MUG = { create_vassal = AFG }	   
+		   MUG = { create_vassal = AFG }	
+           ai_chance = { factor = 0 }			   
 	    }
 }
 

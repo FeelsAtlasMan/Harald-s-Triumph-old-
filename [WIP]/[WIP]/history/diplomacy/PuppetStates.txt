@@ -691,3 +691,41 @@ vassal = {
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }
+
+#Rosvi Empire
+vassal = {
+	first = ZBW
+	second = SHO
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = ZBW
+	second = VND
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+#Lunda Empire
+vassal = {
+	first = LUN
+	second = KZB
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = LUN
+	second = LBA
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+#Ndongo Kingdom
+vassal = {
+	first = NDG
+	second = MTB
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}

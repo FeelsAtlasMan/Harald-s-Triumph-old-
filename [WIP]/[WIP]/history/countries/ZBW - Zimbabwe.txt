@@ -1,21 +1,20 @@
-capital = 2068
+capital = 2069
 primary_culture = shona
-culture = nguni
 religion = animist
-government = presidential_dictatorship
+government = absolute_monarchy
 plurality = 0.0
-nationalvalue = nv_order
+nationalvalue = nv_tradition
 literacy = 0.01
 
 # Political reforms
-slavery = no_slavery
+slavery = yes_slavery
 upper_house_composition = appointed
-vote_franschise = landed_voting
+vote_franschise = none_voting
 public_meetings = no_meeting
 press_rights = state_press
 trade_unions = no_trade_unions
-voting_system = first_past_the_post
-political_parties = harassment
+voting_system = jefferson_method
+political_parties = underground_parties
 
 # Social Reforms
 wage_reform = no_minimum_wage
@@ -37,8 +36,6 @@ centralization = unitary
 colonial_policy = no_colonies 
 
 set_country_flag = animist_country
-
-set_country_flag = post_colonial_country
 
 ruling_party = ZBW_reactionary
 upper_house = {

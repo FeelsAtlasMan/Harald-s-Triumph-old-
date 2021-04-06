@@ -709,19 +709,19 @@
 	aristocrats = {
 		culture = najdi_arabic
 		religion = sunni
-		size = 50
+		size = 5
 	}
 
 	clergymen = {
 		culture = najdi_arabic
 		religion = sunni
-		size = 75
+		size = 5
 	}
 
 	artisans = {
 		culture = najdi_arabic
 		religion = sunni
-		size = 200
+		size = 20
 	}
 
 	soldiers = {
@@ -733,7 +733,121 @@
 	farmers = {
 		culture = najdi_arabic
 		religion = sunni
-		size = 3850
+		size = 850
+	}
+
+}
+
+#Dawasir (16000/4000 POPS)
+3441 = {
+	aristocrats = {
+		culture = najdi_arabic
+		religion = sunni
+		size = 345
+	}
+
+	clergymen = {
+		culture = najdi_arabic
+		religion = sunni
+		size = 225
+	}
+
+	artisans = {
+		culture = najdi_arabic
+		religion = sunni
+		size = 200
+	}
+
+	soldiers = {
+		culture = najdi_arabic
+		religion = sunni
+		size = 4025
+	}
+
+	farmers = {
+		culture = najdi_arabic
+		religion = sunni
+		size = 13850
+	}
+
+}
+
+#Qahtan (16000/4000 POPS)
+3442 = {
+	aristocrats = {
+		culture = najdi_arabic
+		religion = sunni
+		size = 345
+	}
+
+	clergymen = {
+		culture = najdi_arabic
+		religion = sunni
+		size = 325
+	}
+
+	artisans = {
+		culture = najdi_arabic
+		religion = sunni
+		size = 700
+	}
+
+	soldiers = {
+		culture = najdi_arabic
+		religion = sunni
+		size = 6025
+	}
+
+	farmers = {
+		culture = najdi_arabic
+		religion = sunni
+		size = 23850
+	}
+
+}
+
+#Ma'rid (16000/4000 POPS)
+3443 = {
+	aristocrats = {
+		culture = yemeni_arabic
+		religion = sunni
+		size = 34
+	}
+
+	clergymen = {
+		culture = yemeni_arabic
+		religion = sunni
+		size = 32
+	}
+
+	artisans = {
+		culture = yemeni_arabic
+		religion = sunni
+		size = 70
+	}
+	
+	soldiers = {
+		culture = yemeni_arabic
+		religion = sunni
+		size = 125
+	}
+
+	farmers = {
+		culture = yemeni_arabic
+		religion = sunni
+		size = 1200
+	}
+
+	soldiers = {
+		culture = najdi_arabic
+		religion = sunni
+		size = 1200
+	}
+
+	farmers = {
+		culture = najdi_arabic
+		religion = sunni
+		size = 2650
 	}
 
 }

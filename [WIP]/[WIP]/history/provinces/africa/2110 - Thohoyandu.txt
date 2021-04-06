@@ -1,6 +1,6 @@
-owner = ZUL
-controller = ZUL
-add_core = ZUL
+owner = VND
+controller = VND
+add_core = VND
 terrain = mountain
-trade_goods = wool
-life_rating = 15
+trade_goods = grain
+life_rating = 35

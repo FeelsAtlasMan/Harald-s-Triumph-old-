@@ -1,16 +1,13 @@
 capital = 2067
 primary_culture = chewa 
-culture = lomwe
-culture = lunda
-culture = yao
-religion = protestant
-government = democracy
+religion = animist
+government = absolute_monarchy
 plurality = 0.0
-nationalvalue = nv_order
+nationalvalue = nv_tradition
 literacy = 0.04
 
 # Political reforms
-slavery = no_slavery
+slavery = yes_slavery
 upper_house_composition = appointed
 vote_franschise = landed_voting
 public_meetings = no_meeting
@@ -38,9 +35,8 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies 
 
-set_country_flag = protestant_country
-
-set_country_flag = post_colonial_country
+set_country_flag = animist_country
+set_country_flag = lacking_writing_system
 
 ruling_party = MLW_reactionary
 upper_house = {

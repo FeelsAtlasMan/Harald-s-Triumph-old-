@@ -6,7 +6,7 @@ country_event = {
     
     trigger = {
         exists = yes
-        NOT = { has_country_flag = existing_country }
+        NOT = { has_country_flag = game_setup_freestuff }
     }
     
     mean_time_to_happen = {
@@ -15,7 +15,7 @@ country_event = {
     
     option = {
         name = "Free stuff?"
-        set_country_flag = existing_country
+        set_country_flag = game_setup_freestuff
         leadership = 100
         ammunition = 100
         small_arms = 100

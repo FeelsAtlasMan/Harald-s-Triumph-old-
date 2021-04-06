@@ -340,6 +340,134 @@
 		size = 1205
 	}
 }
+#Naftmardab (76000/19000 POPS)
+3434 = {
+	bureaucrats = {
+		culture = talysh
+		religion = shiite
+		size = 40
+	}
+
+	clergymen = {
+		culture = talysh
+		religion = shiite
+		size = 5
+	}
+
+	artisans = {
+		culture = talysh
+		religion = shiite
+		size = 15
+	}
+
+	soldiers = {
+		culture = talysh
+		religion = shiite
+		size = 40
+	}
+	
+	farmers = {
+		culture = talysh
+		religion = shiite
+		size = 2285
+	}
+
+	aristocrats = {
+		culture = persian
+		religion = shiite
+		size = 125
+	}
+
+	bureaucrats = {
+		culture = persian
+		religion = shiite
+		size = 15
+	}
+
+	clergymen = {
+		culture = azeri
+		religion = shiite
+		size = 50
+	}
+
+	artisans = {
+		culture = azeri
+		religion = shiite
+		size = 300
+	}
+
+	soldiers = {
+		culture = azeri
+		religion = shiite
+		size = 60
+	}
+
+	farmers = {
+		culture = azeri
+		religion = shiite
+		size = 350
+	}
+	
+	farmers = {
+		culture = azeri
+		religion = shiite
+		size = 3150
+	}
+
+	aristocrats = {
+		culture = persian
+		religion = shiite
+		size = 175
+	}
+
+	clergymen = {
+		culture = persian
+		religion = shiite
+		size = 110
+	}
+
+	artisans = {
+		culture = persian
+		religion = shiite
+		size = 600
+	}
+
+	soldiers = {
+		culture = persian
+		religion = shiite
+		size = 125
+	}
+	
+	artisans = {
+		culture = alvuanian
+		religion = orthodox
+		size = 100
+	}
+
+	soldiers = {
+		culture = alvuanian
+		religion = orthodox
+		size = 125
+	}
+
+	farmers = {
+		culture = alvuanian
+		religion = orthodox
+		size = 8500
+	}
+	
+	artisans = {
+		culture = tat
+		religion = sunni
+		size = 600
+	}
+
+	farmers = {
+		culture = tat
+		religion = sunni
+		size = 1985
+	}
+}
 #Siyazen (56000/14000 POPS)
 1103 = {
 	artisans = {
@@ -1081,13 +1209,13 @@
 	aristocrats = {
 		culture = talysh
 		religion = shiite
-		size = 425
+		size = 225
 	}
 
 	clergymen = {
 		culture = talysh
 		religion = shiite
-		size = 525
+		size = 225
 	}
 
 	artisans = {
@@ -1105,7 +1233,7 @@
 	farmers = {
 		culture = talysh
 		religion = shiite
-		size = 25000
+		size = 15000
 	}
 	
 	farmers = {

@@ -53,6 +53,24 @@
 }
 #Kismayo (84000/21000 POPS)
 1870 = {
+    aristocrats = {
+		culture = swahili
+		religion = sunni
+		size = 275
+	}
+
+	clergymen = {
+		culture = swahili
+		religion = sunni
+		size = 150
+	}
+
+	artisans = {
+		culture = swahili
+		religion = sunni
+		size = 1650
+	}
+
 	aristocrats = {
 		culture = somali
 		religion = sunni
@@ -74,13 +92,13 @@
 	soldiers = {
 		culture = somali
 		religion = sunni
-		size = 150
+		size = 3150
 	}
 
 	farmers = {
 		culture = somali
 		religion = sunni
-		size = 13775
+		size = 10775
 	}
 
 	aristocrats = {
@@ -104,19 +122,19 @@
 	soldiers = {
 		culture = cushitic
 		religion = animist
-		size = 50
+		size = 550
 	}
 
 	farmers = {
 		culture = cushitic
 		religion = animist
-		size = 4575
+		size = 575
 	}
 
 	slaves = {
 		culture = cushitic
 		religion = animist
-		size = 1100
+		size = 6100
 	}
 }
 #uncolonized/ruled by the Sultan of Geledi in 1836

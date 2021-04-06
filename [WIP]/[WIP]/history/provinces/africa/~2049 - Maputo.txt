@@ -1,0 +1,7 @@
+owner = ZUL
+controller = ZUL
+add_core = ZUL
+add_core = GAZ
+trade_goods = fish
+terrain = savanna
+life_rating = 35

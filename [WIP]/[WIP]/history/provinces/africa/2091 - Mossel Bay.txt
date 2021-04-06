@@ -1,6 +1,6 @@
-owner = SAF
-controller = SAF
-add_core = SAF
-trade_goods = fruit
+owner = TRN
+controller = TRN
+add_core = TRN
+trade_goods = cattle
 life_rating = 35
 

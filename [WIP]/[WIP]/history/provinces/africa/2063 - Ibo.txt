@@ -1,5 +1,6 @@
-owner = AGC
-controller = AGC
-add_core = AGC
+owner = KLW
+controller = KLW
+add_core = KLW
+add_core = SWA
 trade_goods = grain
 life_rating = 35

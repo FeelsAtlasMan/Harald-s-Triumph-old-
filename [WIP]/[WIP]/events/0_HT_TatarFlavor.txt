@@ -28,7 +28,7 @@ country_event = {
 	}
 
 	option = {
-		name = "EVT666420OPTA"
+		name = "EVT666421OPTB"
 		ai_chance = { factor = 10 }
 		clr_country_flag = recently_raided
 	}
