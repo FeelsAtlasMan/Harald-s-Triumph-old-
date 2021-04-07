@@ -168,6 +168,24 @@
 		size = 2125
 	}
 	
+	aristocrats = {
+		culture = swahili_arabic
+		religion = sunni
+		size = 150
+	}
+
+	clergymen = {
+		culture = swahili_arabic
+		religion = sunni
+		size = 175
+	}
+
+	artisans = {
+		culture = swahili_arabic
+		religion = sunni
+		size = 2125
+	}
+	
  	aristocrats = {
 		culture = swahili
 		religion = sunni
@@ -195,7 +213,7 @@
 	farmers = {
 		culture = swahili
 		religion = sunni
-		size = 10750
+		size = 20750
 	}
 
 	aristocrats = {
@@ -227,11 +245,17 @@
 		religion = animist
 		size = 10300
 	}
+	
+	slaves = {
+		culture = makua
+		religion = animist
+		size = 4000
+	}
 
 	slaves = {
 		culture = rufiji
 		religion = animist
-		size = 10000
+		size = 8000
 	}
 }
 #Lindi (64000/16000 POPS)

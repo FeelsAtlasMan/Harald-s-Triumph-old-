@@ -3,5 +3,5 @@ controller = MBS
 add_core = MBS
 add_core = SWA
 trade_goods = cattle
-terrain = savanna
+terrain = coastal_forest
 life_rating = 35

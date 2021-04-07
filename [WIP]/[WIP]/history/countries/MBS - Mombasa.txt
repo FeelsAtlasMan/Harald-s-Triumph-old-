@@ -1,7 +1,7 @@
 capital = 2029
 primary_culture = swahili
 culture = shirazi
-culture = somali
+culture = swahili_arabic
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0
@@ -36,9 +36,7 @@ set_country_flag = swahili_country
 consciousness = 0
 nonstate_consciousness = 0
 
-1861.1.1 = {
-	oob = "/1861/ZAN_oob.txt"
-}
+oob = "MBS_oob.txt"
 
 wage_reform = no_minimum_wage
 work_hours = no_work_hour_limit

@@ -139,3 +139,5 @@ upper_house = {
 	communist = 0
 }
 
+oob = "CMS_oob.txt"
+

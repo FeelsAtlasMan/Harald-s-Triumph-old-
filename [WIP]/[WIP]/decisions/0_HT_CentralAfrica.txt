@@ -1,4 +1,5 @@
 political_decisions = {
+    #Swahili Coast
 	unite_the_swahili_coast = {
 	    picture = swahili_coast
 	    potential = {
@@ -181,6 +182,12 @@ political_decisions = {
 			2031 = { secede_province = THIS }
 			2031 = { add_core = THIS }
 			2031 = { life_rating = 25 }
+			3444 = { add_core = THIS }
+			3444 = { life_rating = 25 }
+			3444 = { secede_province = THIS }
+			3445 = { add_core = THIS }
+			3445 = { life_rating = 25 }
+			3445 = { secede_province = THIS }
 			3436 = { add_core = THIS }
 			2054 = { add_core = THIS }
 			2066 = { add_core = THIS }
@@ -192,6 +199,7 @@ political_decisions = {
 			inherit = UTT
 			UJJ = { all_core = { add_core = THIS } }
 			UTT = { all_core = { add_core = THIS } }
+			BEL_2043 = { add_core = THIS }
 			set_country_flag =  annexed_tanganyika 
 			badboy = 20
 		}
@@ -301,8 +309,51 @@ political_decisions = {
 		}
 	}
 	
-	
-	
+	#Great Lakes
+	legacy_of_chwezi = {
+	    picture = map_africa
+	    potential = {
+			is_culture_group = bantu_j_group
+			NOT = { has_country_flag = claimed_chwezi_legacy }
+		}
+
+		allow = {
+			war = no
+			BRD = { any_core = { owned_by = THIS } }
+			RWA = { any_core = { owned_by = THIS } }
+			KGW = { any_core = { owned_by = THIS } }
+			NKL = { any_core = { owned_by = THIS } }
+			BUG = { any_core = { owned_by = THIS } }
+			ITS = { any_core = { owned_by = THIS } }
+		}
+
+		effect = {
+            BEL_2043 = { add_core = THIS }
+			2021 = { add_core = THIS }
+			2023 = { add_core = THIS }
+			add_accepted_culture = konzo
+			add_accepted_culture = shi_havu
+			add_accepted_culture = nkore
+			add_accepted_culture = baganda
+			add_accepted_culture = nyoro
+			add_accepted_culture = tooro
+			add_accepted_culture = soga
+			add_accepted_culture = haya
+			add_accepted_culture = zinza
+			add_accepted_culture = nyambo
+			add_accepted_culture = suguti
+			add_accepted_culture = luhya
+			add_accepted_culture = logooli_kuria
+			add_accepted_culture = ruanda
+			add_accepted_culture = sumbwa
+			set_country_flag = claimed_chwezi_legacy
+		}
+
+		ai_will_do = {
+		    factor = 1
+		}
+	}
+
 	#Meme Shit
 	invade_iran_swa = {
 	    picture = restore_iran

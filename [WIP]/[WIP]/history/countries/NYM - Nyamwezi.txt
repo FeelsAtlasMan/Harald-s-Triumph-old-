@@ -1,5 +1,5 @@
 capital = 2013
-primary_culture = nyamwezi
+primary_culture = unyamwezi
 religion = animist
 government = absolute_monarchy
 plurality = 0.0

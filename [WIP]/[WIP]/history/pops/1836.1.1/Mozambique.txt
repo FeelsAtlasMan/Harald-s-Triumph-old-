@@ -1198,13 +1198,13 @@
 	farmers = {
 		culture = makua
 		religion = animist
-		size = 12000
+		size = 2000
 	}
 
 	slaves = {
 		culture = makua
 		religion = animist
-		size = 2000
+		size = 10000
 	}
 	
 	aristocrats = {
@@ -1264,7 +1264,13 @@
 	farmers = {
 		culture = mwani
 		religion = sunni
-		size = 12000
+		size = 10000
+	}
+	
+	farmers = {
+		culture = mwani
+		religion = animist
+		size = 4000
 	}
 }
 #Nampula (208000/52000 POPS)

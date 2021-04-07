@@ -1,5 +1,5 @@
 capital = 2070
-primary_culture = venda
+primary_culture = nguni
 culture = tswana
 religion = animist
 government = absolute_monarchy

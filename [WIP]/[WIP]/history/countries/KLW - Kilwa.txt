@@ -36,9 +36,7 @@ set_country_flag = swahili_country
 consciousness = 0
 nonstate_consciousness = 0
 
-1861.1.1 = {
-	oob = "/1861/ZAN_oob.txt"
-}
+oob = "KLW_oob.txt"
 
 wage_reform = no_minimum_wage
 work_hours = no_work_hour_limit
