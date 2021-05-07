@@ -1,6 +1,5 @@
-owner = DAM
-controller = DAM
-add_core = DAM
+owner = KBO
+controller = KBO
+add_core = KBO
 trade_goods = cattle
 life_rating = 30
-colonial = 1

@@ -3353,3 +3353,10 @@ anglo_saxon_integration = {
 	assimilation_rate = 1.5
 	icon = 19
 }
+
+mamluk_estates = {
+	population_growth = 0.002
+	local_RGO_output = 0.05
+	goods_demand = -0.05
+	icon = 1
+}

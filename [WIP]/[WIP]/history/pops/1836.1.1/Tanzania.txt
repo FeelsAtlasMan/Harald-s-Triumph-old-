@@ -1006,7 +1006,7 @@
 	}
 
 	slaves = {
-		culture = maasai
+		culture = datooga
 		religion = animist
 		size = 4000
 	}
@@ -1172,7 +1172,7 @@
 	}
 	
 	farmers = {
-		culture = nilotic
+		culture = datooga
 		religion = animist
 		size = 2225
 	}
@@ -1621,7 +1621,7 @@
 	}
 	
 	farmers = {
-		culture = maasai
+		culture = datooga
 		religion = animist
 		size = 1275
 	}
@@ -1678,7 +1678,7 @@
 	}
 	
 	slaves = {
-		culture = luo
+		culture = datooga
 		religion = animist
 		size = 2000
 	}

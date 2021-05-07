@@ -1,6 +1,5 @@
-owner = BEN
-controller = BEN
-add_core = BEN
-add_core = OYO
+owner = EKT
+controller = EKT
+add_core = EKT
 trade_goods = tropical_wood
 life_rating = 35

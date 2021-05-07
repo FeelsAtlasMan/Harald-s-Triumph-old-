@@ -16,6 +16,7 @@ country_event = {
     option = {
         name = "Free stuff?"
         set_country_flag = game_setup_freestuff
+        treasury = 10000
         leadership = 100
         ammunition = 100
         small_arms = 100

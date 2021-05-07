@@ -86,43 +86,43 @@
 	}
 
 	aristocrats = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 300
 	}
 
 	officers = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 450
 	}
 
 	bureaucrats = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 800
 	}
 
 	clergymen = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 250
 	}
 
 	capitalists = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 150
 	}
 
 	clerks = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 900
 	}
 
 	craftsmen = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 10000
 	}
@@ -184,7 +184,7 @@
 	}
 	
 	farmers = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 20525
 	}
@@ -228,25 +228,25 @@
 	}
 
 	clergymen = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 4900
 	}
 
 	soldiers = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 50
 	}
 	
 	farmers = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 30000
 	}
@@ -285,19 +285,19 @@
 	}
 
 	clergymen = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 2900
 	}
 
 	soldiers = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 50
 	}
@@ -353,19 +353,19 @@
 	}
 
 	clergymen = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 2925
 	}
 
 	soldiers = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 25
 	}
@@ -414,61 +414,61 @@
 #Namur (388000/97000 POPS)
 392 = {
 	aristocrats = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 850
 	}
 
 	officers = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 350
 	}
 
 	bureaucrats = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 500
 	}
 
 	clergymen = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 550
 	}
 
 	capitalists = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 150
 	}
 
 	clerks = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 20
 	}
 
 	craftsmen = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 1000
 	}
 
 	artisans = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 1300
 	}
 
 	soldiers = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 4000
 	}
 
 	labourers = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 41200
 	}
@@ -542,44 +542,44 @@
 	}
 
 	aristocrats = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 700
 	}
 
 	clergymen = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 300
 	}
 
 	clerks = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 100
 	}
 
 
 	artisans = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 2200
 	}
 
 	soldiers = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 46075
 	}
 
 	clergymen = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 125
 	}
@@ -642,37 +642,37 @@
 	
 
 	aristocrats = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 900
 	}
 
 	clergymen = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 575
 	}
 
 	artisans = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 3800
 	}
 	
 	craftsmen = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 6000
 	}
 
 	soldiers = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 40000
 	}
@@ -680,37 +680,37 @@
 #Liege (212000/53000 POPS)
 395 = {
 	aristocrats = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 400
 	}
 
 	clergymen = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 200
 	}
 
 	clerks = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 100
 	}
 	
 	craftsmen = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 500
 	}
 
 	artisans = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 1200
 	}
 
 	farmers = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 14000
 	}
@@ -790,13 +790,13 @@
 	}
 	
 	artisans = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 300
 	}
 
 	farmers = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 2175
 	}
@@ -806,43 +806,43 @@
 #Arlon (172000/43000 POPS)
 398 = {
 	aristocrats = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 450
 	}
 
 	clergymen = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 225
 	}
 
 	artisans = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 350
 	}
 
 	soldiers = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 1100
 	}
 	
 	farmers = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 11425
 	}
 	
 	artisans = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 250
 	}
 	
 	farmers = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 4200
 	}

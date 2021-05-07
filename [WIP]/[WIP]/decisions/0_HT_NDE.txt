@@ -135,13 +135,13 @@ political_decisions = {
 		}
 	}
 	
-	the_matter_of_angosaxons = {
+	the_matter_of_anglosaxons = {
 		potential = {
 			OR = {
 				tag = ENG
 				tag = NRD
 			}
-			NOT = { has_country_flag = the_matter_of_angosaxons }
+			NOT = { has_country_flag = the_matter_of_anglosaxons }
 		}
 		allow = {
 			war = no
@@ -150,6 +150,7 @@ political_decisions = {
 		effect = {
 			prestige = 5
 			country_event = 120800
+			set_country_flag = the_matter_of_anglosaxons
 		}
 	}
 }

@@ -199,25 +199,25 @@
 #Masindi (192000/48000 POPS) 
 2021 = {
 	aristocrats = {
-		culture = luo
+		culture = acholi
 		religion = sunni
 		size = 550
 	}
 
 	clergymen = {
-		culture = luo
+		culture = acholi
 		religion = sunni
 		size = 300
 	}
 
 	soldiers = {
-		culture = luo
+		culture = acholi
 		religion = sunni
 		size = 300
 	}
 
 	farmers = {
-		culture = luo
+		culture = acholi
 		religion = sunni
 		size = 700
 	}
@@ -241,31 +241,31 @@
 	}
 
 	aristocrats = {
-		culture = luo
+		culture = acholi
 		religion = animist
 		size = 375
 	}
 
 	clergymen = {
-		culture = luo
+		culture = acholi
 		religion = animist
 		size = 200
 	}
 
 	artisans = {
-		culture = luo
+		culture = acholi
 		religion = animist
 		size = 775
 	}
 
 	soldiers = {
-		culture = luo
+		culture = acholi
 		religion = animist
 		size = 200
 	}
 
 	farmers = {
-		culture = luo
+		culture = acholi
 		religion = animist
 		size = 20450
 	}
@@ -273,73 +273,73 @@
 #Kitgum (104000/26000 POPS) 
 2022 = {
 	aristocrats = {
-		culture = luo
+		culture = teso
 		religion = animist
 		size = 375
 	}
 
 	clergymen = {
-		culture = luo
+		culture = teso
 		religion = animist
 		size = 200
 	}
 
 	artisans = {
-		culture = luo
+		culture = teso
 		religion = animist
 		size = 775
 	}
 
 	soldiers = {
-		culture = luo
+		culture = teso
 		religion = animist
 		size = 200
 	}
 
 	farmers = {
-		culture = luo
+		culture = teso
 		religion = animist
 		size = 24450
 	}
 
 	aristocrats = {
-		culture = luo
+		culture = teso
 		religion = sunni
 		size = 125
 	}
 
 	clergymen = {
-		culture = luo
+		culture = teso
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = luo
+		culture = teso
 		religion = sunni
 		size = 350
 	}
 
 	soldiers = {
-		culture = luo
+		culture = teso
 		religion = sunni
 		size = 75
 	}
 
 	farmers = {
-		culture = nilotic
+		culture = turkana_sampur
 		religion = animist
 		size = 5075
 	}
 	
 	farmers = {
-		culture = nilotic
+		culture = turkana_sampur
 		religion = sunni
 		size = 2700
 	}
 
 	slaves = {
-		culture = nilotic
+		culture = turkana_sampur
 		religion = animist
 		size = 3300
 	}
@@ -401,25 +401,31 @@
 	}
 
 	artisans = {
-		culture = luo
+		culture = teso
 		religion = animist
 		size = 1900
 	}
 
 	farmers = {
-		culture = luo
+		culture = teso
 		religion = animist
 		size = 4400
 	}
+	
+	farmers = {
+		culture = luo
+		religion = animist
+		size = 2400
+	}
 
 	artisans = {
-		culture = luo
+		culture = pokot
 		religion = animist
 		size = 200
 	}
 	
 	slaves = {
-		culture = luo
+		culture = pokot
 		religion = animist
 		size = 6000
 	}

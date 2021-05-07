@@ -894,26 +894,27 @@ political_decisions = {
 		ai_will_do = { factor = 1 }
 	}
 	
-	EGY_1836_setup = {
+	ABB_1836_setup = {
 		picture = constantinople
 		potential = {
-			tag = EGY
+			tag = ABB
 			always = no
 		}
 		
 		allow = {
-			tag = EGY
+			tag = ABB
 		}
 		
 		effect = {
 			any_pop = {
-				limit = { OR = { has_pop_culture = turkish has_pop_culture = circassian has_pop_culture = chechen } }
+				limit = { OR = { has_pop_culture = mamluki has_pop_culture = circassian has_pop_culture = abaza } }
 				literacy = 0.02
 			}
 			
 			any_pop = {
 				limit = { 
 					NOT = { has_pop_religion = sunni } 
+					NOT = { has_pop_religion = coptic } 
 					OR = { has_pop_religion = jewish }
 				}
 			literacy = 0.2
@@ -921,6 +922,14 @@ political_decisions = {
 			
 			any_pop = { limit = { has_pop_religion = catholic NOT = { has_pop_culture = assyrian} } literacy = 0.01 }
 			any_pop = { limit = { OR = { has_pop_culture = greek has_pop_culture = armenian } } literacy = 0.05 }
+			1745 = { add_province_modifier = { name = mamluk_estates duration = 36500 } }
+		    1746 = { add_province_modifier = { name = mamluk_estates duration = 36500 } }
+		    1747 = { add_province_modifier = { name = mamluk_estates duration = 36500 } }
+		    1748 = { add_province_modifier = { name = mamluk_estates duration = 36500 } }
+		    1749 = { add_province_modifier = { name = mamluk_estates duration = 36500 } }
+		    1750 = { add_province_modifier = { name = mamluk_estates duration = 36500 } }
+		    1751 = { add_province_modifier = { name = mamluk_estates duration = 36500 } }
+			}
 		}
 	}
 	

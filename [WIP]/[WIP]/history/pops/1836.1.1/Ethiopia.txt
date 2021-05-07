@@ -309,7 +309,13 @@
 	farmers = {
 		culture = amhara
 		religion = coptic
-		size = 50630
+		size = 48000
+	}
+	
+	farmers = {
+		culture = kunama
+		religion = coptic
+		size = 2630
 	}
 	
 	soldiers = {
@@ -1286,31 +1292,31 @@
 	}
 	
 	aristocrats = {
-		culture = nuer
+		culture = turkana_sampur
 		religion = animist
 		size = 1300
 	}
 	
 	clergymen = {
-		culture = nuer
+		culture = turkana_sampur
 		religion = animist
 		size = 100
 	}
 	
 	soldiers = {
-		culture = nuer
+		culture = turkana_sampur
 		religion = animist
 		size = 500
 	}
 	
 	artisans = {
-		culture = nuer
+		culture = turkana_sampur
 		religion = animist
 		size = 2000
 	}
 	
 	farmers = {
-		culture = nuer
+		culture = turkana_sampur
 		religion = animist
 		size = 12500
 	}
@@ -1438,31 +1444,31 @@
 	}
 	
 	aristocrats = {
-		culture = nuer
+		culture = anywak
 		religion = animist
 		size = 1300
 	}
 	
 	clergymen = {
-		culture = nuer
+		culture = anywak
 		religion = animist
 		size = 100
 	}
 	
 	soldiers = {
-		culture = nuer
+		culture = anywak
 		religion = animist
 		size = 500
 	}
 	
 	artisans = {
-		culture = nuer
+		culture = anywak
 		religion = animist
 		size = 2000
 	}
 	
 	farmers = {
-		culture = nuer
+		culture = anywak
 		religion = animist
 		size = 12500
 	}
@@ -1495,37 +1501,67 @@
 
 	aristocrats = {
 		culture = oromo
-		religion = sunni
+		religion = animist
 		size = 1650
 	}
 
 	clergymen = {
 		culture = oromo
-		religion = sunni
+		religion = animist
 		size = 835
 	}
 
 	artisans = {
 		culture = oromo
-		religion = sunni
+		religion = animist
 		size = 3350
 	}
 
 	soldiers = {
 		culture = oromo
-		religion = sunni
+		religion = animist
 		size = 240
 	}
 
 	farmers = {
 		culture = oromo
-		religion = sunni
-		size = 27500
+		religion = animist
+		size = 30000
+	}
+	
+	aristocrats = {
+		culture = amhara
+		religion = coptic
+		size = 50
+	}
+
+	clergymen = {
+		culture = amhara
+		religion = coptic
+		size = 35
+	}
+
+	artisans = {
+		culture = amhara
+		religion = coptic
+		size = 50
+	}
+	
+	farmers = {
+		culture = amhara
+		religion = coptic
+		size = 2000
+	}
+	
+	farmers = {
+		culture = nuer
+		religion = animist
+		size = 7500
 	}
 
 	slaves = {
-		culture = oromo
-		religion = sunni
+		culture = anywak
+		religion = animist
 		size = 19425
 	}
 
@@ -1538,7 +1574,7 @@
 	farmers = {
 		culture = kefficho
 		religion = animist
-		size = 31000
+		size = 21000
 	}
 	
 	clergymen = {

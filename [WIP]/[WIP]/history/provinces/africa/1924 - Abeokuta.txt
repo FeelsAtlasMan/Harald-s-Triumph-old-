@@ -1,5 +1,6 @@
-owner = OYO
-controller = OYO
+owner = EGB
+controller = EGB
+add_core = EGB
 add_core = OYO
 trade_goods = grain
 life_rating = 35

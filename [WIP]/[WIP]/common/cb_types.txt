@@ -3793,7 +3793,8 @@ humiliate = {
 	}
 	
 	on_po_accepted = {
-		prestige_factor = -0.2   
+		prestige_factor = -0.2  
+        set_country_flag = humiliate_succ		
 	}
 }
 
@@ -5344,6 +5345,34 @@ establish_protectorate_casus_belli = {
 			has_country_modifier = neutrality
 			number_of_states = 3
 		}
+		NOT = { 
+			OR = {
+			   AND = {
+			       continent = europe
+				   NOT = { has_global_flag = berlin_conference }
+				   }
+			   AND = {
+			       continent = africa
+				   NOT = { has_global_flag = berlin_conference }
+				   }
+		       AND = {
+			       continent = central_africa
+				   NOT = { has_global_flag = berlin_conference }
+				   }
+			   AND = {
+			       continent = east_africa
+				   NOT = { has_global_flag = berlin_conference }
+				   }   
+			   AND = {
+			       continent = west_africa
+				   NOT = { has_global_flag = berlin_conference }
+				   } 
+			   AND = {
+			       continent = south_west
+				   NOT = { has_global_flag = berlin_conference }
+				   }   
+			}
+		}
 		OR = {
 			war_with = THIS
 			THIS = { NOT = { has_country_modifier = punitive_effects } }
@@ -5910,7 +5939,7 @@ cut_down_to_size_ottoman = {
 	}
 	
 	on_po_accepted = {
-		set_country_flag = lost_russo_turkish_war
+		set_country_flag = lost_australian_war
 	}
 }
 

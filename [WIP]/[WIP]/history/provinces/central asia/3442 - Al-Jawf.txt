@@ -3,5 +3,5 @@ controller = QTN
 add_core = QTN
 trade_goods = wool
 life_rating = 20
-terrain = desert
+terrain = oasis
 

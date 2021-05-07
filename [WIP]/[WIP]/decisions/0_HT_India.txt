@@ -27,9 +27,11 @@ political_decisions = {
 		effect = {
 			any_country = {
 				limit = {
-					tag = VDB
-					tag = NAG
-					tag = HYD
+                                   OR = { 
+			             tag = HYD
+			             tag = VDB
+			             tag = NAG
+			            }
 				}
 				annex_to = THIS
 			}

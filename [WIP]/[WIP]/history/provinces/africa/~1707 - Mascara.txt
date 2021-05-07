@@ -1,7 +1,0 @@
-owner = MOR
-controller = MOR
-add_core = MOR
-add_core = ALD
-trade_goods = iron
-life_rating = 35
-

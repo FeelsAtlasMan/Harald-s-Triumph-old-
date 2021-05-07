@@ -61,6 +61,7 @@ political_decisions = {
 		effect = {
 		    2036 = { change_province_name = "Dar Al-Salam" }
 			capital = 2036
+			2036 = { life_rating = 5 }
 			2036 = { add_province_modifier = { name = baby_boom_assimilation duration = 1400 } }
 			set_country_flag =  built_dar_es_salaam 
 		}

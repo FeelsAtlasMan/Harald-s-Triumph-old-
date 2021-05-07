@@ -1,5 +1,0 @@
-owner = LDK
-controller = LDK
-add_core = LDK
-trade_goods = grain
-life_rating = 35

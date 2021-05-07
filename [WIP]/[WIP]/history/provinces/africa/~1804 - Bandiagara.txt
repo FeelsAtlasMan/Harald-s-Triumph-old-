@@ -1,7 +1,0 @@
-owner = SEG
-controller = SEG
-add_core = TUA
-add_core = SEG
-trade_goods = cattle
-terrain = semidesert
-life_rating = 32

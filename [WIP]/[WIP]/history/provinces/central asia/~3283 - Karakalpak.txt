@@ -1,5 +1,0 @@
-add_core = KAZ
-add_core = TKM
-trade_goods = fish
-life_rating = 15
-terrain = semidesert

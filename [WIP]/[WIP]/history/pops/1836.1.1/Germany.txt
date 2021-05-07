@@ -2979,19 +2979,19 @@
 	}
 
 	clergymen = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 25 
 	}
 
 	artisans = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 1875 
 	}

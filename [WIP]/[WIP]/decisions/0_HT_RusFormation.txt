@@ -82,7 +82,6 @@ political_decisions = {
 	               background = natural_born_leader
                 }
 				prestige = 10
-				badboy = 10
                 set_country_flag = sent_general_skobelev				
 	}
 	ai_will_do = {

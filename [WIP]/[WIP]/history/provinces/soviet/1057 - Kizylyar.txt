@@ -3,5 +3,5 @@ controller = AKH
 add_core = AKH
 add_core = KMY
 trade_goods = wool
-life_rating = 25
+life_rating = 35
 
