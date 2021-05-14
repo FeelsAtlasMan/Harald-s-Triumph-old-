@@ -276,29 +276,41 @@
 	farmers = {
 		culture = tigray
 		religion = sunni
-		size = 15375
+		size = 8000
+	}
+	
+	farmers = {
+		culture = kunama
+		religion = sunni
+		size = 5000
 	}
 	
 	farmers = {
 		culture = tigrinya
 		religion = coptic
-		size = 5000
+		size = 4000
+	}
+	
+	farmers = {
+		culture = nara
+		religion = animist
+		size = 3000
 	}
 	
 	farmers = {
 		culture = beja
 		religion = sunni
-		size = 5375
+		size = 2875
 	}
 	
 	farmers = {
-		culture = bilen
+		culture = sudanese
 		religion = sunni
-		size = 500
+		size = 3000
 	}
 	
 	slaves = {
-		culture = nilotic
+		culture = gumuz
 		religion = animist
 		size = 500
 	}

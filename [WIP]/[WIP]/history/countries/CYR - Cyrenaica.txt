@@ -1,9 +1,7 @@
-capital = 1735
-primary_culture = maghrebi
-culture = bedouin
+capital = 1742
+primary_culture = libi
 culture = teda
 culture = berber
-culture = tuareg
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0

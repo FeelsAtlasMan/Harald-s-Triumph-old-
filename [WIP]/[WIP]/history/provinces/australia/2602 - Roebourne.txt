@@ -1,3 +1,4 @@
+add_core = NAL
 trade_goods = grain
 terrain = semidesert
 life_rating = 10

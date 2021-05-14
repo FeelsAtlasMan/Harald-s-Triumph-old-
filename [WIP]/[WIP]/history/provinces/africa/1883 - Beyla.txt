@@ -1,5 +1,5 @@
-owner = SEG
-controller = SEG
-add_core = SEG
+owner = WSL
+controller = WSL
+add_core = WSL
 trade_goods = timber
 life_rating = 35

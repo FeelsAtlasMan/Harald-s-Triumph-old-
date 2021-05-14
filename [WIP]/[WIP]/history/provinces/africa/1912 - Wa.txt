@@ -1,7 +1,6 @@
-owner = SEG
-controller = SEG
+owner = ASH
+controller = ASH
 add_core = ASH
 add_core = KNG
-add_core = SEG
 trade_goods = grain
 life_rating = 35

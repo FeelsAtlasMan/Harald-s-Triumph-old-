@@ -33,33 +33,39 @@
 	}
 
 	aristocrats = {
-		culture = nilotic
+		culture = turkana_sampur
 		religion = animist
 		size = 200
 	}
 
 	clergymen = {
-		culture = nilotic
+		culture = turkana_sampur
 		religion = animist
 		size = 100
 	}
 
 	artisans = {
-		culture = nilotic
+		culture = turkana_sampur
 		religion = animist
 		size = 550
 	}
 
 	soldiers = {
-		culture = nilotic
+		culture = turkana_sampur
 		religion = animist
 		size = 125
 	}
 
 	farmers = {
-		culture = nilotic
+		culture = turkana_sampur
 		religion = animist
-		size = 10025
+		size = 6025
+	}
+	
+	farmers = {
+		culture = pokot
+		religion = animist
+		size = 4000
 	}
 
 	aristocrats = {
@@ -95,67 +101,67 @@
 #Lodwar (36000/9000 POPS)
 2026 = {
 	aristocrats = {
-		culture = luo
+		culture = turkana_sampur
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = luo
+		culture = turkana_sampur
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = luo
+		culture = turkana_sampur
 		religion = animist
 		size = 250
 	}
 
 	soldiers = {
-		culture = luo
+		culture = turkana_sampur
 		religion = animist
 		size = 75
 	}
 
 	farmers = {
-		culture = luo
+		culture = turkana_sampur
 		religion = animist
 		size = 4625
 	}
 
 	aristocrats = {
-		culture = maasai
+		culture = pokot
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = maasai
+		culture = pokot
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = maasai
+		culture = pokot
 		religion = animist
 		size = 150
 	}
 
 	soldiers = {
-		culture = maasai
+		culture = pokot
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = maasai
+		culture = pokot
 		religion = animist
 		size = 2700
 	}
 
 	slaves = {
-		culture = nilotic
+		culture = pokot
 		religion = animist
 		size = 1100
 	}
@@ -219,41 +225,41 @@
 	farmers = {
 		culture = maasai
 		religion = animist
-		size = 11725
+		size = 16725
 	}
 
 	aristocrats = {
-		culture = nilotic
+		culture = pokot
 		religion = animist
 		size = 150
 	}
 
 	clergymen = {
-		culture = nilotic
+		culture = pokot
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = nilotic
+		culture = pokot
 		religion = animist
 		size = 400
 	}
 
 	soldiers = {
-		culture = nilotic
+		culture = pokot
 		religion = animist
 		size = 75
 	}
 
 	farmers = {
-		culture = nilotic
+		culture = pokot
 		religion = animist
-		size = 7300
+		size = 2300
 	}
 
 	slaves = {
-		culture = nilotic
+		culture = pokot
 		religion = animist
 		size = 3000
 	}
@@ -288,7 +294,43 @@
 	farmers = {
 		culture = luo
 		religion = animist
-		size = 20350
+		size = 15000
+	}
+	
+	farmers = {
+		culture = pokot
+		religion = animist
+		size = 5350
+	}
+	
+	aristocrats = {
+		culture = teso
+		religion = animist
+		size = 375
+	}
+
+	clergymen = {
+		culture = teso
+		religion = animist
+		size = 200
+	}
+
+	artisans = {
+		culture = teso
+		religion = animist
+		size = 775
+	}
+
+	soldiers = {
+		culture = teso
+		religion = animist
+		size = 300
+	}
+	
+	farmers = {
+		culture = teso
+		religion = animist
+		size = 3225
 	}
 
 	aristocrats = {
@@ -368,7 +410,7 @@
 	}
 	
 	farmers = {
-		culture = nilotic
+		culture = turkana_sampur
 		religion = animist
 		size = 4875
 	}
@@ -403,7 +445,7 @@
 		size = 6575
 	}
 }
-#yes2 (52000/13000 POPS
+#Ijara (52000/13000 POPS
 3439 = {
 	aristocrats = {
 		culture = oromo

@@ -640,7 +640,7 @@ iberian = {
 		Sanjurjo Serrano Silvestre Topete Valdés Varela Villapol Villar Weyler Yagüe }
 	}
 	catalan = {
-		color = {220 110 30}
+		color = {160 190 130}
 		first_names = { Albert Alexandre Alfons Alfonso Andrés Andreu Antoni Carles Cassià Dalmau 
 		David Eduard Enric Enrique Federico Felip Fernando Ferran Francesc Gaspar 
 		Gerard Isaac Jacint Jaume Joan Jordi José Josep Juan Llorenç
@@ -736,15 +736,53 @@ french = {
 		Jaurès Joffre Lebouef Lyautey Murat "Ney d'Elchingen" Nivelle Péllissier Petain Vaillant }
 	}
 	
-	occitan = { 
-		color = {110 110 50}
-		first_names = { Alban Andieu Alòi Beròt Carles Estève Fidèl Frederic Girard Jan Jacin Laurenç Martin Nicolau Privat Roman Vincenç }
+	picard = { 
+		color = {40 40 120}
+		first_names = { Achille Adolphe Adrien Aimable Alphonse Amédée Antoine Armand August Augustin
+		Charles Daniel Denis Édouard Elie Éttiene Eugène Félicien Félix Fernand
+		François Frédéric Georges Guillaume Gustave Henri Hubert Hugo Jacques Jean
+		Joseph Jules Julien Lazare Léopold Leroy Louis Lucien Matthieu Michel
+		Napoléon Nicolas Patrice Paul Philippe Pierre Robert Thibaut Thierry Thomas }
 		
-		last_names = { Amiel Benet Dardier Delpuech Ladivèze Gilbert Mistral Lacroux Laffont Maury Miquel Montagut Poujade Pujol Vidal Ros Tisseyre }
+		last_names = { Anthoine "Baraguey d'Hilliers" Bazaine Billot Bonaparte Bosquet "Boué de Lapeyrère" Bouët-Willaumez Boulanger Bourbaki
+		Bugeaud Caillard Canrobert Courbet Cousin-Mountauban Davout "de Bourbon" "de Castellane" "de Castelnau" "de Gaulle" 
+		"de Langle de Cary" "de MacMahon" "de Montaignac" "de Saint Arnaud" d'Orleans Dubail Dubois Duchêne Dupetit-Thouars Exelmans
+		Foch Forey "Franchet d'Espèrey" Gallieni Gouraud Guillaumat Hamelin Harispe Hoche Humbert
+		Jaurès Joffre Lebouef Lyautey Murat "Ney d'Elchingen" Nivelle Péllissier Petain Vaillant }
 	}
 	
-	picard = { 
-		color = {100 110 136}
+	franco_burgundian = { 
+		color = {60 60 140}
+		first_names = { Achille Adolphe Adrien Aimable Alphonse Amédée Antoine Armand August Augustin
+		Charles Daniel Denis Édouard Elie Éttiene Eugène Félicien Félix Fernand
+		François Frédéric Georges Guillaume Gustave Henri Hubert Hugo Jacques Jean
+		Joseph Jules Julien Lazare Léopold Leroy Louis Lucien Matthieu Michel
+		Napoléon Nicolas Patrice Paul Philippe Pierre Robert Thibaut Thierry Thomas }
+		
+		last_names = { Anthoine "Baraguey d'Hilliers" Bazaine Billot Bonaparte Bosquet "Boué de Lapeyrère" Bouët-Willaumez Boulanger Bourbaki
+		Bugeaud Caillard Canrobert Courbet Cousin-Mountauban Davout "de Bourbon" "de Castellane" "de Castelnau" "de Gaulle" 
+		"de Langle de Cary" "de MacMahon" "de Montaignac" "de Saint Arnaud" d'Orleans Dubail Dubois Duchêne Dupetit-Thouars Exelmans
+		Foch Forey "Franchet d'Espèrey" Gallieni Gouraud Guillaumat Hamelin Harispe Hoche Humbert
+		Jaurès Joffre Lebouef Lyautey Murat "Ney d'Elchingen" Nivelle Péllissier Petain Vaillant }
+	}
+	
+	amorican = { 
+		color = {80 80 160}
+		first_names = { Achille Adolphe Adrien Aimable Alphonse Amédée Antoine Armand August Augustin
+		Charles Daniel Denis Édouard Elie Éttiene Eugène Félicien Félix Fernand
+		François Frédéric Georges Guillaume Gustave Henri Hubert Hugo Jacques Jean
+		Joseph Jules Julien Lazare Léopold Leroy Louis Lucien Matthieu Michel
+		Napoléon Nicolas Patrice Paul Philippe Pierre Robert Thibaut Thierry Thomas }
+		
+		last_names = { Anthoine "Baraguey d'Hilliers" Bazaine Billot Bonaparte Bosquet "Boué de Lapeyrère" Bouët-Willaumez Boulanger Bourbaki
+		Bugeaud Caillard Canrobert Courbet Cousin-Mountauban Davout "de Bourbon" "de Castellane" "de Castelnau" "de Gaulle" 
+		"de Langle de Cary" "de MacMahon" "de Montaignac" "de Saint Arnaud" d'Orleans Dubail Dubois Duchêne Dupetit-Thouars Exelmans
+		Foch Forey "Franchet d'Espèrey" Gallieni Gouraud Guillaumat Hamelin Harispe Hoche Humbert
+		Jaurès Joffre Lebouef Lyautey Murat "Ney d'Elchingen" Nivelle Péllissier Petain Vaillant }
+	}
+	
+	parlangian = { 
+		color = {100 100 180}
 		first_names = { Achille Adolphe Adrien Aimable Alphonse Amédée Antoine Armand August Augustin
 		Charles Daniel Denis Édouard Elie Éttiene Eugène Félicien Félix Fernand
 		François Frédéric Georges Guillaume Gustave Henri Hubert Hugo Jacques Jean
@@ -759,7 +797,7 @@ french = {
 	}
 	
 	arpitan = { 
-		color = { 159 143 234 }
+		color = {160 140 230}
 		first_names = { Achille Adolphe Adrien Aimable Alphonse Amédée Antoine Armand August Augustin
 		Charles Daniel Denis Édouard Elie Éttiene Eugène Félicien Félix Fernand
 		François Frédéric Georges Guillaume Gustave Henri Hubert Hugo Jacques Jean
@@ -771,6 +809,27 @@ french = {
 		"de Langle de Cary" "de MacMahon" "de Montaignac" "de Saint Arnaud" d'Orleans Dubail Dubois Duchêne Dupetit-Thouars Exelmans
 		Foch Forey "Franchet d'Espèrey" Gallieni Gouraud Guillaumat Hamelin Harispe Hoche Humbert
 		Jaurès Joffre Lebouef Lyautey Murat "Ney d'Elchingen" Nivelle Péllissier Petain Vaillant }
+	}
+	
+	occitan = { 
+		color = {90 110 150}
+		first_names = { Alban Andieu Alòi Beròt Carles Estève Fidèl Frederic Girard Jan Jacin Laurenç Martin Nicolau Privat Roman Vincenç }
+		
+		last_names = { Amiel Benet Dardier Delpuech Ladivèze Gilbert Mistral Lacroux Laffont Maury Miquel Montagut Poujade Pujol Vidal Ros Tisseyre }
+	}
+	
+	gascon = { 
+		color = {70 90 140}
+		first_names = { Alban Andieu Alòi Beròt Carles Estève Fidèl Frederic Girard Jan Jacin Laurenç Martin Nicolau Privat Roman Vincenç }
+		
+		last_names = { Amiel Benet Dardier Delpuech Ladivèze Gilbert Mistral Lacroux Laffont Maury Miquel Montagut Poujade Pujol Vidal Ros Tisseyre }
+	}
+	
+	north_occitan = { 
+		color = {50 70 120}
+		first_names = { Alban Andieu Alòi Beròt Carles Estève Fidèl Frederic Girard Jan Jacin Laurenç Martin Nicolau Privat Roman Vincenç }
+		
+		last_names = { Amiel Benet Dardier Delpuech Ladivèze Gilbert Mistral Lacroux Laffont Maury Miquel Montagut Poujade Pujol Vidal Ros Tisseyre }
 	}
 	
 	norman = { 
@@ -5157,26 +5216,11 @@ central_african = {
 		}
 		radicalism = 5
 	}
-	kanuri = {
-		color = {189 142 177}
-		first_names = { Muhammad al-Amin Umar Mustapha Ahmad Dunama Ibrahim Ali Waziri Mamane
-		}
-
-		last_names = { al-Kanemi Sayfawa Dalatumi Lefiami Kingibe Imam Gana
-		}
-	}
 	lendu = {
 		color = { 40 4 60 }
 		first_names = { Mateso Baudouin Katanga Yuda Padiri Dunia Mayele }
 
 		last_names = { Vaweka Apuobo Leku Ndjabu Ninga Adirodo Ngudjolo Lubanga Chui Koka Zaba Yakutumba Mudundu }
-	}
-	
-	kingwana = {
-		color = {171 188 73}
-		first_names = { Bokobo Bomete Ilitosini Ndjandja }
-
-		last_names = { Taabwa Bwile Bembe Kabwari Buyu Bangubangu Zimba Kwami Tembo Nyanga Bhele Komo Nande }
 	}
 	
 	mongo = {
@@ -5195,14 +5239,6 @@ central_african = {
 		last_names = { Tombalbaye  Odingar Moungar Ermanala Gawrang Qadir as-Saghir Mohammed al-Mahdi al-Kabir Bira
 		}
 	}
-	teda = {
-		color = {156 198 100}
-		first_names = { Yusuf Raqib Muhammad Adham Ali Ibrahim Ahmad Yakob Kharut Salih Jawda 
-		}
-
-		last_names = { "Abd al-Aziz" "Abda al-Karim" "Derret ibn Jawda" Arous as-Sarhir al-Sharif "ibn Yusuf" "ibn Ali"
-		}
-	}
 	ubangian = {
 		color = {104 17 17}
 		first_names = { Mahamat Hyacinthe Abdou Nassirou Abdoulaye Noureddine
@@ -5210,30 +5246,36 @@ central_african = {
 
 		last_names = { Sarandji Kamoun Nzapayeké Tiangaye Touadéra Dologuelé Samba-Panza Wodobodé Bozizé }
 	}
-	forest_bantu = {
-		color = {237 134 16}
-		first_names = { Ngalifourou Muteba Mushidi Mbala Mutand Mudib Kangapu Cimbindu Mbumb Cakasekene Mulay Nawej Cikombe Waranankong
+}
+
+saharan_group = {
+	leader = african
+	is_overseas = no
+	unit = AfricanGC
+	teda = {
+		color = {230 180 210}
+		first_names = { Yusuf Raqib Muhammad Adham Ali Ibrahim Ahmad Yakob Kharut Salih Jawda 
 		}
 
-		last_names = { Bongo Ganao Kalong Mukaz Ditend Yaava Namwan Naweej Kamong Isot Kat Muteba
+		last_names = { "Abd al-Aziz" "Abda al-Karim" "Derret ibn Jawda" Arous as-Sarhir al-Sharif "ibn Yusuf" "ibn Ali"
 		}
 	}
-	south_forest_bantu = {
-		color = {233 237 16}
-		first_names = { Kaumba Muteba Mushidi Mbala Mutand Mudib Kangapu Cimbindu Mbumb Cakasekene Mulay Nawej Cikombe Waranankong
+	kanuri = {
+		color = {190 140 170}
+		first_names = { Muhammad al-Amin Umar Mustapha Ahmad Dunama Ibrahim Ali Waziri Mamane
 		}
 
-		last_names = { Kasang Nambing Kalong Mukaz Ditend Yaava Namwan Naweej Kamong Isot Kat Muteba
+		last_names = { al-Kanemi Sayfawa Dalatumi Lefiami Kingibe Imam Gana
 		}
 	}
-	#african_minor = {
-	#	color = { 63 32 10 }
-	#	first_names = { Andikan Amadi Aren Bahari Averey Bakari Bash Bayode Bitalo Chane Chata Dakarai Davu Dume Fabunni Gamba Genet Guban Hajari Haruni Ife #Ilo Issay Jabari Jabilo Jaguan Kabili Kamwimbile Kasim Kenyi Khairi Makalo Mansa Morathi Musawenkosi Raimi Razi Reth
-	#	}
-	#
-	#	last_names = { Mussa Mutato Bowelle Makeda Nzinga Sundiata 
-	#	}
-	#}
+	zaghawa = {
+		color = {150 100 130}
+		first_names = { Muhammad al-Amin Umar Mustapha Ahmad Dunama Ibrahim Ali Waziri Mamane
+		}
+
+		last_names = { al-Kanemi Sayfawa Dalatumi Lefiami Kingibe Imam Gana
+		}
+	}
 }
 
 cushitic_group = {
@@ -6486,7 +6528,7 @@ bantu_a_group = {
 	 }
 }
 
-east_african = {
+east_african = { #now Nubic
 	leader = african
 	is_overseas = no
 	unit = AfricanGC
@@ -6496,14 +6538,6 @@ east_african = {
 		}
 
 		last_names = { Nabushi Ntayitunda Muhigirwa 
-		}
-	}
-	dinka = {
-		color = {59 91 247}
-		first_names = { Abel Alier Kiir Yar Manyang Manute Luol Awino Nyankol Akex Ayak Bul Mach 
-		}
-
-		last_names = { Anyieth Ayuel Ayiec Akook Deng Thiik Maduot Ageerdit Wek Bol Arol Juuk Malual Kuai
 		}
 	}
 	fur = {
@@ -6522,8 +6556,306 @@ east_african = {
 		last_names = { Ginocho Gaocho Sherocho Nechocho Sachi Bulgu Gomol
 		}
 	}
+	nara = {
+		color = {60 60 60}
+		first_names = { Awin Akoc Nyidok Kwadker Ajang Dedunyal Kuikon Yor Kur Fadyet Fafiti Nyadwai Muko Wak Tyelgut Kodit Aney
+		}
+
+		last_names = { "wad Nyakwac" "wad Kudit" "wad Akwot" "wad Nyidok" "wad Ajang" "wad Kwadker" "wad Akoc" "wad Yor" "wad Kur"
+		}
+	}
+	tama = {
+		color = {60 40 60}
+		first_names = { Awin Akoc Nyidok Kwadker Ajang Dedunyal Kuikon Yor Kur Fadyet Fafiti Nyadwai Muko Wak Tyelgut Kodit Aney
+		}
+
+		last_names = { "wad Nyakwac" "wad Kudit" "wad Akwot" "wad Nyidok" "wad Ajang" "wad Kwadker" "wad Akoc" "wad Yor" "wad Kur"
+		}
+	}
+	nuba = {
+		color = {80 40 80}
+		first_names = { Awin Akoc Nyidok Kwadker Ajang Dedunyal Kuikon Yor Kur Fadyet Fafiti Nyadwai Muko Wak Tyelgut Kodit Aney
+		}
+
+		last_names = { "wad Nyakwac" "wad Kudit" "wad Akwot" "wad Nyidok" "wad Ajang" "wad Kwadker" "wad Akoc" "wad Yor" "wad Kur"
+		}
+	}
+	nubian = {
+		color = {100 20 100}
+		first_names = { Awin Akoc Nyidok Kwadker Ajang Dedunyal Kuikon Yor Kur Fadyet Fafiti Nyadwai Muko Wak Tyelgut Kodit Aney
+		}
+
+		last_names = { "wad Nyakwac" "wad Kudit" "wad Akwot" "wad Nyidok" "wad Ajang" "wad Kwadker" "wad Akoc" "wad Yor" "wad Kur"
+		}
+	}
+}
+
+kunama_group = { 
+	leader = african
+	is_overseas = no
+	unit = AfricanGC
+	kunama = {
+		color = {100 20 160}
+		first_names = { Awin Akoc Nyidok Kwadker Ajang Dedunyal Kuikon Yor Kur Fadyet Fafiti Nyadwai Muko Wak Tyelgut Kodit Aney
+		}
+
+		last_names = { "wad Nyakwac" "wad Kudit" "wad Akwot" "wad Nyidok" "wad Ajang" "wad Kwadker" "wad Akoc" "wad Yor" "wad Kur"
+		}
+	}
+}
+
+kordofanian_group = { 
+	leader = african
+	is_overseas = no
+	unit = AfricanGC
+	heiban = {
+		color = {200 20 160}
+		first_names = { Awin Akoc Nyidok Kwadker Ajang Dedunyal Kuikon Yor Kur Fadyet Fafiti Nyadwai Muko Wak Tyelgut Kodit Aney
+		}
+
+		last_names = { "wad Nyakwac" "wad Kudit" "wad Akwot" "wad Nyidok" "wad Ajang" "wad Kwadker" "wad Akoc" "wad Yor" "wad Kur"
+		}
+	}
+	teqali = {
+		color = {100 60 80}
+		first_names = { Awin Akoc Nyidok Kwadker Ajang Dedunyal Kuikon Yor Kur Fadyet Fafiti Nyadwai Muko Wak Tyelgut Kodit Aney
+		}
+
+		last_names = { "wad Nyakwac" "wad Kudit" "wad Akwot" "wad Nyidok" "wad Ajang" "wad Kwadker" "wad Akoc" "wad Yor" "wad Kur"
+		}
+	}
+	lafofa = {
+		color = {160 40 120}
+		first_names = { Awin Akoc Nyidok Kwadker Ajang Dedunyal Kuikon Yor Kur Fadyet Fafiti Nyadwai Muko Wak Tyelgut Kodit Aney
+		}
+
+		last_names = { "wad Nyakwac" "wad Kudit" "wad Akwot" "wad Nyidok" "wad Ajang" "wad Kwadker" "wad Akoc" "wad Yor" "wad Kur"
+		}
+	}
+	katla = {
+		color = {120 60 120}
+		first_names = { Awin Akoc Nyidok Kwadker Ajang Dedunyal Kuikon Yor Kur Fadyet Fafiti Nyadwai Muko Wak Tyelgut Kodit Aney
+		}
+
+		last_names = { "wad Nyakwac" "wad Kudit" "wad Akwot" "wad Nyidok" "wad Ajang" "wad Kwadker" "wad Akoc" "wad Yor" "wad Kur"
+		}
+	}
+	talodi = {
+		color = {180 40 160}
+		first_names = { Awin Akoc Nyidok Kwadker Ajang Dedunyal Kuikon Yor Kur Fadyet Fafiti Nyadwai Muko Wak Tyelgut Kodit Aney
+		}
+
+		last_names = { "wad Nyakwac" "wad Kudit" "wad Akwot" "wad Nyidok" "wad Ajang" "wad Kwadker" "wad Akoc" "wad Yor" "wad Kur"
+		}
+	}
+	kadu = { #Nilo-Saharan, but included here because I'm lazy
+		color = {180 40 120}
+		first_names = { Awin Akoc Nyidok Kwadker Ajang Dedunyal Kuikon Yor Kur Fadyet Fafiti Nyadwai Muko Wak Tyelgut Kodit Aney
+		}
+
+		last_names = { "wad Nyakwac" "wad Kudit" "wad Akwot" "wad Nyidok" "wad Ajang" "wad Kwadker" "wad Akoc" "wad Yor" "wad Kur"
+		}
+	}
+	temein = { #Nilo-Saharan, but included here because I'm lazy
+		color = {180 140 120}
+		first_names = { Awin Akoc Nyidok Kwadker Ajang Dedunyal Kuikon Yor Kur Fadyet Fafiti Nyadwai Muko Wak Tyelgut Kodit Aney
+		}
+
+		last_names = { "wad Nyakwac" "wad Kudit" "wad Akwot" "wad Nyidok" "wad Ajang" "wad Kwadker" "wad Akoc" "wad Yor" "wad Kur"
+		}
+	}
+}
+
+daju_group = { 
+	leader = african
+	is_overseas = no
+	unit = AfricanGC
+	kordofan_daju = {
+		color = {200 120 20}
+		first_names = { Awin Akoc Nyidok Kwadker Ajang Dedunyal Kuikon Yor Kur Fadyet Fafiti Nyadwai Muko Wak Tyelgut Kodit Aney
+		}
+
+		last_names = { "wad Nyakwac" "wad Kudit" "wad Akwot" "wad Nyidok" "wad Ajang" "wad Kwadker" "wad Akoc" "wad Yor" "wad Kur"
+		}
+	}
+	daju = {
+		color = {180 100 40}
+		first_names = { Awin Akoc Nyidok Kwadker Ajang Dedunyal Kuikon Yor Kur Fadyet Fafiti Nyadwai Muko Wak Tyelgut Kodit Aney
+		}
+
+		last_names = { "wad Nyakwac" "wad Kudit" "wad Akwot" "wad Nyidok" "wad Ajang" "wad Kwadker" "wad Akoc" "wad Yor" "wad Kur"
+		}
+	}
+	sila = {
+		color = {160 80 60}
+		first_names = { Awin Akoc Nyidok Kwadker Ajang Dedunyal Kuikon Yor Kur Fadyet Fafiti Nyadwai Muko Wak Tyelgut Kodit Aney
+		}
+
+		last_names = { "wad Nyakwac" "wad Kudit" "wad Akwot" "wad Nyidok" "wad Ajang" "wad Kwadker" "wad Akoc" "wad Yor" "wad Kur"
+		}
+	}
+	nyala = {
+		color = {140 60 80}
+		first_names = { Awin Akoc Nyidok Kwadker Ajang Dedunyal Kuikon Yor Kur Fadyet Fafiti Nyadwai Muko Wak Tyelgut Kodit Aney
+		}
+
+		last_names = { "wad Nyakwac" "wad Kudit" "wad Akwot" "wad Nyidok" "wad Ajang" "wad Kwadker" "wad Akoc" "wad Yor" "wad Kur"
+		}
+	}
+}
+
+bantu_minors = {
+    leader = african
+	is_overseas = no
+	unit = AfricanGC
+	lacustrine_bantu = {
+		color = {128 175 93}
+		first_names = { Mutesa Mwanga Kalema Kiweewa Ssemakookiro Jjunju Kyabaggo Namugala Kikulwe Kabulu
+		}
+
+		last_names = { Njovu Ndiga Ngo Nseenene Mmamba Ngonge Ngabi
+		}
+	}
+	forest_bantu = {
+		color = {237 134 16}
+		first_names = { Ngalifourou Muteba Mushidi Mbala Mutand Mudib Kangapu Cimbindu Mbumb Cakasekene Mulay Nawej Cikombe Waranankong
+		}
+
+		last_names = { Bongo Ganao Kalong Mukaz Ditend Yaava Namwan Naweej Kamong Isot Kat Muteba
+		}
+	}
+	south_forest_bantu = {
+		color = {233 237 16}
+		first_names = { Kaumba Muteba Mushidi Mbala Mutand Mudib Kangapu Cimbindu Mbumb Cakasekene Mulay Nawej Cikombe Waranankong
+		}
+
+		last_names = { Kasang Nambing Kalong Mukaz Ditend Yaava Namwan Naweej Kamong Isot Kat Muteba
+		}
+	}
+	#african_minor = {
+	#	color = { 63 32 10 }
+	#	first_names = { Andikan Amadi Aren Bahari Averey Bakari Bash Bayode Bitalo Chane Chata Dakarai Davu Dume Fabunni Gamba Genet Guban Hajari Haruni Ife #Ilo Issay Jabari Jabilo Jaguan Kabili Kamwimbile Kasim Kenyi Khairi Makalo Mansa Morathi Musawenkosi Raimi Razi Reth
+	#	}
+	#
+	#	last_names = { Mussa Mutato Bowelle Makeda Nzinga Sundiata 
+	#	}
+	#}
+}
+
+#central_sudanic = {
+#	leader = african
+#	is_overseas = no
+#	unit = AfricanGC
+#}
+
+nilotic_group = {
+	leader = african
+	is_overseas = no
+	unit = AfricanGC
+	nilotic = {
+		color = {101 101 39}
+		first_names = { Okeyo Wanyanga Jaramobi Oluoch Oso Othiamba Waga Okoth Odongo Nyikaano Odaago Reth Kwa Dhyang Kolo Omaaro Wat Okwa }
+
+		last_names = { Kony Oculi Oneko p'Bitek Orombi Ramogi Luwum Obote Ocollo Tugo Tuga Tugi Ju Mono Ajalo Adugo Poolo Moolo }
+	}
+	#West Nilotic
+	burun = {
+		color = {121 101 39}
+		first_names = { Okeyo Wanyanga Jaramobi Oluoch Oso Othiamba Waga Okoth Odongo Nyikaano Odaago Reth Kwa Dhyang Kolo Omaaro Wat Okwa }
+
+		last_names = { Kony Oculi Oneko p'Bitek Orombi Ramogi Luwum Obote Ocollo Tugo Tuga Tugi Ju Mono Ajalo Adugo Poolo Moolo }
+	}
+	anywak = {
+		color = {121 121 39}
+		first_names = { Okeyo Wanyanga Jaramobi Oluoch Oso Othiamba Waga Okoth Odongo Nyikaano Odaago Reth Kwa Dhyang Kolo Omaaro Wat Okwa }
+
+		last_names = { Kony Oculi Oneko p'Bitek Orombi Ramogi Luwum Obote Ocollo Tugo Tuga Tugi Ju Mono Ajalo Adugo Poolo Moolo }
+	}
+	shilluk = {
+		color = {101 101 139}
+		first_names = { Okeyo Wanyanga Jaramobi Oluoch Oso Othiamba Waga Okoth Odongo Nyikaano Odaago Reth Kwa Dhyang Kolo Omaaro Wat Okwa }
+
+		last_names = { Kony Oculi Oneko p'Bitek Orombi Ramogi Luwum Obote Ocollo Tugo Tuga Tugi Ju Mono Ajalo Adugo Poolo Moolo }
+	}
+	nuer = {
+		color = {68 199 204}
+		first_names = { Diu Chol Dei Tongyiik Hon Pal Nyuon Deng Gai Ochan Puot Ruai 
+		}
+
+		last_names = { Anya-Nya Top Juak Gaach Bany Lieth Nyuot Luth Chotper Weiu
+		}
+	}
+	dinka = {
+		color = {59 91 247}
+		first_names = { Abel Alier Kiir Yar Manyang Manute Luol Awino Nyankol Akex Ayak Bul Mach 
+		}
+
+		last_names = { Anyieth Ayuel Ayiec Akook Deng Thiik Maduot Ageerdit Wek Bol Arol Juuk Malual Kuai
+		}
+	}
+	bor = {
+		color = {159 91 247}
+		first_names = { Abel Alier Kiir Yar Manyang Manute Luol Awino Nyankol Akex Ayak Bul Mach 
+		}
+
+		last_names = { Anyieth Ayuel Ayiec Akook Deng Thiik Maduot Ageerdit Wek Bol Arol Juuk Malual Kuai
+		}
+	}
+	thuri = {
+		color = {59 191 247}
+		first_names = { Abel Alier Kiir Yar Manyang Manute Luol Awino Nyankol Akex Ayak Bul Mach 
+		}
+
+		last_names = { Anyieth Ayuel Ayiec Akook Deng Thiik Maduot Ageerdit Wek Bol Arol Juuk Malual Kuai
+		}
+	}
+	jur = {
+		color = {251 91 147}
+		first_names = { Abel Alier Kiir Yar Manyang Manute Luol Awino Nyankol Akex Ayak Bul Mach 
+		}
+
+		last_names = { Anyieth Ayuel Ayiec Akook Deng Thiik Maduot Ageerdit Wek Bol Arol Juuk Malual Kuai
+		}
+	}
 	luo = {
 		color = {156 156 89}
+		first_names = { Okeyo Wanyanga Jaramobi Oluoch Oso Othiamba Waga Okoth Odongo Nyikaano Odaago Reth Kwa Dhyang Kolo Omaaro Wat Okwa }
+
+		last_names = { Kony Oculi Oneko p'Bitek Orombi Ramogi Luwum Obote Ocollo Tugo Tuga Tugi Ju Mono Ajalo Adugo Poolo Moolo }
+	}
+	acholi = {
+		color = {126 156 89}
+		first_names = { Okeyo Wanyanga Jaramobi Oluoch Oso Othiamba Waga Okoth Odongo Nyikaano Odaago Reth Kwa Dhyang Kolo Omaaro Wat Okwa }
+
+		last_names = { Kony Oculi Oneko p'Bitek Orombi Ramogi Luwum Obote Ocollo Tugo Tuga Tugi Ju Mono Ajalo Adugo Poolo Moolo }
+	}
+	#East Nilotic
+	mondari = {
+		color = {121 101 39}
+		first_names = { Okeyo Wanyanga Jaramobi Oluoch Oso Othiamba Waga Okoth Odongo Nyikaano Odaago Reth Kwa Dhyang Kolo Omaaro Wat Okwa }
+
+		last_names = { Kony Oculi Oneko p'Bitek Orombi Ramogi Luwum Obote Ocollo Tugo Tuga Tugi Ju Mono Ajalo Adugo Poolo Moolo }
+	}
+	bari = {
+		color = {140 110 50}
+		first_names = { Okeyo Wanyanga Jaramobi Oluoch Oso Othiamba Waga Okoth Odongo Nyikaano Odaago Reth Kwa Dhyang Kolo Omaaro Wat Okwa }
+
+		last_names = { Kony Oculi Oneko p'Bitek Orombi Ramogi Luwum Obote Ocollo Tugo Tuga Tugi Ju Mono Ajalo Adugo Poolo Moolo }
+	}
+	pojulu = {
+		color = {160 120 60}
+		first_names = { Okeyo Wanyanga Jaramobi Oluoch Oso Othiamba Waga Okoth Odongo Nyikaano Odaago Reth Kwa Dhyang Kolo Omaaro Wat Okwa }
+
+		last_names = { Kony Oculi Oneko p'Bitek Orombi Ramogi Luwum Obote Ocollo Tugo Tuga Tugi Ju Mono Ajalo Adugo Poolo Moolo }
+	}
+	teso = {
+		color = {200 100 70}
+		first_names = { Okeyo Wanyanga Jaramobi Oluoch Oso Othiamba Waga Okoth Odongo Nyikaano Odaago Reth Kwa Dhyang Kolo Omaaro Wat Okwa }
+
+		last_names = { Kony Oculi Oneko p'Bitek Orombi Ramogi Luwum Obote Ocollo Tugo Tuga Tugi Ju Mono Ajalo Adugo Poolo Moolo }
+	}
+	turkana_sampur = {
+		color = {200 100 70}
 		first_names = { Okeyo Wanyanga Jaramobi Oluoch Oso Othiamba Waga Okoth Odongo Nyikaano Odaago Reth Kwa Dhyang Kolo Omaaro Wat Okwa }
 
 		last_names = { Kony Oculi Oneko p'Bitek Orombi Ramogi Luwum Obote Ocollo Tugo Tuga Tugi Ju Mono Ajalo Adugo Poolo Moolo }
@@ -6536,34 +6868,17 @@ east_african = {
 		last_names = { "Ole Mbatian" "Ole Lenana" "Ole Segi" "Ole Parasayip" "Ole Koyati" 
 		}
 	}
-	nuer = {
-		color = {68 199 204}
-		first_names = { Diu Chol Dei Tongyiik Hon Pal Nyuon Deng Gai Ochan Puot Ruai 
-		}
-
-		last_names = { Anya-Nya Top Juak Gaach Bany Lieth Nyuot Luth Chotper Weiu
-		}
-	}
-	nuba = {
-		color = {48 213 48}
-		first_names = { Awin Akoc Nyidok Kwadker Ajang Dedunyal Kuikon Yor Kur Fadyet Fafiti Nyadwai Muko Wak Tyelgut Kodit Aney
-		}
-
-		last_names = { "wad Nyakwac" "wad Kudit" "wad Akwot" "wad Nyidok" "wad Ajang" "wad Kwadker" "wad Akoc" "wad Yor" "wad Kur"
-		}
-	}
-	lacustrine_bantu = {
-		color = {128 175 93}
-		first_names = { Mutesa Mwanga Kalema Kiweewa Ssemakookiro Jjunju Kyabaggo Namugala Kikulwe Kabulu
-		}
-
-		last_names = { Njovu Ndiga Ngo Nseenene Mmamba Ngonge Ngabi
-		}
-	}
-	nilotic = {
-		color = {101 101 39}
+	#South Nilotic
+	pokot = {
+		color = {100 100 170}
 		first_names = { Okeyo Wanyanga Jaramobi Oluoch Oso Othiamba Waga Okoth Odongo Nyikaano Odaago Reth Kwa Dhyang Kolo Omaaro Wat Okwa }
 
+		last_names = { Kony Oculi Oneko p'Bitek Orombi Ramogi Luwum Obote Ocollo Tugo Tuga Tugi Ju Mono Ajalo Adugo Poolo Moolo }
+	}
+	datooga = {
+		color = {120 120 170}
+		first_names = { Okeyo Wanyanga Jaramobi Oluoch Oso Othiamba Waga Okoth Odongo Nyikaano Odaago Reth Kwa Dhyang Kolo Omaaro Wat Okwa }
+    
 		last_names = { Kony Oculi Oneko p'Bitek Orombi Ramogi Luwum Obote Ocollo Tugo Tuga Tugi Ju Mono Ajalo Adugo Poolo Moolo }
 	}
 }

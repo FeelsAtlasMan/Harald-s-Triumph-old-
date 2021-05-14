@@ -1,6 +1,5 @@
-owner = TOO
-controller = TOO
-add_core = TOO
+owner = GBU
+controller = GBU
 add_core = GBU
 trade_goods = grain
-life_rating = 15
+life_rating = 35

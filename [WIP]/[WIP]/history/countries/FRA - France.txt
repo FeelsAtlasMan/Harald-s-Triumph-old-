@@ -1,11 +1,5 @@
 capital = 425
 primary_culture = french
-culture = occitan
-culture = picard
-culture = breton
-culture = arpitan
-culture = cajun
-culture = french_canadian
 religion = catholic
 government = absolute_monarchy
 plurality = 25

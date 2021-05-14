@@ -38,7 +38,7 @@ swiss_german;Central German;;;;;;;;;;;;;x
 turkish;Rumi;;;;;;;;;;;;;x
 north_german;Lower German;;;;;;;;;;;;;x
 south_german;Upper German;;;;;;;;;;;;;x
-norman;Normaund;;;;;;;;;;;;x
+norman;Norman;;;;;;;;;;;;x
 siqilli;Siqilli;;;;;;;;;;;;x
 griko;Griko;;;;;;;;;;;;x
 cuman;Cuman;;;;;;;;;;;;x
@@ -289,7 +289,7 @@ kamba;Kamba;;;;;;;;;;;;x
 mijikenda;Mijikenda;;;;;;;;;;;;x
 mwani;Mwani;;;;;;;;;;;;x
 suguti;Suguti;;;;;;;;;;;;x
-logooti_kuria;Logooti-Kuria;;;;;;;;;;;;x
+logooli_kuria;Logooli-Kuria;;;;;;;;;;;;x
 luhya;Luhya;;;;;;;;;;;;x
 soga;Soga;;;;;;;;;;;;x
 nyoro;Nyoro;;;;;;;;;;;;x
@@ -328,3 +328,18 @@ sawabantu;Sawabantu;;;;;;;;;;;;x
 bube;Bube;;;;;;;;;;;;x
 kogo;Kogo;;;;;;;;;;;;x
 pare;Pare;;;;;;;;;;;;x
+picard;Frankish;;;;;;;;;;;;x
+franco_burgundian;Franco-Burgundian;;;;;;;;;;;;x
+amorican;Amorican;;;;;;;;;;;;x
+north_occitan;North Occitan;;;;;;;;;;;;x
+occitan;South Occitan;;;;;;;;;;;;x
+gascon;Gascon;;;;;;;;;;;;x
+parlangian;Parlangian;;;;;;;;;;;;x
+sudanese;Sudani;;;;;;;;;;;;x
+chadic_arabic;Shuwa;;;;;;;;;;;;x
+nubian;Nubian;;;;;;;;;;;;x
+nara;Nara;;;;;;;;;;;;x
+tama;Tama;;;;;;;;;;;;x
+juba_arabic;Juba;;;;;;;;;;;;x
+bor;Bor;;;;;;;;;;;x
+veleti;Veleti;;;;;;;;;;;x
