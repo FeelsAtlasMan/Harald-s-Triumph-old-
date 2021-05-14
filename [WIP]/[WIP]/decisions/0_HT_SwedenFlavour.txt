@@ -26,107 +26,124 @@ political_decisions = {
 		}
 	}
 	
-	#Int. Estonia
-	integrate_estonia = {
-		picture = "swedish_estonia"
+	baltic_centralisation = {
+		picture = baltic_map
 		potential = {
 			tag = SWE
-			exists = EST
-			NOT = { has_country_flag = swedish_estonia }
+			OR = {
+				is_our_vassal = PLK
+				is_our_vassal = IZH
+				is_our_vassal = LAT
+				is_our_vassal = EST
+			}
+			NOT = { has_country_flag = baltic_integration }
 		}
-			
 		allow = {
 			war = no
-			EST = { in_sphere = SWE }
 			state_n_government = 1
-		}
-		
-		effect = {
-			prestige = 5
-			inherit = EST
-			badboy = 2
-			set_country_flag = swedish_estonia
-		}
-		ai_will_do = {
-			factor = 1
-		}
-	}
-	
-	#Int. Livonia
-	integrate_livonia = {
-		picture = "swedish_livonia"
-		potential = {
-			tag = SWE
-			exists = LAT
-			NOT = { has_country_flag = swedish_livonia }
-		}
-			
-		allow = {
-			war = no
-			LAT = { in_sphere = SWE }
-			state_n_government = 1
-		}
-		
-		effect = {
-			prestige = 5
-			inherit = LAT
-			badboy = 2
-			set_country_flag = swedish_livonia
-		}
-		ai_will_do = {
-			factor = 1
-		}
-	}
-	
-	#Int. Ingermanland
-	integrate_ingermanland = {
-		picture = "swedish_ingermanland"
-		potential = {
-			tag = SWE
-			exists = IZH
-			NOT = { has_country_flag = swedish_ingermanland }
-		}
-			
-		allow = {
-			war = no
-			IZH = { in_sphere = SWE }
-			state_n_government = 1
-		}
-		
-		effect = {
-			prestige = 5
-			inherit = IZH
-			badboy = 2
-			set_country_flag = swedish_ingermanland
-		}
-		ai_will_do = {
-			factor = 1
-		}
-	}
-	
-	#Int. Pleskov
-	integrate_pleskov = {
-		picture = "swedish_ingermanland"
-		potential = {
-			tag = SWE
-			exists = PLK
-			NOT = { has_country_flag = swedish_pleskov }
-		}
-			
-		allow = {
-			war = no
+			is_greater_power = yes
 			PLK = { in_sphere = SWE }
-			state_n_government = 1
+			IZH = { in_sphere = SWE }
+			EST = { in_sphere = SWE }
+			LAT = { in_sphere = SWE }
 		}
-		
 		effect = {
-			prestige = 5
 			inherit = PLK
-			badboy = 2
-			set_country_flag = swedish_pleskov
+			inherit = IZH
+			inherit = EST
+			inherit = LAT
+			set_country_flag = baltic_integration
 		}
-		ai_will_do = {
-			factor = 1
+	}
+	
+	revise_treaty_of_malmo = {
+		picture = skane_sweden
+		potential = {
+			tag = SWE
+			NOT = { has_country_flag = revised_treaty_of_malmo }
+		}
+		allow = {
+			war = no
+			NOT = { truce_with = NRD }
+			OR = {
+				AND = {
+					invention = muzzle_loaded_rifle_armament
+					NRD = {
+						NOT = { brigades_compare = 1.1 }
+					}
+				}
+				invention = expansionism
+			}
+		}
+		effect = {
+			334 = { add_core = THIS }
+			335 = { add_core = THIS }
+			329 = { add_core = THIS }
+			319 = { add_core = THIS }
+			305 = { add_core = THIS }
+			316 = { add_core = THIS }
+			badboy = 10
+			relation = {
+				who = NRD
+				value = -150
+			}
+			set_country_flag = revised_treaty_of_malmo
+		}
+	}
+	
+	moderinise_the_caroleans = {
+		picture = reformed_caroleans
+		potential = {
+			primary_culture = swedish
+			NOT = { has_country_modifier = moderinized_caroleans }
+		}
+		allow = {
+			invention = mobilization_time_tables
+		}
+		effect = {
+			add_country_modifier = {
+				name = moderinized_caroleans
+				duration = -1
+			}
+		}
+	}
+	
+	enact_the_column_of_charles_xiv = {
+		picture = swe_column
+		potential = {
+			primary_culture = swedish
+			NOT = { has_country_flag = enacted_the_column_of_charles_xiv }
+		}
+		allow = {
+			realism = 1
+		}
+		effect = {
+			prestige = 35
+			set_country_flag = enacted_the_column_of_charles_xiv
+		}
+	}
+	
+	baltic_dominium = {
+		picture = baltic_gaming
+		potential = {
+			primary_culture = swedish
+			NOT = { has_country_flag = baltic_dominium }
+		}
+		allow = {
+			all_core = {
+				owned_by = THIS
+			}
+			is_greater_power = yes
+			invention = expansionism
+			has_country_flag = revised_treaty_of_malmo
+			has_country_flag = baltic_integration
+		}
+		effect = {
+			CUR = { all_core = { add_core = THIS } }
+			PRU = { all_core = { add_core = THIS } }
+			PML = { all_core = { add_core = THIS } }
+			SMG = { all_core = { add_core = THIS } }
+			set_country_flag = baltic_dominium
 		}
 	}
 }

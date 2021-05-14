@@ -1,6 +1,7 @@
 political_decisions = {
 	
 	build_the_prauge_vistula_railway = {
+		picture = warsaw_vienna_railway
 		potential = {
 			tag = BOH
 			FRI = { exists = yes }
@@ -48,6 +49,7 @@ political_decisions = {
 	}
 	
 	incorporate_poland = {
+		picture = bohemia_poland
 		potential = {
 			tag = BOH
 			FRI = { exists = yes }

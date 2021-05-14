@@ -342,3 +342,11 @@ eth_unification_short;Acquire $STATE$ from $RECIPIENT$;;;;;;;;;;;;x,,,
 eth_unification_setup;Acquire $STATE$ from $RECIPIENT$;;;;;;;;;;;;x,,,
 NORMAL_WAR_ETH_UNIFICATION_NAME;The $ORDER$ $FIRST$ Ethiopian Unification War against $SECOND$;;;;;;;;;;;;x,,,
 AGRESSION_WAR_ETH_UNIFICATION_NAME;The $ORDER$ $FIRST$ Ethiopian Unification War against $SECOND$;;;;;;;;;;;;x,,,
+claim_ger_leader;Claim Confederetaion Leadership;x
+claim_ger_leader_desc;Force the current leader of Confederation the step down and become the leading state in the German Confederation;x
+claim_ger_leader_short;Become they leader of German Confederacy;x
+claim_ger_leader_setup;Become The Leader of The German Confederation;x
+restore_german_confederation;Restore Confederation Lands;x
+restore_german_confederation_desc;Restore Lands that by law belong to the German Confederation;x
+restore_german_confederation_short;Acquire $STATE$ from $RECIPIENT$;x
+restore_german_confederation_setup;Restore Lands that by law belong to the German Confederation;x

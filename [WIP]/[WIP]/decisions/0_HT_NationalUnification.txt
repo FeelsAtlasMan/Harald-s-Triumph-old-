@@ -87,7 +87,7 @@ political_decisions = {
 	}
 	
 	form_belgica = {
-		picture = become_belgium
+		picture = map_belgica
 		potential = {
 			OR = {
 				tag = FLA
@@ -397,6 +397,54 @@ political_decisions = {
 			SWI_607 = { add_core = SGF }
 			BEL_387 = { add_core = SGF }
 			change_tag = SGF
+		}
+	}
+	
+	form_hispania = {
+		picture = create_iberia
+		potential = {
+			is_culture_group = iberian
+			NOT = { exists = IBR }
+		}
+		allow = {
+			is_greater_power = yes
+			ATR = {
+				all_core = {
+					owned_by = THIS
+				}
+			}
+			CAT = {
+				all_core = {
+					owned_by = THIS
+				}
+			}
+			POR = {
+				all_core = {
+					owned_by = THIS
+				}
+			}
+			BSQ = {
+				all_core = {
+					owned_by = THIS
+				}
+			}
+			CST = {
+				all_core = {
+					owned_by = THIS
+				}
+			}
+		}
+		effect = {
+			ATR = { all_core = { add_core = THIS } }
+			CAT = { all_core = { add_core = THIS } }
+			POR = { all_core = { add_core = THIS } }
+			BSQ = { all_core = { add_core = THIS } }
+			CST = { all_core = { add_core = THIS } }
+			all_core = {
+				add_core = IBR
+				remove_core = THIS
+			}
+			change_tag = IBR
 		}
 	}
 }

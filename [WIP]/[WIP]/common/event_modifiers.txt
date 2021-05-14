@@ -3353,3 +3353,17 @@ anglo_saxon_integration = {
 	assimilation_rate = 1.5
 	icon = 19
 }
+
+drucki_lubecki_reforms = {
+	factory_owner_cost = -0.4
+	factory_cost = -0.6
+	factory_output = 0.05
+	icon = 19
+}
+moderinized_caroleans = {
+	supply_consumption = 0.25
+	land_organisation = 0.1
+	org_regain = 0.3
+	mobilisation_size 0.1
+	icon = 7
+}
