@@ -4,79 +4,79 @@
 1955 = {
 
 	aristocrats = {
-		culture = forest_bantu
+		culture = bube
 		religion = animist
 		size = 10
 	}
 	
 	officers = {
-		culture = forest_bantu
+		culture = bube
 		religion = animist
 		size = 20
 	}
 
 	clergymen = {
-		culture = forest_bantu
+		culture = bube
 		religion = animist
 		size = 20
 	}
 
 	artisans = {
-		culture = forest_bantu
+		culture = bube
 		religion = animist
 		size = 120
 	}
 
 	soldiers = {
-		culture = forest_bantu
+		culture = bube
 		religion = animist
 		size = 50
 	}
 
 	farmers = {
-		culture = forest_bantu
+		culture = bube
 		religion = animist
 		size = 530
 	}
 	
 	aristocrats = {
-		culture = ibo
+		culture = bube
 		religion = animist
 		size = 10
 	}
 	
 	officers = {
-		culture = ibo
+		culture = bube
 		religion = animist
 		size = 20
 	}
 
 	clergymen = {
-		culture = ibo
+		culture = bube
 		religion = animist
 		size = 20
 	}
 
 	artisans = {
-		culture = ibo
+		culture = bube
 		religion = animist
 		size = 120
 	}
 
 	soldiers = {
-		culture = ibo
+		culture = bube
 		religion = animist
 		size = 50
 	}
 
 	farmers = {
-		culture = ibo
+		culture = bube
 		religion = animist
 		size = 700
 	}
 
 	slaves = {
-		culture = kru
+		culture = fang
 		religion = animist
 		size = 630
 	}
@@ -111,41 +111,47 @@
 	farmers = {
 		culture = fang
 		religion = animist
-		size = 31500
+		size = 25000
+	}
+	
+	farmers = {
+		culture = makaa_njem
+		religion = animist
+		size = 5000
 	}
 	
 	aristocrats = {
-		culture = forest_bantu
+		culture = kele
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = forest_bantu
+		culture = kele
 		religion = animist
 		size = 100
 	}
 
 	artisans = {
-		culture = forest_bantu
+		culture = kele
 		religion = animist
 		size = 100
 	}
 
 	soldiers = {
-		culture = forest_bantu
+		culture = kele
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = forest_bantu
+		culture = kele
 		religion = animist
-		size = 1000
+		size = 2500
 	}
 	
 	slaves = {
-		culture = ibo
+		culture = kele
 		religion = animist
 		size = 500
 	}

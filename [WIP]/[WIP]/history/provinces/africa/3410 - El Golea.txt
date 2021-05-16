@@ -1,5 +1,3 @@
-owner = MZB
-controller = MZB
 add_core = MZB
 add_core = MOR
 trade_goods = fruit

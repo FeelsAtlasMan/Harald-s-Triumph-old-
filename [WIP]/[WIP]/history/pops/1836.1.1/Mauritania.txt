@@ -45,7 +45,7 @@
 	}
 	
 	farmers = {
-		culture = berber
+		culture = tuzzungiyya
 		religion = sunni
 		size = 3000
 	}
@@ -89,7 +89,7 @@
 	}
 	
 	farmers = {
-		culture = berber
+		culture = tuzzungiyya
 		religion = sunni
 		size = 5000
 	}
@@ -147,7 +147,7 @@
 
 	slaves = {
 		culture = fulbe
-		religion = sunni
+		religion = animist
 		size = 6000
 	}
 }
@@ -185,7 +185,7 @@
 
 	slaves = {
 		culture = fulbe
-		religion = sunni
+		religion = animist
 		size = 3000
 	}
 }

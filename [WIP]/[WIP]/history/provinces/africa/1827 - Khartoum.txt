@@ -1,6 +1,6 @@
-owner = SUD
-controller = SUD
-add_core = SUD
-trade_goods = tropical_wood
+owner = SNR
+controller = SNR
+add_core = SNR
+trade_goods = grain
 life_rating = 35
-colonial = 2
+

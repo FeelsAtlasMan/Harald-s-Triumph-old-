@@ -5,7 +5,7 @@ political_decisions = {
 			potential = {
 			OR = { 
 				FRA = { has_country_flag = eiffel_tower_built }
-				BOR = { has_country_flag = eiffel_tower_built }
+				#BOR = { has_country_flag = eiffel_tower_built }
 			}
 			is_greater_power = yes
 			425 = {

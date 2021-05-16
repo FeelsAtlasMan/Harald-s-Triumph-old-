@@ -657,7 +657,7 @@ country_event = {
 }
 
 
-#Zanzibar Abolishes Slavery
+#End of Slave Trade for the Swahili Coast
 province_event = {
 	id = 38506
 	title = "EVTNAME38506" #Death of the Sultan
@@ -666,7 +666,12 @@ province_event = {
 	fire_only_once = yes
 	
 	trigger = {
-		province_id = 2048
+	    OR = {
+		     province_id = 2048
+			 province_id = 2057
+			 province_id = 2038
+			 province_id = 2029
+	    }
 		trade_goods = precious_goods
 		OR = {
 			owner = { slavery = no_slavery }

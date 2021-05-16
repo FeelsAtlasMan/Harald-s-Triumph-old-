@@ -65,6 +65,7 @@ govt_flag = {
 	flag = theocracy
 }
 
+decision = ABB_1836_setup
 set_country_flag = sunni_country
 
 # Starting Consciousness

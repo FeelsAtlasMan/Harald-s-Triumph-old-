@@ -389,7 +389,7 @@ luxury_furniture_factory = {
 steel_factory = {       
 	template = factory_template
 	input_goods = { 
-		iron = 18		#70
+		iron = 22		#70
 		coal = 5		#11.5	total input+maint = 81.5
 	}
 
@@ -649,13 +649,13 @@ fabric_factory = {
 	template = factory_template
 	input_goods = {     
 		cotton = 18		# 36
-		dye = 2			# 24 total input+maint = 70
+		dye = 1 		# 24 total input+maint = 70
 	}
 	output_goods = fabric
 	value = 45			#81
 	bonus = {
 		trigger = { trade_goods_in_state = cotton }
-		value = 0.125
+		value = 0.185
 	}
 	bonus = {
 		trigger = {
@@ -664,7 +664,7 @@ fabric_factory = {
 				trade_goods_in_state = dye
 				}
 			}
-		value = 0.125
+		value = 0.065
 	}
 }
 
@@ -805,7 +805,7 @@ cotton_plantation = {
 dye_plantation = {
 	template = RGO_template_farmers
 	output_goods = dye 
-	value = 0.22
+	value = 0.44
 	farm = yes
 }
 

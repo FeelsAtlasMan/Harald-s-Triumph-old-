@@ -1,5 +1,7 @@
 owner = AGC
 controller = AGC
 add_core = AGC
-trade_goods = cotton
+add_core = SWA
+trade_goods = grain
 life_rating = 35
+terrain = coastal_forest

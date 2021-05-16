@@ -3,5 +3,5 @@ controller = WDD
 add_core = WDD
 trade_goods = grain
 terrain = semidesert
-life_rating = 20
+life_rating = 30
 

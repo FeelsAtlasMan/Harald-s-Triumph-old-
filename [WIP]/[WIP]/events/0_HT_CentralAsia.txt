@@ -14,22 +14,26 @@ country_event = {
         fire_only_once = yes
         trigger = {
                     tag = OIR
-                    NOT = { exists = KAZ }
+                    NOT = { exists = KML }
         }
 	
     option = {
 		name = "EVT9904OPTA"
 	    1184 = { 
 		secede_province = OIR
+		add_core = KML
 		}
 		2611 = { 
 		secede_province = OIR
+		add_core = KML
 		}
 		1181 = { 
 		secede_province = OIR
+		add_core = KML
 		}
 		2612 = { 
 		secede_province = OIR
+		add_core = KML
 		}
 		1190 = { 
 		any_pop = {
@@ -38,7 +42,7 @@ country_event = {
 		       }
 		       move_pop = 1184
 		   }
-		remove_core = KAZ
+		remove_core = KML
 		}
 		1186 = { 
 		any_pop = {
@@ -47,7 +51,7 @@ country_event = {
 		       }
 		       move_pop = 2611
 		    }
-		remove_core = KAZ
+		remove_core = KML
 		}
 		1188 = { 
 		any_pop = {
@@ -56,9 +60,9 @@ country_event = {
 		        }
 		        move_pop = 1181
 		    }
-		remove_core = KAZ
+		remove_core = KML
 		}
-		release = KAZ
+		release = KML
 		1187 = { 
 		secede_province = OIR
 		}
@@ -282,7 +286,7 @@ country_event = {
         }
 		
 		mean_time_to_happen = {
-		months = 2
+		months = 1
 	}
 
     option = {

@@ -7,7 +7,7 @@ life_rating = 35
 terrain = liverpool
 railroad = 1
 state_building = {
-	level = 3
+	level = 5
 	building = fabric_factory
 	upgrade = yes
 }

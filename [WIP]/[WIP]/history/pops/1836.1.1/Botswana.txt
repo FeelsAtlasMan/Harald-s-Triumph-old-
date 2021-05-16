@@ -23,45 +23,81 @@
 	soldiers = {
 		culture = tswana
 		religion = animist
-		size = 75
+		size = 1075
 	}
 
 	farmers = {
 		culture = tswana
 		religion = animist
-		size = 6375
+		size = 5375
+	}
+	
+	artisans = {
+		culture = kxa_khoi
+		religion = animist
+		size = 50
+	}
+
+	soldiers = {
+		culture = kxa_khoi
+		religion = animist
+		size = 375
+	}
+
+	farmers = {
+		culture = kxa_khoi
+		religion = animist
+		size = 2075
+	}
+	
+	farmers = {
+		culture = khoisan
+		religion = animist
+		size = 575
 	}
 }
 #Nokaneng (12000/3000 POPS) 
 2076 = {
 	aristocrats = {
-		culture = tswana
+		culture = khoisan
 		religion = animist
 		size = 15
 	}
 
 	clergymen = {
-		culture = tswana
+		culture = khoisan
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = tswana
+		culture = khoisan
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = tswana
+		culture = khoisan
 		religion = animist
 		size = 10
 	}
 
 	farmers = {
-		culture = tswana
+		culture = khoisan
 		religion = animist
-		size = 900
+		size = 1000
+	}
+	
+	farmers = {
+		culture = kxa_khoi
+		religion = animist
+		size = 300
+	}
+	
+	farmers = {
+		culture = kavango
+		religion = animist
+		size = 600
 	}
 
 	aristocrats = {
@@ -91,69 +127,81 @@
 	farmers = {
 		culture = herero
 		religion = animist
-		size = 1800
+		size = 1000
 	}
 }
 #Tshabong (12000/3000 POPS) 
 2077 = {
 	aristocrats = {
-		culture = tswana
+		culture = taa_khoi
 		religion = animist
 		size = 25
 	}
 
 	clergymen = {
-		culture = tswana
+		culture = taa_khoi
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = tswana
+		culture = taa_khoi
 		religion = animist
 		size = 100
 	}
 
 	soldiers = {
-		culture = tswana
+		culture = taa_khoi
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = tswana
+		culture = taa_khoi
 		religion = animist
-		size = 1800
+		size = 1200
+	}
+	
+	farmers = {
+		culture = kxa_khoi
+		religion = animist
+		size = 600
+	}
+	
+	farmers = {
+		culture = khoisan
+		religion = animist
+		size = 400
 	}
 
 	aristocrats = {
-		culture = khoisan
+		culture = tswana
 		religion = animist
 		size = 15
 	}
 
 	clergymen = {
-		culture = khoisan
+		culture = tswana
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = khoisan
+		culture = tswana
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = khoisan
+		culture = tswana
 		religion = animist
 		size = 10
 	}
 
 	farmers = {
-		culture = khoisan
+		culture = tswana
 		religion = animist
-		size = 900
+		size = 500
 	}
 }
 #Mochidi (16000/4000 POPS) 
@@ -173,82 +221,124 @@
 	artisans = {
 		culture = tswana
 		religion = animist
-		size = 200
+		size = 500
 	}
 
 	soldiers = {
 		culture = tswana
 		religion = animist
-		size = 50
+		size = 1050
 	}
 
 	farmers = {
 		culture = tswana
 		religion = animist
-		size = 3650
+		size = 20650
+	}
+	
+	farmers = {
+		culture = khoisan
+		religion = animist
+		size = 2650
 	}
 }
 #under the rule of Matabele in 1836
 #Serowe (16000/4000 POPS) 
 2075 = {
 	aristocrats = {
-		culture = nguni
+		culture = shona
 		religion = animist
 		size = 30
 	}
 
 	clergymen = {
-		culture = nguni
+		culture = shona
 		religion = animist
 		size = 30
 	}
 
 	artisans = {
-		culture = nguni
+		culture = shona
 		religion = animist
 		size = 100
 	}
 
 	soldiers = {
-		culture = nguni
+		culture = shona
 		religion = animist
 		size = 40
 	}
 
 	farmers = {
-		culture = nguni
+		culture = shona
 		religion = animist
 		size = 1800
 	}
-
+	
 	aristocrats = {
-		culture = tswana
+		culture = ndebele
 		religion = animist
 		size = 30
 	}
 
 	clergymen = {
-		culture = tswana
+		culture = ndebele
+		religion = animist
+		size = 3
+	}
+
+	artisans = {
+		culture = ndebele
+		religion = animist
+		size = 10
+	}
+
+	soldiers = {
+		culture = ndebele
+		religion = animist
+		size = 40
+	}
+
+	farmers = {
+		culture = ndebele
+		religion = animist
+		size = 200
+	}
+
+	aristocrats = {
+		culture = sotho
+		religion = animist
+		size = 30
+	}
+
+	clergymen = {
+		culture = sotho
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = tswana
+		culture = sotho
 		religion = animist
 		size = 100
 	}
 
 	soldiers = {
-		culture = tswana
+		culture = sotho
 		religion = animist
 		size = 20
 	}
 
 	farmers = {
-		culture = tswana
+		culture = sotho
 		religion = animist
-		size = 1800
+		size = 800
+	}
+	
+	farmers = {
+		culture = khoisan
+		religion = animist
+		size = 800
 	}
 
 }

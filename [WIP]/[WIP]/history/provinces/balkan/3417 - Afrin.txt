@@ -1,9 +1,9 @@
 owner = DUL
 controller = DUL
 add_core = DUL
-add_core = ABB
-add_core = KDS
+add_core = DMC
 add_core = SYR
+add_core = KDS
 trade_goods = grain
 life_rating = 35
 

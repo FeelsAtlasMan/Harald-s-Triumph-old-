@@ -6387,19 +6387,19 @@
 	aristocrats = {
 		culture = dargin
 		religion = sunni
-		size = 10
+		size = 20
 	}
 
 	clergymen = {
 		culture = dargin
 		religion = sunni
-		size = 20
+		size = 40
 	}
 
 	artisans = {
 		culture = dargin
 		religion = sunni
-		size = 200
+		size = 400
 	}
 
 	soldiers = {
@@ -6411,25 +6411,25 @@
 	farmers = {
 		culture = dargin
 		religion = sunni
-		size = 600
+		size = 1200
 	}
 	
 	aristocrats = {
 		culture = dargin
 		religion = shiite
-		size = 40
+		size = 80
 	}
 
 	clergymen = {
 		culture = dargin
 		religion = shiite
-		size = 10
+		size = 20
 	}
 
 	artisans = {
 		culture = dargin
 		religion = shiite
-		size = 100
+		size = 200
 	}
 
 	soldiers = {
@@ -6441,19 +6441,19 @@
 	farmers = {
 		culture = dargin
 		religion = shiite
-		size = 400
+		size = 800
 	}
 
 	clergymen = {
 		culture = dargin
 		religion = animist
-		size = 30
+		size = 60
 	}
 
 	artisans = {
 		culture = dargin
 		religion = animist
-		size = 500
+		size = 1000
 	}
 
 	soldiers = {
@@ -6465,85 +6465,85 @@
 	farmers = {
 		culture = dargin
 		religion = animist
-		size = 8000
+		size = 16000
 	}
 
 	clergymen = {
-		culture = tat
+		culture = judeo_iranian
 		religion = jewish
-		size = 710
+		size = 1420
 	}
 
 	artisans = {
-		culture = tat
+		culture = judeo_iranian
 		religion = jewish
-		size = 4025
+		size = 8050
 	}
 
 	farmers = {
-		culture = tat
+		culture = judeo_iranian
 		religion = jewish
-		size = 565
+		size = 1130
 	}
 
 	aristocrats = {
 		culture = tat
 		religion = shiite
-		size = 450
+		size = 900
 	}
 
 	officers = {
 		culture = tat
 		religion = shiite
-		size = 75
+		size = 150
 	}
 	
 	clergymen = {
 		culture = tat
 		religion = shiite
-		size = 650
+		size = 1300
 	}
 
 	artisans = {
 		culture = tat
 		religion = shiite
-		size = 6150
+		size = 12300
 	}
 
 	soldiers = {
 		culture = tat
 		religion = shiite
-		size = 1750
+		size = 3500
 	}
 	
 	farmers = {
 		culture = tat
 		religion = shiite
-		size = 10000
+		size = 20000
 	}
 	
 	soldiers = {
 		culture = kumyk
 		religion = sunni
-		size = 1000
+		size = 2000
 	}
 	
 	farmers = {
 		culture = kumyk
 		religion = sunni
-		size = 3000
+		size = 6000
 	}
 	
 	farmers = {
 		culture = lezgic
 		religion = sunni
-		size = 500
+		size = 1000
 	}
 	
 	farmers = {
 		culture = lezgic
 		religion = animist
-		size = 4500
+		size = 9000
 	}
 }
 #Gunib (164000/41000 POPS)
@@ -7222,43 +7222,43 @@
 	clergymen = {
 		culture = tat
 		religion = shiite
-		size = 30
+		size = 120
 	}
 
 	artisans = {
 		culture = tat
 		religion = shiite
-		size = 1000
+		size = 4000
 	}
 
 	soldiers = {
 		culture = tat
 		religion = shiite
-		size = 350
+		size = 700
 	}
 
 	farmers = {
 		culture = tat
 		religion = shiite
-		size = 5000
+		size = 20000
 	}
 	
 	clergymen = {
-		culture = tat
+		culture = judeo_iranian
 		religion = jewish
-		size = 20
+		size = 500
 	}
 
 	artisans = {
-		culture = tat
+		culture = judeo_iranian
 		religion = jewish
-		size = 3750
+		size = 6750
 	}
 	
 	farmers = {
-		culture = tat
+		culture = judeo_iranian
 		religion = jewish
-		size = 1500
+		size = 3000
 	}
 	
 	clergymen = {

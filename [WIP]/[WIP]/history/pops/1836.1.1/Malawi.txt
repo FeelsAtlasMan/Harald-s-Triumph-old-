@@ -39,31 +39,31 @@
 	}
 
 	aristocrats = {
-		culture = lomwe
+		culture = makua
 		religion = animist
 		size = 275
 	}
 
 	clergymen = {
-		culture = lomwe
+		culture = makua
 		religion = animist
 		size = 150
 	}
 
 	artisans = {
-		culture = lomwe
+		culture = makua
 		religion = animist
 		size = 750
 	}
 
 	soldiers = {
-		culture = lomwe
+		culture = makua
 		religion = animist
 		size = 150
 	}
 
 	farmers = {
-		culture = lomwe
+		culture = makua
 		religion = animist
 		size = 13675
 	}
@@ -101,67 +101,67 @@
 #Lilongwe (160000/40000 POPS)/dominated by Kazembe 
 2067 = {
 	aristocrats = {
-		culture = chewa
+		culture = nyasa
 		religion = animist
 		size = 350
 	}
 
 	clergymen = {
-		culture = chewa
+		culture = nyasa
 		religion = animist
 		size = 200
 	}
 
 	artisans = {
-		culture = chewa
+		culture = nyasa
 		religion = animist
 		size = 950
 	}
 
 	soldiers = {
-		culture = chewa
+		culture = nyasa
 		religion = animist
 		size = 200
 	}
 
 	farmers = {
-		culture = chewa
+		culture = nyasa
 		religion = animist
 		size = 17300
 	}
 
 	slaves = {
-		culture = chewa
+		culture = nyasa
 		religion = animist
 		size = 4000
 	}
 
 	aristocrats = {
-		culture = lunda
+		culture = nyasa
 		religion = animist
 		size = 400
 	}
 
 	clergymen = {
-		culture = lunda
+		culture = nyasa
 		religion = animist
 		size = 200
 	}
 
 	artisans = {
-		culture = lunda
+		culture = nyasa
 		religion = animist
 		size = 850
 	}
 
 	soldiers = {
-		culture = lunda
+		culture = nyasa
 		religion = animist
 		size = 225
 	}
 
 	farmers = {
-		culture = lunda
+		culture = nyasa
 		religion = animist
 		size = 15125
 	}

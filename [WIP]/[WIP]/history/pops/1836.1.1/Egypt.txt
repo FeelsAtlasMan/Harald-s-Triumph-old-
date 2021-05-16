@@ -751,13 +751,13 @@
 	clergymen = {
 		culture = greek
 		religion = orthodox
-		size = 50
+		size = 250
 	}
 
 	artisans = {
 		culture = greek
 		religion = orthodox
-		size = 1950
+		size = 4950
 	}
 
 	slaves = {
@@ -863,33 +863,39 @@
 #Siwa (16000/4000 POPS)
 1754 = {
 	aristocrats = {
-		culture = libi
+		culture = berber
 		religion = sunni
 		size = 50
 	}
 
 	clergymen = {
-		culture = libi
+		culture = berber
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = libi
+		culture = berber
 		religion = sunni
 		size = 200
 	}
 
 	soldiers = {
-		culture = libi
+		culture = berber
 		religion = sunni
 		size = 50
 	}
 
 	farmers = {
+		culture = berber
+		religion = sunni
+		size = 3000
+	}
+	
+	farmers = {
 		culture = libi
 		religion = sunni
-		size = 3650
+		size = 650
 	}
 }
 #Sinai Region (100000)
@@ -1574,32 +1580,70 @@
 
 	farmers = {
 		culture = saidi_arabic
+		religion = shiite
+		size = 4000
+	}
+	
+	farmers = {
+		culture = saidi_arabic
 		religion = sunni
-		size = 8980
+		size = 980
 	}
 
 	bureaucrats = {
-		culture = saidi_arabic
+		culture = nubian
 		religion = coptic
 		size = 5
 	}
 
 	clergymen = {
-		culture = saidi_arabic
+		culture = nubian
 		religion = coptic
 		size = 50
 	}
 
 	artisans = {
-		culture = saidi_arabic
+		culture = nubian
 		religion = coptic
 		size = 100
 	}
 
 	farmers = {
-		culture = saidi_arabic
+		culture = nubian
 		religion = coptic
-		size = 1850
+		size = 5850
+	}
+}
+#Abu Hamed (48000/12000 POPS)
+3446 = {
+	aristocrats = {
+		culture = sudanese
+		religion = sunni
+		size = 15
+	}
+
+	artisans = {
+		culture = sudanese
+		religion = sunni
+		size = 50
+	}
+
+	soldiers = {
+		culture = saidi_arabic
+		religion = sunni
+		size = 425
+	}
+	
+	farmers = {
+		culture = saidi_arabic
+		religion = sunni
+		size = 20
+	}
+
+	farmers = {
+		culture = sudanese
+		religion = sunni
+		size = 480
 	}
 }
 #Luxor (68000/17000 POPS)
@@ -1681,9 +1725,9 @@
 	farmers = {
 		culture = saidi_arabic
 		religion = sunni
-		size = 15475
+		size = 12475
 	}
-
+	
 	clergymen = {
 		culture = saidi_arabic
 		religion = coptic
@@ -1698,6 +1742,24 @@
 
 	farmers = {
 		culture = saidi_arabic
+		religion = coptic
+		size = 3000
+	}
+
+	clergymen = {
+		culture = nubian
+		religion = coptic
+		size = 50
+	}
+
+	artisans = {
+		culture = nubian
+		religion = coptic
+		size = 100
+	}
+
+	farmers = {
+		culture = nubian
 		religion = coptic
 		size = 1850
 	}

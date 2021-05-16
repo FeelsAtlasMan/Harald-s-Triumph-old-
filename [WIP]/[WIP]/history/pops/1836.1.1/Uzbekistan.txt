@@ -307,13 +307,13 @@
 	}
 	
 	soldiers = {
-		culture = uzbek
+		culture = qomani
 		religion = sunni
 		size = 3000
 	}
 	
 	farmers = {
-		culture = uzbek
+		culture = qomani
 		religion = sunni
 		size = 5850
 	}
@@ -379,7 +379,7 @@
 	}
 
 	slaves = {
-		culture = uzbek
+		culture = qomani
 		religion = sunni
 		size = 2000
 	}
@@ -429,13 +429,13 @@
 	}
 	
 	soldiers = {
-		culture = uzbek
+		culture = qomani
 		religion = sunni
 		size = 2000
 	}
 	
 	farmers = {
-		culture = uzbek
+		culture = qomani
 		religion = sunni
 		size = 5350
 	}
@@ -553,7 +553,7 @@
 	}
 	
 	farmers = {
-		culture = uzbek
+		culture = qomani
 		religion = sunni
 		size = 7950
 	}
@@ -637,7 +637,7 @@
 	}
 
 	slaves = {
-		culture = uzbek
+		culture = qomani
 		religion = sunni
 		size = 3000
 	}
@@ -681,7 +681,7 @@
 	}
 	
 	farmers = {
-		culture = uzbek
+		culture = qomani
 		religion = sunni
 		size = 8800
 	}
@@ -943,29 +943,29 @@
 #Nur
 3290 = {
 	aristocrats = {
-		culture = uzbek
+		culture = qomani
 		religion = sunni
 		size = 25
 	}
 	clergymen = {
-		culture = uzbek
+		culture = qomani
 		religion = sunni
 		size = 25
 	}
 	artisans = {
-		culture = uzbek
+		culture = qomani
 		religion = sunni
 		size = 50
 	}
 	soldiers = {
-		culture = uzbek
+		culture = qomani
 		religion = sunni
 		size = 3500
 	}
 	farmers = {
-		culture = uzbek
+		culture = qomani
 		religion = sunni
-		size = 10400
+		size = 16400
 	}
 
 	aristocrats = {
@@ -974,8 +974,8 @@
 		size = 250
 	}
 	clergymen = {
-		culture = uzbek
-		religion = sart
+		culture = sart
+		religion = shiite
 		size = 250
 	}
 	artisans = {
@@ -991,7 +991,7 @@
 	farmers = {
 		culture = sart
 		religion = shiite
-		size = 22800
+		size = 16800
 	}
 	slaves = {
 		culture = kirgiz

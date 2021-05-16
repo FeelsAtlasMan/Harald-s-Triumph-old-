@@ -1,6 +1,6 @@
 trade_goods = wool
 life_rating = 15
-terrain = mountain
+terrain = coastal_desert
 1861.1.1 = {
 	owner = ENG
 	controller = ENG

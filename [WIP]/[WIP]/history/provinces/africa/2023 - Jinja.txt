@@ -1,5 +1,7 @@
+owner = BUG
+controller = BUG
 add_core = BUG
-trade_goods = cotton
+add_core = ITS
+trade_goods = cattle
 terrain = savanna
-life_rating = 10
-colonial = 1
+life_rating = 35

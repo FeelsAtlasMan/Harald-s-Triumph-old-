@@ -1,5 +1,6 @@
 owner = ABB
 controller = ABB
 add_core = ABB
-trade_goods = fruit
-life_rating = 20
+trade_goods = fish
+life_rating = 30
+terrain = coastal_desert

@@ -29,17 +29,17 @@
 	farmers = {
 		culture = sart
 		religion = shiite
-		size = 18025
+		size = 13025
 	}
 	
 	soldiers = {
-		culture = uzbek
+		culture = qomani
 		religion = sunni
 		size = 1400
 	}
 	
 	farmers = {
-		culture = uzbek
+		culture = qomani
 		religion = sunni
 		size = 3000
 	}
@@ -71,7 +71,7 @@
 	farmers = {
 		culture = persian
 		religion = sunni
-		size = 8000
+		size = 12000
 	}
 	
 	aristocrats = {
@@ -119,7 +119,7 @@
 	farmers = {
 		culture = yaghnobi
 		religion = sunni
-		size = 4025
+		size = 6025
 	}
 }
 #Badakhshan Region (212000) 

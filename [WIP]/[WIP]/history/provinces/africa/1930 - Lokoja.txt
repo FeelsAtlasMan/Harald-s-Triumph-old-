@@ -1,6 +1,6 @@
-owner = BEN
-controller = BEN
-add_core = BEN
+owner = IGL
+controller = IGL
+add_core = IGL
 add_core = ARO
 trade_goods = cattle
 life_rating = 35

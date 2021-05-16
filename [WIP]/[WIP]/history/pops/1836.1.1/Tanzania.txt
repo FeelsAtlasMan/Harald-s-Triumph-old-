@@ -29,7 +29,7 @@
 	artisans = {
 		culture = swahili
 		religion = sunni
-		size = 2000
+		size = 8000
 	}
 
 	soldiers = {
@@ -41,41 +41,41 @@
 	farmers = {
 		culture = swahili
 		religion = sunni
-		size = 32825
+		size = 24825
 	}
 
 	slaves = {
-		culture = kilombero
+		culture = rufiji
 		religion = animist
 		size = 14000
 	}
 
 	aristocrats = {
-		culture = sukuma
+		culture = ruvu
 		religion = sunni
 		size = 50
 	}
 
 	clergymen = {
-		culture = sukuma
+		culture = ruvu
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = sukuma
+		culture = ruvu
 		religion = sunni
 		size = 200
 	}
 
 	soldiers = {
-		culture = sukuma
+		culture = ruvu
 		religion = sunni
 		size = 50
 	}
 
 	farmers = {
-		culture = sukuma
+		culture = ruvu
 		religion = sunni
 		size = 3650
 	}
@@ -85,72 +85,108 @@
 	aristocrats = {
 		culture = swahili
 		religion = sunni
+		size = 25
+	}
+
+	clergymen = {
+		culture = swahili
+		religion = sunni
+		size = 75
+	}
+
+	artisans = {
+		culture = swahili
+		religion = sunni
+		size = 225
+	}
+
+	soldiers = {
+		culture = swahili
+		religion = sunni
+		size = 1075
+	}
+
+	farmers = {
+		culture = swahili
+		religion = sunni
+		size = 100
+	}
+	
+	aristocrats = {
+		culture = makonde
+		religion = animist
 		size = 325
 	}
 
 	clergymen = {
-		culture = swahili
-		religion = sunni
+		culture = makonde
+		religion = animist
 		size = 175
 	}
 
 	artisans = {
-		culture = swahili
-		religion = sunni
+		culture = makonde
+		religion = animist
 		size = 725
 	}
 
 	soldiers = {
-		culture = swahili
-		religion = sunni
-		size = 175
+		culture = makonde
+		religion = animist
+		size = 1175
 	}
-
+	
 	farmers = {
-		culture = swahili
-		religion = sunni
-		size = 11600
+		culture = makonde
+		religion = animist
+		size = 9000
 	}
 
 	slaves = {
-		culture = kilombero
+		culture = makua
 		religion = animist
 		size = 6000
-	}
-
-	aristocrats = {
-		culture = sukuma
-		religion = sunni
-		size = 50
-	}
-
-	clergymen = {
-		culture = sukuma
-		religion = sunni
-		size = 50
-	}
-
-	artisans = {
-		culture = sukuma
-		religion = sunni
-		size = 200
-	}
-
-	soldiers = {
-		culture = sukuma
-		religion = sunni
-		size = 50
-	}
-
-	farmers = {
-		culture = sukuma
-		religion = sunni
-		size = 2650
 	}
 }
 #Kilwa (188000/47000 POPS)
 2038 = {
+    aristocrats = {
+		culture = shirazi
+		religion = sunni
+		size = 250
+	}
+
+	clergymen = {
+		culture = shirazi
+		religion = sunni
+		size = 175
+	}
+
+	artisans = {
+		culture = shirazi
+		religion = sunni
+		size = 2125
+	}
+	
 	aristocrats = {
+		culture = swahili_arabic
+		religion = sunni
+		size = 150
+	}
+
+	clergymen = {
+		culture = swahili_arabic
+		religion = sunni
+		size = 175
+	}
+
+	artisans = {
+		culture = swahili_arabic
+		religion = sunni
+		size = 2125
+	}
+	
+ 	aristocrats = {
 		culture = swahili
 		religion = sunni
 		size = 550
@@ -159,108 +195,132 @@
 	clergymen = {
 		culture = swahili
 		religion = sunni
-		size = 275
+		size = 575
 	}
 
 	artisans = {
 		culture = swahili
 		religion = sunni
-		size = 1125
+		size = 12125
 	}
 
 	soldiers = {
 		culture = swahili
 		religion = sunni
-		size = 300
+		size = 3000
 	}
 
 	farmers = {
 		culture = swahili
 		religion = sunni
-		size = 14750
+		size = 20750
 	}
 
 	aristocrats = {
-		culture = yao
+		culture = rufiji
 		religion = animist
 		size = 350
 	}
 
 	clergymen = {
-		culture = yao
+		culture = rufiji
 		religion = animist
 		size = 200
 	}
 
 	artisans = {
-		culture = yao
+		culture = rufiji
 		religion = animist
 		size = 950
 	}
 
 	soldiers = {
-		culture = yao
+		culture = rufiji
 		religion = animist
 		size = 200
 	}
 
 	farmers = {
-		culture = yao
+		culture = rufiji
 		religion = animist
-		size = 17300
+		size = 10300
+	}
+	
+	slaves = {
+		culture = makua
+		religion = animist
+		size = 4000
 	}
 
 	slaves = {
-		culture = yao
+		culture = rufiji
 		religion = animist
-		size = 10000
+		size = 8000
 	}
 }
 #Lindi (64000/16000 POPS)
 2039 = {
 	aristocrats = {
-		culture = swahili
+		culture = swahili_arabic
 		religion = sunni
 		size = 100
 	}
 	aristocrats = {
-		culture = bedouin
-		religion = ibadi
+		culture = swahili_arabic
+		religion = sunni
 		size = 500
 	}
 
 	bureaucrats = {
-		culture = bedouin
-		religion = ibadi
+		culture = swahili_arabic
+		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
-		culture = bedouin
-		religion = ibadi
+		culture = swahili_arabic
+		religion = sunni
+		size = 50
+	}
+	
+	aristocrats = {
+		culture = shirazi
+		religion = sunni
+		size = 500
+	}
+
+	bureaucrats = {
+		culture = shirazi
+		religion = sunni
+		size = 25
+	}
+
+	clergymen = {
+		culture = shirazi
+		religion = sunni
 		size = 50
 	}
 
 	artisans = {
 		culture = swahili
 		religion = sunni
-		size = 650
+		size = 2650
 	}
 
 	soldiers = {
 		culture = swahili
 		religion = sunni
-		size = 175
+		size = 975
 	}
 
 	farmers = {
 		culture = swahili
 		religion = sunni
-		size = 10725
+		size = 8725
 	}
 
 	slaves = {
-		culture = yao
+		culture = makonde
 		religion = animist
 		size = 4000
 	}
@@ -270,73 +330,73 @@
 #Songea (136000/34000 POPS)
 2040 = {
 	aristocrats = {
-		culture = yao
-		religion = sunni
+		culture = kilombero
+		religion = animist
 		size = 375
 	}
 
 	clergymen = {
-		culture = yao
-		religion = sunni
+		culture = kilombero
+		religion = animist
 		size = 200
 	}
 
 	artisans = {
-		culture = yao
-		religion = sunni
+		culture = kilombero
+		religion = animist
 		size = 800
 	}
 
 	soldiers = {
-		culture = yao
-		religion = sunni
+		culture = kilombero
+		religion = animist
 		size = 200
 	}
 
 	farmers = {
-		culture = yao
-		religion = sunni
+		culture = kilombero
+		religion = animist
 		size = 15425
 	}
 
 	aristocrats = {
-		culture = nyasa
+		culture = rukwe
 		religion = animist
 		size = 225
 	}
 
 	clergymen = {
-		culture = nyasa
+		culture = rukwe
 		religion = animist
 		size = 125
 	}
 
 	artisans = {
-		culture = nyasa
+		culture = rukwe
 		religion = animist
 		size = 600
 	}
 
 	soldiers = {
-		culture = nyasa
+		culture = rukwe
 		religion = animist
 		size = 125
 	}
 
 	farmers = {
-		culture = nyasa
+		culture = rukwe
 		religion = animist
-		size = 10925
+		size = 5925
 	}
 
 	slaves = {
-		culture = nyasa
+		culture = rukwe
 		religion = animist
 		size = 3000
 	}
 
 	slaves = {
-		culture = chewa
+		culture = lomwe
 		religion = animist
 		size = 2000
 	}
@@ -344,33 +404,39 @@
 #Masasi (132000/33000 POPS)
 2041 = {
 	aristocrats = {
-		culture = yao
+		culture = makonde
 		religion = sunni
 		size = 475
 	}
 
 	clergymen = {
-		culture = yao
+		culture = makonde
 		religion = sunni
 		size = 250
 	}
 
 	artisans = {
-		culture = yao
+		culture = makonde
 		religion = sunni
 		size = 1100
 	}
 
 	soldiers = {
-		culture = yao
+		culture = makonde
 		religion = sunni
 		size = 250
 	}
 
 	farmers = {
-		culture = yao
+		culture = makonde
 		religion = sunni
 		size = 15125
+	}
+	
+	farmers = {
+		culture = rufiji
+		religion = animist
+		size = 4125
 	}
 
 	aristocrats = {
@@ -400,141 +466,141 @@
 	farmers = {
 		culture = makua
 		religion = animist
-		size = 7275
+		size = 2275
 	}
 
 	slaves = {
 		culture = makua
 		religion = animist
-		size = 8000
+		size = 2000
 	}
 }
 #Iringa (300000/75000 POPS)
 2042 = {
 	aristocrats = {
-		culture = unyamwezi
+		culture = ruvu
 		religion = animist
 		size = 375
 	}
 
 	clergymen = {
-		culture = unyamwezi
+		culture = ruvu
 		religion = animist
 		size = 200
 	}
 
 	artisans = {
-		culture = unyamwezi
+		culture = ruvu
 		religion = animist
 		size = 800
 	}
 
 	soldiers = {
-		culture = unyamwezi
+		culture = ruvu
 		religion = animist
 		size = 200
 	}
 
 	farmers = {
-		culture = unyamwezi
+		culture = ruvu
 		religion = animist
-		size = 13225
+		size = 20225
 	}
 
 	aristocrats = {
-		culture = nyasa
+		culture = hehe
 		religion = animist
 		size = 450
 	}
 
 	clergymen = {
-		culture = nyasa
+		culture = hehe
 		religion = animist
 		size = 225
 	}
 
 	artisans = {
-		culture = nyasa
+		culture = hehe
 		religion = animist
 		size = 1150
 	}
 
 	soldiers = {
-		culture = nyasa
+		culture = hehe
 		religion = animist
 		size = 225
 	}
 
 	farmers = {
-		culture = nyasa
+		culture = hehe
 		religion = animist
 		size = 20950
 	}
 
 	slaves = {
-		culture = nyasa
+		culture = hehe
 		religion = animist
 		size = 13000
 	}
 
 	aristocrats = {
-		culture = nyasa
+		culture = hehe
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = nyasa
+		culture = hehe
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = nyasa
+		culture = hehe
 		religion = sunni
 		size = 200
 	}
 
 	soldiers = {
-		culture = nyasa
+		culture = hehe
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = nyasa
+		culture = hehe
 		religion = sunni
 		size = 3650
 	}
 
 	aristocrats = {
-		culture = yao
+		culture = kilombero
 		religion = animist
 		size = 525
 	}
 
 	clergymen = {
-		culture = yao
+		culture = kilombero
 		religion = animist
 		size = 275
 	}
 
 	artisans = {
-		culture = yao
+		culture = kilombero
 		religion = animist
 		size = 1100
 	}
 
 	soldiers = {
-		culture = yao
+		culture = kilombero
 		religion = animist
 		size = 275
 	}
 
 	farmers = {
-		culture = yao
+		culture = kilombero
 		religion = animist
-		size = 17825
+		size = 10825
 	}
 }
 #Tanganyikia Region (1276000)
@@ -568,41 +634,41 @@
 	farmers = {
 		culture = unyamwezi
 		religion = animist
-		size = 37625
+		size = 33625
 	}
 
 	aristocrats = {
-		culture = kilombero
+		culture = sumbwa
 		religion = animist
 		size = 150
 	}
 
 	clergymen = {
-		culture = kilombero
+		culture = sumbwa
 		religion = animist
 		size = 100
 	}
 
 	artisans = {
-		culture = kilombero
+		culture = sumbwa
 		religion = animist
 		size = 350
 	}
 
 	soldiers = {
-		culture = kilombero
+		culture = sumbwa
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = kilombero
+		culture = sumbwa
 		religion = animist
-		size = 6325
+		size = 10325
 	}
 
 	slaves = {
-		culture = kilombero
+		culture = sumbwa
 		religion = animist
 		size = 7000
 	}
@@ -645,35 +711,6 @@
 }
 #Mwanza (368000/92000 POPS)
 2044 = {
-	aristocrats = {
-		culture = luo
-		religion = animist
-		size = 475
-	}
-
-	clergymen = {
-		culture = luo
-		religion = animist
-		size = 250
-	}
-
-	artisans = {
-		culture = luo
-		religion = animist
-		size = 1100
-	}
-
-	soldiers = {
-		culture = luo
-		religion = animist
-		size = 250
-	}
-
-	farmers = {
-		culture = luo
-		religion = animist
-		size = 9025
-	}
 
 	aristocrats = {
 		culture = unyamwezi
@@ -706,9 +743,9 @@
 	}
 
 	slaves = {
-		culture = lacustrine_bantu
+		culture = haya
 		religion = animist
-		size = 24000
+		size = 9000
 	}
 
 	aristocrats = {
@@ -740,63 +777,138 @@
 		religion = animist
 		size = 42775
 	}
+}
+#Karagwe (368000/92000 POPS)
+3438 = {
+
+	slaves = {
+		culture = haya
+		religion = animist
+		size = 24000
+	}
+	
+	aristocrats = {
+		culture = nyambo
+		religion = animist
+		size = 925
+	}
+
+	clergymen = {
+		culture = nyambo
+		religion = animist
+		size = 475
+	}
+
+	artisans = {
+		culture = nyambo
+		religion = animist
+		size = 2350
+	}
+
+	soldiers = {
+		culture = nyambo
+		religion = animist
+		size = 475
+	}
+
+	farmers = {
+		culture = nyambo
+		religion = animist
+		size = 30000
+	}
 
 	aristocrats = {
-		culture = ruanda
+		culture = haya
+		religion = animist
+		size = 925
+	}
+
+	clergymen = {
+		culture = haya
+		religion = animist
+		size = 475
+	}
+
+	artisans = {
+		culture = haya
+		religion = animist
+		size = 2350
+	}
+
+	soldiers = {
+		culture = haya
+		religion = animist
+		size = 475
+	}
+
+	farmers = {
+		culture = haya
+		religion = animist
+		size = 30000
+	}
+	
+	farmers = {
+		culture = sukuma
+		religion = animist
+		size = 10000
+	}
+
+	aristocrats = {
+		culture = zinza
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = ruanda
+		culture = zinza
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = ruanda
+		culture = zinza
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = ruanda
+		culture = zinza
 		religion = animist
 		size = 15
 	}
 
 	farmers = {
-		culture = ruanda
+		culture = zinza
 		religion = animist
 		size = 900
 	}
 
 	aristocrats = {
-		culture = ruanda
+		culture = zinza
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = ruanda
+		culture = zinza
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = ruanda
+		culture = zinza
 		religion = animist
 		size = 150
 	}
 
 	soldiers = {
-		culture = ruanda
+		culture = zinza
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = ruanda
+		culture = zinza
 		religion = animist
 		size = 2700
 	}
@@ -804,31 +916,31 @@
 #Morogoro (232000/58000 POPS)
 2045 = {
 	aristocrats = {
-		culture = unyamwezi
+		culture = ruvu
 		religion = animist
 		size = 675
 	}
 
 	clergymen = {
-		culture = unyamwezi
+		culture = ruvu
 		religion = animist
 		size = 350
 	}
 
 	artisans = {
-		culture = unyamwezi
+		culture = ruvu
 		religion = animist
 		size = 1400
 	}
 
 	soldiers = {
-		culture = unyamwezi
+		culture = ruvu
 		religion = animist
 		size = 350
 	}
 
 	farmers = {
-		culture = unyamwezi
+		culture = ruvu
 		religion = animist
 		size = 20225
 	}
@@ -864,67 +976,299 @@
 	}
 
 	aristocrats = {
-		culture = kilombero
+		culture = ruvu
 		religion = animist
 		size = 275
 	}
 
 	clergymen = {
-		culture = kilombero
+		culture = ruvu
 		religion = animist
 		size = 150
 	}
 
 	artisans = {
-		culture = kilombero
+		culture = ruvu
 		religion = animist
 		size = 700
 	}
 
 	soldiers = {
-		culture = kilombero
+		culture = ruvu
 		religion = animist
 		size = 150
 	}
 
 	farmers = {
-		culture = kilombero
+		culture = ruvu
 		religion = animist
 		size = 12825
 	}
 
 	slaves = {
-		culture = kilombero
+		culture = datooga
 		religion = animist
-		size = 14000
+		size = 4000
 	}
 
 	aristocrats = {
-		culture = sukuma
+		culture = rufiji
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = sukuma
+		culture = rufiji
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = sukuma
+		culture = rufiji
 		religion = animist
 		size = 150
 	}
 
 	soldiers = {
-		culture = sukuma
+		culture = rufiji
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = sukuma
+		culture = rufiji
+		religion = animist
+		size = 2700
+	}
+}
+#Rufiji (232000/58000 POPS)
+3435 = {
+	aristocrats = {
+		culture = rufiji
+		religion = animist
+		size = 75
+	}
+
+	clergymen = {
+		culture = rufiji
+		religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = rufiji
+		religion = animist
+		size = 400
+	}
+
+	soldiers = {
+		culture = rufiji
+		religion = animist
+		size = 350
+	}
+
+	farmers = {
+		culture = rufiji
+		religion = animist
+		size = 3125
+	}
+
+	aristocrats = {
+		culture = swahili
+		religion = sunni
+		size = 10
+	}
+
+	clergymen = {
+		culture = swahili
+		religion = sunni
+		size = 10
+	}
+
+	artisans = {
+		culture = swahili
+		religion = sunni
+		size = 150
+	}
+
+	soldiers = {
+		culture = swahili
+		religion = sunni
+		size = 575
+	}
+
+	farmers = {
+		culture = swahili
+		religion = sunni
+		size = 225
+	}
+
+	aristocrats = {
+		culture = ruvu
+		religion = animist
+		size = 25
+	}
+
+	clergymen = {
+		culture = ruvu
+		religion = animist
+		size = 10
+	}
+
+	artisans = {
+		culture = ruvu
+		religion = animist
+		size = 70
+	}
+
+	soldiers = {
+		culture = ruvu
+		religion = animist
+		size = 150
+	}
+
+	farmers = {
+		culture = ruvu
+		religion = animist
+		size = 3125
+	}
+
+	slaves = {
+		culture = kilombero
+		religion = animist
+		size = 1200
+	}
+}
+#Lushoto (232000/58000 POPS)
+3444 = {
+	aristocrats = {
+		culture = zigula
+		religion = animist
+		size = 675
+	}
+
+	clergymen = {
+		culture = zigula
+		religion = animist
+		size = 350
+	}
+
+	artisans = {
+		culture = zigula
+		religion = animist
+		size = 1400
+	}
+
+	soldiers = {
+		culture = zigula
+		religion = animist
+		size = 350
+	}
+
+	farmers = {
+		culture = zigula
+		religion = animist
+		size = 14225
+	}
+	
+	farmers = {
+		culture = datooga
+		religion = animist
+		size = 2225
+	}
+
+	aristocrats = {
+		culture = mijikenda
+		religion = sunni
+		size = 100
+	}
+
+	clergymen = {
+		culture = mijikenda
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = mijikenda
+		religion = sunni
+		size = 250
+	}
+
+	soldiers = {
+		culture = mijikenda
+		religion = sunni
+		size = 75
+	}
+
+	farmers = {
+		culture = mijikenda
+		religion = sunni
+		size = 3525
+	}
+
+	aristocrats = {
+		culture = shambala
+		religion = animist
+		size = 275
+	}
+
+	clergymen = {
+		culture = shambala
+		religion = animist
+		size = 150
+	}
+
+	artisans = {
+		culture = shambala
+		religion = animist
+		size = 700
+	}
+
+	soldiers = {
+		culture = shambala
+		religion = animist
+		size = 150
+	}
+
+	farmers = {
+		culture = shambala
+		religion = animist
+		size = 9825
+	}
+
+	slaves = {
+		culture = ruvu
+		religion = animist
+		size = 4000
+	}
+
+	aristocrats = {
+		culture = pare
+		religion = animist
+		size = 50
+	}
+
+	clergymen = {
+		culture = pare
+		religion = animist
+		size = 75
+	}
+
+	artisans = {
+		culture = pare
+		religion = animist
+		size = 150
+	}
+
+	soldiers = {
+		culture = pare
+		religion = animist
+		size = 25
+	}
+
+	farmers = {
+		culture = pare
 		religion = animist
 		size = 2700
 	}
@@ -932,129 +1276,204 @@
 #Ujiji (336000/84000 POPS)
 2046 = {
 	aristocrats = {
-		culture = unyamwezi
+		culture = bende
 		religion = animist
 		size = 1075
 	}
 
 	clergymen = {
-		culture = unyamwezi
+		culture = bende
 		religion = animist
 		size = 550
 	}
 
 	artisans = {
-		culture = unyamwezi
+		culture = bende
 		religion = animist
 		size = 2200
 	}
 
 	soldiers = {
-		culture = unyamwezi
+		culture = bende
 		religion = animist
 		size = 550
 	}
 
 	farmers = {
-		culture = unyamwezi
+		culture = bende
 		religion = animist
-		size = 31425
+		size = 21425
+	}
+	
+	aristocrats = {
+		culture = swahili
+		religion = sunni
+		size = 5
+	}
+
+	clergymen = {
+		culture = swahili
+		religion = sunni
+		size = 5
+	}
+
+	artisans = {
+		culture = swahili
+		religion = sunni
+		size = 20
+	}
+
+	soldiers = {
+		culture = swahili
+		religion = sunni
+		size = 50
+	}
+
+	farmers = {
+		culture = swahili
+		religion = sunni
+		size = 425
 	}
 
 	aristocrats = {
-		culture = nyasa
+		culture = tongwe
 		religion = animist
 		size = 475
 	}
 
 	clergymen = {
-		culture = nyasa
+		culture = tongwe
 		religion = animist
 		size = 250
 	}
 
 	artisans = {
-		culture = nyasa
+		culture = tongwe
 		religion = animist
 		size = 1250
 	}
 
 	soldiers = {
-		culture = nyasa
+		culture = tongwe
 		religion = animist
 		size = 250
 	}
 
 	farmers = {
-		culture = nyasa
+		culture = tongwe
 		religion = animist
-		size = 22775
+		size = 18000
+	}
+	
+	farmers = {
+		culture = rukwe
+		religion = animist
+		size = 4775
 	}
 
 	slaves = {
-		culture = nyasa
+		culture = tongwe
 		religion = animist
 		size = 12000
 	}
 
 	aristocrats = {
-		culture = south_forest_bantu
+		culture = ruanda
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = south_forest_bantu
+		culture = ruanda
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = south_forest_bantu
+		culture = ruanda
 		religion = animist
 		size = 200
 	}
 
 	soldiers = {
-		culture = south_forest_bantu
+		culture = ruanda
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = south_forest_bantu
+		culture = ruanda
 		religion = animist
-		size = 3650
+		size = 13650
+	}
+}
+#yes (336000/84000 POPS)
+3440 = {
+
+	aristocrats = {
+		culture = rukwe
+		religion = animist
+		size = 475
+	}
+
+	clergymen = {
+		culture = rukwe
+		religion = animist
+		size = 250
+	}
+
+	artisans = {
+		culture = rukwe
+		religion = animist
+		size = 1250
+	}
+
+	soldiers = {
+		culture = rukwe
+		religion = animist
+		size = 250
+	}
+
+	farmers = {
+		culture = rukwe
+		religion = animist
+		size = 18000
+	}
+
+	slaves = {
+		culture = nyaturu
+		religion = animist
+		size = 12000
 	}
 }
 #Arusha (80000/20000 POPS)
 2047 = {
 	aristocrats = {
-		culture = sukuma
+		culture = rangi
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = sukuma
+		culture = rangi
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = sukuma
+		culture = rangi
 		religion = animist
 		size = 300
 	}
 
 	soldiers = {
-		culture = sukuma
+		culture = rangi
 		religion = animist
 		size = 75
 	}
 
 	farmers = {
-		culture = sukuma
+		culture = rangi
 		religion = animist
 		size = 5475
 	}
@@ -1086,45 +1505,185 @@
 	farmers = {
 		culture = maasai
 		religion = animist
-		size = 7275
+		size = 10275
+	}
+	
+	farmers = {
+		culture = pare
+		religion = animist
+		size = 1075
+	}
+	
+	clergymen = {
+		culture = iraqw
+		religion = animist
+		size = 25
 	}
 
+	artisans = {
+		culture = iraqw
+		religion = animist
+		size = 200
+	}
+
+	soldiers = {
+		culture = iraqw
+		religion = animist
+		size = 100
+	}
+
+	farmers = {
+		culture = iraqw
+		religion = animist
+		size = 2275
+	}
+	
+	slaves = {
+		culture = iraqw
+		religion = sunni
+		size = 2000
+	}
+	
+	farmers = {
+		culture = sandawe
+		religion = animist
+		size = 1275
+	}
+	
+	farmers = {
+		culture = hadza
+		religion = animist
+		size = 975
+	}
+}
+
+#Dodomo (80000/20000 POPS)
+3437 = {
+
 	aristocrats = {
-		culture = kilombero
+		culture = ruvu
+		religion = animist
+		size = 425
+	}
+
+	clergymen = {
+		culture = ruvu
+		religion = animist
+		size = 275
+	}
+
+	artisans = {
+		culture = ruvu
+		religion = animist
+		size = 400
+	}
+
+	soldiers = {
+		culture = ruvu
+		religion = animist
+		size = 1100
+	}
+
+	farmers = {
+		culture = ruvu
+		religion = animist
+		size = 30275
+	}
+	
+	farmers = {
+		culture = sandawe
+		religion = animist
+		size = 4075
+	}
+	
+	clergymen = {
+		culture = nyaturu
+		religion = animist
+		size = 25
+	}
+
+	artisans = {
+		culture = nyaturu
+		religion = animist
+		size = 200
+	}
+
+	soldiers = {
+		culture = nyaturu
+		religion = animist
+		size = 100
+	}
+
+	farmers = {
+		culture = nyaturu
+		religion = animist
+		size = 8275
+	}
+	
+	farmers = {
+		culture = datooga
+		religion = animist
+		size = 1275
+	}
+	
+	farmers = {
+		culture = iraqw
+		religion = animist
+		size = 975
+	}
+}
+
+#Musoma (80000/20000 POPS)
+3445 = {
+	aristocrats = {
+		culture = suguti
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = kilombero
+		culture = suguti
 		religion = animist
 		size = 100
 	}
 
 	artisans = {
-		culture = kilombero
+		culture = suguti
 		religion = animist
 		size = 300
 	}
 
 	soldiers = {
-		culture = kilombero
+		culture = suguti
 		religion = animist
 		size = 75
 	}
 
 	farmers = {
-		culture = kilombero
+		culture = suguti
 		religion = animist
-		size = 5475
+		size = 26475
+	}
+	
+	farmers = {
+		culture = logooli_kuria
+		religion = animist
+		size = 20000
+	}
+	
+	farmers = {
+		culture = luo
+		religion = animist
+		size = 5000
 	}
 	
 	slaves = {
-		culture = cushitic
-		religion = sunni
+		culture = datooga
+		religion = animist
 		size = 2000
 	}
 }
+
 #Zanzibar Region (156000)
 #ruled by Oman in 1836
 #Zanzibar (156000/39000 POPS)
@@ -1132,19 +1691,19 @@
 	aristocrats = {
 		culture = swahili
 		religion = sunni
-		size = 250
+		size = 750
 	}
 
 	clergymen = {
 		culture = swahili
 		religion = sunni
-		size = 125
+		size = 425
 	}
 
 	artisans = {
 		culture = swahili
 		religion = sunni
-		size = 525
+		size = 10525
 	}
 
 	soldiers = {
@@ -1156,79 +1715,103 @@
 	farmers = {
 		culture = swahili
 		religion = sunni
-		size = 7100
+		size = 27100
 	}
 
 	aristocrats = {
-		culture = bedouin
-		religion = ibadi
+		culture = swahili_arabic
+		religion = sunni
 		size = 150
 	}
 
 	bureaucrats = {
-		culture = bedouin
-		religion = ibadi
+		culture = swahili_arabic
+		religion = sunni
 		size = 75
 	}
 
 	officers = {
-		culture = bedouin
-		religion = ibadi
+		culture = swahili_arabic
+		religion = sunni
 		size = 75
 	}
 
 	clergymen = {
-		culture = bedouin
-		religion = ibadi
-		size = 50
+		culture = swahili_arabic
+		religion = sunni
+		size = 250
 	}
 
 	artisans = {
-		culture = bedouin
-		religion = ibadi
-		size = 200
+		culture = swahili_arabic
+		religion = sunni
+		size = 2200
 	}
 
 	soldiers = {
-		culture = bedouin
-		religion = ibadi
+		culture = swahili_arabic
+		religion = sunni
 		size = 450
 	}
 
 	aristocrats = {
-		culture = kilombero
+		culture = shirazi
 		religion = sunni
 		size = 400
 	}
 
 	clergymen = {
-		culture = kilombero
+		culture = shirazi
 		religion = sunni
 		size = 200
 	}
 
 	artisans = {
-		culture = kilombero
+		culture = shirazi
 		religion = sunni
-		size = 1050
+		size = 2550
 	}
 
 	soldiers = {
-		culture = kilombero
+		culture = shirazi
 		religion = sunni
-		size = 225
+		size = 825
 	}
 
 	farmers = {
-		culture = kilombero
+		culture = shirazi
 		religion = sunni
-		size = 19125
+		size = 625
 	}
 
 	slaves = {
-		culture = kilombero
+		culture = hehe
 		religion = animist
-		size = 8000
+		size = 2000
+	}
+	
+	slaves = {
+		culture = nyaturu
+		religion = animist
+		size = 3000
+	}
+	
+	slaves = {
+		culture = maasai
+		religion = animist
+		size = 1000
+	}
+	
+	slaves = {
+		culture = unyamwezi
+		religion = animist
+		size = 3500
+	}
+	
+	slaves = {
+		culture = rukwe
+		religion = animist
+		size = 400
 	}
 
 }

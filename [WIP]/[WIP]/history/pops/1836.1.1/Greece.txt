@@ -1435,8 +1435,7 @@
 #Peloponnese Region (220000)  
 #under the rule of Greece in 1836
 #Nafplion (72000/18000 POPS)
-839 = {
-	
+839 = {	
 	clergymen = {
 		culture = greek
 		religion = orthodox
@@ -1454,17 +1453,47 @@
 		religion = orthodox
 		size = 100
 	}
+	
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 15000
+	}
+	
+	clergymen = {
+		culture = tsakonian
+		religion = orthodox
+		size = 400
+	}
+
+	artisans = {
+		culture = tsakonian
+		religion = orthodox
+		size = 1800
+	}
+
+	soldiers = {
+		culture = tsakonian
+		religion = orthodox
+		size = 100
+	}
+	
+	farmers = {
+		culture = tsakonian
+		religion = orthodox
+		size = 10070
+	}
 
 	soldiers = {
 		culture = tosk
-		religion = catholic
+		religion = orthodox
 		size = 2600
 	}
 
 	farmers = {
-		culture = greek
+		culture = tosk
 		religion = orthodox
-		size = 30070
+		size = 2000
 	}
 }
 #Corinth (40000/10000 POPS)

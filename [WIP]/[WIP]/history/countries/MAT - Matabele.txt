@@ -1,8 +1,5 @@
 capital = 2108
-primary_culture = nguni
-culture = tswana
-culture = shona
-culture = sotho
+primary_culture = ndebele
 culture = southern_bantu
 religion = animist
 government = absolute_monarchy

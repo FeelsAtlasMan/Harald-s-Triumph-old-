@@ -59,13 +59,13 @@
 	farmers = {
 		culture = pashtun
 		religion = sunni
-		size = 50025
+		size = 40025
 	}
 	
 	farmers = {
 		culture = ormuri
 		religion = sunni
-		size = 10025
+		size = 15025
 	}
 
 	aristocrats = {
@@ -101,7 +101,7 @@
 	farmers = {
 		culture = persian
 		religion = sunni
-		size = 14575
+		size = 19575
 	}
 
 	aristocrats = {
@@ -182,13 +182,13 @@
 	artisans = {
 		culture = persian
 		religion = shiite
-		size = 700
+		size = 1700
 	}
 	
 	farmers = {
 		culture = persian
 		religion = shiite
-		size = 480
+		size = 1480
 	}
 	
 	clergymen = {
@@ -207,6 +207,177 @@
 		culture = baluchi
 		religion = sunni
 		size = 4080
+	}
+}
+
+#Bust (996000/249000 POPS)
+3455 = {
+	clergymen = {
+		culture = pashtun
+		religion = sunni
+		size = 75
+	}
+
+	soldiers = {
+		culture = pashtun
+		religion = sunni
+		size = 500
+	}
+	
+	farmers = {
+		culture = pashtun
+		religion = sunni
+		size = 8025
+	}
+	
+	clergymen = {
+		culture = persian
+		religion = shiite
+		size = 200
+	}
+
+	artisans = {
+		culture = persian
+		religion = shiite
+		size = 700
+	}
+	
+	farmers = {
+		culture = persian
+		religion = shiite
+		size = 4480
+	}
+	
+	clergymen = {
+		culture = baluchi
+		religion = sunni
+		size = 10
+	}
+
+	soldiers = {
+		culture = baluchi
+		religion = sunni
+		size = 100
+	}
+	
+	farmers = {
+		culture = baluchi
+		religion = sunni
+		size = 580
+	}
+}
+
+#Anar Dareh (996000/249000 POPS)
+3454 = {
+	clergymen = {
+		culture = pashtun
+		religion = sunni
+		size = 75
+	}
+
+	soldiers = {
+		culture = pashtun
+		religion = sunni
+		size = 500
+	}
+	
+	farmers = {
+		culture = pashtun
+		religion = sunni
+		size = 15025
+	}
+	
+	clergymen = {
+		culture = persian
+		religion = shiite
+		size = 200
+	}
+
+	artisans = {
+		culture = persian
+		religion = shiite
+		size = 700
+	}
+	
+	farmers = {
+		culture = persian
+		religion = shiite
+		size = 5480
+	}
+	
+	artisans = {
+		culture = moghol
+		religion = shiite
+		size = 40
+	}
+
+	soldiers = {
+		culture = moghol
+		religion = shiite
+		size = 120
+	}
+
+	farmers = {
+		culture = moghol
+		religion = shiite
+		size = 2400
+	}
+}
+
+#Sar-e Pol (996000/249000 POPS)
+3458 = {
+	clergymen = {
+		culture = uzbek
+		religion = sunni
+		size = 75
+	}
+
+	soldiers = {
+		culture = uzbek
+		religion = sunni
+		size = 500
+	}
+	
+	farmers = {
+		culture = uzbek
+		religion = sunni
+		size = 15025
+	}
+	
+	clergymen = {
+		culture = pashtun
+		religion = sunni
+		size = 75
+	}
+
+	soldiers = {
+		culture = pashtun
+		religion = sunni
+		size = 500
+	}
+	
+	farmers = {
+		culture = pashtun
+		religion = sunni
+		size = 5025
+	}
+	
+	clergymen = {
+		culture = persian
+		religion = shiite
+		size = 100
+	}
+
+	artisans = {
+		culture = persian
+		religion = shiite
+		size = 700
+	}
+	
+	farmers = {
+		culture = persian
+		religion = shiite
+		size = 2480
 	}
 }
 
@@ -695,25 +866,7 @@
 	farmers = {
 		culture = pashtun
 		religion = shiite
-		size = 2000
-	}
-
-	artisans = {
-		culture = moghol
-		religion = shiite
-		size = 10
-	}
-
-	soldiers = {
-		culture = moghol
-		religion = shiite
-		size = 20
-	}
-
-	farmers = {
-		culture = moghol
-		religion = shiite
-		size = 400
+		size = 1000
 	}
 	
 	slaves = {
@@ -724,8 +877,8 @@
 
 	farmers = {
 		culture = persian
-		religion = shiite
-		size = 4000
+		religion = sunni
+		size = 1000
 	}
 }
 #Kandahar (368000/92000 POPS)

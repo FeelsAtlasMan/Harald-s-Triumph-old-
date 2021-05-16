@@ -1,6 +1,5 @@
-owner = TOO
-controller = TOO
-add_core = TOO
+owner = SAX
+controller = SAX
 add_core = WOL
 trade_goods = fruit
 terrain = semidesert

@@ -49,6 +49,7 @@ political_decisions = {
 			TUR_931 = { add_core = THIS }
 			TUR_935 = { add_core = THIS }
 			TUR_935 = { add_core = THIS }
+			PER_1132 = { add_core = THIS }
             LUR = { all_core = { add_core = THIS } }
 			badboy = 8
 			set_country_flag = claimed_iraq
@@ -147,6 +148,8 @@ political_decisions = {
             1220 = { add_core = THIS }
 			1221 = { add_core = THIS }
 			1222 = { add_core = THIS }
+			1219 = { add_core = THIS }
+			3340 = { add_core = THIS }
 			badboy = 5
 			set_country_flag = ended_balochi_raids
 			prestige = 10
@@ -269,7 +272,8 @@ political_decisions = {
 		effect = {
             RUS_1215 = { add_core = THIS }
 			KHI_1191 = { add_core = THIS }
-			badboy = 10
+			RUS_1204 = { add_core = THIS }
+			badboy = 8
 			set_country_flag = reclaimed_khwarzem
 		}
 		ai_will_do = {
@@ -880,6 +884,81 @@ political_decisions = {
 		    IRQ = { all_core = { add_core = THIS } }
             LUR = { all_core = { add_core = THIS } }
             set_country_flag = claimed_iraq_mds
+			prestige = 20
+		}	
+		ai_will_do = {
+		    factor = 1
+		}
+	}
+	
+	#Timurids
+	
+	#Centralize the Empire
+	centralize_timurids = {
+	    picture = "iranzemin"
+		potential = {
+			tag = TIM
+			NOT = { has_country_flag = centralized_timurids }
+			NOT = { has_country_flag = timurid_collapsed }
+		}
+		
+		allow = {
+		    TIM = { all_core = { owned_by = THIS } }
+			NOT = { has_country_modifier = timurid_collapse }
+			PNJ = { is_independant = yes }
+			KRM = { exists = no }
+			MUG = { has_country_flag = lost_punjab }
+			OR = {
+			    is_greater_power = yes
+				is_secondary_power = yes
+			}
+			civilized = yes
+			war = no
+		}
+		
+		effect = {
+		    KRM = { all_core = { add_core = THIS } }
+            AKK = { all_core = { add_core = THIS } }
+			any_country = { limit = { vassal_of  = THIS substate_of = THIS } add_core = TIM }
+			any_country = { limit = { OR = { vassal_of = THIS substate_of = THIS tag = PNJ } } annex_to = TIM }
+            set_country_flag = centralized_timurids
+			prestige = 5
+		}	
+		ai_will_do = {
+		    factor = 1
+		}
+	}
+	
+	#Shahaneh-ye Qanun-e Asasi
+	shahaneh_ye_qanun_e_asasi = {
+	    picture = "timuridreform"
+		potential = {
+			tag = TIM
+			has_country_flag = centralized_timurids
+			NOT = { has_country_flag = shahaneh_ye_qanun_e_asasi_tim }
+		}
+		
+		allow = {
+		    state_n_government = 1
+			is_greater_power = yes
+			TIM = { all_core = { owned_by = THIS } }
+			war = no
+		}
+		
+		effect = {
+		    add_accepted_culture = adari
+			add_accepted_culture = turkmen
+			add_accepted_culture = pashtun
+			add_accepted_culture = turkish
+			add_accepted_culture = mashriqi
+			add_accepted_culture = panjabi
+			add_accepted_culture = kurmanji
+			add_accepted_culture = tat
+			primary_culture = persian
+			add_accepted_culture = sart
+			add_accepted_culture = uzbek
+			government = hms_government
+            set_country_flag = shahaneh_ye_qanun_e_asasi_tim
 			prestige = 20
 		}	
 		ai_will_do = {

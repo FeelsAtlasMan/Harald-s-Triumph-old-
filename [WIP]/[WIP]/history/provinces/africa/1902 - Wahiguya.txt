@@ -1,6 +1,6 @@
-owner = SEG
-controller = SEG
-add_core = SEG
+owner = MOS
+controller = MOS
+add_core = MOS
 trade_goods = grain
 terrain = semidesert
-life_rating = 32
+life_rating = 35

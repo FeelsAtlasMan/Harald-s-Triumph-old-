@@ -842,11 +842,17 @@ country_event = {
 	          defender_goal = { casus_belli = humiliate }
 	          call_ally = no
            }
+		ai_chance = {
+			factor = 90
+		}
 	}
 	
 	option = {
 		name = "There are more important matters."
 		prestige = -10
+		ai_chance = {
+			factor = 10
+		}
 	}
 }
 
@@ -866,6 +872,491 @@ country_event = {
 	option = {
 		name = "Interesting"
 		set_country_flag = shadow_caliphate
+	}
+}
+
+#Advisors
+country_event = {
+	id = 9933
+	title = "Deciding on new advisors"
+	desc = "EVTDESC9933"
+	picture = "deliberation"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "The nation needs to be reformed!"
+		any_pop = {
+		         limit = {
+				       culture = mamluki
+					   culture = abaza
+					   culture = circassian
+				 }
+				 militancy = 3
+		   }
+		set_country_flag = abb_western_advisors
+		ai_chance = {
+			factor = 60
+		}
+	}
+	
+	option = {
+		name = "The traditional values are more important!"
+		any_pop = {
+		         limit = {
+				       culture = mamluki
+					   culture = abaza
+					   culture = circassian
+				 }
+				 militancy = -3
+		   }
+		set_country_flag = abb_mamluk_advisors
+		ai_chance = {
+			factor = 40
+		}
+	}
+}
+
+#Administration Reform
+country_event = {
+	id = 9935
+	title = "The Matter of Dimashq and Tarabulus"
+	desc = "EVTDESC9935"
+	picture = "muhammad_ali"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Remove the Mamluk Privileges!"
+		set_country_flag = abb_western_administration
+		DMC = { country_event = 9934 }
+		TRI = { country_event = 9934 }
+		1745 = { remove_province_modifier = mamluk_estates  }
+		1746 = { remove_province_modifier = mamluk_estates  }
+		1747 = { remove_province_modifier = mamluk_estates  }
+		1748 = { remove_province_modifier = mamluk_estates  }
+		1749 = { remove_province_modifier = mamluk_estates  }
+		1750 = { remove_province_modifier = mamluk_estates  }
+		1751 = { remove_province_modifier = mamluk_estates  }
+		ai_chance = {
+			factor = 60
+		}
+	}
+	
+	option = {
+		name = "The current system works fine!"
+		set_country_flag = abb_mamluk_administration
+		ai_chance = {
+			factor = 40
+		}
+	}
+}
+
+#Administration Revolts/Annexetion
+country_event = {
+	id = 9934
+	title = "The Caliph revoked our autonomy!"
+	desc = "EVTDESC9934"
+	picture = "muhammad_ali"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Who are we to disagree?"
+		THIS = { all_core = { add_core = ABB } }
+		THIS = { all_core = { remove_core = THIS } }
+		ABB = { release_vassal = THIS }
+		ABB = { inherit = THIS }
+		ai_chance = {
+			factor = 70
+			modifier = {
+				factor = 0.9
+				tag = TRI
+			}
+			modifier = {
+				factor = 0.1
+				tag = DMC
+			}
+		}
+	}
+	
+	option = {
+		name = "We dont accept!"
+		ABB = {
+		   war = {
+	           target = THIS
+	           attacker_goal = { casus_belli = conquest }
+	           defender_goal = { casus_belli = status_quo }
+	           call_ally = no
+           }
+		}
+		THIS = { all_core = { add_core = ABB } }
+		ABB = { release_vassal = THIS }
+		ai_chance = {
+			factor = 30
+			modifier = {
+				factor = 0.1
+				tag = TRI
+			}
+			modifier = {
+				factor = 0.9
+				tag = DMC
+			}
+		}
+	}
+}
+
+#The Sultan of Harer asks for protection
+country_event = {
+	id = 9936
+	title = "The Sultan of Harer asks for protection!"
+	desc = "EVTDESC9936"
+	picture = "abd_al_qadir_uprising"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "We will support them!"
+		any_country = { 
+		   limit = { 
+		      war_with = HAR 
+		   } 
+		   war = { 
+		      target = ABB
+	          attacker_goal = { casus_belli = cut_down_to_size }
+	          defender_goal = { casus_belli = status_quo }
+	          call_ally = no
+           }
+        }
+		create_vassal = HAR
+		prestige = 10
+		ai_chance = {
+			factor = 100
+		}
+	}
+	
+	option = {
+		name = "We dont accept"
+		prestige = -30
+		ai_chance = {
+			factor = 0
+		}
+	}
+}
+
+#The Caliph recognizes our claims to Adal
+country_event = {
+	id = 9937
+	title = "The Caliph recognizes our claim to the legacy of Adal!"
+	desc = "EVTDESC9937"
+	picture = "cairo"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Onwards to Adal!"
+		change_tag = ADL
+		government = colonial_company
+		ABB = { create_vassal = ADL }
+		ETH_1853 = { add_core = THIS } #Afar Region
+		3426 = { add_core = THIS } #Northern Somalia
+		1873 = { add_core = THIS }
+		1874 = { add_core = THIS }
+		1875 = { add_core = THIS }
+		1867 = { add_core = THIS }
+		1859 = { add_core = THIS } #Shewa
+		1860 = { add_core = THIS }
+		1861 = { add_core = THIS }
+		ADL = { all_core = { limit = { owned_by = ABB } secede_province = THIS } }
+		capital = 1874
+		1874 = { add_province_modifier = { name = baby_boom_assimilation duration = 3650 } }
+		ABB = { badboy = 8 }
+		ai_chance = {
+			factor = 100
+		}
+	}
+}
+
+#Somalia Expedition
+country_event = {
+	id = 9938
+	title = "The Egyptian Aggression!"
+	desc = "EVTDESC9938"
+	picture = "arab_revolt"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Ask the other tribes for support!"
+		any_country = { limit = { primary_culture = somali } country_event = 9939}
+		from = { 
+		   war = { 
+		      target = GEL
+	          attacker_goal = { casus_belli = conquest }
+	          defender_goal = { casus_belli = status_quo }
+	          call_ally = no
+           }
+		}
+		add_country_modifier = {
+	        name = the_ikhwan
+	        duration = 1825
+        }
+		ai_chance = {
+			factor = 90
+		}
+	}
+	
+	option = {
+		name = "We only need ourselves!"
+		prestige = 10
+		from = { 
+		   war = { 
+		      target = GEL
+	          attacker_goal = { casus_belli = conquest }
+	          defender_goal = { casus_belli = status_quo }
+	          call_ally = no
+           }
+		}
+		ai_chance = {
+			factor = 10
+		}
+	}
+}
+
+#Geledi calls for support
+country_event = {
+	id = 9939
+	title = "Geledi calls upon the tribes!"
+	desc = "EVTDESC9939"
+	picture = "arab_revolt"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "We accept!"
+		GEL = { inherit = THIS }
+		ai_chance = {
+			factor = 60
+		}
+	}
+	
+	option = {
+		name = "We side with Egypt!"
+		prestige = 10
+		any_country = { limit = { OR = { tag = ABB tag = MML } } inherit = THIS }
+		ai_chance = {
+			factor = 40
+			modifier = {
+				factor = 0
+				OR = {
+				  AND = {
+				    ABB = { has_country_flag = abb_mamluk_administration }
+			        ABB = { has_country_flag = abb_mamluk_advisors }
+				  }
+				  AND = {
+				    ABB = { has_country_flag = abb_western_administration }
+			        ABB = { has_country_flag = abb_mamluk_advisors }
+				  }
+				  AND = {
+				    ABB = { has_country_flag = abb_mamluk_administration }
+			        ABB = { has_country_flag = abb_western_advisors }
+				  }
+				  GEL = { war_with = MML }
+				}
+			}
+			modifier = {
+				factor = 0.4
+				OR = {
+				  AND = {
+				    ABB = { has_country_flag = abb_western_administration }
+			        ABB = { has_country_flag = abb_western_advisors }
+				  }
+				  ABB = { has_country_flag = dethrowned_mamluks }
+				}
+			}
+		}
+	}
+}
+
+#al-Zubayr's Exodus
+country_event = {
+	id = 9940
+	title = "al-Zubyar's Exodus"
+	desc = "EVTDESC9940"
+	picture = "Toucouleur"
+	
+	trigger = {
+	       OR = {
+		      1827 = { owned_by = ABB }
+			  1827 = { owned_by = MML }
+		   }
+		   OR = {
+		      tag = ABB
+			  tag = MML
+		   }
+	}
+	
+	mean_time_to_happen = { months = 10 }
+	
+	fire_only_once = yes
+	
+	option = {
+		name = "Chase him down!"
+		1844 = { secede_province = THIS }
+		1846 = { secede_province = THIS }
+		1844 = { secede_province = ZBY }
+		1846 = { secede_province = ZBY }
+		add_accepted_culture = juba_arabic
+		war = { 
+		   target = ZBY
+	       attacker_goal = { casus_belli = conquest }
+	       defender_goal = { casus_belli = status_quo }
+	       call_ally = no
+        }
+		ai_chance = {
+			factor = 90
+		}
+	}
+	
+	option = {
+		name = "Let him go"
+		1844 = { secede_province = THIS }
+		1846 = { secede_province = THIS }
+		1844 = { secede_province = ZBY }
+		1846 = { secede_province = ZBY }
+		ai_chance = {
+			factor = 10
+		}
+	}
+}
+
+#al-Zubayr escapes again!
+country_event = {
+	id = 9941
+	title = "al-Zubyar escapes again!"
+	desc = "EVTDESC9941"
+	picture = "yao_slave"
+	
+	trigger = {
+	       OR = {
+		      AND = {
+			     1844 = { owned_by = ABB }
+			     1846 = { owned_by = ABB }
+			  }
+		      AND = {
+			     1844 = { owned_by = MML }
+			     1846 = { owned_by = MML }
+			  }
+		   }
+		   OR = {
+		      tag = ABB
+			  tag = MML
+		   }
+	}
+	
+	mean_time_to_happen = { months = 1 }
+	
+	fire_only_once = yes
+	
+	option = {
+		name = "He is out of our reach"
+		2081 = { secede_province = THIS }
+		2081 = { secede_province = ZBY }
+		2081 = { add_core = ZBY }
+		2081 = { add_province_modifier = { name = baby_boom_assimilation duration = 3650 } }
+		ai_chance = {
+			factor = 100
+		}
+	}
+	
+	option = {
+		name = "Onwards to Central Africa!" 
+		2081 = { secede_province = THIS }
+		2081 = { secede_province = ZBY }
+		2081 = { add_core = ZBY }
+		change_tag = ZBY
+		2081 = { add_province_modifier = { name = baby_boom_assimilation duration = 3650 } }
+	}
+}
+
+#The Coptic Revolt
+country_event = {
+	id = 9942
+	title = "The Coptic Revolt!"
+	desc = "EVTDESC9942"
+	picture = "NubianSlaves"
+	
+	trigger = {
+	     OR = {
+		    ABB = { has_country_flag = abb_invaded_funj }
+		 }
+	}
+	
+	mean_time_to_happen = { months = 20 }
+	
+	fire_only_once = yes
+	
+	option = {
+		name = "Put them down!"
+		release = NBI
+		NBI = { add_country_modifier = { name = rally_tribesmen duration = 1825 } }
+		NBI = { country_event = 60160 }
+		war = { 
+		   target = NBI
+	       attacker_goal = { casus_belli = civil_war }
+	       defender_goal = { casus_belli = status_quo }
+	       call_ally = no
+        }
+		ai_chance = {
+			factor = 100
+		}
+	}
+	
+	option = {
+		name = "Onwards to Nubia!" 
+		release = NBI
+		war = { 
+		   target = NBI
+	       attacker_goal = { casus_belli = civil_war }
+	       defender_goal = { casus_belli = status_quo }
+	       call_ally = no
+        }
+		change_tag = NBI
+		NBI = { country_event = 60160 }
+		NBI = { add_country_modifier = { name = rally_tribesmen duration = 1825 } }
+	}
+}
+
+#Expansion Options
+country_event = {
+	id = 9943
+	title = "The Abbasid Ambitions"
+	desc = "EVTDESC9943"
+	picture = "abbasid_policies"
+	
+	trigger = {
+	     ABB = { NOT = { has_country_flag = shadow_caliphate } }
+		 tag = ABB
+	}
+	
+	mean_time_to_happen = { months = 1 }
+	
+	fire_only_once = yes
+	
+	option = {
+		name = "We will restore the old Caliphate!"
+		set_country_flag = iranic_caliphate
+		ai_chance = {
+			factor = 50
+		}
+	}
+	
+	option = {
+		name = "The Caliphate should be built by Arabs!" 
+		set_country_flag = arab_caliphate
+		ai_chance = {
+			factor = 50
+		}
 	}
 }
 
