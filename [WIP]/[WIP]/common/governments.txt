@@ -49,11 +49,13 @@ dominion = {
 }
 
  
-bourgeois_dictatorship = {
+bourgeois_dictatorship = { #Rev. republic
 	#which ideology of parties.
 	anarcho_liberal = yes
+	liberal = yes
+	conservative = yes
 	
-	election = no
+	election = yes
 	appoint_ruling_party = yes
 	flagType = republic
 }

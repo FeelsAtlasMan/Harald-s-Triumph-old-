@@ -404,7 +404,7 @@ country_event = {
 		NOT = { government = democracy }
 		check_variable = {
 			which = "revolution_progress_FRA"
-			value = 6
+			value = 5
 		}
 	}
 	

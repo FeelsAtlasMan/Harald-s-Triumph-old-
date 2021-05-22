@@ -302,7 +302,7 @@ country_event = {
 		OR = {
 			government = proletarian_dictatorship
 			government = presidential_dictatorship
-			government = bourgeois_dictatorship
+			#government = bourgeois_dictatorship
 			government = fascist_dictatorship
 			government = theocracy
 		}
@@ -549,6 +549,7 @@ country_event = {
 		clr_country_flag = non_colonial_genocide_only
 		clr_country_flag = colonial_genocide_only
 		clr_country_flag = preparations_to_kill
+		political_refom = none_voting
 		remove_country_modifier = preparations_to_kill
 	}
 }
