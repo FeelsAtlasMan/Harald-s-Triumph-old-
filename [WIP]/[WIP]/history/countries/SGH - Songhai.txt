@@ -1,9 +1,10 @@
-capital = 1152
-primary_culture = hejazi_arabic
-culture = najdi_arabic
-culture = yemeni_arabic
+capital = 1789
+primary_culture = songhai
+culture = tuareg
+culture = hausa
+culture = fulbe
 religion = sunni
-government = colonial_company
+government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
 literacy = 0.01
@@ -16,7 +17,7 @@ vote_franschise = none_voting
 public_meetings = no_meeting
 press_rights = state_press
 trade_unions = no_trade_unions
-voting_system = jefferson_method
+voting_system = first_past_the_post
 political_parties = underground_parties
 
 # Social Reforms
@@ -39,22 +40,20 @@ centralization = unitary
 colonial_policy = no_colonies 
 
 
-ruling_party = HEJ_conservative
+ruling_party = DND_reactionary
 upper_house = {
 	fascist = 0
-	liberal = 13
-	conservative = 68
-	reactionary = 19
+	liberal = 16
+	conservative = 61
+	reactionary = 23
 	anarcho_liberal = 0
 	socialist = 0
 	communist = 0
 }
 
 set_country_flag = sunni_country
-foreign_weapons = yes_foreign_weapons
 
 # Technologies
-flintlock_rifles = 1
 
 # Inventions
 
@@ -62,16 +61,9 @@ flintlock_rifles = 1
 consciousness = 0
 nonstate_consciousness = 0
 
-oob = "HDJ_oob.txt"
+oob = "TOO_oob.txt"
 1861.1.1 = {
-	oob = "/1861/HDJ_oob.txt"
-	literacy = 0.13
-	non_state_culture_literacy = 0.04
-
-	#Military Reforms
+	oob = "/1861/TOO_oob.txt"
 	foreign_weapons = yes_foreign_weapons
-
-	#Technologies
 	flintlock_rifles = 1
 }
-

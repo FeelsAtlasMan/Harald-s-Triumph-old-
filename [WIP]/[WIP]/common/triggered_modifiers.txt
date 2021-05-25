@@ -187,6 +187,16 @@ islamic_law_triggered = {
 	icon = 5
 }
 
+islamic_law_triggered = {
+	trigger = {
+		has_country_flag = waqt_almetaab
+	}
+	core_pop_militancy_modifier = -0.05
+	suppression_points_modifier = -0.5
+	tax_efficiency = -0.05
+	icon = 5
+}
+
 the_british_raj = {
 	trigger = {
 		exists = yes

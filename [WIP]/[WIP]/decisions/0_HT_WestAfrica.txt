@@ -1,0 +1,331 @@
+political_decisions = {
+    #Fulani Imamate
+    annals_of_the_fulani_jihad = {
+		picture = annals_of_the_fulani_jihad
+		potential = {
+			tag = TOU
+			NOT = {
+				has_country_flag = that_book_written
+			}
+		}
+		allow = {
+			owns = 1803
+			owns = 1800
+		}
+		effect = {
+			set_country_flag = that_book_written
+			prestige = 10
+			years_of_research = 0.5
+		}
+	}
+	
+	#Reskinned into Sokkmasor Empire
+	become_toucouleur = {
+		picture = become_toucouleur
+		potential = {
+			tag = TOO
+			NOT = { has_global_flag = toucouleur_created }
+		}
+
+		allow = {
+			war = no
+			OR = {
+				government = absolute_monarchy
+				government = theocracy
+			}
+			SEG = { all_core = { owned_by = THIS } }
+		}
+
+		effect = {
+			set_global_flag = toucouleur_created
+			prestige = 10
+			years_of_research = 0.2
+			add_accepted_culture = maures
+			add_accepted_culture = songhai
+			add_accepted_culture = tuareg
+			all_core = { add_core = TOU }
+			SEG = { all_core = { add_core = TOU } }
+			change_tag = TOU
+			capital = 1801
+            1801 = { add_province_modifier = { name = baby_boom_assimilation duration = 3650 } }	
+            1801 = { change_province_name = "Sokkmasor"	}		
+		}
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	#Restore the Songhai Empire
+	become_songhai_empire = {
+		#picture = become_toucouleur
+		potential = {
+			tag = SGH
+			NOT = { set_country_flag = reestablished_songhai }
+		}
+
+		allow = {
+			war = no
+			government = absolute_monarchy
+			SGH = { all_core = { owned_by = THIS } }
+			owns = 1805
+			owns = 1803
+			owns = 1802
+		}
+
+		effect = {
+			set_country_flag = reestablished_songhai
+			prestige = 50
+			FRA_1798 = { add_core = THIS }
+			FRA_1801 = { add_core = THIS }
+			FRA_1788 = { add_core = THIS }
+			FRA_1803 = { add_core = THIS }
+			1807 = { add_core = THIS }
+			1881 = { add_core = THIS }
+			1882 = { add_core = THIS }
+			1902 = { add_core = THIS }
+			1903 = { add_core = THIS }
+			1906 = { add_core = THIS }
+			#change_tag = TOU			
+		}
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	#Unite Hausaland
+	become_hausaland = {
+	picture = become_hausaland
+		potential = {
+			OR = {
+			   tag = SOK
+			   tag = IGL
+			   tag = BDA
+			   tag = HJI
+			   tag = HKB
+			   tag = HKN
+			   tag = HKT
+			   tag = HZF
+			   tag = HZZ
+			   tag = BSS
+			}
+			NOT = { has_country_flag = became_hausaland }
+		}
+
+		allow = {
+			SOK = { all_core = { owned_by = THIS } }
+			IGL = { all_core = { owned_by = THIS } }
+			BDA = { all_core = { owned_by = THIS } }
+			HJI = { all_core = { owned_by = THIS } }
+			HKB = { all_core = { owned_by = THIS } }
+			HKN = { all_core = { owned_by = THIS } }
+			HKT = { all_core = { owned_by = THIS } }
+			HZF = { all_core = { owned_by = THIS } }
+			HZZ = { all_core = { owned_by = THIS } }
+			BSS = { all_core = { owned_by = THIS } }
+		}
+
+		effect = {
+		    SOK = { all_core = { add_core = THIS } }
+			IGL = { all_core = { add_core = THIS } }
+			BDA = { all_core = { add_core = THIS } }
+			HJI = { all_core = { add_core = THIS } }
+			HKB = { all_core = { add_core = THIS } }
+			HKN = { all_core = { add_core = THIS } }
+			HKT = { all_core = { add_core = THIS } }
+			HZF = { all_core = { add_core = THIS } }
+			HZZ = { all_core = { add_core = THIS } }
+			BSS = { all_core = { add_core = THIS } }
+			SOK = { all_core = { remove_core = SOK } }
+			IGL = { all_core = { remove_core = IGL } }
+			BDA = { all_core = { remove_core = BDA } }
+			HJI = { all_core = { remove_core = HJI } }
+			HKB = { all_core = { remove_core = HKB } }
+			HKN = { all_core = { remove_core = HKN } }
+			HKT = { all_core = { remove_core = HKT } }
+			HZF = { all_core = { remove_core = HZF } }
+			HZZ = { all_core = { remove_core = HZZ } }
+			BSS = { all_core = { remove_core = BSS } }
+			set_country_flag = became_hausaland
+			prestige = 20
+			primary_culture = hausa
+			add_accepted_culture = fulbe
+			years_of_research = 0.5
+		}
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	#Unite the Niger Delta
+	unite_niger_delta = {
+	#picture = become_hausaland
+		potential = {
+			OR = {
+			   tag = OYO
+			   tag = EKT
+			   tag = BEN
+			   tag = WRI
+			   tag = OPB
+			   tag = CLA
+			   tag = ARO
+			   tag = WKR
+			}
+			NOT = { has_country_flag = united_niger_delta }
+		}
+
+		allow = {
+			OYO = { all_core = { owned_by = THIS } }
+			BEN = { all_core = { owned_by = THIS } }
+			EKT = { all_core = { owned_by = THIS } }
+			WRI = { all_core = { owned_by = THIS } }
+			OPB = { all_core = { owned_by = THIS } }
+			CLA = { all_core = { owned_by = THIS } }
+			ARO = { all_core = { owned_by = THIS } }
+			WKR = { all_core = { owned_by = THIS } }
+		}
+
+		effect = {
+		    OYO = { all_core = { add_core = THIS } }
+			BEN = { all_core = { add_core = THIS } }
+			EKT = { all_core = { add_core = THIS } }
+			WRI = { all_core = { add_core = THIS } }
+			OPB = { all_core = { add_core = THIS } }
+			CLA = { all_core = { add_core = THIS } }
+			ARO = { all_core = { add_core = THIS } }
+			WKR = { all_core = { add_core = THIS } }
+			set_country_flag = united_niger_delta
+			prestige = 20
+			years_of_research = 0.5
+		}
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	#Reform the Oyo Empire
+	reform_oyo_empire = {
+	#picture = become_hausaland
+		potential = {
+			tag = OYO
+			NOT = { has_country_flag = reformed_oyo }
+		}
+
+		allow = {
+			IFE = { vassal_of = THIS }
+			IBD = { vassal_of = THIS }
+			EGB = { vassal_of = THIS }
+			OR = {
+			    AND = {
+			        land_reform = yes_land_reform
+                    admin_reform = yes_admin_reform
+			    }
+				AND = {
+			        land_reform = land_reform_two
+                    admin_reform = admin_reform_two
+			    }
+				civilized = yes
+	         }
+		}
+
+		effect = {
+		    inherit = IFE
+			inherit = IBD
+			inherit = EGB
+			set_country_flag = reformed_oyo
+		}
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	#Restore control over the eastern Hausa
+	control_eastern_hausa = {
+	#picture = become_hausaland
+		potential = {
+			tag = KBO
+			NOT = { has_country_flag = controled_eastern_hausa }
+		}
+
+		allow = {
+			owns = 1942
+			owns = 1949
+			owns = 1945
+			owns = 1811
+		}
+
+		effect = {
+		    add_core = 1942
+			add_core = 1949
+			add_core = 1945
+			add_core = 1811
+			add_accepted_culture = hausa
+			prestige = 10
+			set_country_flag = controled_eastern_hausa
+		}
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	#Reclaim Air and Bilma
+	reclaim_air_bilma = {
+	#picture = become_hausaland
+		potential = {
+			tag = KBO
+			NOT = { has_country_flag = reclaim_air_bilma }
+			has_country_flag = controled_eastern_hausa
+		}
+
+		allow = {
+			KBO = { all_core = { owned_by = THIS } }
+			land_reform = yes_land_reform
+		}
+
+		effect = {
+			add_core = 1812
+			1817 = { secede_province = THIS }
+			add_accepted_culture = teda
+			prestige = 10
+			set_country_flag = reclaim_air_bilma
+		}
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}
+	
+	#The 2nd Invasion of Fezzan
+	invade_fezzan = {
+	#picture = become_hausaland
+		potential = {
+			tag = KBO
+			NOT = { has_country_flag = invaded_fezzan }
+			has_country_flag = reclaim_air_bilma
+		}
+
+		allow = {
+			owns = 1817
+			KBO = { all_core = { owned_by = THIS } }
+		}
+
+		effect = {
+			add_core = 1721
+			add_core = 1744
+			add_core = 1811
+			add_accepted_culture = tuareg
+			prestige = 10
+			set_country_flag = invaded_fezzan
+		}
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

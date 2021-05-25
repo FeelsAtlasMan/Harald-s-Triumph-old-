@@ -1,4 +1,4 @@
-color = { 200 100 70 }
+color = { 10 70 40 }
 colonial_company = { 200 120 90 }
 graphical_culture = MoroccoGC
 

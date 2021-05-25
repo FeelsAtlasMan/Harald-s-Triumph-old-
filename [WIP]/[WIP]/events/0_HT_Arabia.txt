@@ -920,7 +920,7 @@ country_event = {
 #Administration Reform
 country_event = {
 	id = 9935
-	title = "The Matter of Dimashq and Tarabulus"
+	title = "The Matter of Dimashq and Hejaz"
 	desc = "EVTDESC9935"
 	picture = "muhammad_ali"
 	
@@ -1069,7 +1069,7 @@ country_event = {
 		1861 = { add_core = THIS }
 		ADL = { all_core = { limit = { owned_by = ABB } secede_province = THIS } }
 		capital = 1874
-		1874 = { add_province_modifier = { name = baby_boom_assimilation duration = 3650 } }
+		1874 = { add_province_modifier = { name = baby_boom_assimilation duration = 7300 } }
 		ABB = { badboy = 8 }
 		ai_chance = {
 			factor = 100

@@ -3385,6 +3385,7 @@ cut_down_to_size = {
 			owner = { any_owned = { limit = { is_core = CNG } secede_province = THIS } clr_country_flag = refused_to_cede_congo }
 			THIS = { any_owned = { limit = { is_core = CNG } secede_province = CNG } }
 		}
+		set_country_flag = got_cut_down
 	}
 }
 
