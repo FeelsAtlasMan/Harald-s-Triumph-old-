@@ -1,6 +1,6 @@
 capital = 1840
-primary_culture = nuba
-culture = sudanese
+primary_culture = teqali
+culture = nuba
 culture = nuer
 religion = animist
 government = absolute_monarchy

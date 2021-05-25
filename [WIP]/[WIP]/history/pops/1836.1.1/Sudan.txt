@@ -911,31 +911,31 @@
 #Hayya (104000/26000 POPS)
 1836 = {
 	aristocrats = {
-		culture = badawi
+		culture = bedouin
 		religion = sunni
 		size = 75
 	}
 
 	clergymen = {
-		culture = badawi
+		culture = bedouin
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = badawi
+		culture = bedouin
 		religion = sunni
 		size = 200
 	}
 
 	soldiers = {
-		culture = badawi
+		culture = bedouin
 		religion = sunni
 		size = 2050
 	}
 
 	farmers = {
-		culture = badawi
+		culture = bedouin
 		religion = sunni
 		size = 4625
 	}

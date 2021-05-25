@@ -3353,6 +3353,7 @@ anglo_saxon_integration = {
 	assimilation_rate = 1.5
 	icon = 19
 }
+
 drucki_lubecki_reforms = {
 	factory_owner_cost = -0.4
 	factory_cost = -0.6
@@ -3366,6 +3367,7 @@ moderinized_caroleans = {
 	mobilisation_size 0.1
 	icon = 7
 }
+
 mamluk_estates = {
 	population_growth = 0.002
 	local_RGO_output = 0.05

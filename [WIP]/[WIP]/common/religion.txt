@@ -13,11 +13,6 @@ christian = {
 		icon = 2
 		color = { 0 0 0.7 }
 	}
-
-	mormon = {
-		icon = 15
-		color = { 0 0 0.5 }
-	}
 	
 	orthodox = {
 		icon = 3
@@ -84,6 +79,13 @@ yazidi_group = {
 		icon = 16
 		color = { 0.4 0.0 1.0 }
 
+	}
+}
+
+gnostic_group = {
+	mormon = {
+		icon = 15
+		color = { 0 0 0.5 }
 	}
 }
 

@@ -464,77 +464,119 @@
 #Azores (204000/51000 POPS)
 2134 = {
 	aristocrats = {
-		culture = algaravian
+		culture = maghrebi
 		religion = sunni
 		size = 500
 	}
 
 	officers = {
-		culture = algaravian
+		culture = maghrebi
 		religion = sunni
 		size = 50
 	}
 
 	bureaucrats = {
-		culture = algaravian
+		culture = maghrebi
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = algaravian
+		culture = maghrebi
 		religion = sunni
 		size = 375
 	}
 
 	artisans = {
-		culture = algaravian
+		culture = maghrebi
 		religion = sunni
 		size = 3000
 	}
 
 	soldiers = {
-		culture = algaravian
+		culture = maghrebi
 		religion = sunni
 		size = 1100
 	}
 
 	farmers = {
-		culture = algaravian
+		culture = maghrebi
 		religion = sunni
-		size = 45975
+		size = 25975
+	}
+	
+	slaves = {
+		culture = wolof
+		religion = animist
+		size = 875
+	}
+	
+	slaves = {
+		culture = fulbe
+		religion = animist
+		size = 875
+	}
+	
+	slaves = {
+		culture = galician
+		religion = catholic
+		size = 875
+	}
+	
+	slaves = {
+		culture = portuguese
+		religion = catholic
+		size = 875
 	}
 }
 #Madeira (104000/26000 POPS)
 2135 = {
 	aristocrats = {
-		culture = algaravian
+		culture = maghrebi
 		religion = sunni
 		size = 250
 	}
 
 	clergymen = {
-		culture = algaravian
+		culture = maghrebi
 		religion = sunni
 		size = 175
 	}
 
 	artisans = {
-		culture = algaravian
+		culture = maghrebi
 		religion = sunni
 		size = 1500
 	}
 
 	soldiers = {
-		culture = algaravian
+		culture = maghrebi
 		religion = sunni
 		size = 250
 	}
 
 	farmers = {
-		culture = algaravian
+		culture = maghrebi
 		religion = sunni
-		size = 23825
+		size = 13825
+	}
+	
+	slaves = {
+		culture = wolof
+		religion = animist
+		size = 825
+	}
+	
+	slaves = {
+		culture = songhai
+		religion = animist
+		size = 825
+	}
+	
+	slaves = {
+		culture = portuguese
+		religion = catholic
+		size = 1825
 	}
 
 }

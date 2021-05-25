@@ -191,82 +191,6 @@ country_event = {
 
 country_event = {
 	id = 120803
-	title = "The Nordic Monetary Union"
-	desc = "EVTDESC120803"
-	picture = "revolution"
-	fire_only_once = yes
-	
-	trigger = {
-		NRD = {
-			has_country_modifier = nordic_monetary_union
-		}
-		tag = SWE
-		OR = {
-			relation = {
-				who = NRD
-				value = 25
-			}
-			alliance_with = NRD
-			in_sphere = NRD
-		}
-		NOT = { war_with = NRD }
-	}
-	
-	option = {
-		name = "We'll gladly join the union!"
-		add_country_modifier = {
-			name = nordic_monetary_union
-			duration = -1
-		}
-		relation = {
-			who = NRD
-			value = 100
-		}
-		prestige = 15
-	}
-	
-	option = {
-		name = "Everything but the Anglo-Norse scum!"
-		prestige = 5
-		relation = {
-			who = NRD
-			value = -100
-		}
-	}
-}
-country_event = {
-	id = 120804
-	title = "800 Ar ver standa!"
-	desc = "EVTDESC120804"
-	picture = "revolution"
-	fire_only_once = yes
-	
-	trigger = {
-		exists = NRD
-		tag = NRD
-		year = 1866
-	}
-	
-	option = {
-		name = "Superb history lesson!"
-		prestige = 25
-		any_pop = {
-			limit = {
-				culture = englisk
-			}
-			militancy = -3
-		}
-		any_pop = {
-			limit = {
-				culture = british
-			}
-			conciousness = 3
-		}
-	}
-}
-
-country_event = {
-	id = 120803
 	title = "The Matter of Australia"
 	desc = "EVTDESC120803"
 	picture = "cyprus_convention"
@@ -286,6 +210,14 @@ country_event = {
 		   AND = { 
 		      ABB = { has_country_flag = abb_mamluk_administration }
 			  ABB = { has_country_flag = abb_mamluk_advisors }
+		   }
+		   AND = { 
+		      ABB = { has_country_flag = abb_western_administration }
+			  ABB = { has_country_flag = abb_mamluk_advisors }
+		   }
+		   AND = { 
+		      ABB = { has_country_flag = abb_mamluk_administration }
+			  ABB = { has_country_flag = abb_western_advisors }
 		   }
 	   }
 	}

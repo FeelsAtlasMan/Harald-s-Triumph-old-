@@ -2435,12 +2435,12 @@
 }
 #see Morocco.txt for Ceuta-Melilla
 #Canary Islands Region (208000)
-#Canary Islands (208000/52000 POPS)
+#Canary Islands - renamed Achinet (208000/52000 POPS)
 2136 = {
 	aristocrats = {
 		culture = maghrebi
 		religion = sunni
-		size = 825
+		size = 725
 	}
 
 	officers = {
@@ -2458,13 +2458,13 @@
 	clergymen = {
 		culture = maghrebi
 		religion = sunni
-		size = 525
+		size = 75
 	}
 
 	artisans = {
 		culture = maghrebi
 		religion = sunni
-		size = 3000
+		size = 500
 	}
 
 	soldiers = {
@@ -2476,7 +2476,43 @@
 	farmers = {
 		culture = maghrebi
 		religion = sunni
-		size = 47025
+		size = 2025
+	}
+	
+	aristocrats = {
+		culture = guanche
+		religion = sunni
+		size = 100
+	}
+
+	clergymen = {
+		culture = guanche
+		religion = sunni
+		size = 450
+	}
+
+	artisans = {
+		culture = guanche
+		religion = sunni
+		size = 2500
+	}
+
+	farmers = {
+		culture = guanche
+		religion = sunni
+		size = 20000
+	}
+	
+	slaves = {
+		culture = guanche
+		religion = animist
+		size = 3525
+	}
+	
+	slaves = {
+		culture = fulbe
+		religion = animist
+		size = 500
 	}
 
 }

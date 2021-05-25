@@ -197,7 +197,7 @@ substate = {
 
 substate = {
 	first = ABB
-	second = TRI
+	second = HDJ
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }
@@ -754,6 +754,20 @@ vassal = {
 vassal = {
 	first = OYO
 	second = IFE
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+#Hafsids
+vassal = {
+	first = TUN
+	second = FZZ
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+vassal = {
+	first = TUN
+	second = GHD
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }

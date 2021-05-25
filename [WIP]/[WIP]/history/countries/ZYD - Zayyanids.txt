@@ -1,11 +1,12 @@
-capital = 1705
-primary_culture = maghrebi
-culture = berber
+capital = 1704
+primary_culture = algerian_arabic
+culture = maghrebi
 religion = sunni
 government = colonial_company
 plurality = 5.0
 nationalvalue = nv_tradition
-literacy = 0.01
+literacy = 0.02
+non_state_culture_literacy = 0.01
 
 # Political reforms
 slavery = yes_slavery
@@ -61,7 +62,7 @@ colonial_policy = no_colonies
 #western_shipyards = yes_western_shipyards
 #foreign_artillery = yes_foreign_artillery
 
-ruling_party = CYR_conservative
+ruling_party = ALD_conservative
 upper_house = {
 	fascist = 0
 	liberal = 14
@@ -72,6 +73,7 @@ upper_house = {
 	communist = 0
 }
 
+decision = ZYD_1836_setup
 set_country_flag = sunni_country
 
 govt_flag = {

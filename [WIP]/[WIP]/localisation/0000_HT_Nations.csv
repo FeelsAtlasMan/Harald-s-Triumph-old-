@@ -816,7 +816,8 @@ TOO_hms_government;Fulani Sultanate;;;;;;;;;;;;x
 TOO_prussian_constitutionalism;Fulani Sultanate;;;;;;;;;;;;x
 TOO_republic;Fulani Republic;;;;;;;;;;;;x
 TOO_ADJ;Fulani;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-TRZ;Mauretania;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TRZ;Beni Hassan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TRZ_colonial_company;Beni Hassan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 TRZ_absolute_monarchy;Beni Hassan;;;;;;;;;;;;x
 TRZ_hms_government;Beni Hassan;;;;;;;;;;;;x
 TRZ_prussian_constitutionalism;Beni Hassan;;;;;;;;;;;;x
@@ -828,8 +829,19 @@ ZYD;Zayyanids;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 ZYD_ADJ;Zayyanid;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 MZB;M'zab;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 MZB_ADJ;Mzabian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-MTF;Tafilalt;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-MTF_ADJ;Tafilaltian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+MTF_colonial_company;Tafilalt;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+MTF;Alawites;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+MTF_absolute_monarchy;Alawite Sultanate;;;;;;;;;;;;x
+MTF_hms_government;Alawites;;;;;;;;;;;;x
+MTF_prussian_constitutionalism;Alawites;;;;;;;;;;;;x
+MTF_republic;Morocco;;;;;;;;;;;;x
+MTF_ADJ;Alawite;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+ALD;Orania;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+ALD_absolute_monarchy;Yifranid Sultanate;;;;;;;;;;;;x
+ALD_hms_government;Yifranids;;;;;;;;;;;;x
+ALD_prussian_constitutionalism;Yifranids;;;;;;;;;;;;x
+ALD_republic;Orania;;;;;;;;;;;;x
+ALD_ADJ;Oranian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 TMB;Timbuktu;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 TMB_colonial_company;Wilaya of Timbuktu;;;;;;;;;;;;x
 TRZ_ADJ;Timbuktian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
@@ -934,11 +946,17 @@ MML_hms_government;Mamluks;;;;;;;;;;;;x
 MML_prussian_constitutionalism;Mamluks;;;;;;;;;;;;x
 MML_ADJ;Mamlukian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 DMC;Damascus;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-DMC_colonial_company;Wilaya of Damascus;;;;;;;;;;;;x
-DMC_absolute_monarchy;Damascus Emirate;;;;;;;;;;;;x
-DMC_hms_government;Damascus Emirate;;;;;;;;;;;;x
-DMC_prussian_constitutionalism;Damascus Emirate;;;;;;;;;;;;x
+DMC_colonial_company;Wilaya of Dimashq;;;;;;;;;;;;x
+DMC_absolute_monarchy;Dimashq Emirate;;;;;;;;;;;;x
+DMC_hms_government;Dimashq Emirate;;;;;;;;;;;;x
+DMC_prussian_constitutionalism;Dimashq Emirate;;;;;;;;;;;;x
 DMC_ADJ;Damascusian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+HDJ;Hejaz;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+HDJ_colonial_company;Wilaya of Hejaz;;;;;;;;;;;;x
+HDJ_absolute_monarchy;Hejaz Emirate;;;;;;;;;;;;x
+HDJ_hms_government;Hejaz Emirate;;;;;;;;;;;;x
+HDJ_prussian_constitutionalism;Hejaz Emirate;;;;;;;;;;;;x
+HDJ_ADJ;Hejazi;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 TRI_colonial_company;Wilaya of Tripoli;;;;;;;;;;;;x
 MDB;Medri Bahri;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 MDB_absolute_monarchy;Medri Bahri;;;;;;;;;;;;x
@@ -1182,6 +1200,8 @@ ZBY;al-Zubayr's Realm;;;;;;;;;;;x;
 ZBY_ADJ;Zubayr;;;;;;;;;;;x;
 NBI;Nubia;;;;;;;;;;;x;
 NBI_ADJ;Nubian;;;;;;;;;;;x;
+DND;Gurma Kingdom;;;;;;;;;;;x;
+DND_ADJ;Gur;;;;;;;;;;;x;
 ZBW_absolute_monarchy;Rozvi;;;;;;;;;;;;;x;
 ZBW_prussian_constitutionalism;Rozvi;;;;;;;;;;;;;x;
 ZBW_hms_government;Rozvi;;;;;;;;;;;;;x;
@@ -1220,3 +1240,18 @@ MIA;Miami;x
 MIA_ADJ;Miami;x
 HRN;Huron;x
 HRN_ADJ;Huroni;x
+FZZ;Fezzan;;;;;;;;;;;x;
+FZZ_proletarian_dictatorship;PRNS;;;;;;;;;;;;;x;
+FZZ_presidential_dictatorship;Fezzan;;;;;;;;;;;;;x;
+FZZ_democracy;Fezzan;;;;;;;;;;;;;x;
+FZZ_absolute_monarchy;Fezzan;;;;;;;;;;;;;x;
+FZZ_prussian_constitutionalism;Fezzan;;;;;;;;;;;;;x;
+FZZ_hms_government;Fezzan;;;;;;;;;;;;;x;
+FZZ_ADJ;Fezzani;;;;;;;;;;;x;
+TUN_absolute_monarchy;Hafsid Sultanate;;;;;;;;;;;;;x;
+TUN_prussian_constitutionalism;Hafsid Sultanate;;;;;;;;;;;;;x;
+TUN_hms_government;Hafsids;;;;;;;;;;;;;x;
+TUN_ADJ;Tunisian;;;;;;;;;;;x;
+MOR_absolute_monarchy;Marinid Empire;;;;;;;;;;;;;x;
+MOR_prussian_constitutionalism;Marinid Empire;;;;;;;;;;;;;x;
+MOR_hms_government;Marinids;;;;;;;;;;;;;x;

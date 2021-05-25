@@ -133,7 +133,7 @@ country_event = {
 		   release_vassal = PNJ
 		   #PNJ = { end_war = KRM }
 		   leave_alliance = PNJ
-		   set_country_flag = lost_punjab
+		   set_country_flag = lost_punjab_tim
 	   }
 }
 
@@ -147,7 +147,7 @@ country_event = {
         fire_only_once = yes
         trigger = {
                 tag = TIM
-                has_country_flag = lost_punjab			
+                has_country_flag = lost_punjab_tim			
         }
 	    mean_time_to_happen = {
 		months = 1
@@ -779,7 +779,7 @@ country_event = {
 	   }
 	   option = {
 		   name = "EVT9922OPTD" 
-           country_event = 9923		     
+           country_event = 9925	     
 	   } 
 }
 
@@ -1073,5 +1073,27 @@ country_event = {
 		      duration = 856
 	        }
 	    }
+	}
+}
+
+#Setup for Timurid centralisation
+country_event = {
+    id = 39900
+    title = "EVTNAME39900"
+    desc = "EVTDESC39900"
+	#picture = "kazan_refugees"
+        
+    fire_only_once = yes
+    trigger = {
+                tag = MUG	
+                NOT = { war_with = TIM }
+                has_recently_lost_war = yes		
+                truce_with = TIM				
+        }
+
+    option = {
+		name = "EVT9903OPTA"
+        prestige = -10
+		set_country_flag = lost_punjab
 	}
 }

@@ -235,6 +235,7 @@ WSL		= "countries/Wassulu.txt"
 MNH		= "countries/Manneh.txt"
 ZBY		= "countries/Zubayr.txt"
 NBI		= "countries/Nubia.txt"
+FZZ		= "countries/Fezzan.txt"
 
 ##HFM New Nations
 #ATB	= "countries/Saxe-Altenburg.txt"

@@ -63,9 +63,39 @@
 	}
 
 	slaves = {
-		culture = berber
-		religion = sunni
-		size = 5000
+		culture = french
+		religion = catholic
+		size = 500
+	}
+	
+	slaves = {
+		culture = occitan
+		religion = catholic
+		size = 500
+	}
+	
+	slaves = {
+		culture = spanish
+		religion = catholic
+		size = 500
+	}
+	
+	slaves = {
+		culture = catalan
+		religion = catholic
+		size = 500
+	}
+	
+	slaves = {
+		culture = kanuri
+		religion = animist
+		size = 1500
+	}
+	
+	slaves = {
+		culture = hausa
+		religion = animist
+		size = 1500
 	}
 
 	clergymen = {
@@ -80,13 +110,13 @@
 		size = 3725
 	}
 
-	artisans = {
+	slaves = {
 		culture = maltese
 		religion = catholic
 		size = 500
 	}
 
-	artisans = {
+	slaves = {
 		culture = south_italian
 		religion = catholic
 		size = 500
@@ -125,9 +155,27 @@
 	}
 
 	slaves = {
-		culture = berber
-		religion = sunni
-		size = 2000
+		culture = french
+		religion = catholic
+		size = 500
+	}
+	
+	slaves = {
+		culture = south_italian
+		religion = catholic
+		size = 500
+	}
+	
+	slaves = {
+		culture = occitan
+		religion = catholic
+		size = 500
+	}
+	
+	slaves = {
+		culture = griko
+		religion = orthodox
+		size = 500
 	}
 
 	artisans = {
@@ -168,8 +216,8 @@
 		size = 22025
 	}
 
-	slaves = {
-		culture = berber
+	farmers = {
+		culture = jbali
 		religion = sunni
 		size = 3000
 	}
@@ -207,9 +255,45 @@
 	}
 
 	slaves = {
-		culture = berber
-		religion = sunni
-		size = 12000
+		culture = french
+		religion = catholic
+		size = 500
+	}
+	
+	slaves = {
+		culture = north_german
+		religion = protestant
+		size = 500
+	}
+	
+	slaves = {
+		culture = occitan
+		religion = catholic
+		size = 500
+	}
+	
+	slaves = {
+		culture = greek
+		religion = orthodox
+		size = 2000
+	}
+	
+	slaves = {
+		culture = south_italian
+		religion = catholic
+		size = 3000
+	}
+	
+	slaves = {
+		culture = kanuri
+		religion = animist
+		size = 2000
+	}
+	
+	slaves = {
+		culture = hausa
+		religion = animist
+		size = 2000
 	}
 
 	clergymen = {
@@ -253,7 +337,7 @@
 	farmers = {
 		culture = algerian_arabic
 		religion = sunni
-		size = 10000
+		size = 8000
 	}
 	
 	farmers = {
@@ -262,18 +346,16 @@
 		size = 4300
 	}
 
-	
 	farmers = {
 		culture = tunesian_arabic
 		religion = sunni
 		size = 3000
 	}
-
-
-	slaves = {
-		culture = berber
-		religion = sunni
-		size = 5000
+	
+	farmers = {
+		culture = jbali
+		religion = ibadi
+		size = 7000
 	}
 }
 #Gabes (200000/50000 POPS) 
@@ -309,14 +391,14 @@
 	}
 	
 	farmers = {
-		culture = libi
-		religion = sunni
+		culture = jbali
+		religion = ibadi
 		size = 17825
 	}
 
 	slaves = {
-		culture = berber
-		religion = sunni
+		culture = kanuri
+		religion = animist
 		size = 4000
 	}
 	

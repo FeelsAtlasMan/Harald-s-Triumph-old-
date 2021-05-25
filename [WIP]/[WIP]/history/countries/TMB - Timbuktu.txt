@@ -1,6 +1,7 @@
 capital = 1803
 primary_culture = maghrebi
 culture = tuareg
+culture = maures
 religion = sunni
 government = colonial_company
 plurality = 5.0
@@ -72,6 +73,7 @@ upper_house = {
 	communist = 0
 }
 
+decision = TMB_1836_setup
 set_country_flag = sunni_country
 
 govt_flag = {
@@ -87,5 +89,5 @@ govt_flag = {
 consciousness = 0
 nonstate_consciousness = 0
 
-oob = "TUA_oob.txt"
+oob = "TMB_oob.txt"
 
