@@ -1834,12 +1834,14 @@ oghur = {
 	unit = OttomanGC
 	chuvashian = {
 		color = {160 185 55}
+		first_names = {		
 			Asaf Baqi Galiaskar Ismail Makhmut  Musa Rustam Yusuf
 		}
 		last_names = {
 			Amirkhanov Faysi Gizzat Ibragimov Kamal Khusainov Tinchurin Tukay Yanbayev
 		}
 	}
+}	
 
 pontic_caucasian = {
 	leader = arab
@@ -4795,7 +4797,7 @@ american_cultures = {
 		
 		last_names = { Arnórsson Ásgeirsson Benediktsson Bjarnasen Björnsson Eggers Eldjárn Hafstein Hansen
 		Hermannsson Johánesson Jónsson Magnússon Stefánsson Steinthosson Thórdarson Thórhallson Thorláksson Thurs }
-	    }
+		
 		radicalism = 10
 	}
 	
@@ -4806,7 +4808,7 @@ american_cultures = {
 		
 		last_names = { Arnórsson Ásgeirsson Benediktsson Bjarnasen Björnsson Eggers Eldjárn Hafstein Hansen
 		Hermannsson Johánesson Jónsson Magnússon Stefánsson Steinthosson Thórdarson Thórhallson Thorláksson Thurs }
-	    }
+		
 		radicalism = 10
 	}
 	
@@ -4817,7 +4819,7 @@ american_cultures = {
 		
 		last_names = { Arnórsson Ásgeirsson Benediktsson Bjarnasen Björnsson Eggers Eldjárn Hafstein Hansen
 		Hermannsson Johánesson Jónsson Magnússon Stefánsson Steinthosson Thórdarson Thórhallson Thorláksson Thurs }
-	    }
+
 		radicalism = 10
 	}
 	
