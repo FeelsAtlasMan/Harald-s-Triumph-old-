@@ -1,6 +1,7 @@
 political_decisions = {
 	
 	leave_the_german_confederation = {
+		picture = map_germany
 		potential = {
 			tag = BEL
 			NOT = { has_country_flag = left_german_con }
@@ -29,6 +30,7 @@ political_decisions = {
 	}
 	
 	invite_frisia = {
+		picture = flag_frisia
 		potential = {
 			tag = BEL
 			FRI = { exists = yes }

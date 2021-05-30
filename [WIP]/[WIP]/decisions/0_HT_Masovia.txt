@@ -1,6 +1,7 @@
 political_decisions = {
 	
 	lunch_masovian_uprising = {
+		picture = masovia_uprising
 		potential = {
 			tag = CPL
 			NOT = { has_country_flag = lunched_masovian_uprising }
@@ -25,6 +26,7 @@ political_decisions = {
 	}
 	
 	call_to_arms_in_poland = {
+		picture = masovia_uprising
 		potential = {
 			tag = CPL
 			has_country_flag = lunched_masovian_uprising
@@ -59,6 +61,28 @@ political_decisions = {
 				}
 			}
 			set_country_flag = call_to_arms_in_poland
+		}
+	}
+	
+	reforms_prince_drucki_libecki = {
+		picture = drucki_lubecki
+		potential = {
+			NOT = { year = 1846 }
+			OR = {
+				tag = CPL
+				tag = POL
+			}
+			NOT = { has_country_flag = reforms_prince_drucki_libecki }
+		}
+		allow = {
+			economic_policy = interventionism
+			stock_exchange = 1
+		}
+		effect = {
+			add_country_modifier = {
+				name = drucki_lubecki_reforms
+				duration = 7300
+			}
 		}
 	}
 }

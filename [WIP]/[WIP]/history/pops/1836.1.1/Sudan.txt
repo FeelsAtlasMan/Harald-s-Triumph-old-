@@ -292,27 +292,33 @@
 	}
 
 	aristocrats = {
-		culture = burun
-		religion = animist
+		culture = funj
+		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = burun
-		religion = animist
+		culture = funj
+		religion = sunni
 		size = 250
 	}
 
 	soldiers = {
-		culture = burun
-		religion = animist
+	    culture = funj
+		religion = sunni
 		size = 2050
 	}
 
 	farmers = {
+		culture = funj
+		religion = sunni
+		size = 10000
+	}
+	
+	farmers = {
 		culture = burun
 		religion = animist
-		size = 12675
+		size = 2675
 	}
 
 	slaves = {
@@ -589,7 +595,13 @@
 	farmers = {
 		culture = dinka
 		religion = animist
-		size = 9450
+		size = 7000
+	}
+	
+	farmers = {
+		culture = jebel
+		religion = animist
+		size = 2450
 	}
 }
 #Red Sea Region (108000) #see Egypt.txt for balance of the region 
@@ -1966,27 +1978,39 @@
 	}
 
 	aristocrats = {
-		culture = nilotic
+		culture = lendu
 		religion = animist
 		size = 450
 	}
 
 	artisans = {
-		culture = nilotic
+		culture = lendu
 		religion = animist
 		size = 900
 	}
 
 	soldiers = {
-		culture = nilotic
+		culture = lendu
 		religion = animist
 		size = 325
 	}
 
 	farmers = {
-		culture = nilotic
+		culture = lendu
 		religion = animist
-		size = 21100
+		size = 13000
+	}
+	
+	farmers = {
+		culture = sara
+		religion = animist
+		size = 1000
+	}
+	
+	farmers = {
+		culture = moro_madi
+		religion = animist
+		size = 7000
 	}
 
 	slaves = {
@@ -2024,7 +2048,7 @@
 	farmers = {
 		culture = bor
 		religion = animist
-		size = 6000
+		size = 5000
 	}
 	
 	farmers = {
@@ -2034,9 +2058,15 @@
 	}
 	
 	farmers = {
-		culture = ubangian
+		culture = sere
 		religion = animist
 		size = 2100
+	}
+	
+	farmers = {
+		culture = banda
+		religion = animist
+		size = 1000
 	}
 }
 #Lado (244000/61000 POPS)
@@ -2417,26 +2447,38 @@
 	}
 	
 	artisans = {
-		culture = baguirmi
+		culture = masalit
 		religion = sunni
 		size = 325
 	}
 
 	soldiers = {
-		culture = baguirmi
+		culture = masalit
 		religion = sunni
 		size = 450
 	}
 
 	farmers = {
-		culture = baguirmi
+		culture = masalit
 		religion = sunni
 		size = 20000
 	}
+	
+	slaves = {
+		culture = maba
+		religion = animist
+		size = 2000
+	}
+	
+	slaves = {
+		culture = dinka
+		religion = animist
+		size = 2000
+	}
 
 	slaves = {
-		culture = baguirmi
+		culture = tama
 		religion = animist
-		size = 10000
+		size = 6000
 	}
 }

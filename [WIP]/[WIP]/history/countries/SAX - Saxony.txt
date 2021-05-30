@@ -42,6 +42,7 @@ colonial_policy = no_colonies
 
 set_country_flag = protestant_country
 set_country_flag = HRE_country
+set_country_flag = leader_of_german_conf
 
 ruling_party = SAX_conservative_2
 upper_house = {

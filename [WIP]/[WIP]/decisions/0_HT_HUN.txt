@@ -188,10 +188,12 @@ political_decisions = {
 				who = BOH
 				value = -100
 			}
+			set_country_flag = built_the_corvinus_line
 		}
 	}
 	
 	kunsag_boom = {
+		picture = osterreich
 		potential = {
 			tag = HUN
 			NOT = { has_country_flag = kunsag_boom_happened }
@@ -226,6 +228,7 @@ political_decisions = {
 		allow = {
 			nationalism_n_imperialism = 1
 			MOL = {
+				OR = {
 				all_core = {
 					OR = {
 						owned_by = THIS
@@ -234,8 +237,11 @@ political_decisions = {
 						}
 					}
 				}
+				vassal_of = THIS
+				}
 			}
 			WAL = {
+				OR = {
 				all_core = {
 					OR = {
 						owned_by = THIS
@@ -243,6 +249,8 @@ political_decisions = {
 							in_sphere = THIS
 						}
 					}
+				}
+				vassal_of = THIS
 				}
 			}
 		}
@@ -250,15 +258,6 @@ political_decisions = {
 			WAL = {
 				inherit = MOL
 				change_tag = ROM
-			}
-			ROM = {
-				all_core = {
-					limit = {
-						NOT = { owned_by = THIS }
-					}
-					secede_province = ROM
-				}
-				government = colonial_company
 			}
 			all_core = {
 				limit = {
@@ -268,6 +267,29 @@ political_decisions = {
 				remove_core = ROM
 			}
 			create_vassal = ROM
+			ROM = {
+				government = colonial_company
+			}
+		}
+	}
+	
+	claim_galicia = {
+		potential = {
+			tag = HUN
+			NOT = { has_country_flag = claimed_galicia }
+		}
+		allow = {
+			state_n_government = 1
+			war_policy = jingoism
+			owns = 702
+		}
+		effect = {
+			add_core = 702
+			add_core = 952
+			add_core = 953
+			add_core = 951
+			add_core = 3278
+			set_country_flag = claimed_galicia
 		}
 	}
 }

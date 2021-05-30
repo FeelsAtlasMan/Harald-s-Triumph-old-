@@ -416,7 +416,10 @@ political_decisions = {
 		}
 		
 		allow = {
-		    civilization_progress = 0.8
+		    OR = {
+		      civilization_progress = 0.8
+			  civilized = yes
+			}
 			1868 = { owned_by = THIS }
 			ADL = { vassal_of = THIS }
 		}
@@ -900,11 +903,11 @@ political_decisions = {
 		}
 		
 		effect = {
-		    762 = { add_core THIS }
-			763 = { add_core THIS }
-			764 = { add_core THIS }
-			827 = { add_core THIS }
-			759 = { add_core THIS }
+		    762 = { add_core = THIS }
+			763 = { add_core = THIS }
+			764 = { add_core = THIS }
+			827 = { add_core = THIS }
+			759 = { add_core = THIS }
 			TUN = { all_core = { add_core = THIS } }
 			add_accepted_culture = tunesian_arabic
 			add_accepted_culture = siqilli

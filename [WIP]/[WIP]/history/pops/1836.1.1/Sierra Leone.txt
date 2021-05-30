@@ -2,210 +2,221 @@
 #uncolonized in 1836/Britain has trade post in 1836
 #Freetown (400000/100000 POPS) 
 1884 = {
-
 	aristocrats = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 300
-	}
-	
-	officers = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 100
-	}
-
-	clergymen = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 100
-	}
-
-	artisans = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 250
-	}
-
-	soldiers = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 100
-	}
-
-	farmers = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 4700
-	}
-
-	aristocrats = {
-		culture = mande
+		culture = southwestern_mande
 		religion = sunni
 		size = 675
 	}
 	
 	officers = {
-		culture = mande
+		culture = southwestern_mande
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = mande
+		culture = southwestern_mande
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = mande
+		culture = southwestern_mande
 		religion = sunni
 		size = 1650
 	}
 
 	soldiers = {
-		culture = mande
+		culture = southwestern_mande
 		religion = sunni
 		size = 350
 	}
 
 	farmers = {
-		culture = mande
+		culture = southwestern_mande
 		religion = sunni
 		size = 32125
 	}
 
 	aristocrats = {
-		culture = western_nigritic
+		culture = temne
 		religion = sunni
 		size = 875
 	}
 	
 	officers = {
-		culture = western_nigritic
+		culture = temne
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = western_nigritic
+		culture = temne
 		religion = sunni
+		size = 80
+	}
+
+	artisans = {
+		culture = temne
+		religion = sunni
+		size = 1500
+	}
+
+	soldiers = {
+		culture = temne
+		religion = sunni
+		size = 2050
+	}
+
+	farmers = {
+		culture = temne
+		religion = sunni
+		size = 28275
+	}
+	
+	clergymen = {
+		culture = temne
+		religion = animist
+		size = 20
+	}
+
+	artisans = {
+		culture = temne
+		religion = animist
+		size = 800
+	}
+
+	soldiers = {
+		culture = temne
+		religion = animist
+		size = 1000
+	}
+
+	farmers = {
+		culture = temne
+		religion = animist
+		size = 12000
+	}
+	
+	clergymen = {
+		culture = sherbo
+		religion = animist
 		size = 100
 	}
 
 	artisans = {
-		culture = western_nigritic
-		religion = sunni
-		size = 2300
+		culture = sherbo
+		religion = animist
+		size = 300
 	}
 
 	soldiers = {
-		culture = western_nigritic
-		religion = sunni
+		culture = sherbo
+		religion = animist
 		size = 450
 	}
 
 	farmers = {
-		culture = western_nigritic
-		religion = sunni
-		size = 48275
+		culture = sherbo
+		religion = animist
+		size = 11275
 	}
 
 	aristocrats = {
-		culture = western_nigritic
+		culture = bom
 		religion = animist
 		size = 250
 	}
 
 	clergymen = {
-		culture = western_nigritic
+		culture = bom
 		religion = animist
 		size = 100
 	}
 
 	artisans = {
-		culture = western_nigritic
+		culture = bom
 		religion = animist
 		size = 700
 	}
 
 	soldiers = {
-		culture = western_nigritic
+		culture = bom
 		religion = animist
 		size = 150
 	}
 
 	farmers = {
-		culture = western_nigritic
+		culture = bom
 		religion = animist
-		size = 6800
+		size = 8800
 	}
 }
 #uncolonized in 1836
 #Bo (352000/88000 POPS) 
 1886 = {
 	aristocrats = {
-		culture = mande
+		culture = southwestern_mande
 		religion = sunni
 		size = 900
 	}
 
 	clergymen = {
-		culture = mande
+		culture = southwestern_mande
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = mande
+		culture = southwestern_mande
 		religion = sunni
 		size = 1875
 	}
 
 	soldiers = {
-		culture = mande
+		culture = southwestern_mande
 		religion = sunni
 		size = 475
 	}
 
 	farmers = {
-		culture = mande
+		culture = southwestern_mande
 		religion = sunni
-		size = 36650
+		size = 46650
 	}
 
 	aristocrats = {
-		culture = western_nigritic
+		culture = vai_kono
 		religion = animist
 		size = 800
 	}
 
 	clergymen = {
-		culture = western_nigritic
+		culture = vai_kono
 		religion = animist
 		size = 100
 	}
 
 	artisans = {
-		culture = western_nigritic
+		culture = vai_kono
 		religion = animist
 		size = 2000
 	}
 
 	soldiers = {
-		culture = western_nigritic
+		culture = vai_kono
 		religion = animist
 		size = 425
 	}
 
 	farmers = {
-		culture = western_nigritic
+		culture = vai_kono
 		religion = animist
-		size = 37675
+		size = 27675
 	}
 
 	slaves = {
-		culture = western_nigritic
+		culture = kissi
 		religion = animist
 		size = 7000
 	}
@@ -215,99 +226,111 @@
 #Falaba (384000/96000 POPS) #now part of Sierra Leone 
 1885 = {
 	aristocrats = {
-		culture = mande
+		culture = temne
 		religion = sunni
 		size = 925
 	}
 
 	clergymen = {
-		culture = mande
+		culture = temne
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = mande
+		culture = temne
 		religion = sunni
 		size = 1900
 	}
 
 	soldiers = {
-		culture = mande
+		culture = temne
 		religion = sunni
 		size = 475
 	}
 
 	farmers = {
-		culture = mande
+		culture = temne
 		religion = sunni
-		size = 36600
+		size = 46600
 	}
 
 	aristocrats = {
-		culture = western_nigritic
+		culture = limba
 		religion = sunni
 		size = 800
 	}
 
 	clergymen = {
-		culture = western_nigritic
+		culture = limba
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = western_nigritic
+		culture = limba
 		religion = sunni
 		size = 1650
 	}
 
 	soldiers = {
-		culture = western_nigritic
+		culture = limba
 		religion = sunni
 		size = 425
 	}
 
 	farmers = {
-		culture = western_nigritic
+		culture = limba
 		religion = sunni
-		size = 37025
+		size = 17025
 	}
 
 	aristocrats = {
-		culture = western_nigritic
+		culture = dyula
 		religion = animist
 		size = 125
 	}
 
 	clergymen = {
-		culture = western_nigritic
+		culture = dyula
 		religion = animist
 		size = 100
 	}
 
 	artisans = {
-		culture = western_nigritic
+		culture = dyula
 		religion = animist
 		size = 400
 	}
 
 	soldiers = {
-		culture = western_nigritic
+		culture = dyula
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = western_nigritic
+		culture = dyula
 		religion = animist
-		size = 2300
+		size = 12300
 	}
 
 	slaves = {
-		culture = western_nigritic
+		culture = yalunka
 		religion = animist
-		size = 13000
+		size = 5000
+	}
+	
+	slaves = {
+		culture = susu
+		religion = animist
+		size = 4000
+	}
+	
+	slaves = {
+		culture = bambara
+		religion = animist
+		size = 4000
 	}
 
 }

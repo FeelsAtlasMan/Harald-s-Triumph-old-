@@ -1,5 +1,6 @@
-owner = ADW
-controller = ADW
+owner = KWF
+controller = KWF
+add_core = KWF
 add_core = ADW
 trade_goods = grain
 life_rating = 35

@@ -267,7 +267,13 @@
 	farmers = {
 		culture = acholi
 		religion = animist
-		size = 20450
+		size = 12000
+	}
+	
+	farmers = {
+		culture = moro_madi
+		religion = animist
+		size = 8450
 	}
 }
 #Kitgum (104000/26000 POPS) 

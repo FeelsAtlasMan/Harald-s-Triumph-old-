@@ -50,6 +50,8 @@ acquire_all_cores
 acquire_core_state
 restore_austrian_empire
 reconquesta
+restore_german_confederation
+claim_ger_leader
 iran_unification
 eth_unification
 colonial_reconquest_cb
@@ -84,8 +86,10 @@ release_puppet_AI
 great_game_cb
 make_puppet
 swahili_domination
+tourkistan_acquire_state
 install_fascism_make_puppet
 install_communism_make_puppet
+install_jacobin_puppet
 install_democracy_make_puppet
 install_monarchy_make_puppet
 gunboat
@@ -535,6 +539,145 @@ acquire_all_cores = {
 	
 	on_po_accepted = {
 		country_event =	2650	# Territorial Loss event
+	}
+}
+
+claim_ger_leader = {
+	sprite_index = 23
+	is_triggered_only = yes
+	months = 12
+	
+	construction_speed = 0.8
+
+	badboy_factor = 8
+	prestige_factor = 2
+	peace_cost_factor = 70
+	penalty_factor = 1
+
+	break_truce_prestige_factor = 5
+	break_truce_infamy_factor = 2
+	break_truce_militancy_factor = 2
+	truce_months = 48
+	
+	good_relation_prestige_factor = 1
+	good_relation_infamy_factor = 1
+	good_relation_militancy_factor = 1
+
+	can_use = {
+		NOT = { is_our_vassal = THIS }
+		THIS = {
+			OR = {
+				war_policy = jingoism
+				war_policy = pro_military
+			}
+			has_country_flag = HRE_country
+			NOT = { tag = GER }
+			is_greater_power = yes
+			capital_scope = {
+				continent = europe
+			}
+			NOT = { has_country_flag = leader_of_german_conf }
+		}
+	
+		NOT = { has_country_modifier = neutrality }
+		NOT = { in_sphere = THIS }
+		THIS = { NOT = { has_country_modifier = neutrality } }
+		has_country_flag = leader_of_german_conf
+		THIS = { NOT = { has_country_modifier = punitive_effects } }
+		THIS = {
+			NOT = {
+				has_country_flag = in_great_war
+				has_country_modifier = no_more_war
+			}
+		}
+	}
+
+	po_remove_prestige = yes
+	
+	war_name = WAR_NAME
+	
+	on_add = {
+		move_issue_percentage = {
+			from = jingoism
+			to = pro_military
+			value = 0.25
+		}
+	}
+	
+	on_po_accepted = {
+		country_event = 800006
+	}
+}
+
+restore_german_confederation = {
+	sprite_index = 23
+	is_triggered_only = yes
+	months = 12
+	
+	construction_speed = 0.8
+
+	badboy_factor = 0
+	prestige_factor = 2
+	peace_cost_factor = 0.7
+	penalty_factor = 1
+	always = yes
+
+	break_truce_prestige_factor = 5
+	break_truce_infamy_factor = 2
+	break_truce_militancy_factor = 2
+	truce_months = 48
+	
+	good_relation_prestige_factor = 1
+	good_relation_infamy_factor = 1
+	good_relation_militancy_factor = 1
+
+	can_use = {
+		NOT = { is_our_vassal = THIS }
+		THIS = {
+			OR = {
+				war_policy = jingoism
+				war_policy = pro_military
+			}
+			has_country_flag = leader_of_german_conf
+			NOT = { tag = GER }
+			OR = {
+				is_greater_power = yes
+				is_secondary_power = yes
+			}
+		}
+		has_global_flag = composed_new_german_constitution
+		any_owned_province = {
+			is_core = GER
+		}
+		NOT = { has_country_modifier = neutrality }
+		NOT = { in_sphere = THIS }
+		THIS = { NOT = { has_country_modifier = neutrality } }
+		NOT = { has_country_flag = HRE_country }
+		THIS = { NOT = { has_country_modifier = punitive_effects } }
+		THIS = {
+			NOT = {
+				has_country_flag = in_great_war
+				has_country_modifier = no_more_war
+			}
+		}
+	}
+
+	allowed_states = {
+		any_owned_province = {
+			is_core = GER
+		}
+	}
+
+	po_demand_state = yes
+	
+	war_name = WAR_AUSTRIAN_EMPIRE_NAME
+	
+	on_add = {
+		move_issue_percentage = {
+			from = jingoism
+			to = pro_military
+			value = 0.25
+		}
 	}
 }
 
@@ -7156,6 +7299,58 @@ install_communism_make_puppet = {
 	on_po_accepted = { THIS = { set_country_flag = friendly_communist_puppet } country_event = 96087 }
 }
 
+install_jacobin_puppet = {
+	sprite_index = 17
+	is_triggered_only = yes
+	constructing_cb = no
+	months = 12
+	crisis = no
+	always = yes
+
+	badboy_factor = 0
+	prestige_factor = 1
+	peace_cost_factor = 1.17
+	penalty_factor = 1
+
+	break_truce_prestige_factor = 1
+	break_truce_infamy_factor = 1
+	break_truce_militancy_factor = 1
+	truce_months = 48
+	
+	good_relation_prestige_factor = 1
+	good_relation_infamy_factor = 1
+	good_relation_militancy_factor = 1
+
+	can_use = {
+		NOT = { is_our_vassal = THIS }
+		is_vassal = no
+		THIS = {
+			government = bourgeois_dictatorship
+			is_greater_power = yes
+			civilized = yes
+		}
+		NOT = { government = bourgeois_dictatorship }
+		is_greater_power = no
+		neighbour = THIS
+		civilized = yes
+	}
+	
+	po_make_puppet = yes
+
+	war_name = WAR_NAME
+	
+	on_add = {
+		move_issue_percentage = {
+			from = jingoism 
+			to = pro_military
+			value = 0.05
+		}
+		badboy = 5
+	}
+	
+	on_po_accepted = { THIS = { set_country_flag = friendly_rev_puppet } country_event = 60090 }
+}
+
 install_democracy_make_puppet = {
 	sprite_index = 17
 	is_triggered_only = yes
@@ -7609,3 +7804,86 @@ take_capital = {
 	}
 }
 
+tourkistan_acquire_state = {
+	sprite_index = 2
+	months = 12
+	crisis = no
+
+	badboy_factor = 0
+	prestige_factor = 0
+	peace_cost_factor = 1
+	penalty_factor = 1
+
+	break_truce_prestige_factor = 1
+	break_truce_infamy_factor = 0
+	break_truce_militancy_factor = 0
+	truce_months = 6
+	
+	good_relation_prestige_factor = 1
+	good_relation_infamy_factor = 1
+	good_relation_militancy_factor = 1
+	
+	always = yes
+
+	can_use = {
+		NOT = { is_our_vassal = THIS }
+		neighbour = THIS        
+		any_owned_province = {
+				NOT = { is_core = THIS }
+				OR = { 
+					is_core = MKU
+					is_core = NKH
+					is_core = GNJ
+					is_core = KRB
+					is_core = SMZ
+					is_core = IRV
+					is_core = AKK					
+				}
+			}
+		THIS = {
+			primary_culture = azeri			
+			NOT = {
+				has_country_modifier = neutrality
+				war_policy = pacifism
+			}
+		}
+		is_vassal = no
+		OR = {
+			war_with = THIS
+			THIS = {
+				NOT = {
+					has_country_modifier = no_more_war
+				}
+			}
+		}
+	}
+	
+	allowed_states = {
+		OR = {
+			any_owned_province = {
+				NOT = { is_core = THIS }
+				OR = { 
+					is_core = MKU
+					is_core = NKH
+					is_core = GNJ
+					is_core = KRB
+					is_core = SMZ
+					is_core = IRV
+					is_core = AKK					
+				}
+			}
+		}
+	}
+
+	po_demand_state = yes
+	
+	war_name = WAR_TOURKISTAN_REUNIFICATION
+	
+	on_add = {
+		move_issue_percentage = { 
+			from = jingoism 
+			to = pro_military
+			value = 0.10
+		}
+	}
+}

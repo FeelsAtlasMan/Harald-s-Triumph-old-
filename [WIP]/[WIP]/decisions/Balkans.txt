@@ -508,7 +508,6 @@ political_decisions = {
 			factor = 1
 		}
 	}
-
 	create_yugoslavia = {
 		picture = form_yugoslavia
 		potential = {
@@ -661,7 +660,6 @@ political_decisions = {
 			}
 		}
 	}
-
 	albania_in_yugoslavia = {
 		picture = map_balkans
 		potential = {

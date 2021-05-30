@@ -1,5 +1,6 @@
-owner = ADW
-controller = ADW
+owner = WKR
+controller = WKR
+add_core = WKR
 add_core = ADW
 trade_goods = cattle
 life_rating = 35

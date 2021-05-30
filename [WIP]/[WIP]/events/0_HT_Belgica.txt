@@ -32,7 +32,7 @@ country_event = {
 			owner = {
 				war = {
 					target = BEL
-					attacker_goal = { casus_belli = install_monarchy_make_puppet }
+					attacker_goal = { casus_belli = make_puppet }
 					defender_goal = { casus_belli = humiliate }
 					call_ally = no
 				}
@@ -97,22 +97,10 @@ country_event = {
 
 country_event = {
 	id = 182103
-	title = "The won is lost!"
+	title = "The war is lost!"
 	desc = "EVTDESC182103"
 	picture = "polish_uprising_aus"
-	fire_only_once = yes
-	
-	trigger = {
-		tag = BEL
-		has_global_flag = war_for_belgica 
-		has_recently_lost_war = yes
-		war = no
-		OR = {
-			truce_with = SAX
-			vassal_of = SAX
-		}
-		NOT = { has_country_flag = bel_wins }
-	}
+	is_triggered_only = yes
 	
 	option = {
 		name = "This is a tragedy"
@@ -128,6 +116,28 @@ country_event = {
 		380 = { add_core = BRB }
 		379 = { add_core = BRB }
 		change_tag = BRB
+		FROM = {
+			diplomatice_influence = {
+				who = THIS
+				value = 400
+			}
+			diplomatice_influence = {
+				who = LIG
+				value = 400
+			}
+			diplomatice_influence = {
+				who = LBG
+				value = 400
+			}
+			diplomatice_influence = {
+				who = LUX
+				value = 400
+			}
+			diplomatice_influence = {
+				who = WLL
+				value = 400
+			}
+		}
 		set_country_flag = bel_lost
 	}
 }

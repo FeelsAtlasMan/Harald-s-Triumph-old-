@@ -1404,38 +1404,43 @@
 	soldiers = {
 		culture = tuareg
 		religion = sunni
-		size = 100
+		size = 1000
 	}
 
 	farmers = {
 		culture = tuareg
 		religion = sunni
-		size = 1850
+		size = 5850
+	}
+	
+	farmers = {
+		culture = mzab_ourgla
+		religion = ibadi
+		size = 850
 	}
 	
 	aristocrats = {
-		culture = tuareg
+		culture = saharan_arabic
 		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
-		culture = tuareg
+		culture = saharan_arabic
 		religion = sunni
 		size = 15
 	}
 
-
 	soldiers = {
-		culture = tuareg
+		culture = saharan_arabic
 		religion = sunni
 		size = 60
 	}
 
 	farmers = {
-		culture = tuareg
+		culture = saharan_arabic
 		religion = sunni
-		size = 1900
+		size = 900
 	}
 }
 #Ghadames (8000/2000 POPS)
@@ -1496,7 +1501,6 @@
 		size = 45
 	}
 
-
 	soldiers = {
 		culture = saharan_arabic
 		religion = sunni
@@ -1507,6 +1511,12 @@
 		culture = saharan_arabic
 		religion = sunni
 		size = 5700
+	}
+	
+	farmers = {
+		culture = korandje
+		religion = sunni
+		size = 1700
 	}
 	
 	aristocrats = {
@@ -1706,16 +1716,21 @@
 		size = 15
 	}
 
-
 	soldiers = {
 		culture = tuareg
 		religion = sunni
-		size = 65
+		size = 3065
 	}
 
 	farmers = {
 		culture = tuareg
 		religion = sunni
+		size = 11900
+	}
+	
+	slaves = {
+		culture = hausa
+		religion = animist
 		size = 1900
 	}
 }
@@ -1743,5 +1758,11 @@
 		culture = tuareg
 		religion = sunni
 		size = 3800
+	}
+	
+	farmers = {
+		culture = tadaksahak
+		religion = sunni
+		size = 800
 	}
 }

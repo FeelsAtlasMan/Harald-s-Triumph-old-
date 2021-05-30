@@ -35,6 +35,7 @@ political_decisions = {
 	}
 	
 	enact_huit_regles_du_commerce = {
+		picture = dreams_of_empire
 		potential = {
 			tag = FRA
 			NOT = { has_country_modifier = huit_regles_du_commerce }
@@ -65,8 +66,24 @@ political_decisions = {
 			set_country_flag = setup_france
 			set_variable = {
 				which = revolution_progress_FRA
-				value = 2
+				value = 1
 			}
+		}
+	}
+	
+	renovate_the_paris_university = {
+		picture = academy
+		potential = {
+			tag = FRA
+			NOT = { has_country_flag = renovated_the_paris_university }
+		}
+		allow = {
+			war = no
+			prestige = 15
+		}
+		effect = {
+			set_country_flag = renovated_the_paris_university
+			country_event = 1789000
 		}
 	}
 }

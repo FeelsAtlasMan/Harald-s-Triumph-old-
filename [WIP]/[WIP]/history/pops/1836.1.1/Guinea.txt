@@ -3,37 +3,127 @@
 #Boffa (192000/48000 POPS) #now part of Guinea
 1879 = {
 	aristocrats = {
-		culture = mande
+		culture = susu
 		religion = sunni
 		size = 900
 	}
 
 	clergymen = {
-		culture = mande
+		culture = susu
 		religion = sunni
 		size = 500
 	}
 
 	artisans = {
-		culture = mande
+		culture = susu
 		religion = sunni
 		size = 1900
 	}
 
 	soldiers = {
-		culture = mande
+		culture = susu
+		religion = sunni
+		size = 2700
+	}
+
+	farmers = {
+		culture = susu
+		religion = sunni
+		size = 30000
+	}
+	
+	aristocrats = {
+		culture = fulbe
+		religion = sunni
+		size = 300
+	}
+
+	clergymen = {
+		culture = fulbe
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = fulbe
+		religion = sunni
+		size = 900
+	}
+
+	soldiers = {
+		culture = fulbe
 		religion = sunni
 		size = 700
 	}
 
 	farmers = {
-		culture = mande
+		culture = fulbe
 		religion = sunni
-		size = 60000
+		size = 12000
+	}
+	
+	aristocrats = {
+		culture = baga
+		religion = animist
+		size = 90
+	}
+
+	clergymen = {
+		culture = baga
+		religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = baga
+		religion = animist
+		size = 190
+	}
+
+	soldiers = {
+		culture = baga
+		religion = animist
+		size = 700
+	}
+
+	farmers = {
+		culture = baga
+		religion = animist
+		size = 11000
+	}
+	
+	aristocrats = {
+		culture = nalu
+		religion = animist
+		size = 90
+	}
+
+	clergymen = {
+		culture = nalu
+		religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = nalu
+		religion = animist
+		size = 190
+	}
+
+	soldiers = {
+		culture = nalu
+		religion = animist
+		size = 700
+	}
+
+	farmers = {
+		culture = nalu
+		religion = animist
+		size = 12000
 	}
 
 	slaves = {
-		culture = western_nigritic
+		culture = temne
 		religion = animist
 		size = 6000
 	}
@@ -81,41 +171,131 @@
 	farmers = {
 		culture = fulbe
 		religion = sunni
-		size = 96400
+		size = 86400
 	}
-	#from here one they were african minor
-	aristocrats = {
-		culture = mande
-		religion = sunni
-		size = 1800
-	}
-
+	
 	clergymen = {
-		culture = mande
-		religion = sunni
-		size = 975
+		culture = tenda
+		religion = animist
+		size = 37
 	}
 
 	artisans = {
-		culture = mande
-		religion = sunni
-		size = 4800
+		culture = tenda
+		religion = animist
+		size = 15
 	}
 
 	soldiers = {
-		culture = mande
-		religion = sunni
-		size = 1025
+		culture = tenda
+		religion = animist
+		size = 150
 	}
 
 	farmers = {
-		culture = mande
-		religion = sunni
-		size = 20000
+		culture = tenda
+		religion = animist
+		size = 5400
+	}
+	
+	aristocrats = {
+		culture = temne
+		religion = animist
+		size = 18
+	}
+
+	clergymen = {
+		culture = temne
+		religion = animist
+		size = 97
+	}
+
+	artisans = {
+		culture = temne
+		religion = animist
+		size = 48
+	}
+
+	soldiers = {
+		culture = temne
+		religion = animist
+		size = 125
+	}
+
+	farmers = {
+		culture = temne
+		religion = animist
+		size = 4000
+	}
+
+	aristocrats = {
+		culture = bambara
+		religion = animist
+		size = 180
+	}
+
+	clergymen = {
+		culture = bambara
+		religion = animist
+		size = 205
+	}
+
+	artisans = {
+		culture = bambara
+		religion = animist
+		size = 2000
+	}
+
+	soldiers = {
+		culture = bambara
+		religion = animist
+		size = 125
+	}
+
+	farmers = {
+		culture = bambara
+		religion = animist
+		size = 3000
+	}
+	
+	aristocrats = {
+		culture = dyula
+		religion = animist
+		size = 180
+	}
+
+	clergymen = {
+		culture = dyula
+		religion = animist
+		size = 205
+	}
+
+	artisans = {
+		culture = dyula
+		religion = animist
+		size = 2800
+	}
+
+	soldiers = {
+		culture = dyula
+		religion = animist
+		size = 125
+	}
+
+	farmers = {
+		culture = dyula
+		religion = animist
+		size = 6000
+	}
+	
+	farmers = {
+		culture = yalunka
+		religion = animist
+		size = 18000
 	}
 
 	slaves = {
-		culture = western_nigritic
+		culture = limba
 		religion = animist
 		size = 6000
 	}
@@ -149,77 +329,77 @@
 	farmers = {
 		culture = fulbe
 		religion = sunni
-		size = 28900
+		size = 18900
 	}
 
 	aristocrats = {
-		culture = mande
+		culture = bambara
 		religion = sunni
 		size = 565
 	}
 
 	officers = {
-		culture = mande
+		culture = bambara
 		religion = sunni
 		size = 115
 	}
 
 	clergymen = {
-		culture = mande
+		culture = bambara
 		religion = sunni
 		size = 300
 	}
 
 	artisans = {
-		culture = mande
+		culture = bambara
 		religion = sunni
 		size = 1500
 	}
 
 	soldiers = {
-		culture = mande
+		culture = bambara
 		religion = sunni
-		size = 300
+		size = 2300
 	}
 
 	farmers = {
-		culture = mande
+		culture = bambara
 		religion = sunni
-		size = 20225
+		size = 28225
 	}
 
 	aristocrats = {
-		culture = dyula
-		religion = sunni
+		culture = bambara
+		religion = animist
 		size = 200
 	}
 
 	clergymen = {
-		culture = dyula
-		religion = sunni
+		culture = bambara
+		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = dyula
-		religion = sunni
+		culture = bambara
+		religion = animist
 		size = 450
 	}
 
 	soldiers = {
-		culture = dyula
-		religion = sunni
+		culture = bambara
+		religion = animist
 		size = 75
 	}
 
 	farmers = {
-		culture = dyula
-		religion = sunni
+		culture = bambara
+		religion = animist
 		size = 8250
 	}
 
 	slaves = {
-		culture = mande
+		culture = yalunka
 		religion = animist
 		size = 10000
 	}
@@ -259,67 +439,67 @@
 	}
 
 	aristocrats = {
-		culture = mande
+		culture = bambara
 		religion = sunni
 		size = 715
 	}
 
 	clergymen = {
-		culture = mande
+		culture = bambara
 		religion = sunni
 		size = 375
 	}
 
 	artisans = {
-		culture = mande
+		culture = bambara
 		religion = sunni
 		size = 1875
 	}
 
 	soldiers = {
-		culture = mande
+		culture = bambara
 		religion = sunni
 		size = 1025
 	}
 
 	farmers = {
-		culture = mande
+		culture = bambara
 		religion = sunni
 		size = 36090
 	}
 
 	aristocrats = {
 		culture = dyula
-		religion = sunni
+		religion = animist
 		size = 150
 	}
 
 	clergymen = {
 		culture = dyula
-		religion = sunni
+		religion = animist
 		size = 75
 	}
 
 	artisans = {
 		culture = dyula
-		religion = sunni
+		religion = animist
 		size = 450
 	}
 
 	soldiers = {
 		culture = dyula
-		religion = sunni
+		religion = animist
 		size = 115
 	}
 
 	farmers = {
 		culture = dyula
-		religion = sunni
+		religion = animist
 		size = 8215
 	}
 
 	slaves = {
-		culture = mande
+		culture = dyula
 		religion = animist
 		size = 4500
 	}
@@ -328,67 +508,109 @@
 #Beyla (184000/46000 POPS)  
 1883 = {
 	aristocrats = {
-		culture = mande
+		culture = bambara
 		religion = sunni
 		size = 800
 	}
 
 	clergymen = {
-		culture = mande
+		culture = bambara
 		religion = sunni
 		size = 400
 	}
 
 	artisans = {
-		culture = mande
+		culture = bambara
 		religion = sunni
 		size = 1650
 	}
 
 	soldiers = {
-		culture = mande
+		culture = bambara
 		religion = sunni
 		size = 425
 	}
 
 	farmers = {
-		culture = mande
+		culture = bambara
 		religion = sunni
-		size = 12725
+		size = 8000
+	}
+	
+	farmers = {
+		culture = dyula
+		religion = animist
+		size = 4725
 	}
 
 	aristocrats = {
-		culture = western_nigritic
+		culture = southwestern_mande
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = western_nigritic
+		culture = southwestern_mande
 		religion = animist
 		size = 100
 	}
 
 	artisans = {
-		culture = western_nigritic
+		culture = southwestern_mande
 		religion = animist
 		size = 250
 	}
 
 	soldiers = {
-		culture = western_nigritic
+		culture = southwestern_mande
+		religion = animist
+		size = 1100
+	}
+
+	farmers = {
+		culture = southwestern_mande
+		religion = animist
+		size = 10000
+	}
+	
+	farmers = {
+		culture = mano_dan
+		religion = animist
+		size = 9000
+	}
+	
+	aristocrats = {
+		culture = kissi
+		religion = animist
+		size = 100
+	}
+
+	clergymen = {
+		culture = kissi
+		religion = animist
+		size = 100
+	}
+
+	artisans = {
+		culture = kissi
+		religion = animist
+		size = 250
+	}
+
+	soldiers = {
+		culture = kissi
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = western_nigritic
+		culture = kissi
 		religion = animist
-		size = 24550
+		size = 4550
 	}
 
 	slaves = {
-		culture = western_nigritic
+		culture = kissi
 		religion = animist
 		size = 5000
 	}

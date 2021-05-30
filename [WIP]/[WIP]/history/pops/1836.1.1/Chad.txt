@@ -42,7 +42,7 @@
 	farmers = {
 		culture = sara
 		religion = sunni
-		size = 10000
+		size = 5000
 	}
 	
 	aristocrats = {
@@ -84,41 +84,47 @@
 	farmers = {
 		culture = chadic_arabic
 		religion = sunni
-		size = 13458
+		size = 12458
+	}
+	
+	farmers = {
+		culture = east_chadic
+		religion = sunni
+		size = 5000
 	}
 
 	aristocrats = {
-		culture = baguirmi
+		culture = masa
 		religion = sunni
 		size = 200
 	}
 
 	clergymen = {
-		culture = baguirmi
+		culture = masa
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = baguirmi
+		culture = masa
 		religion = sunni
 		size = 500
 	}
 
 	soldiers = {
-		culture = baguirmi
+		culture = masa
 		religion = sunni
-		size = 500
+		size = 1500
 	}
 
 	farmers = {
-		culture = baguirmi
+		culture = masa
 		religion = sunni
-		size = 9000
+		size = 12000
 	}
 	
 	slaves = {
-		culture = baguirmi
+		culture = masa
 		religion = animist
 		size = 700
 	}
@@ -126,63 +132,63 @@
 #Moundou (48000/12000 POPS)
 1819 = {
 	aristocrats = {
-		culture = sara
+		culture = fulbe
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = sara
+		culture = fulbe
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = sara
+		culture = fulbe
 		religion = sunni
 		size = 400
 	}
 
 	soldiers = {
-		culture = sara
+		culture = fulbe
 		religion = sunni
-		size = 500
+		size = 1500
 	}
 
 	farmers = {
-		culture = sara
+		culture = fulbe
 		religion = sunni
-		size = 8000
+		size = 12000
 	}
 	
 	aristocrats = {
-		culture = kanuri
+		culture = chadic_arabic
 		religion = sunni
 		size = 200
 	}
 
 	clergymen = {
-		culture = kanuri
+		culture = chadic_arabic
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = kanuri
+		culture = chadic_arabic
 		religion = sunni
 		size = 500
 	}
 
 	soldiers = {
-		culture = kanuri
+		culture = chadic_arabic
 		religion = sunni
 		size = 1000
 	}
 
 	farmers = {
-		culture = kanuri
+		culture = chadic_arabic
 		religion = sunni
-		size = 11000
+		size = 1000
 	}
 
 	aristocrats = {
@@ -218,13 +224,25 @@
 	farmers = {
 		culture = sara
 		religion = animist
-		size = 30566
+		size = 5566
+	}
+	
+	farmers = {
+		culture = masa
+		religion = animist
+		size = 6000
+	}
+	
+	farmers = {
+		culture = central_chadic
+		religion = animist
+		size = 14000
 	}
 
 	slaves = {
-		culture = sara
+		culture = mbum_day
 		religion = animist
-		size = 4000
+		size = 14000
 	}
 
 	slaves = {
@@ -268,7 +286,19 @@
 	farmers = {
 		culture = sara
 		religion = animist
-		size = 30000
+		size = 20000
+	}
+	
+	farmers = {
+		culture = east_chadic
+		religion = animist
+		size = 5000
+	}
+	
+	farmers = {
+		culture = mbum_day
+		religion = animist
+		size = 5000
 	}
 
 	aristocrats = {
@@ -290,33 +320,33 @@
 	}
 
 	farmers = {
-		culture = chadic_arabic
+		culture = masa
 		religion = sunni
 		size = 1000
 	}
 	
 	aristocrats = {
-		culture = chadic_arabic
+		culture = masa
 		religion = sunni
 		size = 125
 	}
 
 	clergymen = {
-		culture = chadic_arabic
+		culture = masa
 		religion = sunni
 		size = 200
 	}
 
 	soldiers = {
-		culture = chadic_arabic
+		culture = masa
 		religion = sunni
 		size = 500
 	}
 
 	farmers = {
-		culture = chadic_arabic
+		culture = masa
 		religion = sunni
-		size = 3000
+		size = 8000
 	}
 
 	farmers = {
@@ -372,39 +402,39 @@
 	}
 	
 	aristocrats = {
-		culture = baguirmi
+		culture = fur
 		religion = sunni
 		size = 100
 	}
 
 	officers = {
-		culture = baguirmi
+		culture = fur
 		religion = sunni
 		size = 50
 	}
 
 	clergymen = {
-		culture = baguirmi
+		culture = fur
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = baguirmi
+		culture = fur
 		religion = sunni
 		size = 100
 	}
 
 	soldiers = {
-		culture = baguirmi
+		culture = fur
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = baguirmi
+		culture = fur
 		religion = sunni
-		size = 550
+		size = 4550
 	}
 
 	aristocrats = {
@@ -440,7 +470,7 @@
 	farmers = {
 		culture = teda
 		religion = sunni
-		size = 10183
+		size = 13183
 	}
 	
 	aristocrats = {
@@ -476,7 +506,19 @@
 	farmers = {
 		culture = chadic_arabic
 		religion = sunni
-		size = 17000
+		size = 10000
+	}
+	
+	farmers = {
+		culture = masalit
+		religion = sunni
+		size = 1000
+	}
+	
+	farmers = {
+		culture = sila
+		religion = sunni
+		size = 2000
 	}
 
 	slaves = {
@@ -496,71 +538,107 @@
 	}
 
 	aristocrats = {
-		culture = chadic_arabic
+		culture = sara
 		religion = sunni
 		size = 150
 	}
 
 	clergymen = {
-		culture = chadic_arabic
+		culture = sara
 		religion = sunni
 		size = 100
 	}
 	
 	bureaucrats = {
-		culture = chadic_arabic
+		culture = sara
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = chadic_arabic
+		culture = sara
 		religion = sunni
 		size = 350
 	}
 
 	soldiers = {
-		culture = chadic_arabic
+		culture = sara
 		religion = sunni
-		size = 100
+		size = 2100
 	}
 
 	farmers = {
+		culture = sara
+		religion = sunni
+		size = 3000
+	}
+	
+	slaves = {
+		culture = sara
+		religion = animist
+		size = 5000
+	}
+	
+	farmers = {
+		culture = baguirmi
+		religion = sunni
+		size = 1000
+	}
+	
+	slaves = {
+		culture = baguirmi
+		religion = animist
+		size = 2000
+	}
+	
+	farmers = {
 		culture = chadic_arabic
 		religion = sunni
-		size = 7300
+		size = 2300
+	}
+	
+	farmers = {
+		culture = east_chadic
+		religion = sunni
+		size = 2300
+	}
+	
+	slaves = {
+		culture = east_chadic
+		religion = animist
+		size = 5000
 	}
 }
 #Mongo (184000/46000 POPS)
 1823 = {
 	aristocrats = {
-		culture = fur
+		culture = east_chadic
 		religion = sunni
 		size = 200
 	}
 
 	clergymen = {
-		culture = fur
+		culture = east_chadic
 		religion = sunni
 		size = 350
 	}
 
 	artisans = {
-		culture = fur
+		culture = east_chadic
 		religion = sunni
 		size = 500
 	}
 
 	soldiers = {
-		culture = fur
+		culture = east_chadic
 		religion = sunni
 		size = 1000
 	}
 
 	farmers = {
-		culture = fur
+		culture = east_chadic
 		religion = sunni
-		size = 5000
+		size = 10000
 	}
 
 	aristocrats = {
@@ -584,56 +662,109 @@
 	soldiers = {
 		culture = chadic_arabic
 		religion = sunni
-		size = 500
+		size = 2500
 	}
 
 	farmers = {
 		culture = chadic_arabic
 		religion = sunni
-		size = 7269
+		size = 18000
 	}
 	
+	farmers = {
+		culture = sara
+		religion = sunni
+		size = 8269
+	}
 	
 	aristocrats = {
-		culture = baguirmi
+		culture = maba
 		religion = sunni
 		size = 300
 	}
 
 	clergymen = {
-		culture = baguirmi
+		culture = maba
 		religion = sunni
 		size = 100
 	}
 
 	bureaucrats = {
-		culture = baguirmi
+		culture = maba
 		religion = sunni
 		size = 100
 	}
 	
 	artisans = {
-		culture = baguirmi
+		culture = maba
 		religion = sunni
 		size = 1500
 	}
 
 	soldiers = {
-		culture = baguirmi
+		culture = maba
 		religion = sunni
 		size = 1000
 	}
 
 	farmers = {
-		culture = baguirmi
+		culture = maba
 		religion = sunni
-		size = 7246
+		size = 23246
 	}
-
+	
+	farmers = {
+		culture = sila
+		religion = sunni
+		size = 10246
+	}
+	
+	farmers = {
+		culture = fur
+		religion = sunni
+		size = 5000
+	}
+	
+	farmers = {
+		culture = masalit
+		religion = sunni
+		size = 9246
+	}
+	
 	slaves = {
 		culture = ubangian
 		religion = animist
 		size = 2000
+	}
+	
+	slaves = {
+		culture = nuer
+		religion = animist
+		size = 2000
+	}
+	
+	slaves = {
+		culture = banda
+		religion = animist
+		size = 2000
+	}
+	
+	slaves = {
+		culture = azande
+		religion = animist
+		size = 2000
+	}
+	
+	slaves = {
+		culture = kanuri
+		religion = animist
+		size = 2000
+	}
+
+	slaves = {
+		culture = east_chadic
+		religion = animist
+		size = 12000
 	}
 }
 #Kanem Region (288000)
@@ -661,13 +792,13 @@
 	soldiers = {
 		culture = teda
 		religion = sunni
-		size = 300
+		size = 3300
 	}
 
 	farmers = {
 		culture = teda
 		religion = sunni
-		size = 9216
+		size = 15216
 	}
 
 	aristocrats = {
@@ -709,7 +840,13 @@
 	farmers = {
 		culture = kanuri
 		religion = sunni
-		size = 15010
+		size = 10000
+	}
+	
+	farmers = {
+		culture = chadic_arabic
+		religion = sunni
+		size = 5010
 	}
 
 	slaves = {
@@ -774,13 +911,43 @@
 	farmers = {
 		culture = teda
 		religion = sunni
-		size = 1080
+		size = 3080
+	}
+	
+	aristocrats = {
+		culture = zaghawa
+		religion = sunni
+		size = 50
+	}
+
+	clergymen = {
+		culture = zaghawa
+		religion = sunni
+		size = 25
+	}
+
+	artisans = {
+		culture = zaghawa
+		religion = sunni
+		size = 50
+	}
+
+	soldiers = {
+		culture = zaghawa
+		religion = sunni
+		size = 100
+	}
+
+	farmers = {
+		culture = zaghawa
+		religion = sunni
+		size = 2080
 	}
 	
 	farmers = {
 		culture = chadic_arabic
 		religion = sunni
-		size = 300
+		size = 800
 	}
 
 }

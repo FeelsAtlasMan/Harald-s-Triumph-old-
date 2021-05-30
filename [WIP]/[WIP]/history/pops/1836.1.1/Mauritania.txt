@@ -142,7 +142,31 @@
 	farmers = {
 		culture = maures
 		religion = sunni
-		size = 13325
+		size = 10000
+	}
+	
+	clergymen = {
+		culture = fulbe
+		religion = sunni
+		size = 20
+	}
+
+	artisans = {
+		culture = fulbe
+		religion = sunni
+		size = 85
+	}
+
+	soldiers = {
+		culture = fulbe
+		religion = sunni
+		size = 22
+	}
+
+	farmers = {
+		culture = fulbe
+		religion = sunni
+		size = 3325
 	}
 
 	slaves = {
@@ -182,9 +206,15 @@
 		religion = sunni
 		size = 3475
 	}
+	
+	farmers = {
+		culture = fulbe
+		religion = sunni
+		size = 475
+	}
 
 	slaves = {
-		culture = fulbe
+		culture = soninke
 		religion = animist
 		size = 3000
 	}
@@ -452,6 +482,42 @@
 		culture = maures
 		religion = sunni
 		size = 10400
+	}
+	
+	aristocrats = {
+		culture = fulbe
+		religion = sunni
+		size = 10
+	}
+
+	clergymen = {
+		culture = fulbe
+		religion = sunni
+		size = 15
+	}
+
+	artisans = {
+		culture = fulbe
+		religion = sunni
+		size = 300
+	}
+
+	soldiers = {
+		culture = fulbe
+		religion = sunni
+		size = 50
+	}
+
+	farmers = {
+		culture = fulbe
+		religion = sunni
+		size = 4400
+	}
+
+	slaves = {
+		culture = bambara
+		religion = animist
+		size = 2400
 	}
 }
 #Hodh (28000/7000 POPS) 

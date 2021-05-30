@@ -1,11 +1,13 @@
 political_decisions = {
 	
 	restore_the_ottoman_dynasty = {
+		picture = restore_ottomans
 		potential = {
 			tag = TUR
+			NOT = { has_country_flag = restored_the_ottoman_dynasty }
 		}
 		allow = {
-			ai = no
+			#ai = no
 			is_vassal = no
 		}
 		effect = {
@@ -33,6 +35,7 @@ political_decisions = {
 				add_core = THIS
 			}
 			prestige = 25
+			set_country_flag = restored_the_ottoman_dynasty
 		}
 		ai_will_do = { factor = 1 }
 	}
