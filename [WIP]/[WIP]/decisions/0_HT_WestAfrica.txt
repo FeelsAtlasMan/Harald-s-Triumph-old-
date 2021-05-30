@@ -299,8 +299,7 @@ political_decisions = {
 			factor = 1
 		}
 	}
-}
-	
+
 	#The 2nd Invasion of Fezzan
 	invade_fezzan = {
 	#picture = become_hausaland
