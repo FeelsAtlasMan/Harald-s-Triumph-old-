@@ -7142,6 +7142,8 @@ bantu_s_group = {
 		last_names = { Nyondo Muyila Kalagho Malokotela Sibale Chizimu Kayuni Panja
 		}
 	}
+	
+	union = NGN
 }
 
 bantu_n_group = {

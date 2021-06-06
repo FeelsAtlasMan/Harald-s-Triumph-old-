@@ -1,9 +1,7 @@
 capital = 1900
-primary_culture = dyula
-culture = senufo
-culture = mande
-culture = akan
-culture = western_nigritic
+primary_culture = bambara
+culture = senari
+culture = tagwana_djimini
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0
@@ -52,7 +50,6 @@ upper_house = {
 	communist = 0
 }
 
-set_country_flag = lacking_writing_system
 set_country_flag = sunni_country
 
 # Technologies

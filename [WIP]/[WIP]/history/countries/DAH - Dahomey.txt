@@ -1,8 +1,9 @@
 capital = 1920
 primary_culture = fon
-culture = east_kwa
+culture = phla_phera
 culture = yoruba
-culture = gur
+culture = ewe
+culture = ife_ede
 religion = animist
 government = absolute_monarchy
 plurality = 0.0

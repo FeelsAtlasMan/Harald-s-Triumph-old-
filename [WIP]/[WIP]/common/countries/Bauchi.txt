@@ -2,7 +2,7 @@ color = { 134  91  92 }
 graphical_culture = AfricanGC
 
 party = {
-	name = "ADW_conservative"
+	name = "SOK_conservative"
 	start_date = 1800.1.1
 	end_date = 2000.1.1
 
@@ -44,21 +44,6 @@ party = {
 	religious_policy = moralism
 	citizenship_policy = residency
 	war_policy = jingoism
-}
-
-party = {
-	name = "SOK_radical"
-	start_date = 1830.1.1
-	end_date = 2000.1.1
-
-	ideology = radical
-
-	social_policy = no_state_interference
-	economic_policy = laissez_faire
-	trade_policy = free_trade
-	religious_policy = pro_atheism
-	citizenship_policy = full_citizenship
-	war_policy = pro_military
 }
 
 party = {

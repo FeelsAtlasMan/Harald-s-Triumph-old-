@@ -178,16 +178,14 @@ islamic_law_triggered = {
 		NOT = { has_country_flag = post_colonial_country }
 		NOT = { religious_policy = pro_atheism }
 	}
-	research_points_modifier = -0.05
-	education_efficiency_modifier = -0.15
 	literacy_con_impact = -0.5
 	issue_change_speed = -0.5
 	suppression_points_modifier = 0.5
-	tax_efficiency = 0.05
+	
 	icon = 5
 }
 
-islamic_law_triggered = {
+waqt_almetaab_modifier = {
 	trigger = {
 		has_country_flag = waqt_almetaab
 	}

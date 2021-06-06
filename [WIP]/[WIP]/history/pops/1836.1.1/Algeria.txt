@@ -1652,6 +1652,30 @@
 }
 #Twat (16000/4000 POPS)
 3409 = {
+    aristocrats = {
+		culture = mzab_ourgla
+		religion = sunni
+		size = 75
+	}
+
+	clergymen = {
+		culture = mzab_ourgla
+		religion = sunni
+		size = 45
+	}
+
+	soldiers = {
+		culture = mzab_ourgla
+		religion = sunni
+		size = 1215
+	}
+
+	farmers = {
+		culture = mzab_ourgla
+		religion = sunni
+		size = 4000
+	}
+	
 	aristocrats = {
 		culture = maures
 		religion = sunni
@@ -1673,7 +1697,7 @@
 	farmers = {
 		culture = maures
 		religion = sunni
-		size = 1700
+		size = 700
 	}
 	
 	aristocrats = {
@@ -1691,13 +1715,13 @@
 	soldiers = {
 		culture = tuareg
 		religion = sunni
-		size = 55
+		size = 555
 	}
 
 	farmers = {
 		culture = tuareg
 		religion = sunni
-		size = 1320
+		size = 2320
 	}
 }
 #Hoggar Region (40000)

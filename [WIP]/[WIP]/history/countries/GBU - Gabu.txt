@@ -1,6 +1,5 @@
 capital = 1878
-primary_culture = western_nigritic
-culture = mande
+primary_culture = bambara
 religion = animist
 government = absolute_monarchy
 plurality = 0.0

@@ -1,6 +1,7 @@
-owner = MOR
-controller = MOR
-add_core = TUA
+owner = TWT
+controller = TWT
+add_core = TWT
+add_core = MOR
 terrain = oasis
 trade_goods = fruit
 life_rating = 20

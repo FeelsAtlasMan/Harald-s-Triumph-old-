@@ -1,5 +1,5 @@
 color = { 60 80 130 }
-graphical_culture = ZuluGC
+graphical_culture = AfricanGC
 
 party = {
 	name = "SHO_conservative"

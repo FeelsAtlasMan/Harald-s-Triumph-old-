@@ -2,5 +2,4 @@ owner = SGH
 controller = SGH
 add_core = SGH
 trade_goods = grain
-terrain = semidesert
 life_rating = 35

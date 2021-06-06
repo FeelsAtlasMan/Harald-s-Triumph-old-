@@ -1252,9 +1252,9 @@ SOK;Hausaland;;;;;;;;;;;x;
 SOK_proletarian_dictatorship;Hausaland;;;;;;;;;;;;;x;
 SOK_presidential_dictatorship;Hausaland;;;;;;;;;;;;;x;
 SOK_democracy;Hausaland;;;;;;;;;;;;;x;
-SOK_absolute_monarchy;Hausaland;;;;;;;;;;;;;x;
-SOK_prussian_constitutionalism;Hausaland;;;;;;;;;;;;;x;
-SOK_hms_government;Hausaland;;;;;;;;;;;;;x;
+SOK_absolute_monarchy;Hausa Empire;;;;;;;;;;;;;x;
+SOK_prussian_constitutionalism;Hausa Empire;;;;;;;;;;;;;x;
+SOK_hms_government;Hausa Empire;;;;;;;;;;;;;x;
 SOK_ADJ;Hausa;;;;;;;;;;;x;
 TUN_absolute_monarchy;Hafsid Sultanate;;;;;;;;;;;;;x;
 TUN_prussian_constitutionalism;Hafsid Sultanate;;;;;;;;;;;;;x;
@@ -1279,3 +1279,29 @@ KWF;Kwararafa;x
 KWF_ADJ;Kwararafa;x
 GWR;Gwari;x
 GWR_ADJ;Gwari;x
+TWT;Twat;x
+TWT_ADJ;Twati;x
+DAM;Maradi;x
+DAM_proletarian_dictatorship;Maradi;;;;;;;;;;;;;x;
+DAM_presidential_dictatorship;Maradi;;;;;;;;;;;;;x;
+DAM_democracy;Maradi;;;;;;;;;;;;;x;
+DAM_absolute_monarchy;Maradi Emirate;;;;;;;;;;;;;x;
+DAM_prussian_constitutionalism;Maradi Emirate;;;;;;;;;;;;;x;
+DAM_hms_government;Maradi Emirate;;;;;;;;;;;;;x;
+DAM_ADJ;Maradi;x
+TOU;Haalpulaar;;;;;;;;;;;x;
+TOU_proletarian_dictatorship;Union of Western Africa;;;;;;;;;;;;;x;
+TOU_presidential_dictatorship;Haalpulaar;;;;;;;;;;;;;x;
+TOU_democracy;Haalpulaar;;;;;;;;;;;;;x;
+TOU_absolute_monarchy;Sokkmasor Caliphate;;;;;;;;;;;;;x;
+TOU_prussian_constitutionalism;Sokkmasor Caliphate;;;;;;;;;;;;;x;
+TOU_hms_government;Sokkmasor Empire;;;;;;;;;;;;;x;
+TOU_ADJ;Fulani;;;;;;;;;;;x;inhlaba
+NGN;Mwenemutapa;;;;;;;;;;;x;
+NGN_proletarian_dictatorship;Union of South East Africa;;;;;;;;;;;;;x;
+NGN_presidential_dictatorship;Mwenemutapa;;;;;;;;;;;;;x;
+NGN_democracy;Mwenemutapa;;;;;;;;;;;;;x;
+NGN_absolute_monarchy;Mwenemutapa Empire;;;;;;;;;;;;;x;
+NGN_prussian_constitutionalism;Mwenemutapa Empire;;;;;;;;;;;;;x;
+NGN_hms_government;Mwenemutapa Empire;;;;;;;;;;;;;x;
+NGN_ADJ;Mwenemutapan;;;;;;;;;;;x;

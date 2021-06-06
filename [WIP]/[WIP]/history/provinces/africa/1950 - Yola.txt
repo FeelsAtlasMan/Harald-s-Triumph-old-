@@ -1,5 +1,5 @@
-owner = KWF
-controller = KWF
+owner = ADW
+controller = ADW
 add_core = KWF
 add_core = ADW
 trade_goods = grain

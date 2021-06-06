@@ -242,6 +242,8 @@ HRO		= "countries/Rano.txt"
 BYR		= "countries/Yauri.txt"
 GWR		= "countries/Gwari.txt"
 KWF		= "countries/Kwararafa.txt"
+TWT		= "countries/Twat.txt"
+NGN		= "countries/Ngunistan.txt"
 
 ##HFM New Nations
 #ATB	= "countries/Saxe-Altenburg.txt"

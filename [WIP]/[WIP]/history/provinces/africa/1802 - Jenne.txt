@@ -1,7 +1,6 @@
 owner = TMB
 controller = TMB
 add_core = TMB
-add_core = SEG
+add_core = MOR
 trade_goods = grain
-terrain = semidesert
 life_rating = 35

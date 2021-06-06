@@ -1,6 +1,5 @@
 capital = 1998
 primary_culture = banda
-culture = nzakara
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0

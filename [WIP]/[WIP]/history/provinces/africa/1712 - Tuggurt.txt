@@ -3,4 +3,5 @@ controller = MZB
 add_core = MZB
 add_core = MOR
 trade_goods = wool
-life_rating = 5
+life_rating = 25
+terrain = semidesert

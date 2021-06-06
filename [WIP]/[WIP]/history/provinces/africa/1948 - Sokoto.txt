@@ -2,5 +2,4 @@ owner = HZF
 controller = HZF
 add_core = HZF
 trade_goods = cattle
-terrain = semidesert
 life_rating = 35

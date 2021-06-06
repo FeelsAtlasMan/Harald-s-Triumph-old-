@@ -152,7 +152,6 @@ country_event = {
 	title = "Fall Out with Rumaliza!"
 	desc = "EVTDESC964566"
 	picture = "arab_revolt"
-	fire_only_once = yes
 	
 	trigger = {
 			UTT = { war_with = BBM }
@@ -179,7 +178,6 @@ country_event = {
 	title = "Zubayr's Ambition!"
 	desc = "EVTDESC964567"
 	picture = "arab_revolt"
-	fire_only_once = yes
 	
 	trigger = {
 		2081 = { owned_by = ZBY }
@@ -210,7 +208,6 @@ country_event = {
 	title = "Waddai has fallen!"
 	desc = "EVTDESC964568"
 	picture = "abd_al_qadir_uprising"
-	fire_only_once = yes
 	
 	trigger = {
 		WDD = { has_country_flag = humiliate_succ }
@@ -228,6 +225,20 @@ country_event = {
 		
         inherit = WDD
         WDD = { all_core { add_core = THIS } }
+		ai_chance = { factor = 100 }
+	}
+}
+
+country_event = {
+	id = sus
+	title = "You have been ejected"
+	desc = "Why did you kidnap Big Chungus???"
+	picture = "amogus"
+	is_triggered_only = yes
+
+	option = {
+		name = "..."
+        add_country_modifier = sussy
 		ai_chance = { factor = 100 }
 	}
 }
