@@ -1,5 +1,5 @@
-owner = SOK
-controller = SOK
-add_core = SOK
+owner = KWF
+controller = KWF
+add_core = KWF
 trade_goods = fruit
 life_rating = 35

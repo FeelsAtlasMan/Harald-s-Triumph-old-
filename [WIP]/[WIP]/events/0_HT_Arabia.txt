@@ -971,7 +971,7 @@ country_event = {
 			factor = 70
 			modifier = {
 				factor = 0.9
-				tag = TRI
+				tag = HDJ
 			}
 			modifier = {
 				factor = 0.1

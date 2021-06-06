@@ -1,5 +1,14 @@
 capital = 1789
-primary_culture = songhai
+primary_culture = zarma
+culture = songhai
+culture = songhayboro
+culture = tadaksahak
+culture = tagdal
+culture = dendi
+culture = tasawaq
+culture = tondi_kiini
+culture = humburi_senni
+culture = koyraboro_senni
 culture = tuareg
 culture = hausa
 culture = fulbe
@@ -40,7 +49,7 @@ centralization = unitary
 colonial_policy = no_colonies 
 
 
-ruling_party = DND_reactionary
+ruling_party = DND_conservative
 upper_house = {
 	fascist = 0
 	liberal = 16

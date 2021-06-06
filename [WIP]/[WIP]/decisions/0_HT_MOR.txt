@@ -35,21 +35,25 @@ political_decisions = {
 		
 		allow = {
 			all_core = { owned_by = THIS }
+			OR = {
+			   NOT = { 1803 = { owned_by = TOO } }
+			   NOT = { 1803 = { owned_by = TOU } }
+			}
 			civilized = yes
 		}
 		effect = {
+			TOO_1791 = { add_core = THIS }
 			FRA_1801 = { add_core = THIS }
 			FRA_1783 = { add_core = THIS }
-			FRA_1788 = { add_core = THIS }
 			FRA_1878 = { add_core = THIS }
+			FRA_1883 = { add_core = THIS }
 			FRA_1798 = { add_core = THIS }
+			FRA_1901 = { add_core = THIS }
+			3404 = { add_core = THIS }
 			1778 = { add_core = THIS }
-			1879 = { add_core = THIS }
-			1880 = { add_core = THIS }
+			1881 = { add_core = THIS }
+			1882 = { add_core = THIS }
 			1905 = { add_core = THIS }
-			1906 = { add_core = THIS }
-			1902 = { add_core = THIS }
-			1903 = { add_core = THIS }
 			badboy = 20
 		}
 		ai_will_do = {
@@ -112,6 +116,10 @@ political_decisions = {
 		effect = {
 			set_country_flag = timbuktu_invasion_too
 			badboy = 5
+			add_country_modifier = {
+	               name = fulani_jihad
+	               duration = 10950
+            }
 			MOR = { country_event = 323005 }
 		}
 		ai_will_do = {

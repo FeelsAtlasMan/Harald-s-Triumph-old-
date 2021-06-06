@@ -2,144 +2,149 @@
 #Uncolonized in 1836/Portuguese trade post
 #Bissau (32000/8000 POPS)
 1877 = {
-
-	clergymen = {
-		culture = portuguese
-		religion = catholic
-		size = 100
-	}
-
-	artisans = {
-		culture = portuguese
-		religion = catholic
-		size = 100
-	}
-
-	soldiers = {
-		culture = portuguese
-		religion = catholic
-		size = 100
-	}
-	
-	farmers = {
-		culture = portuguese
-		religion = catholic
-		size = 100
-	}
-
 	aristocrats = {
-		culture = western_nigritic
-		religion = catholic
+		culture = jaad
+		religion = animist
 		size = 100
 	}
 	
 	officers = {
-		culture = western_nigritic
-		religion = catholic
+		culture = jaad
+		religion = animist
 		size = 100
 	}
 	
 	clergymen = {
-		culture = western_nigritic
-		religion = catholic
+		culture = jaad
+		religion = animist
 		size = 100
 	}
 
 	artisans = {
-		culture = western_nigritic
-		religion = catholic
+		culture = jaad
+		religion = animist
 		size = 375
 	}
 
 	soldiers = {
-		culture = western_nigritic
-		religion = catholic
+		culture = jaad
+		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = western_nigritic
-		religion = catholic
+		culture = jaad
+		religion = animist
 		size = 5300
 	}
 
 	slaves = {
-		culture = western_nigritic
+		culture = bambara
 		religion = animist
 		size = 2000
 	}
 	
-		aristocrats = {
-		culture = western_nigritic
+	aristocrats = {
+		culture = bak_bidyogo
 		religion = animist
 		size = 300
 	}
 	
 	officers = {
-		culture = western_nigritic
+		culture = bak_bidyogo
 		religion = animist
 		size = 100
 	}
 	
 	clergymen = {
-		culture = western_nigritic
+		culture = bak_bidyogo
 		religion = animist
 		size = 100
 	}
 
 	artisans = {
-		culture = western_nigritic
+		culture = bak_bidyogo
 		religion = animist
 		size = 1000
 	}
 
 	soldiers = {
-		culture = western_nigritic
+		culture = bak_bidyogo
 		religion = animist
-		size = 3000
+		size = 1000
 	}
 
 	farmers = {
-		culture = western_nigritic
+		culture = bak_bidyogo
 		religion = animist
-		size = 12048
+		size = 10048
+	}
+	
+	aristocrats = {
+		culture = nalu
+		religion = animist
+		size = 30
+	}
+	
+	clergymen = {
+		culture = nalu
+		religion = animist
+		size = 10
+	}
+
+	artisans = {
+		culture = nalu
+		religion = animist
+		size = 100
+	}
+
+	soldiers = {
+		culture = nalu
+		religion = animist
+		size = 100
+	}
+
+	farmers = {
+		culture = nalu
+		religion = animist
+		size = 4000
 	}
 }
 #under the rule of Gabu in 1836
 #Gabu (152000/38000 POPS)
 1878 = {
 	aristocrats = {
-		culture = mande
+		culture = bambara
 		religion = sunni
 		size = 500
 	}
 	
 	bureaucrats = {
-		culture = mande
+		culture = bambara
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = mande
+		culture = bambara
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = mande
+		culture = bambara
 		religion = sunni
 		size = 1000
 	}
 
 	soldiers = {
-		culture = mande
+		culture = bambara
 		religion = sunni
 		size = 1100
 	}
 
 	farmers = {
-		culture = mande
+		culture = bambara
 		religion = sunni
 		size = 3768
 	}
@@ -182,7 +187,7 @@
 	}
 
 	slaves = {
-		culture = western_nigritic
+		culture = jaad
 		religion = animist
 		size = 2000
 	}

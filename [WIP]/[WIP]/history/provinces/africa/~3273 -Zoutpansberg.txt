@@ -1,0 +1,6 @@
+owner = SUA
+controller = SUA
+add_core = SUA
+terrain = mountain
+trade_goods = wool
+life_rating = 35

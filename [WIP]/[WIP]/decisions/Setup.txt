@@ -1178,6 +1178,27 @@ political_decisions = {
 		}
 	}
 	
+	remove_natalian_cores_on_zulu = {
+    picture = murzuk
+		potential = {
+			tag = VND
+			NOT = { has_country_flag = fuckoffnatal }
+		}
+
+		allow = {
+			tag = VND
+		}
+
+		effect = {
+			ZUL = { all_core = { remove_core = NAT } }
+			set_country_flag = fuckoffnatal
+		}
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
 	kurdish_1836_setup = {
 		picture = constantinople
 		potential = {

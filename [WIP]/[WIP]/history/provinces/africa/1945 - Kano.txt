@@ -2,5 +2,4 @@ owner = HKN
 controller = HKN
 add_core = HKN
 trade_goods = fruit
-terrain = semidesert
 life_rating = 35

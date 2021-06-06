@@ -2,6 +2,5 @@ owner = DAR
 controller = DAR
 add_core = DAR
 trade_goods = grain
-terrain = semidesert
-life_rating = 31
+life_rating = 35
 

@@ -890,8 +890,15 @@
 	farmers = {
 		culture = mongo
 		religion = animist
-		size = 110000
+		size = 100000
 	}
+	
+	farmers = {
+		culture = mba_ubangi
+		religion = animist
+		size = 10000
+	}
+	
 	
 	farmers = {
 		culture = lia_ntomba
@@ -996,13 +1003,25 @@
 	farmers = {
 		culture = mongo
 		religion = animist
-		size = 40000
+		size = 30000
+	}
+	
+	farmers = {
+		culture = ngbandi
+		religion = animist
+		size = 20000
 	}
 	
 	farmers = {
 		culture = ngombe
 		religion = animist
-		size = 50000
+		size = 35000
+	}
+	
+	farmers = {
+		culture = mba_ubangi
+		religion = animist
+		size = 5000
 	}
 	
 	farmers = {
@@ -1036,7 +1055,7 @@
 	}
 
 	slaves = {
-		culture = ubangian
+		culture = ngbaka
 		religion = animist
 		size = 14670
 	}
@@ -1082,7 +1101,7 @@
 	}
 
 	slaves = {
-		culture = nilotic
+		culture = lendu
 		religion = animist
 		size = 59330
 	}
@@ -1121,37 +1140,37 @@
 	}
 
 	aristocrats = {
-		culture = nilotic
+		culture = lendu
 		religion = animist
 		size = 640
 	}
 
 	clergymen = {
-		culture = nilotic
+		culture = lendu
 		religion = animist
 		size = 370
 	}
 
 	artisans = {
-		culture = nilotic
+		culture = lendu
 		religion = animist
 		size = 1830
 	}
 
 	soldiers = {
-		culture = nilotic
+		culture = lendu
 		religion = animist
 		size = 1100
 	}
 
 	farmers = {
-		culture = nilotic
+		culture = lendu
 		religion = animist
 		size = 193460
 	}
 	
 	farmers = {
-		culture = nilotic
+		culture = lendu
 		religion = animist
 		size = 35345
 	}
@@ -1203,13 +1222,13 @@
 	farmers = {
 		culture = azande
 		religion = animist
-		size = 180110
+		size = 100110
 	}
 	
 	farmers = {
-		culture = luo
+		culture = lendu
 		religion = animist
-		size = 10000
+		size = 80000
 	}
 
 }

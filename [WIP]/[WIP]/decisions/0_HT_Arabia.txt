@@ -416,7 +416,10 @@ political_decisions = {
 		}
 		
 		allow = {
-		    civilization_progress = 0.8
+		    OR = {
+		      civilization_progress = 0.8
+			  civilized = yes
+			}
 			1868 = { owned_by = THIS }
 			ADL = { vassal_of = THIS }
 		}
@@ -900,11 +903,11 @@ political_decisions = {
 		}
 		
 		effect = {
-		    762 = { add_core THIS }
-			763 = { add_core THIS }
-			764 = { add_core THIS }
-			827 = { add_core THIS }
-			759 = { add_core THIS }
+		    762 = { add_core = THIS }
+			763 = { add_core = THIS }
+			764 = { add_core = THIS }
+			827 = { add_core = THIS }
+			759 = { add_core = THIS }
 			TUN = { all_core = { add_core = THIS } }
 			add_accepted_culture = tunesian_arabic
 			add_accepted_culture = siqilli
@@ -1443,7 +1446,7 @@ political_decisions = {
 			   1159 = { owned_by = THIS }
 			   1163 = { owned_by = THIS }
 			}
-			NOT = { has_country_flag = claimed_nefud }
+			NOT = { has_country_flag = claimed_dahna }
 			NOT = { 1158 = { owned_by = THIS } }
 		}
 		
@@ -1474,7 +1477,532 @@ political_decisions = {
 		effect = {
 			1158 = { secede_province = THIS }
 			prestige = 2
-			set_country_flag = claimed_nefud
+			set_country_flag = claimed_dahna
+		}
+		ai_will_do = {
+		    factor = 1
+		}
+	}
+	
+	claim_bisha = {
+	    picture = "map_arabia"
+		potential = {
+			OR = {
+			   1151 = { owned_by = THIS }
+			   1155 = { owned_by = THIS }
+			   1159 = { owned_by = THIS }
+			   3441 = { owned_by = THIS }
+			   3442 = { owned_by = THIS }
+			}
+			NOT = { has_country_flag = claimed_bisha }
+			NOT = { 1161 = { owned_by = THIS } }
+		}
+		
+		allow = {
+		    OR = {
+			   AND = {
+			       1151 = { owned_by = THIS }
+			       1159 = { owned_by = THIS }
+				   1155 = { owned_by = THIS }
+			       3441 = { owned_by = THIS }
+			       3442 = { owned_by = THIS }
+			   }
+			   AND = {
+			       1159 = { owned_by = THIS }
+			       3441 = { owned_by = THIS }
+			       3442 = { owned_by = THIS }
+				   primary_culture = najdi_arabic
+			   }
+			}
+			war = no
+		}
+		effect = {
+			1161 = { secede_province = THIS }
+			prestige = 2
+			set_country_flag = claimed_bisha
+		}
+		ai_will_do = {
+		    factor = 1
+		}
+	}
+	
+	claim_marib = {
+	    picture = "map_arabia"
+		potential = {
+			OR = {
+			   1155 = { owned_by = THIS }
+			   1178 = { owned_by = THIS }
+			   1176 = { owned_by = THIS }
+			   1173 = { owned_by = THIS }
+			   3442 = { owned_by = THIS }
+			}
+			NOT = { has_country_flag = claimed_marib }
+			NOT = { 3443 = { owned_by = THIS } }
+		}
+		
+		allow = {
+			   AND = {
+			       1155 = { owned_by = THIS }
+			       1178 = { owned_by = THIS }
+			       1176 = { owned_by = THIS }
+			       1173 = { owned_by = THIS }
+			       3442 = { owned_by = THIS }
+			   }
+			war = no
+		}
+		effect = {
+			3443 = { secede_province = THIS }
+			prestige = 2
+			set_country_flag = claimed_marib
+		}
+		ai_will_do = {
+		    factor = 1
+		}
+	}
+	
+	claim_northern_rub_al_khali = {
+	    picture = "map_arabia"
+		potential = {
+			OR = {
+			   3441 = { owned_by = THIS }
+			   3442 = { owned_by = THIS }
+			   1157 = { owned_by = THIS }
+			}
+			NOT = { has_country_flag = claimed_northern_rub_al_khali }
+			NOT = { 2586 = { owned_by = THIS } }
+		}
+		
+		allow = {
+			   AND = {
+			       3441 = { owned_by = THIS }
+			       3442 = { owned_by = THIS }
+			       1157 = { owned_by = THIS }
+			   }
+			war = no
+		}
+		effect = {
+			2586 = { secede_province = THIS }
+			prestige = 2
+			set_country_flag = claimed_northern_rub_al_khali
+		}
+		ai_will_do = {
+		    factor = 1
+		}
+	}
+	
+	claim_thumrait = {
+	    picture = "map_arabia"
+		potential = {
+			OR = {
+			   1173 = { owned_by = THIS }
+			   1175 = { owned_by = THIS }
+			   1174 = { owned_by = THIS }
+			   1172 = { owned_by = THIS }
+			}
+			NOT = { has_country_flag = claimed_thumrait }
+			NOT = { 3280 = { owned_by = THIS } }
+		}
+		
+		allow = {
+			   OR = {
+			   AND = {
+			       1173 = { owned_by = THIS }
+			       1175 = { owned_by = THIS }
+			       1174 = { owned_by = THIS }
+			       1172 = { owned_by = THIS }
+			   }
+			   AND = {
+			       1173 = { owned_by = THIS }
+			       1175 = { owned_by = THIS }
+			       1174 = { owned_by = THIS }
+				   primary_culture = yemeni_arabic
+			   }
+			}
+			war = no
+		}
+		effect = {
+			3280 = { secede_province = THIS }
+			prestige = 2
+			set_country_flag = claimed_thumrait
+		}
+		ai_will_do = {
+		    factor = 1
+		}
+	}
+	
+	claim_haima = {
+	    picture = "map_arabia"
+		potential = {
+			OR = {
+			   1170 = { owned_by = THIS }
+			   1171 = { owned_by = THIS }
+			   1172 = { owned_by = THIS }
+			}
+			NOT = { has_country_flag = claimed_haima }
+			NOT = { 1180 = { owned_by = THIS } }
+		}
+		
+		allow = {
+			AND = {
+			       1170 = { owned_by = THIS }
+			       1171 = { owned_by = THIS }
+			       1172 = { owned_by = THIS }
+			}
+			OR = {
+			   tag = ABB
+			   civilized = yes
+			}
+			war = no
+		}
+		effect = {
+			1180 = { secede_province = THIS }
+			prestige = 2
+			set_country_flag = claimed_haima
+		}
+		ai_will_do = {
+		    factor = 1
+		}
+	}
+	
+	claim_eastern_libyian_desert = {
+	    picture = "military_aid"
+		potential = {
+			OR = {
+			   1759 = { owned_by = THIS }
+			   1760 = { owned_by = THIS }
+			   1761 = { owned_by = THIS }
+			   1766 = { owned_by = THIS }
+			   3411 = { owned_by = THIS }
+			   2585 = { owned_by = THIS }
+			}
+			NOT = { has_country_flag = claimed_eastern_libyian_desert }
+			NOT = { 1758 = { owned_by = THIS } }
+		}
+		
+		allow = {
+			AND = {
+			   1759 = { owned_by = THIS }
+			   1760 = { owned_by = THIS }
+			   1761 = { owned_by = THIS }
+			   1766 = { owned_by = THIS }
+			   3411 = { owned_by = THIS }
+			   2585 = { owned_by = THIS }
+			}
+			OR = {
+			   electricity = 1
+			   year = 1900
+			}
+			war = no
+		}
+		effect = {
+			1758 = { secede_province = THIS }
+			prestige = 2
+			set_country_flag = claimed_eastern_libyian_desert
+		}
+		ai_will_do = {
+		    factor = 1
+		}
+	}
+	
+	claim_western_libyian_desert = {
+	    picture = "military_aid"
+		potential = {
+			OR = {
+			   2585 = { owned_by = THIS }
+			   1742 = { owned_by = THIS }
+			   1741 = { owned_by = THIS }
+			}
+			NOT = { has_country_flag = claimed_western_libyian_desert }
+			NOT = { 1825 = { owned_by = THIS } }
+		}
+		
+		allow = {
+			AND = {
+			   2585 = { owned_by = THIS }
+			   1742 = { owned_by = THIS }
+			   1741 = { owned_by = THIS }
+			}
+			OR = {
+			   electricity = 1
+			   year = 1900
+			}
+			war = no
+		}
+		effect = {
+			1825 = { secede_province = THIS }
+			prestige = 2
+			set_country_flag = claimed_western_libyian_desert
+		}
+		ai_will_do = {
+		    factor = 1
+		}
+	}
+	
+	claim_djurab = {
+	    picture = "military_aid"
+		potential = {
+			OR = {
+			   1817 = { owned_by = THIS }
+			   1824 = { owned_by = THIS }
+			   1821 = { owned_by = THIS }
+			   1826 = { owned_by = THIS }
+			}
+			NOT = { has_country_flag = claimed_djurab }
+			NOT = { 1814 = { owned_by = THIS } }
+		}
+		
+		allow = {
+			AND = {
+			   1817 = { owned_by = THIS }
+			   1824 = { owned_by = THIS }
+			   1821 = { owned_by = THIS }
+			   1826 = { owned_by = THIS }
+			}
+			OR = {
+			   electricity = 1
+			   year = 1900
+			}
+			war = no
+		}
+		effect = {
+			1814 = { secede_province = THIS }
+			prestige = 2
+			set_country_flag = claimed_djurab
+		}
+		ai_will_do = {
+		    factor = 1
+		}
+	}
+	
+	claim_fada = {
+	    picture = "military_aid"
+		potential = {
+			OR = {
+			   1835 = { owned_by = THIS }
+			   1806 = { owned_by = THIS }
+			   1739 = { owned_by = THIS }
+			   1842 = { owned_by = THIS }
+			   1826 = { owned_by = THIS }
+			}
+			NOT = { has_country_flag = claimed_fada }
+			NOT = { 2564 = { owned_by = THIS } }
+		}
+		
+		allow = {
+			AND = {
+			   1835 = { owned_by = THIS }
+			   1806 = { owned_by = THIS }
+			   1739 = { owned_by = THIS }
+			   1842 = { owned_by = THIS }
+			   1826 = { owned_by = THIS }
+			}
+			OR = {
+			   electricity = 1
+			   year = 1900
+			}
+			war = no
+		}
+		effect = {
+			2564 = { secede_province = THIS }
+			prestige = 2
+			set_country_flag = claimed_fada
+		}
+		ai_will_do = {
+		    factor = 1
+		}
+	}
+	
+	claim_nafusa = {
+	    picture = "military_aid"
+		potential = {
+			OR = {
+			   1719 = { owned_by = THIS }
+			   3413 = { owned_by = THIS }
+			   1741 = { owned_by = THIS }
+			}
+			NOT = { has_country_flag = claimed_nafusa }
+			NOT = { 3412 = { owned_by = THIS } }
+		}
+		
+		allow = {
+			AND = {
+			   1719 = { owned_by = THIS }
+			   3413 = { owned_by = THIS }
+			   1741 = { owned_by = THIS }
+			}
+			OR = {
+			   electricity = 1
+			   year = 1900
+			}
+			war = no
+		}
+		effect = {
+			3412 = { secede_province = THIS }
+			prestige = 2
+			set_country_flag = claimed_nafusa
+		}
+		ai_will_do = {
+		    factor = 1
+		}
+	}
+	
+	claim_al_qulaia = {
+	    picture = "military_aid"
+		potential = {
+			OR = {
+			   1711 = { owned_by = THIS }
+			   1712 = { owned_by = THIS }
+			}
+			NOT = { has_country_flag = claimed_al_qulaia }
+			NOT = { 3410 = { owned_by = THIS } }
+		}
+		
+		allow = {
+			AND = {
+			   1711 = { owned_by = THIS }
+			   1712 = { owned_by = THIS }
+			}
+			OR = {
+			   electricity = 1
+			   year = 1900
+			}
+			war = no
+		}
+		effect = {
+			3410 = { secede_province = THIS }
+			prestige = 2
+			set_country_flag = claimed_al_qulaia
+		}
+		ai_will_do = {
+		    factor = 1
+		}
+	}
+	
+	claim_central_sahara = {
+	    picture = "military_aid"
+		potential = {
+			OR = {
+			   1807 = { owned_by = THIS }
+			   1721 = { owned_by = THIS }
+			   1718 = { owned_by = THIS }
+			   3409 = { owned_by = THIS }
+			   1717 = { owned_by = THIS }
+			   3407 = { owned_by = THIS }
+			   2609 = { owned_by = THIS }
+			   1825 = { owned_by = THIS }
+			}
+			NOT = { has_country_flag = claimed_central_sahara }
+			NOT = { 1722 = { owned_by = THIS } }
+		}
+		
+		allow = {
+		    OR = {
+			   AND = {
+			      1807 = { owned_by = THIS }
+			      1721 = { owned_by = THIS }
+			      1718 = { owned_by = THIS }
+			      3409 = { owned_by = THIS }
+			      1717 = { owned_by = THIS }
+			      3407 = { owned_by = THIS }
+			      2609 = { owned_by = THIS }
+			      1825 = { owned_by = THIS }
+			   }
+			   AND = {
+			      1807 = { owned_by = THIS }
+			      1721 = { owned_by = THIS }
+			      1718 = { owned_by = THIS }
+				  primary_culture = tuareg
+			   }
+			}
+			OR = {
+			   electricity = 1
+			   year = 1900
+			   primary_culture = tuareg
+			}
+			war = no
+		}
+		effect = {
+			1722 = { secede_province = THIS }
+			prestige = 2
+			set_country_flag = claimed_central_sahara
+		}
+		ai_will_do = {
+		    factor = 1
+		}
+	}
+	
+	claim_inner_mauretania = {
+	    picture = "military_aid"
+		potential = {
+			OR = {
+			   1716 = { owned_by = THIS }
+			   1717 = { owned_by = THIS }
+			   3407 = { owned_by = THIS }
+			   1781 = { owned_by = THIS }
+			   1696 = { owned_by = THIS }
+			   1773 = { owned_by = THIS }
+			   3403 = { owned_by = THIS }
+			}
+			NOT = { has_country_flag = claimed_inner_mauretania }
+			NOT = { 1782 = { owned_by = THIS } }
+		}
+		
+		allow = {
+			AND = {
+			   1716 = { owned_by = THIS }
+			   1717 = { owned_by = THIS }
+			   3407 = { owned_by = THIS }
+			   1781 = { owned_by = THIS }
+			   1696 = { owned_by = THIS }
+			   1773 = { owned_by = THIS }
+			   3403 = { owned_by = THIS }
+			}
+			OR = {
+			   electricity = 1
+			   year = 1900
+			   tag = MOR
+			}
+			war = no
+		}
+		effect = {
+			1782 = { secede_province = THIS }
+			prestige = 2
+			set_country_flag = claimed_inner_mauretania
+		}
+		ai_will_do = {
+		    factor = 1
+		}
+	}
+	
+	claim_dakhla_mauretania = {
+	    picture = "military_aid"
+		potential = {
+			OR = {
+			   1696 = { owned_by = THIS }
+			   1773 = { owned_by = THIS }
+			   1775 = { owned_by = THIS }
+			}
+			NOT = { has_country_flag = claimed_dakhla_mauretania }
+			NOT = { 1774 = { owned_by = THIS } }
+		}
+		
+		allow = {
+			AND = {
+			   1696 = { owned_by = THIS }
+			   1773 = { owned_by = THIS }
+			   1775 = { owned_by = THIS }
+			}
+			OR = {
+			   electricity = 1
+			   year = 1900
+			   tag = MOR
+			}
+			war = no
+		}
+		effect = {
+			1774 = { secede_province = THIS }
+			prestige = 2
+			set_country_flag = claimed_dakhla_mauretania
 		}
 		ai_will_do = {
 		    factor = 1

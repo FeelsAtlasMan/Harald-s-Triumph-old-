@@ -844,7 +844,7 @@ ALD_republic;Orania;;;;;;;;;;;;x
 ALD_ADJ;Oranian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 TMB;Timbuktu;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 TMB_colonial_company;Wilaya of Timbuktu;;;;;;;;;;;;x
-TRZ_ADJ;Timbuktian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TMB_ADJ;Timbuktan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 TBT;Tibesti;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 TBT_ADJ;Tibestian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 FTM;Fatimid Caliphate;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
@@ -879,15 +879,15 @@ CPL_democracy;Masovia;;;;;;;;;;;;x
 GER_absolute_monarchy;The Kingdom of Germany;;;;;;;;;;;;x
 GER_hms_government;The Kingdom of Germany;;;;;;;;;;;;x
 GER_prussian_constitutionalism;The Kingdom of Germany;;;;;;;;;;;;x
-AST;Suori jöro;;;;;;;;;;;;x
-AST_absolute_monarchy;Suori jöro;;;;;;;;;;;;x
-AST_hms_government;Suori jöro;;;;;;;;;;;;x
-AST_prussian_constitutionalism;Suori jöro;;;;;;;;;;;;x
-AST_democracy;Suori jöro;;;;;;;;;;;;x
-AST_proleterian_dictatorship;Suori jöro;;;;;;;;;;;;x
-AST_fascist_dictatorship;Suori jöro;;;;;;;;;;;;x
-AST_colonial_company;Suori jöro;;;;;;;;;;;;x
-AST_dominion;Suori jöro;;;;;;;;;;;;x
+AST;Suori Jöro;;;;;;;;;;;;x
+AST_absolute_monarchy;Suori Jöro;;;;;;;;;;;;x
+AST_hms_government;Suori Jöro;;;;;;;;;;;;x
+AST_prussian_constitutionalism;Suori Jöro;;;;;;;;;;;;x
+AST_democracy;Suori Jöro;;;;;;;;;;;;x
+AST_proleterian_dictatorship;Suori Jöro;;;;;;;;;;;;x
+AST_fascist_dictatorship;Suori Jöro;;;;;;;;;;;;x
+AST_colonial_company;Suori Jöro;;;;;;;;;;;;x
+AST_dominion;Suori Jöro;;;;;;;;;;;;x
 VGR_ADJ;Vagr;Vagr;Vagr;;;;;;;;;;;x;
 VGR;Vagrland;Vagrland;Vagrland;;;;;;;;;;;x;
 VGR_proletarian_dictatorship;Vagrland;Vagrland;Vagrland;;;;;;;;;;;x;
@@ -1239,7 +1239,7 @@ SSX_ADJ;Sioux;x
 MIA;Miami;x
 MIA_ADJ;Miami;x
 HRN;Huron;x
-HRN_ADJ;Huroni;x
+HRN_ADJ;Huron;x
 FZZ;Fezzan;;;;;;;;;;;x;
 FZZ_proletarian_dictatorship;PRNS;;;;;;;;;;;;;x;
 FZZ_presidential_dictatorship;Fezzan;;;;;;;;;;;;;x;
@@ -1248,6 +1248,14 @@ FZZ_absolute_monarchy;Fezzan;;;;;;;;;;;;;x;
 FZZ_prussian_constitutionalism;Fezzan;;;;;;;;;;;;;x;
 FZZ_hms_government;Fezzan;;;;;;;;;;;;;x;
 FZZ_ADJ;Fezzani;;;;;;;;;;;x;
+SOK;Hausaland;;;;;;;;;;;x;
+SOK_proletarian_dictatorship;Hausaland;;;;;;;;;;;;;x;
+SOK_presidential_dictatorship;Hausaland;;;;;;;;;;;;;x;
+SOK_democracy;Hausaland;;;;;;;;;;;;;x;
+SOK_absolute_monarchy;Hausa Empire;;;;;;;;;;;;;x;
+SOK_prussian_constitutionalism;Hausa Empire;;;;;;;;;;;;;x;
+SOK_hms_government;Hausa Empire;;;;;;;;;;;;;x;
+SOK_ADJ;Hausa;;;;;;;;;;;x;
 TUN_absolute_monarchy;Hafsid Sultanate;;;;;;;;;;;;;x;
 TUN_prussian_constitutionalism;Hafsid Sultanate;;;;;;;;;;;;;x;
 TUN_hms_government;Hafsids;;;;;;;;;;;;;x;
@@ -1255,3 +1263,45 @@ TUN_ADJ;Tunisian;;;;;;;;;;;x;
 MOR_absolute_monarchy;Marinid Empire;;;;;;;;;;;;;x;
 MOR_prussian_constitutionalism;Marinid Empire;;;;;;;;;;;;;x;
 MOR_hms_government;Marinids;;;;;;;;;;;;;x;
+GBR;Gobir;x
+GBR_absolute_monarchy;Gobir Sultanate;;;;;;;;;;;;;x;
+GBR_ADJ;Gobiri;x
+HDR;Daura;x
+HDR_absolute_monarchy;Daura Emirate;;;;;;;;;;;;;x;
+HDR_ADJ;Daurayi;x
+HRO;Rano;x
+HRO_absolute_monarchy;Rano Emirate;;;;;;;;;;;;;x;
+HRO_ADJ;Ranoyi;x
+BYR;Yauri;x
+BYR_absolute_monarchy;Yauri Emirate;;;;;;;;;;;;;x;
+BYR_ADJ;Yauri;x
+KWF;Kwararafa;x
+KWF_ADJ;Kwararafa;x
+GWR;Gwari;x
+GWR_ADJ;Gwari;x
+TWT;Twat;x
+TWT_ADJ;Twati;x
+DAM;Maradi;x
+DAM_proletarian_dictatorship;Maradi;;;;;;;;;;;;;x;
+DAM_presidential_dictatorship;Maradi;;;;;;;;;;;;;x;
+DAM_democracy;Maradi;;;;;;;;;;;;;x;
+DAM_absolute_monarchy;Maradi Emirate;;;;;;;;;;;;;x;
+DAM_prussian_constitutionalism;Maradi Emirate;;;;;;;;;;;;;x;
+DAM_hms_government;Maradi Emirate;;;;;;;;;;;;;x;
+DAM_ADJ;Maradi;x
+TOU;Haalpulaar;;;;;;;;;;;x;
+TOU_proletarian_dictatorship;Union of Western Africa;;;;;;;;;;;;;x;
+TOU_presidential_dictatorship;Haalpulaar;;;;;;;;;;;;;x;
+TOU_democracy;Haalpulaar;;;;;;;;;;;;;x;
+TOU_absolute_monarchy;Sokkmasor Caliphate;;;;;;;;;;;;;x;
+TOU_prussian_constitutionalism;Sokkmasor Caliphate;;;;;;;;;;;;;x;
+TOU_hms_government;Sokkmasor Empire;;;;;;;;;;;;;x;
+TOU_ADJ;Fulani;;;;;;;;;;;x;inhlaba
+NGN;Mwenemutapa;;;;;;;;;;;x;
+NGN_proletarian_dictatorship;Union of South East Africa;;;;;;;;;;;;;x;
+NGN_presidential_dictatorship;Mwenemutapa;;;;;;;;;;;;;x;
+NGN_democracy;Mwenemutapa;;;;;;;;;;;;;x;
+NGN_absolute_monarchy;Mwenemutapa Empire;;;;;;;;;;;;;x;
+NGN_prussian_constitutionalism;Mwenemutapa Empire;;;;;;;;;;;;;x;
+NGN_hms_government;Mwenemutapa Empire;;;;;;;;;;;;;x;
+NGN_ADJ;Mwenemutapan;;;;;;;;;;;x;

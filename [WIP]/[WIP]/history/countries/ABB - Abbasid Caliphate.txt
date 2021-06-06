@@ -8,6 +8,7 @@ culture = yemeni_arabic
 culture = hejazi_arabic
 culture = yunani
 culture = bedouin
+culture = janubi
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0

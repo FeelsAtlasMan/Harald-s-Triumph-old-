@@ -684,6 +684,13 @@ vassal = {
 	end_date = 1937.1.1
 }
 
+vassal = {
+	first = MOR
+	second = TWT
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
 #Qasimids
 vassal = {
 	first = NYE
@@ -768,6 +775,14 @@ vassal = {
 vassal = {
 	first = TUN
 	second = GHD
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+#Futa Jallon
+vassal = {
+	first = JAL
+	second = MNH
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }

@@ -354,6 +354,171 @@ political_decisions = {
 		    factor = 1
 		}
 	}
+	
+	#Lunda
+	#Reform the traditional system
+	reform_lunda_administration = {
+	    picture = hausa_expansion3
+	    potential = {
+			tag = LUN
+			NOT = { has_country_flag = reformed_lunda }
+		}
+
+		allow = {
+			war = no
+			LBA = { vassal_of = THIS }
+			KZB = { vassal_of = THIS }
+			civilization_progress = 0.1
+		}
+
+		effect = {
+            inherit = LBA
+			inherit = KZB
+			years_of_research = 0.5
+			set_country_flag = reformed_lunda
+			add_accepted_culture = songe
+			add_accepted_culture = hemba
+		}
+
+		ai_will_do = {
+		    factor = 1
+		}
+	}
+	
+	#Defeat the Chokwe
+	reform_lunda_administration = {
+	    picture = hausa_expansion4
+	    potential = {
+			tag = LUN
+			NOT = { has_country_flag = chokwe_war }
+			has_country_flag = reformed_lunda
+		}
+
+		allow = {
+			war = no
+			LUN = { all_core = { owned_by = THIS } }
+		}
+
+		effect = {
+            CKW = { all_core = { add_core = THIS } }
+			set_country_flag = chokwe_war
+		}
+
+		ai_will_do = {
+		    factor = 1
+		}
+	}
+	
+	#Zaire (Kongo, Loango, Ndongo)
+	#Unite Zaire
+	unite_zaire = {
+	    picture = zaire_map
+	    potential = {
+			OR = {
+			   tag = KON
+			   tag = LOA
+			   tag = NDG
+			}
+			NOT = { has_global_flag = united_zaire }
+		}
+
+		allow = {
+			KON = { all_core = { owned_by = THIS } }
+			NDG = { all_core = { owned_by = THIS } }
+			LOA = { all_core = { owned_by = THIS } }
+			OR = {
+			   MTB = { all_core = { owned_by = THIS } }
+			   MTB = { vassal_of = THIS }
+			}
+		}
+
+		effect = {
+            KON = { all_core = { add_core = THIS } }
+			NDG = { all_core = { add_core = THIS } }
+			LOA = { all_core = { add_core = THIS } }
+			MTB = { all_core = { add_core = THIS } }
+			inherit = MTB
+			set_global_flag = united_zaire
+			add_accepted_culture = kimbundu
+			primary_culture = kongo
+		}
+
+		ai_will_do = {
+		    factor = 1
+		}
+	}
+	
+	#Establish closer ties with the rest of the muslim world/Send the young to study abroad
+	closer_ties_with_muslim_world = {
+	    picture = tanzania_shop
+	    potential = {
+			OR = {
+			   tag = KON
+			   tag = LOA
+			   tag = NDG
+			}
+			NOT = { has_country_flag = united_zaire }
+			has_global_flag = united_zaire
+		}
+
+		allow = {
+			OR = {
+			   relation = { who = MOR value = 150 }
+			   relation = { who = ABB value = 150 }
+			   relation = { who = MML value = 150 }
+			   relation = { who = TIM value = 150 }
+			   relation = { who = PER value = 150 }
+			}
+			NOT = {
+                 has_country_modifier = uncivilized_isolationism
+            }			
+		}
+
+		effect = {
+            economic_reform = yes_education_reform
+			economic_reform = yes_western_science
+			years_of_research = 2.5
+			add_country_modifier = {
+	                      name = missionary_activity
+	                      duration = 3650
+            }
+			capital_scope = { 
+			      add_country_modifier = {
+	                      name = foreign_trading_post
+	                      duration = 365
+                  }
+			}
+			set_country_flag = united_zaire
+		}
+
+		ai_will_do = {
+		    factor = 1
+		}
+	}
+	
+	#Defeat the Chokwe
+	reform_lunda_administration = {
+	    picture = hausa_expansion4
+	    potential = {
+			tag = LUN
+			NOT = { has_country_flag = chokwe_war }
+			has_country_flag = reformed_lunda
+		}
+
+		allow = {
+			war = no
+			LUN = { all_core = { owned_by = THIS } }
+		}
+
+		effect = {
+            CKW = { all_core = { add_core = THIS } }
+			set_country_flag = chokwe_war
+		}
+
+		ai_will_do = {
+		    factor = 1
+		}
+	}
 
 	#Meme Shit
 	invade_iran_swa = {

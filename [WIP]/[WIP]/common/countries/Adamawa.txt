@@ -2,7 +2,7 @@ color = { 134  191  92 }
 graphical_culture = AfricanGC
 
 party = {
-	name = "ADW_conservative"
+	name = "SOK_conservative"
 	start_date = 1800.1.1
 	end_date = 2000.1.1
 

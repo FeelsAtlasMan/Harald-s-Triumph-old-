@@ -497,37 +497,37 @@
 	}
 
 	aristocrats = {
-		culture = gumuz
+		culture = funj
 		religion = animist
 		size = 1470
 	}
 
 	clergymen = {
-		culture = gumuz
+		culture = funj
 		religion = animist
 		size = 170
 	}
 
 	artisans = {
-		culture = gumuz
+		culture = funj
 		religion = animist
 		size = 3150
 	}
 
 	soldiers = {
-		culture = gumuz
+		culture = funj
 		religion = animist
 		size = 3770
 	}
 
 	farmers = {
-		culture = gumuz
+		culture = funj
 		religion = animist
 		size = 12840
 	}
 
 	slaves = {
-		culture = gumuz
+		culture = funj
 		religion = animist
 		size = 5600
 	}
@@ -1526,7 +1526,19 @@
 	farmers = {
 		culture = oromo
 		religion = animist
-		size = 30000
+		size = 20000
+	}
+	
+	farmers = {
+		culture = funj
+		religion = animist
+		size = 8000
+	}
+	
+	farmers = {
+		culture = jebel
+		religion = animist
+		size = 2000
 	}
 	
 	aristocrats = {

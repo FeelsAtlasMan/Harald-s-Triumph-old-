@@ -1,0 +1,6 @@
+owner = TMB
+controller = TMB
+add_core = TMB
+terrain = oasis
+trade_goods = fruit
+life_rating = 20

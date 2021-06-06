@@ -3,43 +3,67 @@
 #Accra (132000/33000 POPS) #Danish Tradepost in 1836  
 1907 = {
 	aristocrats = {
-		culture = akan
+		culture = ga_dangme
 		religion = animist
-		size = 650
+		size = 300
 	}
 
 	clergymen = {
-		culture = akan
+		culture = ga_dangme
+		religion = animist
+		size = 125
+	}
+
+	artisans = {
+		culture = ga_dangme
 		religion = animist
 		size = 325
 	}
 
-	artisans = {
-		culture = akan
-		religion = animist
-		size = 1325
-	}
-
 	soldiers = {
-		culture = akan
+		culture = ga_dangme
 		religion = animist
 		size = 3000
 	}
 
-	soldiers = {
-		culture = akan
-		religion = animist
-		size = 1350
-	}
-
 	farmers = {
-		culture = akan
+		culture = ga_dangme
 		religion = animist
 		size = 20350
 	}
+	
+	aristocrats = {
+		culture = guang
+		religion = animist
+		size = 350
+	}
+
+	clergymen = {
+		culture = guang
+		religion = animist
+		size = 200
+	}
+
+	artisans = {
+		culture = guang
+		religion = animist
+		size = 1000
+	}
+
+	soldiers = {
+		culture = guang
+		religion = animist
+		size = 3000
+	}
+
+	farmers = {
+		culture = guang
+		religion = animist
+		size = 12350
+	}
 
 	slaves = {
-		culture = akan
+		culture = ewe
 		religion = animist
 		size = 6000
 	}
@@ -77,59 +101,108 @@
 	}
 
 	slaves = {
-		culture = akan
+		culture = guang
 		religion = animist
 		size = 2000
 	}
 }
-#Sekondi (88000/22000 POPS) #north_german Tradepost in 1836  
+#Sekondi (88000/22000 POPS) #Tradepost in 1836  
 1909 = {
-	aristocrats = {
-		culture = north_german
-		religion = protestant
-		size = 50
-	}
-	
-	bureaucrats = {
-		culture = north_german
-		religion = protestant
-		size = 20
-	}
 	
 	aristocrats = {
-		culture = akan
+		culture = bia
 		religion = animist
-		size = 425
+		size = 325
 	}
 	
 	bureaucrats = {
-		culture = akan
+		culture = bia
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = akan
+		culture = bia
 		religion = animist
-		size = 225
+		size = 125
 	}
 
 	artisans = {
-		culture = akan
+		culture = bia
 		religion = animist
-		size = 1100
+		size = 800
 	}
 
 	soldiers = {
-		culture = akan
+		culture = bia
 		religion = animist
 		size = 225
 	}
 
 	farmers = {
+		culture = bia
+		religion = animist
+		size = 10025
+	}
+	
+	aristocrats = {
+		culture = guang
+		religion = animist
+		size = 125
+	}
+	
+	clergymen = {
+		culture = guang
+		religion = animist
+		size = 100
+	}
+
+	artisans = {
+		culture = guang
+		religion = animist
+		size = 300
+	}
+
+	soldiers = {
+		culture = guang
+		religion = animist
+		size = 225
+	}
+
+	farmers = {
+		culture = guang
+		religion = animist
+		size = 6025
+	}
+	
+	aristocrats = {
 		culture = akan
 		religion = animist
-		size = 16025
+		size = 42
+	}
+
+	clergymen = {
+		culture = akan
+		religion = animist
+		size = 22
+	}
+
+	artisans = {
+		culture = akan
+		religion = animist
+		size = 110
+	}
+
+	soldiers = {
+		culture = akan
+		religion = animist
+		size = 25
+	}
+
+	farmers = {
+		culture = akan
+		religion = animist
+		size = 1025
 	}
 
 	slaves = {
@@ -163,19 +236,13 @@
 	clergymen = {
 		culture = akan
 		religion = animist
-		size = 2715
+		size = 2500
 	}
 
 	artisans = {
 		culture = akan
 		religion = animist
 		size = 10000
-	}
-	
-	artisans = {
-		culture = akan
-		religion = animist
-		size = 940
 	}
 
 	soldiers = {
@@ -184,16 +251,58 @@
 		size = 3000
 	}
 
-	soldiers = {
+	farmers = {
 		culture = akan
+		religion = animist
+		size = 192000
+	}
+	
+	clergymen = {
+		culture = guang
+		religion = animist
+		size = 100
+	}
+
+	artisans = {
+		culture = guang
+		religion = animist
+		size = 100
+	}
+
+	soldiers = {
+		culture = guang
+		religion = animist
+		size = 300
+	}
+
+	farmers = {
+		culture = guang
+		religion = animist
+		size = 4000
+	}
+	
+	clergymen = {
+		culture = bia
+		religion = animist
+		size = 215
+	}
+	
+	artisans = {
+		culture = bia
+		religion = animist
+		size = 940
+	}
+
+	soldiers = {
+		culture = bia
 		religion = animist
 		size = 1000
 	}
 
 	farmers = {
-		culture = akan
+		culture = bia
 		religion = animist
-		size = 214775
+		size = 18775
 	}
 
 	slaves = {
@@ -231,13 +340,49 @@
 	farmers = {
 		culture = akan
 		religion = animist
-		size = 94400
+		size = 62000
+	}
+	
+	farmers = {
+		culture = nafaanra
+		religion = animist
+		size = 8000
+	}
+	
+	farmers = {
+		culture = jogo
+		religion = sunni
+		size = 4400
+	}
+	
+	farmers = {
+		culture = guang
+		religion = animist
+		size = 20000
 	}
 
 	slaves = {
-		culture = akan
+		culture = na_togo
 		religion = animist
-		size = 24500
+		size = 10000
+	}
+	
+	slaves = {
+		culture = akebu
+		religion = animist
+		size = 2500
+	}
+	
+	slaves = {
+		culture = anii_adele
+		religion = animist
+		size = 8000
+	}
+	
+	slaves = {
+		culture = ka_togo
+		religion = animist
+		size = 4000
 	}
 }
 #Wa (564000/141000 POPS)  
@@ -245,95 +390,125 @@
 	aristocrats = {
 		culture = akan
 		religion = animist
-		size = 950
+		size = 650
 	}
 
 	clergymen = {
 		culture = akan
 		religion = animist
-		size = 525
+		size = 300
 	}
 
 	artisans = {
 		culture = akan
 		religion = animist
-		size = 2100
+		size = 1100
 	}
 
 	soldiers = {
 		culture = akan
 		religion = animist
-		size = 2000
+		size = 1000
 	}
 
 	farmers = {
 		culture = akan
 		religion = animist
-		size = 44400
+		size = 30000
+	}
+	
+	aristocrats = {
+		culture = guang
+		religion = animist
+		size = 350
+	}
+
+	clergymen = {
+		culture = guang
+		religion = animist
+		size = 225
+	}
+
+	artisans = {
+		culture = guang
+		religion = animist
+		size = 1000
+	}
+
+	soldiers = {
+		culture = guang
+		religion = animist
+		size = 1000
+	}
+
+	farmers = {
+		culture = guang
+		religion = animist
+		size = 14400
 	}
 
 	aristocrats = {
-		culture = gur
+		culture = akan
 		religion = animist
 		size = 1140
 	}
 
 	clergymen = {
-		culture = gur
+		culture = akan
 		religion = animist
 		size = 615
 	}
 
 	artisans = {
-		culture = gur
+		culture = akan
 		religion = animist
 		size = 2975
 	}
 
 	soldiers = {
-		culture = gur
+		culture = akan
 		religion = animist
 		size = 615
 	}
 
 	farmers = {
-		culture = gur
+		culture = akan
 		religion = animist
 		size = 54160
 	}
 
 	slaves = {
-		culture = dyula
+		culture = gurunsi
 		religion = sunni
 		size = 10500
 	}
 
 	aristocrats = {
-		culture = mossi
+		culture = gurunsi
 		religion = animist
 		size = 440
 	}
 
 	clergymen = {
-		culture = mossi
+		culture = gurunsi
 		religion = animist
 		size = 265
 	}
 
 	artisans = {
-		culture = mossi
+		culture = gurunsi
 		religion = animist
 		size = 1050
 	}
 
 	soldiers = {
-		culture = mossi
+		culture = gurunsi
 		religion = animist
 		size = 265
 	}
 
 	farmers = {
-		culture = mossi
+		culture = gurunsi
 		religion = animist
 		size = 19000
 	}
@@ -341,33 +516,39 @@
 #Tamale (212000/53000 POPS)  
 1913 = {
 	aristocrats = {
-		culture = gur
+		culture = birifor_dagara
 		religion = animist
 		size = 350
 	}
 
 	clergymen = {
-		culture = gur
+		culture = birifor_dagara
 		religion = animist
 		size = 175
 	}
 
 	artisans = {
-		culture = gur
+		culture = birifor_dagara
 		religion = animist
 		size = 1050
 	}
 
 	soldiers = {
-		culture = gur
+		culture = birifor_dagara
 		religion = animist
 		size = 760
 	}
 
 	farmers = {
-		culture = gur
+		culture = birifor_dagara
 		religion = animist
-		size = 38160
+		size = 30000
+	}
+	
+	farmers = {
+		culture = buli_konni
+		religion = animist
+		size = 8160
 	}
 
 	slaves = {
@@ -377,31 +558,31 @@
 	}
 
 	aristocrats = {
-		culture = mossi
+		culture = gurunsi
 		religion = animist
 		size = 615
 	}
 
 	clergymen = {
-		culture = mossi
+		culture = gurunsi
 		religion = animist
 		size = 350
 	}
 
 	artisans = {
-		culture = mossi
+		culture = gurunsi
 		religion = animist
 		size = 1315
 	}
 
 	soldiers = {
-		culture = mossi
+		culture = gurunsi
 		religion = animist
 		size = 350
 	}
 
 	farmers = {
-		culture = mossi
+		culture = gurunsi
 		religion = animist
 		size = 18375
 	}
@@ -411,39 +592,123 @@
 #Ho (420000/105000 POPS)  
 1915 = {
 	aristocrats = {
-		culture = akan
+		culture = guang
 		religion = animist
-		size = 790
+		size = 70
 	}
 
 	clergymen = {
-		culture = akan
+		culture = guang
 		religion = animist
 		size = 440
 	}
 
 	artisans = {
-		culture = akan
+		culture = guang
 		religion = animist
-		size = 1750
+		size = 150
 	}
 
 	soldiers = {
-		culture = akan
+		culture = guang
+		religion = animist
+		size = 40
+	}
+
+	farmers = {
+		culture = guang
+		religion = animist
+		size = 3600
+	}
+	
+	clergymen = {
+		culture = ga_dangme
+		religion = animist
+		size = 10
+	}
+
+	artisans = {
+		culture = ga_dangme
+		religion = animist
+		size = 50
+	}
+
+	soldiers = {
+		culture = ga_dangme
+		religion = animist
+		size = 40
+	}
+
+	farmers = {
+		culture = ga_dangme
+		religion = animist
+		size = 2000
+	}
+
+	clergymen = {
+		culture = akebu
+		religion = animist
+		size = 240
+	}
+
+	artisans = {
+		culture = akebu
+		religion = animist
+		size = 750
+	}
+
+	soldiers = {
+		culture = akebu
 		religion = animist
 		size = 440
 	}
 
 	farmers = {
-		culture = akan
+		culture = akebu
 		religion = animist
-		size = 31600
+		size = 9000
+	}
+	
+	clergymen = {
+		culture = ka_togo
+		religion = animist
+		size = 40
+	}
+
+	artisans = {
+		culture = ka_togo
+		religion = animist
+		size = 150
+	}
+
+	soldiers = {
+		culture = ka_togo
+		religion = animist
+		size = 440
+	}
+
+	farmers = {
+		culture = ka_togo
+		religion = animist
+		size = 6000
+	}
+	
+	slaves = {
+		culture = anii_adele
+		religion = animist
+		size = 3000
+	}
+	
+	slaves = {
+		culture = ka_togo
+		religion = animist
+		size = 2000
 	}
 
 	slaves = {
-		culture = akan
+		culture = na_togo
 		religion = animist
-		size = 7000
+		size = 2000
 	}
 
 	aristocrats = {
@@ -473,11 +738,11 @@
 	farmers = {
 		culture = ewe
 		religion = animist
-		size = 40425
+		size = 50425
 	}
 
 	slaves = {
-		culture = gur
+		culture = gurunsi
 		religion = animist
 		size = 17500
 	}
@@ -486,39 +751,81 @@
 #Yendi (128000/32000 POPS)  
 1916 = {
 	aristocrats = {
-		culture = gur
+		culture = dagbani
 		religion = animist
 		size = 440
 	}
 
 	clergymen = {
-		culture = gur
+		culture = dagbani
 		religion = animist
 		size = 265
 	}
 
 	artisans = {
-		culture = gur
+		culture = dagbani
 		religion = animist
 		size = 1315
 	}
 
 	soldiers = {
-		culture = gur
+		culture = dagbani
 		religion = animist
 		size = 840
 	}
 
 	farmers = {
+		culture = dagbani
+		religion = animist
+		size = 15000
+	}
+	
+	farmers = {
+		culture = ife_ede
+		religion = animist
+		size = 10000
+	}
+	
+	farmers = {
+		culture = gurunsi
+		religion = animist
+		size = 8000
+	}
+	
+	farmers = {
 		culture = gur
 		religion = animist
-		size = 22140
+		size = 10000
+	}
+	
+	farmers = {
+		culture = nawdm_yom
+		religion = animist
+		size = 6000
+	}
+	
+	slaves = {
+		culture = nawdm_yom
+		religion = animist
+		size = 4000
+	}
+	
+	farmers = {
+		culture = anii_adele
+		religion = animist
+		size = 4000
+	}
+	
+	farmers = {
+		culture = guang
+		religion = animist
+		size = 8140
 	}
 
 	slaves = {
-		culture = ewe
+		culture = mossi
 		religion = animist
-		size = 7000
+		size = 3000
 	}
 
 }
