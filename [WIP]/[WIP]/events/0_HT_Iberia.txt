@@ -429,3 +429,71 @@ country_event = {
 	}		
 	
 }
+
+country_event = { #Iberians sell muzzle loaded rifles to the Algaravians
+	id = 410007
+	title = "EVTNAME410007"
+	desc = "EVTDESC410007"
+	picture = "springfield1861"
+
+	is_triggered_only = yes 
+	
+	option = {
+		name = "EVTOPTA410007"
+		activate_technology = muzzle_loaded_rifles
+        ai_chance = {
+            factor = 100	
+        }
+	}	
+}
+
+country_event = { #Iberians sell breech loaded rifles to the Algaravians
+	id = 410008
+	title = "EVTNAME410008"
+	desc = "EVTDESC410008"
+	picture = "snider_enfield"
+
+	is_triggered_only = yes 
+	
+	option = {
+		name = "EVTOPTA410008"
+		activate_technology = breech_loaded_rifles
+        ai_chance = {
+            factor = 100	
+        }
+	}	
+}
+
+country_event = { #Iberians sell muzzle loaded artillery to the Algaravians
+	id = 410009
+	title = "EVTNAME410009"
+	desc = "EVTDESC410009"
+	picture = "9pr8cwt"
+
+	is_triggered_only = yes 
+	
+	option = {
+		name = "EVTOPTA410009"
+		activate_technology = iron_muzzle_loaded_artillery
+        ai_chance = {
+            factor = 100	
+        }
+	}	
+}
+
+country_event = { #Iberians sell breech loaded artillery to the Algaravians
+	id = 410010
+	title = "EVTNAME410010"
+	desc = "EVTDESC410010"
+	picture = "bl5inch"
+
+	is_triggered_only = yes 
+	
+	option = {
+		name = "EVTOPTA410010"
+		activate_technology = iron_breech_loaded_artillery
+        ai_chance = {
+            factor = 100	
+        }
+	}	
+}
