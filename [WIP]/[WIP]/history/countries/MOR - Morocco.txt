@@ -1,7 +1,8 @@
-capital = 1680
+capital = 1690
 primary_culture = maghrebi
-culture = berber
-culture = mozarabic
+culture = maures
+culture = saharan_arabic
+culture = algaravian
 religion = sunni
 government = absolute_monarchy
 plurality = 5.0
@@ -74,6 +75,7 @@ upper_house = {
 	communist = 0
 }
 
+decision = MOR_1836_setup
 set_country_flag = sunni_country
 
 govt_flag = {
