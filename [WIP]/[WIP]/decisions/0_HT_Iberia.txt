@@ -1,7 +1,5 @@
 political_decisions = {
 
-	#form_hispania
-	
 	supply_algaravians_1 = { ## Decision for Iberian nations to sell army tech to Granada
 		picture = minie
 		potential = { 
