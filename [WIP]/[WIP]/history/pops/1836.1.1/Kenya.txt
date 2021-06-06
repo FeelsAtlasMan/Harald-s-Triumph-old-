@@ -33,61 +33,67 @@
 	}
 
 	aristocrats = {
-		culture = nilotic
+		culture = turkana_sampur
 		religion = animist
 		size = 200
 	}
 
 	clergymen = {
-		culture = nilotic
+		culture = turkana_sampur
 		religion = animist
 		size = 100
 	}
 
 	artisans = {
-		culture = nilotic
+		culture = turkana_sampur
 		religion = animist
 		size = 550
 	}
 
 	soldiers = {
-		culture = nilotic
+		culture = turkana_sampur
 		religion = animist
 		size = 125
 	}
 
 	farmers = {
-		culture = nilotic
+		culture = turkana_sampur
 		religion = animist
-		size = 10025
+		size = 6025
+	}
+	
+	farmers = {
+		culture = pokot
+		religion = animist
+		size = 4000
 	}
 
 	aristocrats = {
-		culture = maasai
+		culture = oromo
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = maasai
+		culture = oromo
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = maasai
+		culture = oromo
 		religion = animist
 		size = 200
 	}
 
 	soldiers = {
-		culture = maasai
+		culture = oromo
 		religion = animist
 		size = 50
 	}
 
 	farmers = {
-		culture = maasai
+		culture = oromo
 		religion = animist
 		size = 3650
 	}
@@ -95,67 +101,67 @@
 #Lodwar (36000/9000 POPS)
 2026 = {
 	aristocrats = {
-		culture = luo
+		culture = turkana_sampur
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = luo
+		culture = turkana_sampur
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = luo
+		culture = turkana_sampur
 		religion = animist
 		size = 250
 	}
 
 	soldiers = {
-		culture = luo
+		culture = turkana_sampur
 		religion = animist
 		size = 75
 	}
 
 	farmers = {
-		culture = luo
+		culture = turkana_sampur
 		religion = animist
 		size = 4625
 	}
 
 	aristocrats = {
-		culture = maasai
+		culture = pokot
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = maasai
+		culture = pokot
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = maasai
+		culture = pokot
 		religion = animist
 		size = 150
 	}
 
 	soldiers = {
-		culture = maasai
+		culture = pokot
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = maasai
+		culture = pokot
 		religion = animist
 		size = 2700
 	}
 
 	slaves = {
-		culture = nilotic
+		culture = pokot
 		religion = animist
 		size = 1100
 	}
@@ -219,41 +225,41 @@
 	farmers = {
 		culture = maasai
 		religion = animist
-		size = 11725
+		size = 16725
 	}
 
 	aristocrats = {
-		culture = nilotic
+		culture = pokot
 		religion = animist
 		size = 150
 	}
 
 	clergymen = {
-		culture = nilotic
+		culture = pokot
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = nilotic
+		culture = pokot
 		religion = animist
 		size = 400
 	}
 
 	soldiers = {
-		culture = nilotic
+		culture = pokot
 		religion = animist
 		size = 75
 	}
 
 	farmers = {
-		culture = nilotic
+		culture = pokot
 		religion = animist
-		size = 7300
+		size = 2300
 	}
 
 	slaves = {
-		culture = nilotic
+		culture = pokot
 		religion = animist
 		size = 3000
 	}
@@ -288,41 +294,83 @@
 	farmers = {
 		culture = luo
 		religion = animist
-		size = 20350
+		size = 15000
 	}
-
+	
+	farmers = {
+		culture = pokot
+		religion = animist
+		size = 5350
+	}
+	
 	aristocrats = {
-		culture = lacustrine_bantu
+		culture = teso
 		religion = animist
 		size = 375
 	}
 
 	clergymen = {
-		culture = lacustrine_bantu
+		culture = teso
 		religion = animist
 		size = 200
 	}
 
 	artisans = {
-		culture = lacustrine_bantu
+		culture = teso
+		religion = animist
+		size = 775
+	}
+
+	soldiers = {
+		culture = teso
+		religion = animist
+		size = 300
+	}
+	
+	farmers = {
+		culture = teso
+		religion = animist
+		size = 3225
+	}
+
+	aristocrats = {
+		culture = luhya
+		religion = animist
+		size = 375
+	}
+
+	clergymen = {
+		culture = luhya
+		religion = animist
+		size = 200
+	}
+
+	artisans = {
+		culture = luhya
 		religion = animist
 		size = 1100
 	}
 
 	soldiers = {
-		culture = lacustrine_bantu
+		culture = luhya
 		religion = animist
-		size = 200
+		size = 1200
 	}
 
 	farmers = {
-		culture = lacustrine_bantu
+		culture = luhya
 		religion = animist
-		size = 18225
+		size = 38225
+	}
+	
+	farmers = {
+		culture = logooli_kuria
+		religion = animist
+		size = 20000
 	}
 
 	slaves = {
-		culture = lacustrine_bantu
+		culture = luhya
 		religion = animist
 		size = 7000
 	}
@@ -332,63 +380,131 @@
 #Marsabit (52000/13000 POPS
 2025 = {
 	aristocrats = {
-		culture = kikuyu
+		culture = oromo
 		religion = animist
 		size = 250
 	}
 
 	clergymen = {
-		culture = kikuyu
+		culture = oromo
 		religion = animist
 		size = 150
 	}
 
 	artisans = {
-		culture = kikuyu
+		culture = oromo
 		religion = animist
 		size = 650
 	}
 
 	soldiers = {
-		culture = kikuyu
+		culture = oromo
 		religion = animist
 		size = 125
 	}
 
 	farmers = {
-		culture = kikuyu
+		culture = oromo
 		religion = animist
-		size = 11875
+		size = 16875
+	}
+	
+	farmers = {
+		culture = turkana_sampur
+		religion = animist
+		size = 4875
 	}
 	
 	aristocrats = {
-		culture = oromo
-		religion = coptic
+		culture = rendille
+		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = oromo
-		religion = coptic
+		culture = rendille
+		religion = animist
 		size = 100
 	}
 
 	artisans = {
-		culture = oromo
-		religion = coptic
+		culture = rendille
+		religion = animist
 		size = 250
 	}
 
 	soldiers = {
-		culture = oromo
-		religion = coptic
+		culture = rendille
+		religion = animist
 		size = 100
 	}
 
 	farmers = {
+		culture = rendille
+		religion = animist
+		size = 6575
+	}
+}
+#Ijara (52000/13000 POPS
+3439 = {
+	aristocrats = {
 		culture = oromo
-		religion = coptic
-		size = 4575
+		religion = animist
+		size = 250
+	}
+
+	clergymen = {
+		culture = oromo
+		religion = animist
+		size = 150
+	}
+
+	artisans = {
+		culture = oromo
+		religion = animist
+		size = 650
+	}
+
+	soldiers = {
+		culture = oromo
+		religion = animist
+		size = 125
+	}
+
+	farmers = {
+		culture = oromo
+		religion = animist
+		size = 10875
+	}
+	
+	aristocrats = {
+		culture = somali
+		religion = animist
+		size = 100
+	}
+
+	clergymen = {
+		culture = somali
+		religion = animist
+		size = 100
+	}
+
+	artisans = {
+		culture = somali
+		religion = animist
+		size = 250
+	}
+
+	soldiers = {
+		culture = somali
+		religion = animist
+		size = 100
+	}
+
+	farmers = {
+		culture = somali
+		religion = animist
+		size = 1575
 	}
 }
 #Wajir (100000/25000 POPS)
@@ -462,61 +578,73 @@
 #Garissa (172000/43000 POPS)
 2032 = {
 	aristocrats = {
-		culture = kikuyu
+		culture = mijikenda
 		religion = animist
 		size = 650
 	}
 
 	clergymen = {
-		culture = kikuyu
+		culture = mijikenda
 		religion = animist
 		size = 375
 	}
 
 	artisans = {
-		culture = kikuyu
+		culture = mijikenda
 		religion = animist
 		size = 1750
 	}
 
 	soldiers = {
-		culture = kikuyu
+		culture = mijikenda
 		religion = animist
 		size = 350
 	}
 
 	farmers = {
-		culture = kikuyu
+		culture = mijikenda
 		religion = animist
-		size = 31875
+		size = 8875
+	}
+	
+	farmers = {
+		culture = oromo
+		religion = animist
+		size = 5000
+	}
+	
+	farmers = {
+		culture = kamba
+		religion = animist
+		size = 18000
 	}
 
 	aristocrats = {
-		culture = somali
+		culture = mijikenda
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = somali
+		culture = mijikenda
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = somali
+		culture = mijikenda
 		religion = sunni
 		size = 150
 	}
 
 	soldiers = {
-		culture = somali
+		culture = mijikenda
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = somali
+		culture = mijikenda
 		religion = sunni
 		size = 2700
 	}
@@ -540,77 +668,107 @@
 	artisans = {
 		culture = swahili
 		religion = sunni
-		size = 550
+		size = 5550
 	}
 
 	soldiers = {
 		culture = swahili
 		religion = sunni
-		size = 1100
+		size = 2100
 	}
 
 	farmers = {
 		culture = swahili
 		religion = sunni
-		size = 9150
+		size = 6150
+	}
+	
+	aristocrats = {
+		culture = shirazi
+		religion = sunni
+		size = 200
+	}
+
+	clergymen = {
+		culture = shirazi
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = shirazi
+		religion = sunni
+		size = 550
+	}
+	
+	farmers = {
+		culture = shirazi
+		religion = sunni
+		size = 150
 	}
 
 	aristocrats = {
-		culture = mashriqi
+		culture = swahili_arabic
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = swahili_arabic
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = swahili_arabic
 		religion = sunni
 		size = 300
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = swahili_arabic
 		religion = sunni
 		size = 50
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = swahili_arabic
 		religion = sunni
 		size = 500
 	}
 
 	aristocrats = {
-		culture = kikuyu
-		religion = animist
+		culture = mijikenda
+		religion = sunni
 		size = 175
 	}
 
 	clergymen = {
-		culture = kikuyu
-		religion = animist
+		culture = mijikenda
+		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = kikuyu
-		religion = animist
-		size = 500
+		culture = mijikenda
+		religion = sunni
+		size = 1500
 	}
 
 	soldiers = {
-		culture = kikuyu
-		religion = animist
-		size = 100
+		culture = mijikenda
+		religion = sunni
+		size = 2100
 	}
 
 	farmers = {
-		culture = kikuyu
+		culture = mijikenda
+		religion = sunni
+		size = 1125
+	}
+	
+	farmers = {
+		culture = mijikenda
 		religion = animist
 		size = 9125
 	}
@@ -618,7 +776,31 @@
 	slaves = {
 		culture = kikuyu
 		religion = animist
+		size = 1000
+	}
+	
+	slaves = {
+		culture = kamba
+		religion = animist
 		size = 3000
+	}
+	
+	slaves = {
+		culture = cushitic
+		religion = animist
+		size = 2000
+	}
+	
+	slaves = {
+		culture = mijikenda
+		religion = animist
+		size = 6000
+	}
+	
+	slaves = {
+		culture = maasai
+		religion = animist
+		size = 1000
 	}
 }
 #Lamu (100000/25000 POPS)
@@ -626,7 +808,7 @@
 	aristocrats = {
 		culture = swahili
 		religion = sunni
-		size = 225
+		size = 375
 	}
 
 	clergymen = {
@@ -638,88 +820,160 @@
 	artisans = {
 		culture = swahili
 		religion = sunni
-		size = 500
+		size = 7500
 	}
 
 	soldiers = {
 		culture = swahili
 		religion = sunni
-		size = 125
+		size = 2125
 	}
 
 	farmers = {
 		culture = swahili
 		religion = sunni
-		size = 10025
+		size = 13025
 	}
 
 	aristocrats = {
-		culture = cushitic
+		culture = mijikenda
 		religion = animist
-		size = 225
+		size = 75
 	}
 
 	clergymen = {
-		culture = cushitic
+		culture = mijikenda
 		religion = animist
 		size = 125
 	}
 
 	artisans = {
-		culture = cushitic
+		culture = mijikenda
 		religion = animist
 		size = 600
 	}
 
 	soldiers = {
-		culture = cushitic
+		culture = mijikenda
 		religion = animist
-		size = 125
+		size = 825
 	}
 
 	farmers = {
-		culture = cushitic
+		culture = mijikenda
 		religion = animist
-		size = 10925
+		size = 3000
+	}
+	
+	clergymen = {
+		culture = oromo
+		religion = animist
+		size = 15
+	}
+
+	artisans = {
+		culture = oromo
+		religion = animist
+		size = 60
+	}
+
+	soldiers = {
+		culture = oromo
+		religion = animist
+		size = 825
+	}
+	
+	farmers = {
+		culture = oromo
+		religion = animist
+		size = 925
+	}
+	
+	slaves = {
+		culture = kikuyu
+		religion = animist
+		size = 3000
 	}
 
 	slaves = {
-		culture = cushitic
+		culture = kamba
 		religion = animist
-		size = 2000
+		size = 1000
+	}
+	
+	slaves = {
+		culture = oromo
+		religion = animist
+		size = 5000
 	}
 }
 #uncolonized in 1836
 #Voi (104000/26000 POPS)
 2033 = {
 	aristocrats = {
-		culture = kikuyu
-		religion = animist
+		culture = swahili
+		religion = sunni
 		size = 475
 	}
 
 	clergymen = {
-		culture = kikuyu
-		religion = animist
+		culture = swahili
+		religion = sunni
 		size = 250
 	}
 
 	artisans = {
-		culture = kikuyu
-		religion = animist
+		culture = swahili
+		religion = sunni
 		size = 1300
 	}
 
 	soldiers = {
-		culture = kikuyu
-		religion = animist
-		size = 250
+		culture = swahili
+		religion = sunni
+		size = 850
 	}
 
 	farmers = {
-		culture = kikuyu
+		culture = swahili
+		religion = sunni
+		size = 8000
+	}
+	
+	aristocrats = {
+		culture = oromo
 		religion = animist
-		size = 23725
+		size = 75
+	}
+
+	clergymen = {
+		culture = oromo
+		religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = oromo
+		religion = animist
+		size = 100
+	}
+
+	soldiers = {
+		culture = oromo
+		religion = animist
+		size = 3050
+	}
+	
+	farmers = {
+		culture = oromo
+		religion = animist
+		size = 2725
+	}
+	
+	slaves = {
+		culture = oromo
+		religion = animist
+		size = 10000
 	}
 
 }

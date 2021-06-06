@@ -3,43 +3,79 @@
 #Douala (328000/82000 POPS)
 1956 = {
 	aristocrats = {
-		culture = forest_bantu
+		culture = sawabantu
 		religion = animist
-		size = 1675
+		size = 1000
 	}
 
 	officers = {
-		culture = forest_bantu
+		culture = sawabantu
 		religion = animist
-		size = 150
+		size = 50
 	}
 
 	clergymen = {
-		culture = forest_bantu
+		culture = sawabantu
 		religion = animist
-		size = 825
+		size = 200
 	}
 
 	artisans = {
-		culture = forest_bantu
+		culture = sawabantu
 		religion = animist
-		size = 3300
+		size = 1000
 	}
 
 	soldiers = {
-		culture = forest_bantu
+		culture = sawabantu
 		religion = animist
 		size = 825
 	}
 
 	farmers = {
-		culture = forest_bantu
+		culture = sawabantu
 		religion = animist
-		size = 61225
+		size = 40000
+	}
+	
+	aristocrats = {
+		culture = basaa
+		religion = animist
+		size = 675
+	}
+
+	officers = {
+		culture = basaa
+		religion = animist
+		size = 100
+	}
+
+	clergymen = {
+		culture = basaa
+		religion = animist
+		size = 625
+	}
+
+	artisans = {
+		culture = basaa
+		religion = animist
+		size = 2300
+	}
+
+	soldiers = {
+		culture = basaa
+		religion = animist
+		size = 825
+	}
+
+	farmers = {
+		culture = basaa
+		religion = animist
+		size = 31225
 	}
 
 	slaves = {
-		culture = fang
+		culture = basaa
 		religion = animist
 		size = 14000
 	}
@@ -47,37 +83,37 @@
 #Buea (224000/56000 POPS)
 1957 = {
 	aristocrats = {
-		culture = forest_bantu
+		culture = oroko
 		religion = animist
 		size = 1075
 	}
 
 	clergymen = {
-		culture = forest_bantu
+		culture = oroko
 		religion = animist
 		size = 550
 	}
 
 	artisans = {
-		culture = forest_bantu
+		culture = oroko
 		religion = animist
 		size = 2250
 	}
 
 	soldiers = {
-		culture = forest_bantu
+		culture = oroko
 		religion = animist
 		size = 550
 	}
 
 	farmers = {
-		culture = forest_bantu
+		culture = oroko
 		religion = animist
 		size = 39575
 	}
 
 	slaves = {
-		culture = fang
+		culture = sawabantu
 		religion = animist
 		size = 12000
 	}
@@ -85,73 +121,79 @@
 #Kribi (176000/44000 POPS)
 1958 = {
 	aristocrats = {
-		culture = forest_bantu
+		culture = kogo
 		religion = animist
 		size = 500
 	}
 
 	clergymen = {
-		culture = forest_bantu
+		culture = kogo
 		religion = animist
 		size = 250
 	}
 
 	artisans = {
-		culture = forest_bantu
+		culture = kogo
 		religion = animist
 		size = 1050
 	}
 
 	soldiers = {
-		culture = forest_bantu
+		culture = kogo
 		religion = animist
 		size = 275
 	}
 
 	farmers = {
-		culture = forest_bantu
+		culture = kogo
 		religion = animist
-		size = 20925
+		size = 18000
+	}
+	
+	farmers = {
+		culture = makaa_njem
+		religion = animist
+		size = 2925
 	}
 
 	slaves = {
-		culture = forest_bantu
+		culture = makaa_njem
 		religion = animist
 		size = 3000
 	}
 
 	aristocrats = {
-		culture = fang
+		culture = sawabantu
 		religion = animist
 		size = 325
 	}
 
 	clergymen = {
-		culture = fang
+		culture = sawabantu
 		religion = animist
 		size = 175
 	}
 
 	artisans = {
-		culture = fang
+		culture = sawabantu
 		religion = animist
 		size = 725
 	}
 
 	soldiers = {
-		culture = fang
+		culture = sawabantu
 		religion = animist
 		size = 175
 	}
 
 	farmers = {
-		culture = fang
+		culture = sawabantu
 		religion = animist
 		size = 11600
 	}
 
 	slaves = {
-		culture = fang
+		culture = basaa
 		religion = animist
 		size = 5000
 	}
@@ -161,31 +203,31 @@
 #Yaounde (344000/86000 POPS)
 1959 = {
 	aristocrats = {
-		culture = fang
+		culture = mbam
 		religion = animist
 		size = 525
 	}
 
 	clergymen = {
-		culture = fang
+		culture = mbam
 		religion = animist
 		size = 275
 	}
 
 	artisans = {
-		culture = fang
+		culture = mbam
 		religion = animist
 		size = 1125
 	}
 
 	soldiers = {
-		culture = fang
+		culture = mbam
 		religion = animist
 		size = 275
 	}
 
 	farmers = {
-		culture = fang
+		culture = mbam
 		religion = animist
 		size = 16800
 	}
@@ -197,37 +239,49 @@
 	}
 
 	aristocrats = {
-		culture = forest_bantu
+		culture = fang
 		religion = animist
 		size = 1150
 	}
 
 	clergymen = {
-		culture = forest_bantu
+		culture = fang
 		religion = animist
 		size = 575
 	}
 
 	artisans = {
-		culture = forest_bantu
+		culture = fang
 		religion = animist
 		size = 2325
 	}
 
 	soldiers = {
-		culture = forest_bantu
+		culture = fang
 		religion = animist
 		size = 600
 	}
 
 	farmers = {
-		culture = forest_bantu
+		culture = fang
 		religion = animist
-		size = 39350
+		size = 20000
+	}
+	
+	farmers = {
+		culture = basaa
+		religion = animist
+		size = 10350
+	}
+	
+	farmers = {
+		culture = makaa_njem
+		religion = animist
+		size = 9000
 	}
 
 	slaves = {
-		culture = tiv
+		culture = makaa_njem
 		religion = animist
 		size = 14000
 	}
@@ -261,43 +315,61 @@
 	farmers = {
 		culture = tiv
 		religion = sunni
-		size = 44450
+		size = 20000
+	}
+	
+	farmers = {
+		culture = oroko
+		religion = sunni
+		size = 14000
+	}
+	
+	farmers = {
+		culture = mbo
+		religion = animist
+		size = 10450
+	}
+	
+	slaves = {
+		culture = basaa
+		religion = animist
+		size = 10000
 	}
 
 	slaves = {
-		culture = tiv
+		culture = mbam
 		religion = animist
-		size = 19000
+		size = 9000
 	}
 }
 #Bertoua (320000/80000 POPS)
 1962 = {
 	aristocrats = {
-		culture = fang
+		culture = makaa_njem
 		religion = animist
 		size = 1225
 	}
 
 	clergymen = {
-		culture = fang
+		culture = makaa_njem
 		religion = animist
 		size = 625
 	}
 
 	artisans = {
-		culture = fang
+		culture = makaa_njem
 		religion = animist
 		size = 2500
 	}
 
 	soldiers = {
-		culture = fang
+		culture = makaa_njem
 		religion = animist
 		size = 625
 	}
 
 	farmers = {
-		culture = fang
+		culture = makaa_njem
 		religion = animist
 		size = 34025
 	}
@@ -309,31 +381,31 @@
 	}
 
 	aristocrats = {
-		culture = forest_bantu
+		culture = ubangian
 		religion = animist
 		size = 325
 	}
 
 	clergymen = {
-		culture = forest_bantu
+		culture = ubangian
 		religion = animist
 		size = 175
 	}
 
 	artisans = {
-		culture = forest_bantu
+		culture = ubangian
 		religion = animist
 		size = 725
 	}
 
 	soldiers = {
-		culture = forest_bantu
+		culture = ubangian
 		religion = animist
 		size = 175
 	}
 
 	farmers = {
-		culture = forest_bantu
+		culture = ubangian
 		religion = animist
 		size = 10600
 	}
@@ -342,46 +414,6 @@
 		culture = ubangian
 		religion = animist
 		size = 6000
-	}
-}
-#Kwararafa Region (372000) #see Nigeria.txt for balance of region   
-#uncolonized in 1836
-#Bamenda (372000/93000 POPS) #now part of Cameroun
-1961 = {
-	aristocrats = {
-		culture = tiv
-		religion = animist
-		size = 1850
-	}
-
-	clergymen = {
-		culture = tiv
-		religion = animist
-		size = 950
-	}
-
-	artisans = {
-		culture = tiv
-		religion = animist
-		size = 3725
-	}
-
-	soldiers = {
-		culture = tiv
-		religion = animist
-		size = 950
-	}
-
-	farmers = {
-		culture = tiv
-		religion = animist
-		size = 75575
-	}
-
-	slaves = {
-		culture = ibibio
-		religion = animist
-		size = 10000
 	}
 }
 #Adamawa Region (268000) #see Nigeria.txt for balance of region   
@@ -527,36 +559,6 @@
 		culture = hausa
 		religion = sunni
 		size = 20600
-	}
-
-	aristocrats = {
-		culture = bedouin
-		religion = sunni
-		size = 300
-	}
-
-	clergymen = {
-		culture = bedouin
-		religion = sunni
-		size = 200
-	}
-
-	artisans = {
-		culture = bedouin
-		religion = sunni
-		size = 1100
-	}
-
-	soldiers = {
-		culture = bedouin
-		religion = sunni
-		size = 200
-	}
-
-	farmers = {
-		culture = bedouin
-		religion = sunni
-		size = 18300
 	}
 
 	aristocrats = {

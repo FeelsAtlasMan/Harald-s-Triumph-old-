@@ -1036,6 +1036,13 @@ baby_boom = {
 	icon = 19
 }
 
+baby_boom_assimilation = {
+	population_growth = 0.006
+	assimilation_rate = 0.1
+	immigrant_attract = 0.5
+	icon = 19
+}
+
 global_baby_boom = {
 	global_population_growth = 0.006
 	icon = 17
@@ -1972,10 +1979,17 @@ irish_integration  = {
 ### Arabia ###
 
 rally_tribesmen = {
-	mobilisation_size = 0.76
+	mobilisation_size = 1.36
 	mobilisation_economy_impact = -0.7
 	core_pop_militancy_modifier = -0.1
 	war_exhaustion = -0.03
+	icon = 17
+}
+
+timurid_collapse = {
+	supply_consumption = 1.8
+	tax_efficiency = -0.8
+	mobilisation_size = -1.0
 	icon = 17
 }
 
@@ -3308,9 +3322,55 @@ sajungos_judejimas = {
 	icon = 7
 }
 
+huit_regles_du_commerce = {
+	tariff_efficiency_modifier = 0.15
+	tax_efficiency = 0.1
+	min_tariff = 0.15
+	icon = 9
+}
+
 algaravian_revolution = {
 	mobilisation_size = 0.02
 	supply_consumption = -0.2
 	war_exhaustion = -0.25
 	icon = 16
+}
+
+magiarisation = {
+	global_assimilation_rate = 0.2
+	supply_consumption = 0.05
+	min_social_spending = 0.2
+	icon = 7
+}
+
+nordic_monetary_union = {
+	tax_efficiency = 0.1
+	loan_interest = 0.05
+	icon = 7
+}
+
+anglo_saxon_integration = {
+	assimilation_rate = 1.5
+	icon = 19
+}
+
+drucki_lubecki_reforms = {
+	factory_owner_cost = -0.4
+	factory_cost = -0.6
+	factory_output = 0.05
+	icon = 19
+}
+moderinized_caroleans = {
+	supply_consumption = 0.25
+	land_organisation = 0.1
+	org_regain = 0.3
+	mobilisation_size = 0.1
+	icon = 7
+}
+
+mamluk_estates = {
+	population_growth = 0.002
+	local_RGO_output = 0.05
+	goods_demand = -0.05
+	icon = 1
 }

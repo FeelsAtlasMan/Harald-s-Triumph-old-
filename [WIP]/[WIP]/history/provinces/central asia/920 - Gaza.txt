@@ -1,7 +1,7 @@
-owner = ABB
-controller = ABB
-add_core = ABB
-add_core = PLS
+owner = URF
+controller = URF
+add_core = URF
+add_core = KDS
 trade_goods = grain
 life_rating = 35
 terrain = semidesert

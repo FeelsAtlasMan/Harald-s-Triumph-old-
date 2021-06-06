@@ -1,5 +1,0 @@
-owner = TIM
-controller = TIM
-trade_goods = wool
-life_rating = 35
-

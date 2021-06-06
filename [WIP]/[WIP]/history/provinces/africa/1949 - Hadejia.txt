@@ -1,6 +1,6 @@
-owner = KBO
-controller = KBO
-add_core = KBO
+owner = HJI
+controller = HJI
+add_core = HJI
 trade_goods = coal
 terrain = semidesert
 life_rating = 35

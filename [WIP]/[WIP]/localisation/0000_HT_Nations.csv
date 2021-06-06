@@ -15,7 +15,14 @@ SMK_reactionary;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 SMK_anarcho_liberal;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 SMK_socialist;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 SMK_communist;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-SMK_fascist;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+SMK_fascist;Fascists;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+ZOU_conservative;Conservatives;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+ZOU_liberal;Liberals;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+ZOU_reactionary;Reactionaries;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+ZOU_anarcho_liberal;Radicals;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+ZOU_socialist;Socalists;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+ZOU_communist;Communists;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+ZOU_fascist;Fascists;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 RYA;Ryazan Cossacks;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 RYA_ADJ;Ryazanian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 MUS;Muscowy;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
@@ -171,8 +178,8 @@ BRB_communist;Brabantiske Revolutionspartie;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 BRB_fascist;Nationalsotialistiske Partie;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 ALN;Alania;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 ALN_ADJ;Alanian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-URF;Urfa;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-URF_ADJ;Urfan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+URF;Milan Federation;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+URF_ADJ;Milani;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 CAL_colonial_company;West Coast Company;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 CAL;New Scotland;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 CAL_ADJ;Scottish;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
@@ -189,12 +196,13 @@ TUA_ADJ;Tuareg;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 KJP;Kirisuto Japan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 KJP_ADJ;Japanese;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 ANU;Andalusia;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+ANU_colonial_company;Wilaya of Al-Andalus;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 ANU_ADJ;Andalusian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 KOK;Argyn Zhuz;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 KOK_absolute_monarchy;Argyn Zhuz;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 KOK_hms_government;Argyn Zhuz;;;;;;;;;;;;x
 KOK_prussian_constitutionalism;Argyn Zhuz;;;;;;;;;;;;x
-KOK_ADJ;Kyrgyz;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+KOK_ADJ;Argyni;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 BRG;Arelat;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 BRG_ADJ;Burgundian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 BRG_conservative;Partij af Freideins;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
@@ -277,7 +285,7 @@ UKR_ADJ;Kievian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 VEN;Venice;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 VEN_ADJ;Venetian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 SIC;Naples;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-SIC_ADJ;Naples;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+SIC_ADJ;Neapolitan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 BSQ;Basque Country;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 BSQ_absolute_monarchy;Navarra;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 BSQ_hms_government;Navarra;;;;;;;;;;;;x
@@ -352,10 +360,12 @@ NNI;Daur;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 NNI_absolute_monarchy;Daur Khanate;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 NNI_hms_government;Daur Khanate;;;;;;;;;;;;x
 NNI_ADJ;Daur;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-VDB;Vidarbha;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-VDB_ADJ;Vidarbhian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-VDB;Vidarbha;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-VDB_ADJ;Vidarbhian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+VDB;Ahmednagar;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+VDB_ADJ;Ahmednagarian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+NAG;Bijapur;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+NAG_ADJ;Bijapurian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+BAS;Gondwana;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+BAS_ADJ;Gondwanian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 BIH_colonial_company;Putna;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 BNG_colonial_company;Gaur;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 MNP_colonial_company;Manipur-Tripura;;;;;;;;;;;;;;x;;;;;;;;;;;;;; 
@@ -465,11 +475,23 @@ RTH_absolute_monarchy;Great Ruthenia;;;;;;;;;;;;x
 RTH_hms_government;Great Ruthenia;;;;;;;;;;;;x
 RTH_prussian_constitutionalism;Great Ruthenia;;;;;;;;;;;;x
 RTH_ADJ;Ruthenian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-KAZ;Kazakhstan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-KAZ_absolute_monarchy;Üysin Zhuz;;;;;;;;;;;;x
-KAZ_hms_government;Üysin Zhuz;;;;;;;;;;;;x
-KAZ_prussian_constitutionalism;Üysin Zhuz;;;;;;;;;;;;x
+KAZ;Kyrgyzstan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+KAZ_absolute_monarchy;Kyrgyzstan;;;;;;;;;;;;x
+KAZ_hms_government;Kyrgyzstan;;;;;;;;;;;;x
+KAZ_prussian_constitutionalism;Kyrgyzstan;;;;;;;;;;;;x
 KAZ_ADJ;Kyrgyz;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+KML;Dulat Zhuz;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+KML_absolute_monarchy;Dulat Zhuz;;;;;;;;;;;;x
+KML_hms_government;Dulat Zhuz;;;;;;;;;;;;x
+KML_prussian_constitutionalism;Dulat Zhuz;;;;;;;;;;;;x
+KML_ADJ;Dulati;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+KML_conservative;Party of the Dulat Khan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+KML_liberal;Liberals;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+KML_reactionary;Reactionaries;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+KML_anarcho_liberal;Party of the Steppe;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+KML_socialist;Socialists;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+KML_communist;Communists;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+KML_fascist;Yurt Party;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 BGH;Volga Bulgharia;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 BGH_absolute_monarchy;Bulghar Khanate;;;;;;;;;;;;x
 BGH_hms_government;Bulghar Khanate;;;;;;;;;;;;x
@@ -520,6 +542,7 @@ NET_hms_government;Holland;;;;;;;;;;;;x
 NET_prussian_constitutionalism;Holland;;;;;;;;;;;;x
 NET_democracy;Holland;;;;;;;;;;;;x
 NET;Holland;;;;;;;;;;;;x
+NET_ADJ;Hollandish;;;;;;;;;;;;x
 GRI;Guria;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 GRI_absolute_monarchy;Guria;;;;;;;;;;;;x
 GRI_hms_government;Guria;;;;;;;;;;;;x
@@ -621,10 +644,10 @@ BDK_hms_government;Badakhshan Khanate;;;;;;;;;;;;x
 BDK_prussian_constitutionalism;Badakhshan Khanate;;;;;;;;;;;;x
 BDK_ADJ;Badakhshani;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 SST;Sistan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-SST_absolute_monarchy;Sistan;;;;;;;;;;;;x
-SST_hms_government;Sistan;;;;;;;;;;;;x
-SST_prussian_constitutionalism;Sistan;;;;;;;;;;;;x
-SST_ADJ;Sistani;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+SST_absolute_monarchy;Abdali Shahdom;;;;;;;;;;;;x
+SST_hms_government;Abdali Shahdom;;;;;;;;;;;;x
+SST_prussian_constitutionalism;Abdali Shahdom;;;;;;;;;;;;x
+SST_ADJ;Abdali;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 BLA;Bela;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 BLA_absolute_monarchy;Bela;;;;;;;;;;;;x
 BLA_hms_government;Bela;;;;;;;;;;;;x
@@ -642,3 +665,593 @@ TKO_hms_government;Turkoman Empire;;;;;;;;;;;;x
 TKO_prussian_constitutionalism;Turkoman Empire;;;;;;;;;;;;x
 TKO_republic;Tourkistan;;;;;;;;;;;;x
 TKO_ADJ;Turkoman;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+CZH;Sorbia;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+CZH_absolute_monarchy;Sorbia;;;;;;;;;;;;x
+CZH_hms_government;Sorbia;;;;;;;;;;;;x
+CZH_prussian_constitutionalism;Sorbia;;;;;;;;;;;;x
+CZH_republic;Republic of Sorbia;;;;;;;;;;;;x
+CZH_ADJ;Sorbia;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+WSX_ADJ;Wessexian;Wessexian;Wessexian;;;;;;;;;;;x;
+WSX;Wessex;Wessex;Wessex;;;;;;;;;;;x;
+WSX_proletarian_dictatorship;Wessex;Wessex;Wessex;;;;;;;;;;;x;
+WSX_presidential_dictatorship;Wessex;Wessex;Wessex;;;;;;;;;;;x;
+WSX_bourgeois_dictatorship;Wessex;Wessex;Wessex;;;;;;;;;;;x;
+WSX_fascist_dictatorship;Wessex;Wessex;Wessex;;;;;;;;;;;x;
+WSX_absolute_monarchy;Wessex;Wessex;Wessex;;;;;;;;;;;x;
+WSX_prussian_constitutionalism;Wessex;Wessex;Wessex;;;;;;;;;;;x;
+WSX_hms_government;Wessex;Wessex;Wessex;;;;;;;;;;;x;
+WSX_democracy;Wessex;Wessex;Wessex;;;;;;;;;;;x;
+WSX_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
+WSX_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
+WSX_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
+WSX_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
+WSX_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
+WSX_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
+WSX_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+WSX_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
+WSX_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
+SUX_ADJ;Sussex;Sussex;Sussex;;;;;;;;;;;x;
+SUX;Sussex;Sussex;Sussex;;;;;;;;;;;x;
+SUX_proletarian_dictatorship;Sussex;Sussex;Sussex;;;;;;;;;;;x;
+SUX_presidential_dictatorship;Sussex;Sussex;Sussex;;;;;;;;;;;x;
+SUX_bourgeois_dictatorship;Sussex;Sussex;Sussex;;;;;;;;;;;x;
+SUX_fascist_dictatorship;Sussex;Sussex;Sussex;;;;;;;;;;;x;
+SUX_absolute_monarchy;Sussex;Sussex;Sussex;;;;;;;;;;;x;
+SUX_prussian_constitutionalism;Sussex;Sussex;Sussex;;;;;;;;;;;x;
+SUX_hms_government;Sussex;Sussex;Sussex;;;;;;;;;;;x;
+SUX_democracy;Sussex;Sussex;Sussex;;;;;;;;;;;x;
+SUX_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
+SUX_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
+SUX_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
+SUX_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
+SUX_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
+SUX_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
+SUX_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+SUX_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
+SUX_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
+MRC_ADJ;Mercian;Mercian;Mercian;;;;;;;;;;;x;
+MRC;Mercia;Mercia;Mercia;;;;;;;;;;;x;
+MRC_proletarian_dictatorship;Mercia;Mercia;Mercia;;;;;;;;;;;x;
+MRC_presidential_dictatorship;Mercia;Mercia;Mercia;;;;;;;;;;;x;
+MRC_bourgeois_dictatorship;Mercia;Mercia;Mercia;;;;;;;;;;;x;
+MRC_fascist_dictatorship;Mercia;Mercia;Mercia;;;;;;;;;;;x;
+MRC_absolute_monarchy;Mercia;Mercia;Mercia;;;;;;;;;;;x;
+MRC_prussian_constitutionalism;Mercia;Mercia;Mercia;;;;;;;;;;;x;
+MRC_hms_government;Mercia;Mercia;Mercia;;;;;;;;;;;x;
+MRC_democracy;Mercia;Mercia;Mercia;;;;;;;;;;;x;
+MRC_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
+MRC_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
+MRC_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
+MRC_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
+MRC_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
+MRC_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
+MRC_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+MRC_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
+MRC_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
+ESX_ADJ;Essexian;Essexian;Essexian;;;;;;;;;;;x;
+ESX;Essex;Essex;Essex;;;;;;;;;;;x;
+ESX_proletarian_dictatorship;Essex;Essex;Essex;;;;;;;;;;;x;
+ESX_presidential_dictatorship;Essex;Essex;Essex;;;;;;;;;;;x;
+ESX_bourgeois_dictatorship;Essex;Essex;Essex;;;;;;;;;;;x;
+ESX_fascist_dictatorship;Essex;Essex;Essex;;;;;;;;;;;x;
+ESX_absolute_monarchy;Essex;Essex;Essex;;;;;;;;;;;x;
+ESX_prussian_constitutionalism;Essex;Essex;Essex;;;;;;;;;;;x;
+ESX_hms_government;Essex;Essex;Essex;;;;;;;;;;;x;
+ESX_democracy;Essex;Essex;Essex;;;;;;;;;;;x;
+ESX_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
+ESX_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
+ESX_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
+ESX_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
+ESX_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
+ESX_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
+ESX_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+ESX_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
+ESX_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
+KNT_ADJ;Kentian;Kentian;Kentian;;;;;;;;;;;x;
+KNT;Kent;Kent;Kent;;;;;;;;;;;x;
+KNT_proletarian_dictatorship;Kent;Kent;Kent;;;;;;;;;;;x;
+KNT_presidential_dictatorship;Kent;Kent;Kent;;;;;;;;;;;x;
+KNT_bourgeois_dictatorship;Kent;Kent;Kent;;;;;;;;;;;x;
+KNT_fascist_dictatorship;Kent;Kent;Kent;;;;;;;;;;;x;
+KNT_absolute_monarchy;Kent;Kent;Kent;;;;;;;;;;;x;
+KNT_prussian_constitutionalism;Kent;Kent;Kent;;;;;;;;;;;x;
+KNT_hms_government;Kent;Kent;Kent;;;;;;;;;;;x;
+KNT_democracy;Kent;Kent;Kent;;;;;;;;;;;x;
+KNT_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
+KNT_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
+KNT_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
+KNT_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
+KNT_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
+KNT_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
+KNT_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+KNT_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
+KNT_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
+ENG;Jorvik;Jorvik;Jorvik;;;;;;;;;;;x;
+ENG_ADJ;Jorvik;Jorvik;Jorvik;;;;;;;;;;;x;
+ENG_proletarian_dictatorship;Jorvik Commonwealth;Jorvik Commonwealth;Jorvik Commonwealth;;;;;;;;;;;x;
+ENG_presidential_dictatorship;Republic of Jorvik;Republic of Jorvik;Republic of Jorvik;;;;;;;;;;;x;
+ENG_bourgeois_dictatorship;Republic of Jorvik;Republic of Jorvik;Republic of Jorvik;;;;;;;;;;;x;
+ENG_fascist_dictatorship;Republic of Jorvik;Republic of Jorvik;Republic of Jorvik;;;;;;;;;;;x;
+ENG_absolute_monarchy;Kingdom of Jorvik;Kingdom of Jorvik;Kingdom of Jorvik;;;;;;;;;;;x;
+ENG_prussian_constitutionalism;Kingdom of Jorvik;Kingdom of Jorvik;Kingdom of Jorvik;;;;;;;;;;;x;
+ENG_hms_government;Kingdom of Jorvik;Kingdom of Jorvik;Kingdom of Jorvik;;;;;;;;;;;x;
+ENG_democracy;Republic of Jorvik;Republic of Jorvik;Republic of Jorvik;;;;;;;;;;;x;
+ALH;Al-Ahsa;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+ALH_absolute_monarchy;Al-Ahsa;;;;;;;;;;;;x
+ALH_hms_government;Al-Ahsa;;;;;;;;;;;;x
+ALH_prussian_constitutionalism;Al-Ahsa;;;;;;;;;;;;x
+ALH_republic;Al-Ahsa;;;;;;;;;;;;x
+ALH_ADJ;Ahsan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TKS;Turan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TKS_ADJ;Turanian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+MDS;Medistan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+MDS_absolute_monarchy;Median Empire;;;;;;;;;;;;x
+MDS_hms_government;Median Empire;;;;;;;;;;;;x
+MDS_prussian_constitutionalism;Median Empire;;;;;;;;;;;;x
+MDS_republic;Medistan;;;;;;;;;;;;x
+MDS_ADJ;Median;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+RUM;Anatolia;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+RUM_absolute_monarchy;Rum Sultanate;;;;;;;;;;;;x
+RUM_hms_government;Rum Sultanate;;;;;;;;;;;;x
+RUM_prussian_constitutionalism;Rum Sultanate;;;;;;;;;;;;x
+RUM_republic;Anatolia;;;;;;;;;;;;x
+RUM_ADJ;Rumi;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TCA;UNC;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TCA_absolute_monarchy;Caucasian Imamate;;;;;;;;;;;;x
+TCA_hms_government;Caucasian Imamate;;;;;;;;;;;;x
+TCA_prussian_constitutionalism;Caucasian Imamate;;;;;;;;;;;;x
+TCA_republic;UNC;;;;;;;;;;;;x
+TCA_ADJ;Caucasian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+ALW;Aghwank;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+ALW_ADJ;Aghwank;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+GJR;Gujarat;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+GJR_ADJ;Gujarati;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+DCC;Deccan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+DCC_ADJ;Deccani;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+WDD;Waddai;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+WDD_ADJ;Waddaian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TOO;Fulani Imamate;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TOO_absolute_monarchy;Fulani Sultanate;;;;;;;;;;;;x
+TOO_hms_government;Fulani Sultanate;;;;;;;;;;;;x
+TOO_prussian_constitutionalism;Fulani Sultanate;;;;;;;;;;;;x
+TOO_republic;Fulani Republic;;;;;;;;;;;;x
+TOO_ADJ;Fulani;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TRZ;Beni Hassan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TRZ_colonial_company;Beni Hassan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TRZ_absolute_monarchy;Beni Hassan;;;;;;;;;;;;x
+TRZ_hms_government;Beni Hassan;;;;;;;;;;;;x
+TRZ_prussian_constitutionalism;Beni Hassan;;;;;;;;;;;;x
+TRZ_republic;Mauretania;;;;;;;;;;;;x
+TRZ_ADJ;Mauretanian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+BBB;Beni Abbas;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+BBB_ADJ;Abbasid;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+ZYD;Zayyanids;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+ZYD_ADJ;Zayyanid;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+MZB;M'zab;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+MZB_ADJ;Mzabian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+MTF_colonial_company;Tafilalt;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+MTF;Alawites;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+MTF_absolute_monarchy;Alawite Sultanate;;;;;;;;;;;;x
+MTF_hms_government;Alawites;;;;;;;;;;;;x
+MTF_prussian_constitutionalism;Alawites;;;;;;;;;;;;x
+MTF_republic;Morocco;;;;;;;;;;;;x
+MTF_ADJ;Alawite;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+ALD;Orania;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+ALD_absolute_monarchy;Yifranid Sultanate;;;;;;;;;;;;x
+ALD_hms_government;Yifranids;;;;;;;;;;;;x
+ALD_prussian_constitutionalism;Yifranids;;;;;;;;;;;;x
+ALD_republic;Orania;;;;;;;;;;;;x
+ALD_ADJ;Oranian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TMB;Timbuktu;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TMB_colonial_company;Wilaya of Timbuktu;;;;;;;;;;;;x
+TRZ_ADJ;Timbuktian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TBT;Tibesti;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TBT_ADJ;Tibestian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+FTM;Fatimid Caliphate;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+FTM_ADJ;Fatimid;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+NYE;North Yemen;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+NYE_absolute_monarchy;Qasimids;;;;;;;;;;;;x
+NYE_hms_government;Qasimids;;;;;;;;;;;;x
+NYE_prussian_constitutionalism;Qasimids;;;;;;;;;;;;x
+NYE_ADJ;Qasimid;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+AZH;Anizzah;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+AZH_absolute_monarchy;Anizzah Sheikhdom;;;;;;;;;;;;x
+AZH_hms_government;Anizzah Sheikhdom;;;;;;;;;;;;x
+AZH_prussian_constitutionalism;Anizzah Sheikhdom;;;;;;;;;;;;x
+AZH_ADJ;Anizzah;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+SYR;Sham;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+SYR_absolute_monarchy;Sham;;;;;;;;;;;;x
+SYR_hms_government;Sham;;;;;;;;;;;;x
+SYR_prussian_constitutionalism;Sham;;;;;;;;;;;;x
+SYR_ADJ;Shami;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+SLV_absolute_monarchy;Nitra;;;;;;;;;;;;x
+SLV_hms_government;Nitra;;;;;;;;;;;;x
+SLV_prussian_constitutionalism;Nitra;;;;;;;;;;;;x
+KRA_absolute_monarchy;Malopolska;;;;;;;;;;;;x
+KRA_hms_government;Malopolska;;;;;;;;;;;;x
+KRA_prussian_constitutionalism;Malopolska;;;;;;;;;;;;x
+KRA;Malopolska;;;;;;;;;;;;x
+KRA_democracy;Malopolska;;;;;;;;;;;;x
+CPL_absolute_monarchy;Masovia;;;;;;;;;;;;x
+CPL_hms_government;Masovia;;;;;;;;;;;;x
+CPL_prussian_constitutionalism;Masovia;;;;;;;;;;;;x
+CPL_democracy;Masovia;;;;;;;;;;;;x
+GER_absolute_monarchy;The Kingdom of Germany;;;;;;;;;;;;x
+GER_hms_government;The Kingdom of Germany;;;;;;;;;;;;x
+GER_prussian_constitutionalism;The Kingdom of Germany;;;;;;;;;;;;x
+AST;Suori jöro;;;;;;;;;;;;x
+AST_absolute_monarchy;Suori jöro;;;;;;;;;;;;x
+AST_hms_government;Suori jöro;;;;;;;;;;;;x
+AST_prussian_constitutionalism;Suori jöro;;;;;;;;;;;;x
+AST_democracy;Suori jöro;;;;;;;;;;;;x
+AST_proleterian_dictatorship;Suori jöro;;;;;;;;;;;;x
+AST_fascist_dictatorship;Suori jöro;;;;;;;;;;;;x
+AST_colonial_company;Suori jöro;;;;;;;;;;;;x
+AST_dominion;Suori jöro;;;;;;;;;;;;x
+VGR_ADJ;Vagr;Vagr;Vagr;;;;;;;;;;;x;
+VGR;Vagrland;Vagrland;Vagrland;;;;;;;;;;;x;
+VGR_proletarian_dictatorship;Vagrland;Vagrland;Vagrland;;;;;;;;;;;x;
+VGR_presidential_dictatorship;Vagrland;Vagrland;Vagrland;;;;;;;;;;;x;
+VGR_bourgeois_dictatorship;Vagrland;Vagrland;Vagrland;;;;;;;;;;;x;
+VGR_fascist_dictatorship;Vagrland;Vagrland;Vagrland;;;;;;;;;;;x;
+VGR_absolute_monarchy;Vagrland;Vagrland;Vagrland;;;;;;;;;;;x;
+VGR_prussian_constitutionalism;Vagrland;Vagrland;Vagrland;;;;;;;;;;;x;
+VGR_hms_government;Vagrland;Vagrland;Vagrland;;;;;;;;;;;x;
+VGR_democracy;Vagrland;Vagrland;Vagrland;;;;;;;;;;;x;
+VGR_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
+VGR_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
+VGR_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
+VGR_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
+VGR_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
+VGR_reactionary_78;Reactionaries;Reactionaries;Reactionaries;;;;;;;;;;;x;
+VGR_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+VGR_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
+VGR_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
+ANC;Ancona;;;;;;;;;;;;x
+ANC_ADJ;Anconan;;;;;;;;;;;;x
+ANC_democracy;Republic of Ancona;;;;;;;;;;;;x
+SWI;Milan;;;;;;;;;;;;x
+SWI_democracy;Golden Ambrosian Republic;;;;;;;;;;;;x
+SWI_ADJ;Ambrosian;;;;;;;;;;;;x
+SNA;Siena;;;;;;;;;;;;x
+SNA_ADJ;Sienese;;;;;;;;;;;;x
+SNA_democracy;Republic of Siena;;;;;;;;;;;;x
+TUS;Florence;;;;;;;;;;;;x
+TUS_ADJ;Florentine;;;;;;;;;;;;x
+TUS_democracy;Florentine Republic;;;;;;;;;;;;x
+ABA;Alba;;;;;;;;;;;;x
+ABA_ADJ;Alban;;;;;;;;;;;;x
+FRR;Ferrara;;;;;;;;;;;;x
+FRR_ADJ;Ferraran;;;;;;;;;;;;x
+MTU;Mantua;;;;;;;;;;;;x
+MTU_ADJ;Mantuan;;;;;;;;;;;;x
+MTU_absolute_monarchy;The Duchy of Mantua;;;;;;;;;;;;x
+MTU_prussian_constitutionalism;The Duchy of Mantua;;;;;;;;;;;;x
+MTU_hms_government;The Duchy of Mantua;;;;;;;;;;;;x
+RGU;Ragusa;;;;;;;;;;;;x
+RGU_democracy;Republic of Ragusa;;;;;;;;;;;;x
+RGU_ADJ;Ragusan;;;;;;;;;;;;x
+NLI;Noli;;;;;;;;;;;;x
+NLI_democracy;The Republic of Noli;;;;;;;;;;;;x
+NLI_ADJ;Nolian;;;;;;;;;;;;x
+ATI;Asti;;;;;;;;;;;;x
+ATI_ADJ;Astese;;;;;;;;;;;;x
+MFT;Montferrat;;;;;;;;;;;;x
+MFT_ADJ;Montferratese;;;;;;;;;;;;x
+PVI;Pavia;;;;;;;;;;;;x
+PVI_ADJ;Pavian;;;;;;;;;;;;x
+MML;Mamluks;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+MML_absolute_monarchy;Mamluks;;;;;;;;;;;;x
+MML_hms_government;Mamluks;;;;;;;;;;;;x
+MML_prussian_constitutionalism;Mamluks;;;;;;;;;;;;x
+MML_ADJ;Mamlukian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+DMC;Damascus;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+DMC_colonial_company;Wilaya of Dimashq;;;;;;;;;;;;x
+DMC_absolute_monarchy;Dimashq Emirate;;;;;;;;;;;;x
+DMC_hms_government;Dimashq Emirate;;;;;;;;;;;;x
+DMC_prussian_constitutionalism;Dimashq Emirate;;;;;;;;;;;;x
+DMC_ADJ;Damascusian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+HDJ;Hejaz;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+HDJ_colonial_company;Wilaya of Hejaz;;;;;;;;;;;;x
+HDJ_absolute_monarchy;Hejaz Emirate;;;;;;;;;;;;x
+HDJ_hms_government;Hejaz Emirate;;;;;;;;;;;;x
+HDJ_prussian_constitutionalism;Hejaz Emirate;;;;;;;;;;;;x
+HDJ_ADJ;Hejazi;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TRI_colonial_company;Wilaya of Tripoli;;;;;;;;;;;;x
+MDB;Medri Bahri;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+MDB_absolute_monarchy;Medri Bahri;;;;;;;;;;;;x
+MDB_hms_government;Medri Bahri;;;;;;;;;;;;x
+MDB_prussian_constitutionalism;Medri Bahri;;;;;;;;;;;;x
+MDB_ADJ;Bahrian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+AGW;Agew;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+AGW_ADJ;Agewi;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+GJM;Gojjam;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+GJM_ADJ;Gojjami;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+INY;Innarya;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+INY_ADJ;Innaryi;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+MLO;Mello;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+MLO_ADJ;Melloyi;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+ORM;Oromiya;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+ORM_absolute_monarchy;Bale;;;;;;;;;;;;x
+ORM_hms_government;Bale;;;;;;;;;;;;x
+ORM_prussian_constitutionalism;Bale;;;;;;;;;;;;x
+ORM_ADJ;Oromiyan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+OGD;Ogaden;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+OGD_absolute_monarchy;Makahil;;;;;;;;;;;;x
+OGD_hms_government;Makahil;;;;;;;;;;;;x
+OGD_prussian_constitutionalism;Makahil;;;;;;;;;;;;x
+OGD_ADJ;Ogadenian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+SMN;Semien;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+SMN_ADJ;Semienian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+RRI;Rer Ishak;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+RRI_ADJ;Ishakian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+JMM;Jimma;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+JMM_ADJ;Jimmayan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+ADL;Adal;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+ADL_absolute_monarchy;Adal Sultanate;;;;;;;;;;;;x
+ADL_hms_government;Adal Sultanate;;;;;;;;;;;;x
+ADL_prussian_constitutionalism;Adal Sultanate;;;;;;;;;;;;x
+ADL_ADJ;Adali;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+JWE;Beta Isreal;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+JWE_absolute_monarchy;Kingdom of Solomon;;;;;;;;;;;;x
+JWE_hms_government;Kingdom of Solomon;;;;;;;;;;;;x
+JWE_prussian_constitutionalism;Kingdom of Solomon;;;;;;;;;;;;x
+JWE_ADJ;Judean;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+WLL_ADJ;Hainaut;Hainaut;Hainaut;;;;;;;;;;;x;
+WLL;Hainaut;Hainaut;Hainaut;;;;;;;;;;;x;
+WLL_proletarian_dictatorship;Hainaut;Hainaut;Hainaut;;;;;;;;;;;x;
+WLL_presidential_dictatorship;Hainaut;Hainaut;Hainaut;;;;;;;;;;;x;
+WLL_bourgeois_dictatorship;Hainaut;Hainaut;Hainaut;;;;;;;;;;;x;
+WLL_fascist_dictatorship;Hainaut;Hainaut;Hainaut;;;;;;;;;;;x;
+WLL_absolute_monarchy;Hainaut;Hainaut;Hainaut;;;;;;;;;;;x;
+WLL_prussian_constitutionalism;Hainaut;Hainaut;Hainaut;;;;;;;;;;;x;
+WLL_hms_government;Hainaut;Hainaut;Hainaut;;;;;;;;;;;x;
+WLL_democracy;Hainaut;Hainaut;Hainaut;;;;;;;;;;;x;
+SGF_ADJ;Lotharingia;Lotharingia;Lotharingia;;;;;;;;;;;x;
+SGF;Lotharingia;Lotharingia;Lotharingia;;;;;;;;;;;x;
+SGF_proletarian_dictatorship;Lotharingia;Lotharingia;Lotharingia;;;;;;;;;;;x;
+SGF_presidential_dictatorship;Lotharingia;Lotharingia;Lotharingia;;;;;;;;;;;x;
+SGF_bourgeois_dictatorship;Lotharingia;Lotharingia;Lotharingia;;;;;;;;;;;x;
+SGF_fascist_dictatorship;Lotharingia;Lotharingia;Lotharingia;;;;;;;;;;;x;
+SGF_absolute_monarchy;Lotharingia;Lotharingia;Lotharingia;;;;;;;;;;;x;
+SGF_prussian_constitutionalism;Lotharingia;Lotharingia;Lotharingia;;;;;;;;;;;x;
+SGF_hms_government;Lotharingia;Lotharingia;Lotharingia;;;;;;;;;;;x;
+SGF_democracy;Lotharingia;Lotharingia;Lotharingia;;;;;;;;;;;x;
+ATH_ADJ;Athenian;Athenian;Athenian;;;;;;;;;;;x;
+ATH;Athens;Athens;Athens;;;;;;;;;;;x;
+ATH_proletarian_dictatorship;Athens;Athens;Athens;;;;;;;;;;;x;
+ATH_presidential_dictatorship;Athens;Athens;Athens;;;;;;;;;;;x;
+ATH_bourgeois_dictatorship;Athens;Athens;Athens;;;;;;;;;;;x;
+ATH_fascist_dictatorship;Athens;Athens;Athens;;;;;;;;;;;x;
+ATH_absolute_monarchy;Athens;Athens;Athens;;;;;;;;;;;x;
+ATH_prussian_constitutionalism;Athens;Athens;Athens;;;;;;;;;;;x;
+ATH_hms_government;Athens;Athens;Athens;;;;;;;;;;;x;
+ATH_democracy;Athens;Athens;Athens;;;;;;;;;;;x;
+ATH_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
+ATH_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
+ATH_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
+ATH_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
+ATH_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
+ATH_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
+ATH_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+ATH_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
+ATH_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
+MRE_ADJ;Morean;Morean;Morean;;;;;;;;;;;x;
+MRE;Morea;Morea;Morea;;;;;;;;;;;x;
+MRE_proletarian_dictatorship;Morea;Morea;Morea;;;;;;;;;;;x;
+MRE_presidential_dictatorship;Morea;Morea;Morea;;;;;;;;;;;x;
+MRE_bourgeois_dictatorship;Morea;Morea;Morea;;;;;;;;;;;x;
+MRE_fascist_dictatorship;Morea;Morea;Morea;;;;;;;;;;;x;
+MRE_absolute_monarchy;Morea;Morea;Morea;;;;;;;;;;;x;
+MRE_prussian_constitutionalism;Morea;Morea;Morea;;;;;;;;;;;x;
+MRE_hms_government;Morea;Morea;Morea;;;;;;;;;;;x;
+MRE_democracy;Morea;Morea;Morea;;;;;;;;;;;x;
+MRE_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
+MRE_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
+MRE_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
+MRE_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
+MRE_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
+MRE_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
+MRE_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+MRE_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
+MRE_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
+EPI;Epirus;;;;;;;;;;;x;
+EPI_ADJ;Epirote;;;;;;;;;;;x;
+VND;Venda;;;;;;;;;;;x;
+VND_ADJ;Venda;;;;;;;;;;;x;
+ZOU;Yao;;;;;;;;;;;x;
+ZOU_ADJ;Yao;;;;;;;;;;;x;
+NYM;Nyamwezi;;;;;;;;;;;x;
+NYM_ADJ;Nyamwezi;;;;;;;;;;;x;
+GGO;Gogo;;;;;;;;;;;x;
+GGO_ADJ;Gogo;;;;;;;;;;;x;
+KLW;Kilwa;;;;;;;;;;;x;
+KLW_absolute_monarchy;Kilwa Sultanate;;;;;;;;;;;;;x;
+KLW_prussian_constitutionalism;Kilwa Sultanate;;;;;;;;;;;;;x;
+KLW_hms_government;Kilwa Sultanate;;;;;;;;;;;;;x;
+KLW_ADJ;Kilwani;;;;;;;;;;;x;
+ZAN_absolute_monarchy;Zanzibar Sultanate;;;;;;;;;;;;;x;
+ZAN_prussian_constitutionalism;Zanzibar Sultanate;;;;;;;;;;;;;x;
+ZAN_hms_government;Zanzibar Sultanate;;;;;;;;;;;;;x;
+SFL;Sofala;;;;;;;;;;;x;
+SFL_absolute_monarchy;Sofala Sultanate;;;;;;;;;;;;;x;
+SFL_prussian_constitutionalism;Sofala Sultanate;;;;;;;;;;;;;x;
+SFL_hms_government;Sofala Sultanate;;;;;;;;;;;;;x;
+SFL_ADJ;Sofalani;;;;;;;;;;;x;
+MHJ;Mahajanga;;;;;;;;;;;x;
+MHJ_absolute_monarchy;Mahajanga Sultanate;;;;;;;;;;;;;x;
+MHJ_prussian_constitutionalism;Mahajanga Sultanate;;;;;;;;;;;;;x;
+MHJ_hms_government;Mahajanga Sultanate;;;;;;;;;;;;;x;
+MHJ_ADJ;Mahajangani;;;;;;;;;;;x;
+MBS;Mombasa;;;;;;;;;;;x;
+MBS_absolute_monarchy;Mombasa Sultanate;;;;;;;;;;;;;x;
+MBS_prussian_constitutionalism;Mombasa Sultanate;;;;;;;;;;;;;x;
+MBS_hms_government;Mombasa Sultanate;;;;;;;;;;;;;x;
+MBS_ADJ;Mombasani;;;;;;;;;;;x;
+KGW;Karagwe;;;;;;;;;;;x;
+KGW_ADJ;Ragwe;;;;;;;;;;;x;
+NKL;Nkale;;;;;;;;;;;x;
+NKL_ADJ;Runyankole;;;;;;;;;;;x;
+ITS;Iteso;;;;;;;;;;;x;
+ITS_ADJ;Iteso;;;;;;;;;;;x;
+BTS;Barotse Kingdom;;;;;;;;;;;x;
+BTS_ADJ;Barotse;;;;;;;;;;;x;
+BBM;Bemba;;;;;;;;;;;x;
+BBM_ADJ;Bemba;;;;;;;;;;;x;
+CKW;Chokwe;;;;;;;;;;;x;
+CKW_ADJ;Chokwe;;;;;;;;;;;x;
+OVB;Ovimbundu;;;;;;;;;;;x;
+OVB_ADJ;Ovimbundu;;;;;;;;;;;x;
+UTT;Utetera;;;;;;;;;;;x;
+UTT_absolute_monarchy;Utetera Sultanate;;;;;;;;;;;;;x;
+UTT_prussian_constitutionalism;Utetera Sultanate;;;;;;;;;;;;;x;
+UTT_hms_government;Utetera Sultanate;;;;;;;;;;;;;x;
+UTT_ADJ;Uteterani;;;;;;;;;;;x;
+UJJ;Ujiji;;;;;;;;;;;x;
+UJJ_absolute_monarchy;Ujiji Sultanate;;;;;;;;;;;;;x;
+UJJ_prussian_constitutionalism;Ujiji Sultanate;;;;;;;;;;;;;x;
+UJJ_hms_government;Ujiji Sultanate;;;;;;;;;;;;;x;
+UJJ_ADJ;Ujijian;;;;;;;;;;;x;
+DWS;Dawasir;;;;;;;;;;;x;
+DWS_ADJ;Dawasiran;;;;;;;;;;;x;
+QTN;Qahtan;;;;;;;;;;;x;
+QTN_ADJ;Qahtanian;;;;;;;;;;;x;
+MBD;Mbunda;;;;;;;;;;;x;
+MBD_ADJ;Mbundan;;;;;;;;;;;x;
+MTB;Matamba;;;;;;;;;;;x;
+MTB_ADJ;Matamban;;;;;;;;;;;x;
+NDG;Ndongo;;;;;;;;;;;x;
+NDG_ADJ;Ndongon;;;;;;;;;;;x;
+MGO;Mongo;;;;;;;;;;;x;
+MGO_ADJ;Mongo;;;;;;;;;;;x;
+SHO;Ndau;;;;;;;;;;;x;
+SHO_ADJ;Ndau;;;;;;;;;;;x;
+TQL;Teqali Sultanate;;;;;;;;;;;x;
+TQL_ADJ;Teqali;;;;;;;;;;;x;
+SNR;Funj Sultanate;;;;;;;;;;;x;
+SNR_ADJ;Funji;;;;;;;;;;;x;
+DKT;Dar Al-Kuti;;;;;;;;;;;x;
+DKT_ADJ;Kuti;;;;;;;;;;;x;
+BGS;Bang Assu;;;;;;;;;;;x;
+BGS_ADJ;Bangassuni;;;;;;;;;;;x;
+BRM;Bagirmi Sultanate;;;;;;;;;;;x;
+BRM_ADJ;Bagirmi;;;;;;;;;;;x;
+KNY;Agikuyu;;;;;;;;;;;x;
+KNY_ADJ;Agikuyunian;;;;;;;;;;;x;
+BDA;Bida Emirate;;;;;;;;;;;x;
+BDA_ADJ;Bida;;;;;;;;;;;x;
+HJI;Hadejia Emirate;;;;;;;;;;;x;
+HJI_ADJ;Hadejia;;;;;;;;;;;x;
+HKB;Kebbi Emirate;;;;;;;;;;;x;
+HKB_ADJ;Kebbi;;;;;;;;;;;x;
+HKT;Katsina Emirate;;;;;;;;;;;x;
+HKT_ADJ;Katsina;;;;;;;;;;;x;
+HKN;Kano Emirate;;;;;;;;;;;x;
+HKN_ADJ;Kano;;;;;;;;;;;x;
+HZF;Zamfara Emirate;;;;;;;;;;;x;
+HZF_ADJ;Zamfara;;;;;;;;;;;x;
+HZZ;Zazzau Emirate;;;;;;;;;;;x;
+HZZ_ADJ;Zazzau;;;;;;;;;;;x;
+DMG;Gobir Emirate;;;;;;;;;;;x;
+DMG_ADJ;Gobir;;;;;;;;;;;x;
+SGH;Songhai;;;;;;;;;;;x;
+SGH_ADJ;Songhai;;;;;;;;;;;x;
+IGL;Igala Emirate;;;;;;;;;;;x;
+IGL_ADJ;Igala;;;;;;;;;;;x;
+ADW;Adamawa Emirate;;;;;;;;;;;x;
+ADW_ADJ;Adamawa;;;;;;;;;;;x;
+HBC;Bauchi Emirate;;;;;;;;;;;x;
+HBC_ADJ;Bauchi;;;;;;;;;;;x;
+WKR;Wukari Federation;;;;;;;;;;;x;
+WKR_ADJ;Wukari;;;;;;;;;;;x;
+IFE;Ife-Ife;;;;;;;;;;;x;
+IFE_ADJ;Ife;;;;;;;;;;;x;
+EGB;Egba;;;;;;;;;;;x;
+EGB_ADJ;Egba;;;;;;;;;;;x;
+IBD;Ibadan;;;;;;;;;;;x;
+IBD_ADJ;Ibadanian;;;;;;;;;;;x;
+OPB;Opobo;;;;;;;;;;;x;
+OPB_ADJ;Opoban;;;;;;;;;;;x;
+EKT;Etiki;;;;;;;;;;;x;
+EKT_ADJ;Etikan;;;;;;;;;;;x;
+BSS;Bussa Emirate;;;;;;;;;;;x;
+BSS_ADJ;Bussan;;;;;;;;;;;x;
+ASH;Akan Federation;;;;;;;;;;;x;
+ASH_ADJ;Akan;;;;;;;;;;;x;
+TGW;Ewe;;;;;;;;;;;x;
+TGW_ADJ;Ewe;;;;;;;;;;;x;
+BLK;Bamileke;;;;;;;;;;;x;
+BLK_ADJ;Bamileke;;;;;;;;;;;x;
+KJJ;Kel Ajjer;;;;;;;;;;;x;
+KJJ_ADJ;Tuareg;;;;;;;;;;;x;
+KDG;Kel Adagh;;;;;;;;;;;x;
+KDG_ADJ;Tuareg;;;;;;;;;;;x;
+KIR;Kel Aïr;;;;;;;;;;;x;
+KIR_ADJ;Tuareg;;;;;;;;;;;x;
+GHD;Ghadames;;;;;;;;;;;x;
+GHD_ADJ;Ghadamesi;;;;;;;;;;;x;
+WSL;Wassulu;;;;;;;;;;;x;
+WSL_ADJ;Wassulan;;;;;;;;;;;x;
+MNH;Manneh;;;;;;;;;;;x;
+MNH_ADJ;Manneh;;;;;;;;;;;x;
+NAL;Dar al-Budjar;;;;;;;;;;;x;
+NAL_ADJ;Manneh;;;;;;;;;;;x;
+ZBY;al-Zubayr's Realm;;;;;;;;;;;x;
+ZBY_ADJ;Zubayr;;;;;;;;;;;x;
+NBI;Nubia;;;;;;;;;;;x;
+NBI_ADJ;Nubian;;;;;;;;;;;x;
+DND;Gurma Kingdom;;;;;;;;;;;x;
+DND_ADJ;Gur;;;;;;;;;;;x;
+ZBW_absolute_monarchy;Rozvi;;;;;;;;;;;;;x;
+ZBW_prussian_constitutionalism;Rozvi;;;;;;;;;;;;;x;
+ZBW_hms_government;Rozvi;;;;;;;;;;;;;x;
+SWA;Swahili Union;;;;;;;;;;;x;
+SWA_proletarian_dictatorship;Union of East Africa;;;;;;;;;;;;;x;
+SWA_presidential_dictatorship;United States of the Swahili Coast;;;;;;;;;;;;;x;
+SWA_democracy;United States of the Swahili Coast;;;;;;;;;;;;;x;
+SWA_absolute_monarchy;Swahili Sultanate;;;;;;;;;;;;;x;
+SWA_prussian_constitutionalism;Swahili Sultanate;;;;;;;;;;;;;x;
+SWA_hms_government;Swahili Sultanate;;;;;;;;;;;;;x;
+SWA_ADJ;Swahilian;;;;;;;;;;;x;
+MLW_absolute_monarchy;Marawi;;;;;;;;;;;;;x;
+MLW_prussian_constitutionalism;Marawi;;;;;;;;;;;;;x;
+MLW_hms_government;Marawi;;;;;;;;;;;;;x;
+TRN;Khoikhoi;;;;;;;;;;;x;
+TRN_proletarian_dictatorship;Republic of the Cape;;;;;;;;;;;;;x;
+TRN_presidential_dictatorship;Republic of the Cape;;;;;;;;;;;;;x;
+TRN_democracy;Republic of the Cape;;;;;;;;;;;;;x;
+TRN_absolute_monarchy;Khoikhoi;;;;;;;;;;;;;x;
+TRN_prussian_constitutionalism;Khoikhoi;;;;;;;;;;;;;x;
+TRN_hms_government;Khoikhoi;;;;;;;;;;;;;x;
+TRN_ADJ;San;;;;;;;;;;;x;
+APC;Apache;x
+APC_ADJ;Apache;x
+CDD;Caddo;x
+CDD_ADJ;Caddo;x
+LNP;Lenape;x
+LNP_ADJ;Lenape;x
+PHI;Philippiana;x
+PHI_ADJ;Philippian;x
+SHE;Shawnee;x
+SHE_ADJ;Shawnee;x
+SSX;Sioux;x
+SSX_ADJ;Sioux;x
+MIA;Miami;x
+MIA_ADJ;Miami;x
+HRN;Huron;x
+HRN_ADJ;Huroni;x
+FZZ;Fezzan;;;;;;;;;;;x;
+FZZ_proletarian_dictatorship;PRNS;;;;;;;;;;;;;x;
+FZZ_presidential_dictatorship;Fezzan;;;;;;;;;;;;;x;
+FZZ_democracy;Fezzan;;;;;;;;;;;;;x;
+FZZ_absolute_monarchy;Fezzan;;;;;;;;;;;;;x;
+FZZ_prussian_constitutionalism;Fezzan;;;;;;;;;;;;;x;
+FZZ_hms_government;Fezzan;;;;;;;;;;;;;x;
+FZZ_ADJ;Fezzani;;;;;;;;;;;x;
+TUN_absolute_monarchy;Hafsid Sultanate;;;;;;;;;;;;;x;
+TUN_prussian_constitutionalism;Hafsid Sultanate;;;;;;;;;;;;;x;
+TUN_hms_government;Hafsids;;;;;;;;;;;;;x;
+TUN_ADJ;Tunisian;;;;;;;;;;;x;
+MOR_absolute_monarchy;Marinid Empire;;;;;;;;;;;;;x;
+MOR_prussian_constitutionalism;Marinid Empire;;;;;;;;;;;;;x;
+MOR_hms_government;Marinids;;;;;;;;;;;;;x;

@@ -1,7 +1,7 @@
-owner = SEG
-controller = SEG
-add_core = TUA
+owner = TMB
+controller = TMB
+add_core = TMB
 add_core = SEG
 trade_goods = cattle
 terrain = semidesert
-life_rating = 32
+life_rating = 35

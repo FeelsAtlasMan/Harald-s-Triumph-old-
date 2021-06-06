@@ -1,8 +1,7 @@
 owner = TIM
 controller = TIM
 add_core = TIM
-add_core = TRK
+add_core = TKM
 add_core = PER
-add_core = KHR
 trade_goods = wool
 life_rating = 25

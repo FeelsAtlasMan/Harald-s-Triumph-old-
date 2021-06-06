@@ -3,33 +3,39 @@
 #Kuwait (12000/3000 POPS) #now part of Kuwait 
 935 = {
 	aristocrats = {
-		culture = bedouin
-		religion = sunni
+		culture = gulf_arabic
+		religion = shiite
 		size = 50
 	}
 
 	clergymen = {
-		culture = bedouin
-		religion = sunni
+		culture = gulf_arabic
+		religion = shiite
 		size = 50
 	}
 
 	artisans = {
-		culture = bedouin
-		religion = sunni
+		culture = gulf_arabic
+		religion = shiite
 		size = 150
 	}
 
 	soldiers = {
-		culture = bedouin
-		religion = sunni
+		culture = gulf_arabic
+		religion = shiite
 		size = 25
 	}
 
 	farmers = {
-		culture = bedouin
-		religion = sunni
+		culture = gulf_arabic
+		religion = shiite
 		size = 2725
+	}
+	
+	farmers = {
+		culture = gulf_arabic
+		religion = sunni
+		size = 725
 	}
 }
 #Bahrain Region (28000) #see Saudi Arabia.txt for balance of region  
@@ -37,67 +43,67 @@
 #Bahrain (20000/5000 POPS) #now part of Bahrain  
 1162 = {
 	aristocrats = {
-		culture = bedouin
+		culture = gulf_arabic
 		religion = sunni
 		size = 125
 	}
 
 	bureaucrats = {
-		culture = bedouin
+		culture = gulf_arabic
 		religion = sunni
 		size = 25
 	}
 
 	officers = {
-		culture = bedouin
+		culture = gulf_arabic
 		religion = sunni
 		size = 10
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = gulf_arabic
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = gulf_arabic
 		religion = sunni
 		size = 100
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = gulf_arabic
 		religion = sunni
 		size = 1050
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = gulf_arabic
 		religion = sunni
 		size = 500
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = gulf_arabic
 		religion = shiite
 		size = 50
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = gulf_arabic
 		religion = shiite
 		size = 150
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = gulf_arabic
 		religion = shiite
-		size = 3600
+		size = 2600
 	}
 	
 	farmers = {
-		culture = mashriqi
+		culture = judeo_arabic
 		religion = jewish
 		size = 50
 	}
@@ -108,14 +114,26 @@
 		size = 400
 	}
 	
-	farmers = {
+	clergymen = {
 		culture = persian
-		religion = sunni
-		size = 500
+		religion = shiite
+		size = 50
+	}
+
+	artisans = {
+		culture = persian
+		religion = shiite
+		size = 150
 	}
 	
 	farmers = {
-		culture = bedouin
+		culture = persian
+		religion = shiite
+		size = 1500
+	}
+	
+	farmers = {
+		culture = gulf_arabic
 		religion = orthodox
 		size = 250
 	}
@@ -123,32 +141,32 @@
 #Doha (8000/2000 POPS) #now part of Qatar 
 1165 = {
 	aristocrats = {
-		culture = bedouin
-		religion = sunni
+		culture = gulf_arabic
+		religion = shiite
 		size = 25
 	}
 
 	clergymen = {
-		culture = bedouin
-		religion = sunni
+		culture = gulf_arabic
+		religion = shiite
 		size = 25
 	}
 
 	artisans = {
-		culture = bedouin
-		religion = sunni
+		culture = gulf_arabic
+		religion = shiite
 		size = 100
 	}
 
 	soldiers = {
-		culture = bedouin
-		religion = sunni
+		culture = gulf_arabic
+		religion = shiite
 		size = 1050
 	}
 
 	farmers = {
-		culture = bedouin
-		religion = sunni
+		culture = gulf_arabic
+		religion = shiite
 		size = 1525
 	}
 	
@@ -163,45 +181,51 @@
 #Abu Dhabi (20000/5000 POPS) #now part of UAE  
 1167 = {
 	aristocrats = {
-		culture = bedouin
-		religion = sunni
+		culture = gulf_arabic
+		religion = shiite
 		size = 125
 	}
 
 	bureaucrats = {
-		culture = bedouin
-		religion = sunni
+		culture = gulf_arabic
+		religion = shiite
 		size = 15
 	}
 
 	officers = {
-		culture = bedouin
-		religion = sunni
+		culture = gulf_arabic
+		religion = shiite
 		size = 10
 	}
 
 	clergymen = {
-		culture = bedouin
-		religion = sunni
+		culture = gulf_arabic
+		religion = shiite
 		size = 50
 	}
 
 	artisans = {
-		culture = bedouin
-		religion = sunni
+		culture = gulf_arabic
+		religion = shiite
 		size = 250
 	}
 
 	soldiers = {
-		culture = bedouin
-		religion = sunni
+		culture = gulf_arabic
+		religion = shiite
 		size = 1000
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = gulf_arabic
+		religion = shiite
+		size = 2000
+	}
+	
+	farmers = {
+		culture = gulf_arabic
 		religion = sunni
-		size = 3650
+		size = 1650
 	}
 
 	slaves = {
@@ -213,39 +237,63 @@
 #Dubai (16000/4000 POPS)   #now part of UAE 
 1168 = {
 	aristocrats = {
-		culture = bedouin
+		culture = gulf_arabic
 		religion = sunni
 		size = 50
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = gulf_arabic
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = gulf_arabic
 		religion = sunni
 		size = 200
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = gulf_arabic
 		religion = sunni
 		size = 1000
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = gulf_arabic
 		religion = sunni
-		size = 2625
+		size = 2125
+	}
+	
+	farmers = {
+		culture = gulf_arabic
+		religion = shiite
+		size = 325
+	}
+	
+	aristocrats = {
+		culture = persian
+		religion = shiite
+		size = 50
+	}
+
+	clergymen = {
+		culture = persian
+		religion = shiite
+		size = 75
+	}
+
+	artisans = {
+		culture = persian
+		religion = shiite
+		size = 200
 	}
 
 	farmers = {
 		culture = persian
 		religion = shiite
-		size = 300
+		size = 800
 	}
 
 }

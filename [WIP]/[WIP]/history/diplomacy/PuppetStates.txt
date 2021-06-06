@@ -22,14 +22,26 @@ substate = {
 
 substate = {
 	first = TIM
+	second = OMA
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+vassal = {
+	first = BOH
+	second = CPL
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
+vassal = {
+	first = TIM
 	second = KWT
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }
 
-substate = {
+vassal = {
 	first = TIM
-	second = OMA
+	second = ALH
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }
@@ -127,13 +139,6 @@ vassal = {
 
 vassal = {
 	first = TIM
-	second = SST
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-
-vassal = {
-	first = TIM
 	second = MIG
 	start_date = 1836.1.1
 	end_date = 1937.1.1
@@ -178,6 +183,21 @@ vassal = {
 vassal = {
 	first = BYZ
 	second = TUR
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+#Abbasids
+substate = {
+	first = ABB
+	second = DMC
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+substate = {
+	first = ABB
+	second = HDJ
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }
@@ -384,51 +404,8 @@ vassal = {
 	end_date = 1937.1.1
 }
 
-#Marathi Confederation
-vassal = {
-	first = MAH
-	second = IND
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-
-vassal = {
-	first = MAH
-	second = BUN
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-
-vassal = {
-	first = MAH
-	second = NAG
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-
-vassal = {
-	first = MAH
-	second = VDB
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-
-vassal = {
-	first = MAH
-	second = BER
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-
-vassal = {
-	first = MAH
-	second = GWA
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-
 #Dehli
-substate = {
+vassal = {
 	first = MUG
 	second = SIN
 	start_date = 1836.1.1
@@ -491,10 +468,24 @@ vassal = {
 	end_date = 1937.1.1
 }
 
+vassal = {
+	first = MUG
+	second = GJR
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
 #Sur Empire
 vassal = {
 	first = SUR
 	second = BIH
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = SUR
+	second = ORI
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }
@@ -639,6 +630,144 @@ vassal = {
 vassal = {
 	first = SIA
 	second = JOH
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+#Morocco
+substate = {
+	first = MOR
+	second = TMB
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+substate = {
+	first = MOR
+	second = MTF
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+substate = {
+	first = MOR
+	second = ZYD
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = MOR
+	second = TRZ
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = MOR
+	second = MZB
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = MOR
+	second = BBB
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = MOR
+	second = ANU
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+#Qasimids
+vassal = {
+	first = NYE
+	second = MHR
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+#Rosvi Empire
+vassal = {
+	first = ZBW
+	second = SHO
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = ZBW
+	second = VND
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+#Lunda Empire
+vassal = {
+	first = LUN
+	second = KZB
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = LUN
+	second = LBA
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+#Ndongo Kingdom
+vassal = {
+	first = NDG
+	second = MTB
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+#Waddai Sultanate
+vassal = {
+	first = WDD
+	second = DKT
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+#Oyo Empire
+vassal = {
+	first = OYO
+	second = IBD
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+vassal = {
+	first = OYO
+	second = EGB
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+vassal = {
+	first = OYO
+	second = IFE
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+#Hafsids
+vassal = {
+	first = TUN
+	second = FZZ
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+vassal = {
+	first = TUN
+	second = GHD
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }

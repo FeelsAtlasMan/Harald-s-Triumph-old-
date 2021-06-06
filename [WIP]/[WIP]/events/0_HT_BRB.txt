@@ -34,14 +34,14 @@ country_event = {
 		remove_country_modifier = fight_the_power
 		political_reform = wealth_voting
 		political_reform = state_equal_weight
-		government = democracy
+		government = bourgeois_dictatorship
 		political_reform = gerrymandering
+		ruling_party_ideology = anarcho_liberal
 		election = yes
 		random_owned = { limit = { owner = { border_policy = closed_borders } } owner = { political_reform = open_borders } }
 		random_owned = { limit = { owner = { centralization = totalitarianism } } owner = { political_reform = unitary } }
 		random_owned = { limit = { owner = { part_of_sphere = yes } } owner = { sphere_owner = { diplomatic_influence = { value = -200 who = THIS } } } }
 		any_country = { limit = { government = absolute_monarchy } leave_alliance = THIS relation = { value = -100 who = THIS } }
-		ruling_party_ideology = liberal
 		add_country_modifier = {
 			name = fanatic_army
 			duration = 3600
@@ -56,15 +56,15 @@ country_event = {
 	
 	trigger = {
 		has_global_flag = brabant_rev
-		BRB = { government = democracy }
+		BRB = { government = bourgeois_dictatorship }
 		OR = {
 			tag = LUX
 			tag = LIG
 			tag = LBG
 			tag = WLL
 		}
-		NOT = { government = democracy }
-		NOT = [ has_country_flag = pussy_backed_off }
+		NOT = { government = bourgeois_dictatorship }
+		NOT = { has_country_flag = pussy_backed_off }
 		NOT = { has_country_flag = chad_intervention }
 	}
 	

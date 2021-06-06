@@ -75,31 +75,31 @@
 	}
 
 	aristocrats = {
-		culture = uighur
+		culture = qomani
 		religion = sunni
 		size = 125
 	}
 
 	clergymen = {
-		culture = uighur
+		culture = qomani
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = uighur
+		culture = qomani
 		religion = sunni
 		size = 350
 	}
 
 	soldiers = {
-		culture = uighur
+		culture = qomani
 		religion = sunni
 		size = 75
 	}
 
 	farmers = {
-		culture = uighur
+		culture = qomani
 		religion = sunni
 		size = 7375
 	}
@@ -225,31 +225,31 @@
 	}
 
 	aristocrats = {
-		culture = uzbek
+		culture = qomani
 		religion = sunni
 		size = 75
 	}
 
 	clergymen = {
-		culture = uzbek
+		culture = qomani
 		religion = sunni
 		size = 50
 	}
 
 	soldiers = {
-		culture = uzbek
+		culture = qomani
 		religion = sunni
 		size = 2000
 	}
 
 	soldiers = {
-		culture = uzbek
+		culture = qomani
 		religion = sunni
 		size = 1000
 	}
 
 	farmers = {
-		culture = uzbek
+		culture = qomani
 		religion = sunni
 		size = 5000
 	}

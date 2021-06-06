@@ -1,4 +1,6 @@
-add_core = DAR
+owner = SNR
+controller = SNR
+add_core = SNR
 trade_goods = cattle
-life_rating = 10
-colonial = 2
+life_rating = 31
+

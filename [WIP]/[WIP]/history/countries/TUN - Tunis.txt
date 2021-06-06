@@ -1,6 +1,7 @@
 capital = 1725
-primary_culture = maghrebi
-culture = berber
+primary_culture = tunesian_arabic
+culture = libi
+culture = algerian_arabic
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0

@@ -2,6 +2,6 @@ owner = TIM
 controller = TIM
 add_core = MAK
 add_core = BLC
+terrain = coastal_desert
 trade_goods = fish
-terrain = mountain
 life_rating = 31

@@ -46,43 +46,43 @@
 	}
 	
 	aristocrats = {
-		culture = bedouin
+		culture = chadic_arabic
 		religion = sunni
 		size = 200
 	}
 
 	bureaucrats = {
-		culture = bedouin
+		culture = chadic_arabic
 		religion = sunni
 		size = 100
 	}
 
 	officers = {
-		culture = bedouin
+		culture = chadic_arabic
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = chadic_arabic
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = chadic_arabic
 		religion = sunni
 		size = 500
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = chadic_arabic
 		religion = sunni
 		size = 500
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = chadic_arabic
 		religion = sunni
 		size = 13458
 	}
@@ -290,31 +290,31 @@
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = chadic_arabic
 		religion = sunni
 		size = 1000
 	}
 	
 	aristocrats = {
-		culture = bedouin
+		culture = chadic_arabic
 		religion = sunni
 		size = 125
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = chadic_arabic
 		religion = sunni
 		size = 200
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = chadic_arabic
 		religion = sunni
 		size = 500
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = chadic_arabic
 		religion = sunni
 		size = 3000
 	}
@@ -440,43 +440,43 @@
 	farmers = {
 		culture = teda
 		religion = sunni
-		size = 20183
+		size = 10183
 	}
 	
 	aristocrats = {
-		culture = bedouin
+		culture = chadic_arabic
 		religion = sunni
 		size = 300
 	}
 	
 	bureaucrats = {
-		culture = bedouin
+		culture = chadic_arabic
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = chadic_arabic
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = chadic_arabic
 		religion = sunni
 		size = 500
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = chadic_arabic
 		religion = sunni
 		size = 1000
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = chadic_arabic
 		religion = sunni
-		size = 7000
+		size = 17000
 	}
 
 	slaves = {
@@ -496,37 +496,37 @@
 	}
 
 	aristocrats = {
-		culture = bedouin
+		culture = chadic_arabic
 		religion = sunni
 		size = 150
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = chadic_arabic
 		religion = sunni
 		size = 100
 	}
 	
 	bureaucrats = {
-		culture = bedouin
+		culture = chadic_arabic
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = chadic_arabic
 		religion = sunni
 		size = 350
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = chadic_arabic
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = chadic_arabic
 		religion = sunni
 		size = 7300
 	}
@@ -564,31 +564,31 @@
 	}
 
 	aristocrats = {
-		culture = bedouin
+		culture = chadic_arabic
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = chadic_arabic
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = chadic_arabic
 		religion = sunni
 		size = 300
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = chadic_arabic
 		religion = sunni
 		size = 500
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = chadic_arabic
 		religion = sunni
 		size = 7269
 	}
@@ -723,19 +723,13 @@
 	aristocrats = {
 		culture = teda
 		religion = sunni
-		size = 50
+		size = 5
 	}
 
 	clergymen = {
 		culture = teda
 		religion = sunni
-		size = 25
-	}
-
-	artisans = {
-		culture = teda
-		religion = sunni
-		size = 50
+		size = 5
 	}
 
 	soldiers = {
@@ -747,7 +741,7 @@
 	farmers = {
 		culture = teda
 		religion = sunni
-		size = 1380
+		size = 380
 	}
 }
 #under the rule of Wadai in 1836
@@ -784,7 +778,7 @@
 	}
 	
 	farmers = {
-		culture = bedouin
+		culture = chadic_arabic
 		religion = sunni
 		size = 300
 	}

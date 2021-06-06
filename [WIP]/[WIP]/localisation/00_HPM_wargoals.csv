@@ -330,3 +330,29 @@ reconquesta_short;Acquire $STATE$ from $RECIPIENT$;;;;;;;;;;;;x,,,
 reconquesta_setup;Acquire $STATE$ from $RECIPIENT$;;;;;;;;;;;;x,,,
 NORMAL_WAR_RECONQUESTA_NAME;The $ORDER$ $FIRST$ Reconquista against $SECOND$;;;;;;;;;;;;x,,,
 AGRESSION_WAR_RECONQUESTA_NAME;The $ORDER$ $FIRST$ Reconquista against $SECOND$;;;;;;;;;;;;x,,,
+iran_unification;Unite Iran;;;;;;;;;;;;x,,,
+iran_unification_desc;Reunite Iran;;;;;;;;;;;;x,,,
+iran_unification_short;Acquire $STATE$ from $RECIPIENT$;;;;;;;;;;;;x,,,
+iran_unification_setup;Acquire $STATE$ from $RECIPIENT$;;;;;;;;;;;;x,,,
+NORMAL_WAR_IRAN_UNIFICATION_NAME;The $ORDER$ $FIRST$ Iranian Unification War against $SECOND$;;;;;;;;;;;;x,,,
+AGRESSION_WAR_IRAN_UNIFICATION_NAME;The $ORDER$ $FIRST$ Iranian Unification War against $SECOND$;;;;;;;;;;;;x,,,
+eth_unification;Unite Ethiopia;;;;;;;;;;;;x,,,
+eth_unification_desc;Bring an end to the Age of Princes;;;;;;;;;;;;x,,,
+eth_unification_short;Acquire $STATE$ from $RECIPIENT$;;;;;;;;;;;;x,,,
+eth_unification_setup;Acquire $STATE$ from $RECIPIENT$;;;;;;;;;;;;x,,,
+NORMAL_WAR_ETH_UNIFICATION_NAME;The $ORDER$ $FIRST$ Ethiopian Unification War against $SECOND$;;;;;;;;;;;;x,,,
+AGRESSION_WAR_ETH_UNIFICATION_NAME;The $ORDER$ $FIRST$ Ethiopian Unification War against $SECOND$;;;;;;;;;;;;x,,,
+claim_ger_leader;Claim Confederetaion Leadership;x
+claim_ger_leader_desc;Force the current leader of Confederation the step down and become the leading state in the German Confederation;x
+claim_ger_leader_short;Become they leader of German Confederacy;x
+claim_ger_leader_setup;Become The Leader of The German Confederation;x
+restore_german_confederation;Restore Confederation Lands;x
+restore_german_confederation_desc;Restore Lands that by law belong to the German Confederation;x
+restore_german_confederation_short;Acquire $STATE$ from $RECIPIENT$;x
+restore_german_confederation_setup;Restore Lands that by law belong to the German Confederation;x
+tourkistan_acquire_state;Unite the Turkomans;;;;;;;;;;;;x,,,
+tourkistan_acquire_state_desc;Unite Tourkistan;;;;;;;;;;;;x,,,
+tourkistan_acquire_state_short;Acquire $STATE$ from $RECIPIENT$;;;;;;;;;;;;x,,,
+tourkistan_acquire_state_setup;Acquire $STATE$ from $RECIPIENT$;;;;;;;;;;;;x,,,
+NORMAL_WAR_TOURKISTAN_REUNIFICATION;The $ORDER$ $FIRST$ Turkoman Unification War against $SECOND$;;;;;;;;;;;;x,,,
+AGRESSION_WAR_TOURKISTAN_REUNIFICATION;The $ORDER$ $FIRST$ Turkoman Unification War against $SECOND$;;;;;;;;;;;;x,,,

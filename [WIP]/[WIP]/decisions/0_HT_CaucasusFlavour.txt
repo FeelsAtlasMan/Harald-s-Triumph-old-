@@ -18,7 +18,11 @@ political_decisions = {
 			set_country_flag = claimed_sochi
 		}
 		ai_will_do = {
-			factor = 1
+		    factor = 1
+			modifier = {
+			     factor = 0
+				 badboy = 0.75
+			}
 		}
 	}
 	
@@ -49,7 +53,11 @@ political_decisions = {
 			set_country_flag =  integrated_armenians 
 		}
 		ai_will_do = {
-			factor = 0
+		    factor = 1
+			modifier = {
+			     factor = 0
+				 badboy = 0.75
+			}
 		}
 	}
 	
@@ -73,7 +81,11 @@ political_decisions = {
 			set_country_flag =  owns_darial 
 		}
 		ai_will_do = {
-			factor = 1
+		    factor = 1
+			modifier = {
+			     factor = 0
+				 badboy = 0.75
+			}
 		}
 	}
 	
@@ -101,7 +113,11 @@ political_decisions = {
 			set_country_flag =  integrated_alvuanians 
 		}
 		ai_will_do = {
-			factor = 1
+		    factor = 1
+			modifier = {
+			     factor = 0
+				 badboy = 0.75
+			}
 		}
 	}
 	
@@ -122,10 +138,15 @@ political_decisions = {
 			1105 = { add_core = THIS }
 			1106 = { add_core = THIS }
 			RUS_1098 = { add_core = THIS }
+			badboy = 10
 			set_country_flag =  claimed_eastern_armenia 
 		}
 		ai_will_do = {
-			factor = 1
+		    factor = 1
+			modifier = {
+			     factor = 0
+				 badboy = 0.75
+			}
 		}
 	}
 	
@@ -209,7 +230,11 @@ political_decisions = {
 			set_country_flag = claimed_greater_armenia
 		}
 		ai_will_do = {
-			factor = 0
+		    factor = 1
+			modifier = {
+			     factor = 0
+				 badboy = 0.75
+			}
 		}
 	}
 	
@@ -227,15 +252,122 @@ political_decisions = {
 				}
 		}
 		effect = {
-			1091 = { add_core = THIS }
-			3351 = { add_core = THIS }
+			3397 = { add_core = THIS }
+			1050 = { add_core = THIS }
 			3318 = { add_core = THIS }
 			prestige = 10
 			badboy = 4
 			set_country_flag = alanian_kingdom
 		}
 		ai_will_do = {
-			factor = 0
+			factor = 1
+		}
+	}
+	
+	unite_the_north_caucasus = {
+	    picture = "unite_caucasus"
+		potential = {
+		    OR = {
+	           is_culture_group = pontic_caucasian
+			   AND = {
+			      is_culture_group = caspian_caucasian
+				  has_country_flag = united_daghestan
+			   }
+			   AND = {
+			      tag = KMY
+				  has_country_flag = is_shamkhalate
+			   }
+			   primary_culture = tawlula
+			}
+		}
+		allow = {
+		    civilized = yes
+			is_vassal = no
+			CIR = { all_core = { owned_by = THIS } }
+			DAG = { all_core = { owned_by = THIS } }
+			KMY = { all_core = { owned_by = THIS } }
+			GMZ = { all_core = { owned_by = THIS } }
+			CHY = { all_core = { owned_by = THIS } }
+			1054 = { owned_by = THIS }
+		}
+		effect = {
+			change_tag = TCA
+			add_accepted_culture = circassian
+			add_accepted_culture = tat
+			add_accepted_culture = lezgic
+			add_accepted_culture = kumyk
+			add_accepted_culture = tawlula
+			add_accepted_culture = dargin
+			add_accepted_culture = avar
+			add_accepted_culture = andi_didoic
+			add_accepted_culture = ubykh
+			add_accepted_culture = abas
+			add_accepted_culture = kabardian
+			add_accepted_culture = chechen
+			add_accepted_culture = ingush
+			CIR = { all_core = { add_core = THIS } }
+			DAG = { all_core = { add_core = THIS } }
+			KMY = { all_core = { add_core = THIS } }
+			GMZ = { all_core = { add_core = THIS } }
+			CHY = { all_core = { add_core = THIS } }
+			1054 = { add_core = THIS }
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	proclaim_shamkhalate = {
+	    picture = "unite_caucasus"
+		potential = {
+	           tag = KMY
+			   NOT = { has_country_flag = is_shamkhalate }
+		}
+		allow = {
+			is_vassal = no
+		}
+		effect = {
+			add_accepted_culture = dargin
+			add_accepted_culture = avar
+			RUS_1052 = { add_core = THIS }
+			prestige = 10
+			set_country_flag = is_shamkhalate
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	unite_daghestan = {
+	    picture = "unite_caucasus"
+		potential = {
+		    OR = {
+	           tag = DAG
+			   tag = GMZ
+			   tag = CHY
+			}
+			NOT = { has_country_flag = united_daghestan }
+		}
+		allow = {
+			is_vassal = no
+			RUS_1052 = { owned_by = THIS }
+			TIM_1055 = { owned_by = THIS }
+			GMZ = { all_core = { owned_by = THIS } }
+		}
+		effect = {
+			add_accepted_culture = dargin
+			add_accepted_culture = avar
+			add_accepted_culture = chechen
+			add_accepted_culture = ingush
+			add_accepted_culture = kumyk
+			prestige = 10
+			RUS_1052 = { add_core = THIS }
+			TIM_1055 = { add_core = THIS }
+			GMZ = { all_core = { add_core = THIS } }
+			set_country_flag = united_daghestan
+		}
+		ai_will_do = {
+			factor = 1
 		}
 	}
 }

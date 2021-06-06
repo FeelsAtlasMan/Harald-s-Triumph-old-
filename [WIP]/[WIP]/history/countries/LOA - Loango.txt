@@ -1,5 +1,7 @@
 capital = 2624
 primary_culture = bakongo
+culture = teke
+culture = suundi
 religion = animist
 government = absolute_monarchy
 plurality = 0.0

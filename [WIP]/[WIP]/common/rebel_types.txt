@@ -3944,7 +3944,7 @@ unciv_reactionary_rebels = {
 	allow_all_religions = yes
 	allow_all_ideologies = yes
 	
-	resilient = yes					# Disbands on retreat
+	resilient = no					# Disbands on retreat
 	reinforcing = yes				# Does not receive reinforcements
 	general = yes					# Does use generals
 	smart = yes						# Does not assault forts, tactically withdraw from battle, etc.
@@ -3954,35 +3954,35 @@ unciv_reactionary_rebels = {
 
 	# triggers a general rising, modifier will be multiplied with the country's army strength and compared to the factions strength
 	will_rise = {
-		factor = 0.35
+		factor = 0.25
 		
 		modifier = {
 			war_exhaustion = 4
-			factor = 0.95
+			factor = 0.25
 		}
 		modifier = {
 			war_exhaustion = 6
-			factor = 0.95
+			factor = 0.35
 		}
 		modifier = {
 			war_exhaustion = 8
-			factor = 0.95
+			factor = 0.45
 		}
 		modifier = {
 			part_of_sphere = yes
-			factor = 0.8
+			factor = 0.4
 		}
 		modifier = {
 			civilization_progress = 0.25
-			factor = 0.8
+			factor = 0.2
 		}
 		modifier = {
 			civilization_progress = 0.5
-			factor = 0.8
+			factor = 0.3
 		}
 		modifier = {
 			civilization_progress = 0.75
-			factor = 0.8
+			factor = 0.4
 		}
 		modifier = {
 			factor = 0
@@ -3995,8 +3995,8 @@ unciv_reactionary_rebels = {
 					tag = EGY 
 					tag = KOR
 					tag = LAN
+					tag = TIM
 				} 
-				ai = yes
 			}
 		}
 		modifier = {
@@ -4022,7 +4022,7 @@ unciv_reactionary_rebels = {
 		#}
 		
 		modifier = {
-			factor = 1.05
+			factor = 0.65
 			location = {
 				OR = {
 					has_province_modifier = western_presence
@@ -4034,29 +4034,29 @@ unciv_reactionary_rebels = {
 			}
 		}
 		modifier = {
-			factor = 1.1
+			factor = 0.65
 			country = {
 				has_country_modifier = western_influences
 			}
 		}
 		modifier = {
-			factor = 1.15
+			factor = 0.65
 			pop_majority_ideology = reactionary
 		}
 		modifier = {
-			factor = 1.02
+			factor = 0.65
 			country = { civilization_progress = 0.1 }
 		}
 		modifier = {
-			factor = 1.02
+			factor = 0.65
 			country = { civilization_progress = 0.25 }
 		}
 		modifier = {
-			factor = 1.02
+			factor = 0.65
 			country = { civilization_progress = 0.5 }
 		}
 		modifier = {
-			factor = 1.02
+			factor = 0.65
 			country = { civilization_progress = 0.75 }
 		}
 		modifier = {

@@ -29,7 +29,13 @@
 	farmers = {
 		culture = ubangian
 		religion = animist
-		size = 23675
+		size = 19000
+	}
+	
+	farmers = {
+		culture = mbati
+		religion = animist
+		size = 4675
 	}
 }
 #Nola (40000/10000 POPS)
@@ -61,11 +67,17 @@
 	farmers = {
 		culture = ubangian
 		religion = animist
-		size = 9125
+		size = 9000
+	}
+	
+	farmers = {
+		culture = makaa_njem
+		religion = animist
+		size = 125
 	}
 	
 	slaves = {
-		culture = forest_bantu
+		culture = makaa_njem
 		religion = animist
 		size = 500
 	}

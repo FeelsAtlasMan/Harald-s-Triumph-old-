@@ -324,6 +324,18 @@ spriteTypes = {
 	}
 	
 	spriteType = {
+		name = "GFX_terrainimg_oasis"
+		texturefile = "gfx\\interface\\terrain_oasis.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_coastal_forest"
+		texturefile = "gfx\\interface\\terrain_coastal_forest.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
 		name = "GFX_terrainimg_semidesert"
 		texturefile = "gfx\\interface\\terrain_semidesert.tga"
 		norefcount = yes
@@ -332,10 +344,9 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_terrainimg_coastal_desert"
 		texturefile = "gfx\\interface\\terrain_coastal_desert.tga"
-		norefcount = yes
-	}
+		norefcount = yes0
 	
-	spriteType = {
+	spriteType = {0
 		name = "GFX_terrainimg_small_island"
 		texturefile = "gfx\\interface\\terrain_small_island.tga"
 		norefcount = yes

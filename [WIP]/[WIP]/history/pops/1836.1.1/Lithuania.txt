@@ -295,31 +295,31 @@
 	}
 
 	aristocrats = {
-		culture = pruthenian
+		culture = yotvingian
 		religion = catholic
 		size = 1950
 	}
 
 	clergymen = {
-		culture = pruthenian
+		culture = yotvingian
 		religion = catholic
 		size = 275
 	}
 
 	artisans = {
-		culture = pruthenian
+		culture = yotvingian
 		religion = catholic
 		size = 1200
 	}
 
 	soldiers = {
-		culture = pruthenian
+		culture = yotvingian
 		religion = catholic
 		size = 300
 	}
 
 	farmers = {
-		culture = pruthenian
+		culture = yotvingian
 		religion = catholic
 		size = 13225
 	}
@@ -585,7 +585,7 @@
 	farmers = {
 		culture = lithuanian
 		religion = catholic
-		size = 15825
+		size = 10025
 	}
 
 	clergymen = {
@@ -613,27 +613,27 @@
 	}
 
 	clergymen = {
-		culture = latvian
+		culture = courish
 		religion = protestant
 		size = 100
 	}
 
 	artisans = {
-		culture = latvian
+		culture = courish
 		religion = protestant
-		size = 100
+		size = 300
 	}
 
 	soldiers = {
-		culture = latvian
+		culture = courish
 		religion = protestant
-		size = 100
+		size = 300
 	}
 
 	farmers = {
-		culture = latvian
+		culture = courish
 		religion = protestant
-		size = 850
+		size = 6850
 	}
 
 }
@@ -684,25 +684,25 @@
 	}
 
 	clergymen = {
-		culture = lithuanian
+		culture = courish
 		religion = catholic
 		size = 150 
 	}
 
 	artisans = {
-		culture = lithuanian
+		culture = courish
 		religion = catholic
 		size = 950
 	}
 
 	soldiers = {
-		culture = lithuanian
+		culture = courish
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = lithuanian
+		culture = courish
 		religion = catholic
 		size = 16100
 	}

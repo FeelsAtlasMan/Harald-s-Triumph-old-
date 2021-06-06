@@ -1,7 +1,8 @@
-owner = DAM
-controller = DAM
+owner = KBO
+controller = KBO
+add_core = KBO
 add_core = DAM
-add_core = DND
 trade_goods = cattle
 life_rating = 32
 terrain = semidesert
+

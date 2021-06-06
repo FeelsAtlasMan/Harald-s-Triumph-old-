@@ -1,5 +1,5 @@
 capital = 1244
-primary_culture = avadhi
+primary_culture = hindi
 religion = shiite
 government = colonial_company
 plurality = 0.0

@@ -43,9 +43,15 @@
 		religion = sunni
 		size = 18125
 	}
+	
+	farmers = {
+		culture = tuzzungiyya
+		religion = sunni
+		size = 3000
+	}
 
 	slaves = {
-		culture = berber
+		culture = wolof
 		religion = sunni
 		size = 3000
 	}
@@ -79,7 +85,13 @@
 	farmers = {
 		culture = maures
 		religion = sunni
-		size = 11400
+		size = 6400
+	}
+	
+	farmers = {
+		culture = tuzzungiyya
+		religion = sunni
+		size = 5000
 	}
 
 	slaves = {
@@ -135,7 +147,7 @@
 
 	slaves = {
 		culture = fulbe
-		religion = sunni
+		religion = animist
 		size = 6000
 	}
 }
@@ -173,7 +185,7 @@
 
 	slaves = {
 		culture = fulbe
-		religion = sunni
+		religion = animist
 		size = 3000
 	}
 }
@@ -286,36 +298,292 @@
 		size = 3675
 	}
 }
+#Wadane (28000/7000 POPS) 
+3403 = {
+	aristocrats = {
+		culture = maures
+		religion = sunni
+		size = 100
+	}
+
+	clergymen = {
+		culture = maures
+		religion = sunni
+		size = 150
+	}
+
+	artisans = {
+		culture = maures
+		religion = sunni
+		size = 300
+	}
+
+	soldiers = {
+		culture = maures
+		religion = sunni
+		size = 50
+	}
+
+	farmers = {
+		culture = maures
+		religion = sunni
+		size = 2400
+	}
+
+	aristocrats = {
+		culture = maures
+		religion = sunni
+		size = 75
+	}
+
+	clergymen = {
+		culture = maures
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = maures
+		religion = sunni
+		size = 200
+	}
+
+	soldiers = {
+		culture = maures
+		religion = sunni
+		size = 50
+	}
+
+	farmers = {
+		culture = maures
+		religion = sunni
+		size = 1675
+	}
+}
+#Twadenni (28000/7000 POPS) 
+3407 = {
+	aristocrats = {
+		culture = maures
+		religion = sunni
+		size = 100
+	}
+
+	clergymen = {
+		culture = maures
+		religion = sunni
+		size = 150
+	}
+
+	artisans = {
+		culture = maures
+		religion = sunni
+		size = 300
+	}
+
+	soldiers = {
+		culture = maures
+		religion = sunni
+		size = 50
+	}
+
+	farmers = {
+		culture = maures
+		religion = sunni
+		size = 10400
+	}
+
+	aristocrats = {
+		culture = tuareg
+		religion = sunni
+		size = 75
+	}
+
+	clergymen = {
+		culture = tuareg
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = tuareg
+		religion = sunni
+		size = 200
+	}
+
+	soldiers = {
+		culture = tuareg
+		religion = sunni
+		size = 50
+	}
+
+	farmers = {
+		culture = tuareg
+		religion = sunni
+		size = 3675
+	}
+}
+#Awdaghost (28000/7000 POPS) 
+3404 = {
+	aristocrats = {
+		culture = maures
+		religion = sunni
+		size = 100
+	}
+
+	clergymen = {
+		culture = maures
+		religion = sunni
+		size = 150
+	}
+
+	artisans = {
+		culture = maures
+		religion = sunni
+		size = 300
+	}
+
+	soldiers = {
+		culture = maures
+		religion = sunni
+		size = 50
+	}
+
+	farmers = {
+		culture = maures
+		religion = sunni
+		size = 10400
+	}
+}
+#Hodh (28000/7000 POPS) 
+3406 = {
+	aristocrats = {
+		culture = maures
+		religion = sunni
+		size = 5
+	}
+
+	clergymen = {
+		culture = maures
+		religion = sunni
+		size = 5
+	}
+
+	artisans = {
+		culture = maures
+		religion = sunni
+		size = 30
+	}
+
+	soldiers = {
+		culture = maures
+		religion = sunni
+		size = 50
+	}
+
+	farmers = {
+		culture = maures
+		religion = sunni
+		size = 300
+	}
+	
+	farmers = {
+		culture = tuareg
+		religion = sunni
+		size = 100
+	}
+}
+#Arguin (28000/7000 POPS) 
+3408 = {
+	aristocrats = {
+		culture = north_german
+		religion = protestant
+		size = 10
+	}
+
+	clergymen = {
+		culture = north_german
+		religion = protestant
+		size = 50
+	}
+
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 200
+	}
+
+	soldiers = {
+		culture = north_german
+		religion = protestant
+		size = 50
+	}
+
+	farmers = {
+		culture = north_german
+		religion = protestant
+		size = 100
+	}
+
+	aristocrats = {
+		culture = maures
+		religion = sunni
+		size = 5
+	}
+
+	clergymen = {
+		culture = maures
+		religion = sunni
+		size = 10
+	}
+
+	artisans = {
+		culture = maures
+		religion = sunni
+		size = 100
+	}
+
+	soldiers = {
+		culture = maures
+		religion = sunni
+		size = 50
+	}
+
+	farmers = {
+		culture = maures
+		religion = sunni
+		size = 175
+	}
+}
 #Rio de Oro Region (16000) #see West Sahara.txt for balance of region
 #uncolonized in 1836  
 #Bir Maghrein (16000/4000 POPS) #now part of Mauritania 
 1782 = {
 	aristocrats = {
-		culture = bedouin
+		culture = maures
 		religion = sunni
 		size = 10
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = maures
 		religion = sunni
 		size = 15
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = maures
 		religion = sunni
 		size = 50
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = maures
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = maures
 		religion = sunni
 		size = 900
 	}
@@ -347,7 +615,7 @@
 	farmers = {
 		culture = maures
 		religion = sunni
-		size = 2700
+		size = 700
 	}
 
 }

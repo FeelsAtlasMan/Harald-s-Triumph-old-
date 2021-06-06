@@ -313,7 +313,7 @@
 	soldiers = {
 		culture = kirgiz
 		religion = sunni
-		size = 3200
+		size = 5200
 	}
 
 	farmers = {
@@ -321,9 +321,27 @@
 		religion = sunni
 		size = 15250
 	}
+	
+	artisans = {
+		culture = qomani
+		religion = sunni
+		size = 100
+	}
+
+	soldiers = {
+		culture = qomani
+		religion = sunni
+		size = 800
+	}
+
+	farmers = {
+		culture = qomani
+		religion = sunni
+		size = 2250
+	}
 
 	slaves = {
-		culture = kirgiz
+		culture = sart
 		religion = sunni
 		size = 5000
 	}
@@ -594,7 +612,7 @@
 	soldiers = {
 		culture = kirgiz
 		religion = sunni
-		size = 3150
+		size = 6150
 	}
 
 	farmers = {
@@ -604,69 +622,69 @@
 	}
 
 	aristocrats = {
-		culture = kirgiz
+		culture = qomani
 		religion = sunni
-		size = 250
+		size = 50
 	}
 
 	clergymen = {
-		culture = kirgiz
+		culture = qomani
 		religion = sunni
-		size = 125
+		size = 25
 	}
 
 	artisans = {
-		culture = kirgiz
+		culture = qomani
 		religion = sunni
-		size = 600
+		size = 100
 	}
 
 	soldiers = {
-		culture = kirgiz
+		culture = qomani
 		religion = sunni
-		size = 125
+		size = 1125
 	}
 
 	farmers = {
-		culture = kirgiz
+		culture = qomani
 		religion = sunni
-		size = 6900
+		size = 3700
 	}
 }
 #Aqtau (32000/8000 POPS)
 1194 = {
 	aristocrats = {
-		culture = kirgiz
+		culture = turkmen
 		religion = sunni
 		size = 150
 	}
 
 	clergymen = {
-		culture = kirgiz
+		culture = turkmen
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = kirgiz
+		culture = turkmen
 		religion = sunni
 		size = 350
 	}
 
 	soldiers = {
-		culture = kirgiz
+		culture = turkmen
 		religion = sunni
 		size = 75
 	}
 
 	farmers = {
-		culture = kirgiz
+		culture = turkmen
 		religion = sunni
 		size = 6000
 	}
 	
 	farmers = {
-		culture = turkmen
+		culture = nogay_tatar
 		religion = sunni
 		size = 1350
 	}
@@ -717,7 +735,7 @@
 }
 #Mawarannahr Region (180000) #see Uzbekistan.txt, Tajikistan.txt, Kirghizstan.txt for balance of region 
 #under the rule of Bukhara in 1836
-#Shymkent (180000/45000 POPS) #now part of kirgizhstan   
+#Shymkent (180000/45000 POPS)   
 1197 = {
 	aristocrats = {
 		culture = kirgiz
@@ -770,18 +788,30 @@
 	soldiers = {
 		culture = kirgiz
 		religion = sunni
-		size = 1250
+		size = 3250
 	}
 
 	farmers = {
 		culture = kirgiz
 		religion = sunni
-		size = 13450
+		size = 4000
+	}
+	
+	soldiers = {
+		culture = qomani
+		religion = sunni
+		size = 1000
+	}
+
+	farmers = {
+		culture = qomani
+		religion = sunni
+		size = 7450
 	}
 
 	slaves = {
-		culture = uzbek
-		religion = sunni
+		culture = sart
+		religion = shiite
 		size = 6000
 	}
 

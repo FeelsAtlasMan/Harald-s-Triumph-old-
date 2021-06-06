@@ -1,5 +1,6 @@
-owner = ETH
-controller = ETH
+owner = AGW
+controller = AGW
+add_core = AGW
 add_core = ETH
-trade_goods = grain
+trade_goods = iron
 life_rating = 35

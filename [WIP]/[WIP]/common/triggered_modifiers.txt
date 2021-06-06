@@ -187,6 +187,16 @@ islamic_law_triggered = {
 	icon = 5
 }
 
+islamic_law_triggered = {
+	trigger = {
+		has_country_flag = waqt_almetaab
+	}
+	core_pop_militancy_modifier = -0.05
+	suppression_points_modifier = -0.5
+	tax_efficiency = -0.05
+	icon = 5
+}
+
 the_british_raj = {
 	trigger = {
 		exists = yes
@@ -958,7 +968,7 @@ colonial_administration = {
 	administrative_efficiency_modifier = -0.1
 }
 
-pashtunwali = {
+pakhtunwali = {
 	trigger = {
 		owns = 1209
 		primary_culture = pashtun
@@ -973,6 +983,48 @@ pashtunwali = {
 	org_regain = 0.2
 	war_exhaustion = -2.5
 	mobilisation_size = 0.2
+}
+
+western_advisors = {
+    trigger = {
+		civilized = no
+		has_country_flag = abb_western_advisors
+	}
+	research_points_modifier = 0.2
+	supply_consumption = 0.075
+	core_pop_militancy_modifier = 0.01
+	core_pop_consciousness_modifier = 0.01
+	icon = 7
+}
+
+mamluk_advisors = {
+    trigger = {
+		civilized = no
+		has_country_flag = abb_mamluk_advisors
+	}
+	research_points_modifier = -0.1
+	supply_consumption = -0.175
+	mobilisation_size = 0.02
+	core_pop_militancy_modifier = -0.015
+	core_pop_consciousness_modifier = -0.015
+	icon = 7
+}
+
+loosing_mamluk_support = {
+    trigger = {
+		civilized = no
+		AND = {
+		    has_country_flag = abb_mamluk_advisors
+			has_country_flag = abb_western_administration
+	    }
+		NOT = {
+		   set_country_flag = dethrowned_mamluks
+		}
+	}
+	mobilisation_size = -0.4
+	core_pop_militancy_modifier = 0.2
+	core_pop_consciousness_modifier = 0.2
+	icon = 7
 }
 
 line_of_advantage = {

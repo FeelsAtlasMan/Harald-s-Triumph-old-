@@ -1,7 +1,8 @@
-owner = ABB
-controller = ABB
-add_core = ABB
+owner = DMC
+controller = DMC
+add_core = DMC
 add_core = LBN
+add_core = SYR
 trade_goods = silk
 life_rating = 35
 terrain = hills

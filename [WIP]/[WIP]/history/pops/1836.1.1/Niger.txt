@@ -528,34 +528,10 @@
 		size = 15000
 	}
 
-	aristocrats = {
-		culture = hausa
-		religion = sunni
-		size = 250
-	}
-
-	clergymen = {
-		culture = hausa
-		religion = sunni
-		size = 150
-	}
-
-	artisans = {
-		culture = hausa
-		religion = sunni
-		size = 700
-	}
-
-	soldiers = {
-		culture = hausa
-		religion = sunni
-		size = 150
-	}
-
 	farmers = {
-		culture = hausa
+		culture = kanuri
 		religion = sunni
-		size = 20750
+		size = 4750
 	}
 
 	slaves = {
@@ -599,39 +575,39 @@
 #Madama (44000/11000 POPS)
 1814 = {
 	aristocrats = {
-		culture = tuareg
+		culture = teda
 		religion = sunni
-		size = 200
+		size = 20
 	}
 
 	clergymen = {
-		culture = tuareg
+		culture = teda
 		religion = sunni
-		size = 100
+		size = 10
 	}
 
 	artisans = {
-		culture = tuareg
+		culture = teda
 		religion = sunni
-		size = 550
+		size = 50
 	}
 
 	soldiers = {
-		culture = tuareg
+		culture = teda
 		religion = sunni
 		size = 125
 	}
 
 	farmers = {
-		culture = tuareg
-		religion = sunni
-		size = 9025
-	}
-
-	slaves = {
 		culture = teda
 		religion = sunni
-		size = 1000
+		size = 1025
+	}
+
+	farmers = {
+		culture = tuareg
+		religion = sunni
+		size = 100
 	}
 }
 #Damergu Region (360000)
@@ -842,31 +818,31 @@
 #Bilma (36000/9000 POPS)
 1817 = {
 	aristocrats = {
-		culture = tuareg
+		culture = kanuri
 		religion = sunni
 		size = 125
 	}
 
 	clergymen = {
-		culture = tuareg
+		culture = kanuri
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = tuareg
+		culture = kanuri
 		religion = sunni
 		size = 350
 	}
 
 	soldiers = {
-		culture = tuareg
+		culture = kanuri
 		religion = sunni
 		size = 75
 	}
 
 	farmers = {
-		culture = tuareg
+		culture = kanuri
 		religion = sunni
 		size = 6375
 	}

@@ -1,6 +1,5 @@
-owner = TUN
-controller = TUN
-add_core = TUN
-add_core = ALD
+owner = BBB
+controller = BBB
+add_core = BBB
 trade_goods = iron
 life_rating = 35

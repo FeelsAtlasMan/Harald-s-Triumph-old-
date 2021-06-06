@@ -1,0 +1,8 @@
+owner = TIM
+controller = TIM
+add_core = TIM
+add_core = BLC
+add_core = SST
+add_core = KHR
+trade_goods = cattle
+life_rating = 35

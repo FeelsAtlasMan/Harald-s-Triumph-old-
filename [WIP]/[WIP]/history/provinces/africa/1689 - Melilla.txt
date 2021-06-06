@@ -1,6 +1,6 @@
-owner = MOR
-controller = MOR
-add_core = MOR
-trade_goods = fish
-terrain = urban
+owner = TMB
+controller = TMB
+add_core = TMB
+add_core = SEG
+trade_goods = fruit
 life_rating = 35

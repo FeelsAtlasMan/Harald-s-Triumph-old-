@@ -302,7 +302,7 @@ country_event = {
 		OR = {
 			government = proletarian_dictatorship
 			government = presidential_dictatorship
-			government = bourgeois_dictatorship
+			#government = bourgeois_dictatorship
 			government = fascist_dictatorship
 			government = theocracy
 		}
@@ -549,6 +549,7 @@ country_event = {
 		clr_country_flag = non_colonial_genocide_only
 		clr_country_flag = colonial_genocide_only
 		clr_country_flag = preparations_to_kill
+		political_refom = none_voting
 		remove_country_modifier = preparations_to_kill
 	}
 }
@@ -2735,29 +2736,29 @@ country_event = {
 }
 
 #Enable/Disable Splendid Isolation
-country_event = {
-	id = 6016815
-	title = "EVTNAME6016815"
-	desc = "EVTDESC6016815"
-	picture = "abraham_speech"
-	major = yes
-		
-	trigger = {
-		ai = no
-		NOT = { has_global_flag = isolation_setup }
-	}
-	
-	fire_only_once = yes
-	mean_time_to_happen = { days = 1 }
-	
-	option = {
-		name = "EVT6016814OPTA"
-		set_global_flag = yes_isolation
-		set_global_flag = isolation_setup
-	}
-	
-	option = {
-		name = "EVT6016815OPTB"
-		set_global_flag = isolation_setup
-	}
-}
+#country_event = {
+#	id = 6016815
+#	title = "EVTNAME6016815"
+#	desc = "EVTDESC6016815"
+#	picture = "abraham_speech"
+#	major = yes
+#		
+#	trigger = {
+#		ai = no
+#		NOT = { has_global_flag = isolation_setup }
+#	}
+#	
+#	fire_only_once = yes
+#	mean_time_to_happen = { days = 1 }
+#	
+#	option = {
+#		name = "EVT6016814OPTA"
+#		set_global_flag = yes_isolation
+#		set_global_flag = isolation_setup
+#	}
+#	
+#	option = {
+#		name = "EVT6016815OPTB"
+#		set_global_flag = isolation_setup
+#	}
+#}

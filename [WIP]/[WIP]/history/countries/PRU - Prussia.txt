@@ -1,6 +1,8 @@
 capital = 695
 primary_culture = pruthenian
-religion = catholic
+culture = yotvingian
+culture = galindian
+religion = protestant
 government = absolute_monarchy
 plurality = 25.0
 nationalvalue = nv_order
@@ -42,7 +44,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies 
 
-set_country_flag = catholic_country
+set_country_flag = protestant_country
 
 ruling_party = PRU_conservative_2
 upper_house = {

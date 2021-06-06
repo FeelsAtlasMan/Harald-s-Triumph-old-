@@ -960,8 +960,8 @@ CMR_reactionary;Cameroonian National Union;;;;;;;;;;;;x
 CMR_anarcho_liberal;National Union for Democracy and Progress;;;;;;;;;;;;x
 CMR_communist;Union of the Peoples of Cameroon;;;;;;;;;;;;x
 CMR_fascist;Grouping of Patriotic Forces;;;;;;;;;;;;x
-CPL;Congress Poland;Royaume du Congres;Kongresspolen;;Zarato de Polonia;;;;;;;;;;x;;;;;;;;;;;;;;
-CPL_ADJ;Polish;Polonais;Polnisch;;Polaca;;;;;;;;;;x;;;;;;;;;;;;;;
+CPL;Masovia;Masovia;Masovia;;Masovia;;;;;;;;;;x;;;;;;;;;;;;;;
+CPL_ADJ;Masovian;Masovian;Masovian;;Masovian;;;;;;;;;;x;;;;;;;;;;;;;;
 CRS;Corsica;;;;;;;;;;;;;x
 CRS_ADJ;Corsican;;;;;;;;;;;;;x
 CRS_conservative;Fazzione Cunservatore;;;;;;;;;;;;;x
@@ -1257,8 +1257,8 @@ HUI_liberal;Liberal Party;Parti libéral;Liberale Partei;;;;;;;;;;;x
 HUI_conservative;Kuomintang Faction;Faction Kuomintang;Guomintang-Fraktion;;;;;;;;;;;x
 HUI_fascist;Fascist Party;Parti fasciste;Faschistische Partei;;;;;;;;;;;x
 HUI_anarcho_liberal;Freedom Party;Parti de la liberté;Freiheitspartei;;;;;;;;;;;x
-IBR;Iberia;;;;;;;;;;;;;x
-IBR_ADJ;Iberian;;;;;;;;;;;;;x
+IBR;Hispania;;;;;;;;;;;;;x
+IBR_ADJ;Hispanic;;;;;;;;;;;;;x
 INO;Indonesia;Indonésie;Indonesien;;Indonesia;;;;;;;;;x
 INO_ADJ;Indonesian;Indonésienne;Indonesisch;;Indonesio;;;;;;;;;x
 INO_conservative;Partai Golongan Karya;;;;;;;;;;;;x
@@ -1898,8 +1898,8 @@ PLC_proletarian_dictatorship;The Polish-Lithuanian Republic;;;;;;;;;;;;x
 PLC_fascist_dictatorship;The Polish-Lithuanian Republic;;;;;;;;;;;;x
 PLC_presidential_dictatorship;The Polish-Lithuanian Republic;;;;;;;;;;;;x
 PLC_democracy;Poland-Lithuania;;;;;;;;;;;;x
-PML;Pomerelia;;;;;;;;;;;;x
-PML_ADJ;Pomerelian;;;;;;;;;;;;x
+PML;Pomerenia;;;;;;;;;;;;x
+PML_ADJ;Pomeranian;;;;;;;;;;;;x
 PNP;Pohnpei;Pohnpei;Pohnpei;;;;;;;;;;;;x
 PNP_ADJ;Pohnpeian;Pohnpeian;Pohnpeian;;;;;;;;;;;;x
 PNJ;Punjab;Pendjab;Pandschab;;Punjab;;;;;;;;;;x;;;;;;;;;;;;;;
@@ -1941,8 +1941,8 @@ PTG_anarcho_liberal;The Radical Faction;;;;;;;;;;;;x
 PTG_socialist;The Socialist Faction;;;;;;;;;;;;x
 PTG_communist;The Communist Faction;;;;;;;;;;;;x
 PTG_fascist;The Fascist Faction;;;;;;;;;;;;x
-PZN;Poznan;Poznan;Poznan;;Poznan;;;;;;;;;;x;;;;;;;;;;;;;;
-PZN_ADJ;Poznan;Poznan;Poznan;;Poznan;;;;;;;;;;x;;;;;;;;;;;;;;
+PZN;Wielkopolska;Wielkopolska;Wielkopolska;;Wielkopolska;;;;;;;;;;x;;;;;;;;;;;;;;
+PZN_ADJ;Wielkopolska;Wielkopolska;Wielkopolska;;Wielkopolska;;;;;;;;;;x;;;;;;;;;;;;;;
 QLD;Queensland;Queensland;Queensland;;;;;;;;;;;x
 QLD_ADJ;Queenslander;Queenslander;Queenslander;;;;;;;;;;;x
 QLD_conservative;Conservative Faction;Conservative Faction;Conservative Faction;;;;;;;;;;;x
@@ -2028,8 +2028,8 @@ RHI_anarcho_liberal;Radical Arbeiterpartei;Arbeiterpartei radical;Radikale Arbei
 RHI_communist;Communist Arbeiterpartei;Arbeiterpartei communiste;Kommunistische Arbeiterpartei;;;;;;;;;;;;x;;;;;;;;;;;;;;
 RHI_fascist;NSDP;NSDP;NSDP;;;;;;;;;;;;x;;;;;;;;;;;;;;
 RHO_democracy;Rhodesia;;;;;;;;;;;;x;;;;;;;;;;;;;;
-RMG;Romagna;;;;;;;;;;;;;x
-RMG_ADJ;Romagnan;;;;;;;;;;;;;x
+RMG;Bologna;;;;;;;;;;;;;x
+RMG_ADJ;Bolognese;;;;;;;;;;;;;x
 RPL_colonial_company;Hvit Bukt Company;;;;;;;;;;;;x,
 RPL_dominion;Hvit Bukt Company;;;;;;;;;;;;x,
 RPL_colonial_company_ADJ;Anglo-Norse;;;;;;;;;;;;x
@@ -2264,8 +2264,8 @@ SUL_communist;Communist Faction;;;;;;;;;;;;;x
 SUL_reactionary;Nationalist Faction;;;;;;;;;;;;;x
 SUL_anarcho_liberal;Radical Faction;;;;;;;;;;;;;x
 SUL_fascist;Fascist faction;;;;;;;;;;;;;x
-SVY;Savoy;;;;;;;;;;;;;x
-SVY_ADJ;Savoyard;;;;;;;;;;;;;x
+SVY;Torino;;;;;;;;;;;;;x
+SVY_ADJ;Torinese;;;;;;;;;;;;;x
 SWH;Schleswig-Holstein;;;;;;;;;;;;x
 SWH_ADJ;Schleswigian;;;;;;;;;;;;x
 SWH_liberal;Liberaldem. Partei;Liberaldem. Partei;Liberaldem. Partei;;;;;;;;;;;;x;;;;;;;;;;;;;;
@@ -2470,15 +2470,16 @@ BYZ_bourgeois_dictatorship;The Greco-Bulgarian Federation;;;;;;;;;;;;;x
 BYZ_proletarian_dictatorship;Eastern Balkan Union;;;;;;;;;;;;;x
 TUR;Turkey;;;;;;;;;x;;;;
 TUR_ADJ;Turkish;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-TUR_absolute_monarchy;Asia Minor;;;;;;;;;;;;;;;;;;;;;;;;x
+TUR_absolute_monarchy;Ottomans;;;;;;;;;;;;;;;;;;;;;;;;x
 TUR_absolute_monarchy_ADJ;Ottoman;;;;;;;;;;;;;;;;;;;;;;;;x
-TUR_prussian_constitutionalism;Asia Minor;;;;;;;;;;;;;;;;;;;;;;;x
+TUR_prussian_constitutionalism;Ottomans;;;;;;;;;;;;;;;;;;;;;;;x
 TUR_prussian_constitutionalism_ADJ;Ottoman;;;;;;;;;;;;;;;;;;;;;;;;x
-TUR_hms_government;Asia Minor;;;;;;;;;;;;;;;;;;;;;;;;x
+TUR_hms_government;Ottomans;;;;;;;;;;;;;;;;;;;;;;;;x
 TUR_hms_government_ADJ;Ottoman;;;;;;;;;;;;;;;;;;;;;;;;x
 TUR_bourgeois_dictatorship;Turkish Free State;;;;;;;;;;;;;x
 TUR_proletarian_dictatorship;Turkish Socialist Republic;;;;;;;;;;;;;x
 TUR_proletarian_dictatorship_ADJ;Turkish;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+TUR_colonial_company;Asia Minor;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
 TUR_reactionary;Nizam-i Alem;;;;;;;;;;;;;x
 TUR_reactionary_2;Ittihad-i Muhammedi Firkasi;;;;;;;;;;;;;x
 TUR_reactionary_3;Halâskâr Zabitân;;;;;;;;;;;;;x

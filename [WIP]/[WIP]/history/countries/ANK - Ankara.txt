@@ -1,7 +1,7 @@
 capital = 876
 primary_culture = kurmanji
 culture = zaza
-religion = shiite
+religion = sunni
 government = colonial_company
 plurality = 0
 nationalvalue = nv_tradition
@@ -40,7 +40,7 @@ centralization = unitary
 colonial_policy = no_colonies 
 
 
-ruling_party = KDS_conservative
+ruling_party = KRD_conservative
 upper_house = {
 	fascist = 0
 	liberal = 25
@@ -51,7 +51,7 @@ upper_house = {
 	communist = 0
 }
 
-set_country_flag = shiite_country
+set_country_flag = sunni_country
 set_country_flag = turkish_unciv
 
 consciousness = 0

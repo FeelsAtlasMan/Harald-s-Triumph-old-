@@ -8399,8 +8399,7 @@ country_event = {
 			remove_core = NGF
 			remove_core = GER
 			remove_core = GCF
-			}
-		
+		}
 	}
 }
 #Miquelon goes to the owner of newfoundland
@@ -8430,34 +8429,33 @@ country_event = {
 	
 	option = {
 		name = "EVT96093OPTA"
-			399 = {
-				add_core = THIS
-				add_core = FLA
-				secede_province = THIS
-			}
-			400 = {
-				add_core = THIS
-				add_core = FLA
-				secede_province = THIS
-			}
-			401 = {
-				add_core = THIS
-				add_core = FLA
-				secede_province = THIS
-			}
-			404 = {
-				add_core = THIS
-				secede_province = THIS
-			}
-			405 = {
-				add_core = THIS
-				secede_province = THIS
-			}
+		399 = {
+			add_core = THIS
+			add_core = FLA
+			secede_province = THIS
+		}
+		400 = {
+			add_core = THIS
+			add_core = FLA
+			secede_province = THIS
+		}
+		401 = {
+			add_core = THIS
+			add_core = FLA
+			secede_province = THIS
+		}
+		404 = {
+			add_core = THIS
+			secede_province = THIS
+		}
+		405 = {
+			add_core = THIS
+			secede_province = THIS
 		}
 	}
 }
 country_event = {
-	id = 96094
+	id = 96095
 	title = "EVTNAME96085" #Monarchy
 	desc = "EVTDESC96085"
 	news = yes
@@ -8471,7 +8469,7 @@ country_event = {
 	
 	option = {
 		name = "EVTOPTA96085" #We welcome the new regime.
-		government = democracy
+		government = absolute_monarchy
 		ruling_party_ideology = reactionary
 		political_reform = none_voting
 		political_reform = appointed

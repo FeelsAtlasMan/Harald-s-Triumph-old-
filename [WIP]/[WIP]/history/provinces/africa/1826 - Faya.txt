@@ -1,3 +1,6 @@
-trade_goods = wool
-life_rating = 5
-colonial = 1
+owner = WDD
+controller = WDD
+add_core = WDD
+terrain = oasis
+trade_goods = cattle
+life_rating = 20

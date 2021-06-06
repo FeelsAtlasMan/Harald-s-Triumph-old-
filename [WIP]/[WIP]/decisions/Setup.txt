@@ -668,7 +668,7 @@ political_decisions = {
 				literacy = 0.45
 			}
 			any_pop = {
-				limit = { has_pop_culture = western_slavic has_pop_religion = protestant }
+				limit = { has_pop_culture = veleti has_pop_religion = protestant }
 				literacy = 0.1
 			}
 			any_pop = {
@@ -885,25 +885,6 @@ political_decisions = {
 				diplomatic_influence = { who = BDN value = -400 }
 			}
 			
-			TUR_860 = {
-				add_core = ANT
-			}
-			TUR_863 = {
-				add_core = ANT
-			}
-			TUR_869 = {
-				add_core = ANT
-			}
-			881 = {
-				add_core = ANT
-			}
-			880 = { 
-				add_core = ANT
-			}
-			
-			TUR_809 = {
-				add_core = RUM
-			}
 			diplomatic_influence = { who = SAM value = 400 }
 			SAM = {
 				any_pop = { limit = { culture = greek } literacy = 0.07 }
@@ -913,33 +894,287 @@ political_decisions = {
 		ai_will_do = { factor = 1 }
 	}
 	
-	EGY_1836_setup = {
+	ABB_1836_setup = {
 		picture = constantinople
 		potential = {
-			tag = EGY
+			tag = ABB
 			always = no
 		}
 		
 		allow = {
-			tag = EGY
+			tag = ABB
 		}
 		
 		effect = {
 			any_pop = {
-				limit = { OR = { has_pop_culture = turkish has_pop_culture = circassian has_pop_culture = chechen } }
+				limit = { OR = { has_pop_culture = mamluki has_pop_culture = circassian has_pop_culture = abaza } }
 				literacy = 0.02
 			}
 			
 			any_pop = {
 				limit = { 
 					NOT = { has_pop_religion = sunni } 
-					OR = { has_pop_culture = ashkenazi has_pop_culture = sephardic }
+					NOT = { has_pop_religion = coptic } 
+					OR = { has_pop_religion = jewish }
 				}
 			literacy = 0.2
 			}
 			
 			any_pop = { limit = { has_pop_religion = catholic NOT = { has_pop_culture = assyrian} } literacy = 0.01 }
 			any_pop = { limit = { OR = { has_pop_culture = greek has_pop_culture = armenian } } literacy = 0.05 }
+			1745 = { add_province_modifier = { name = mamluk_estates duration = 36500 } }
+		    1746 = { add_province_modifier = { name = mamluk_estates duration = 36500 } }
+		    1747 = { add_province_modifier = { name = mamluk_estates duration = 36500 } }
+		    1748 = { add_province_modifier = { name = mamluk_estates duration = 36500 } }
+		    1749 = { add_province_modifier = { name = mamluk_estates duration = 36500 } }
+		    1750 = { add_province_modifier = { name = mamluk_estates duration = 36500 } }
+		    1751 = { add_province_modifier = { name = mamluk_estates duration = 36500 } }
+		}
+	}
+	
+	MOR_1836_setup = {
+		picture = constantinople
+		potential = {
+			tag = MOR
+			always = no
+		}
+		
+		allow = {
+			tag = MOR
+		}
+		
+		effect = {
+			any_pop = {
+				limit = { OR = { has_pop_culture = seghrusheni has_pop_culture = riffian has_pop_culture = atlas_berber  } }
+				literacy = 0.1
+			}
+			any_pop = {
+				limit = { OR = { has_pop_culture = saharan_arabic has_pop_culture = maures } }
+				literacy = -0.18
+			}
+			any_pop = {
+				limit = {  
+				   has_pop_religion = jewish
+				}
+			literacy = 0.25
+			}
+			any_owned = {
+				limit = {
+					is_core = THIS
+				}
+				add_province_modifier = { name = baby_boom duration = 365 }
+			}
+			1696 = { add_province_modifier = { name = small_baby_boom duration = 3650 } }
+			1696 = { add_province_modifier = { name = baby_boom duration = 365 } }
+			1716 = { add_province_modifier = { name = small_baby_boom duration = 3650 } }
+			1716 = { add_province_modifier = { name = baby_boom duration = 365 } }
+			3409 = { add_province_modifier = { name = small_baby_boom duration = 3650 } }
+			3409 = { add_province_modifier = { name = baby_boom duration = 365 } }
+			#2609 = { add_province_modifier = { name = small_baby_boom duration = 3650 } } #Timbuktu
+			#2609 = { add_province_modifier = { name = baby_boom duration = 365 } }        #Timbuktu
+			#1717 = { add_province_modifier = { name = small_baby_boom duration = 3650 } } #Timbuktu
+			#1717 = { add_province_modifier = { name = baby_boom duration = 365 } }        #Timbuktu
+			#1781 = { add_province_modifier = { name = small_baby_boom duration = 3650 } } #Timbuktu
+			#1781 = { add_province_modifier = { name = baby_boom duration = 365 } }        #Timbuktu
+			#3407 = { add_province_modifier = { name = small_baby_boom duration = 3650 } } #Timbuktu
+			#3407 = { add_province_modifier = { name = baby_boom duration = 365 } }        #Timbuktu
+			#1773 = { add_province_modifier = { name = small_baby_boom duration = 3650 } } #Mauretania
+			#1773 = { add_province_modifier = { name = baby_boom duration = 365 } }        #Mauretania
+			#3403 = { add_province_modifier = { name = small_baby_boom duration = 3650 } } #Mauretania
+			#3403 = { add_province_modifier = { name = baby_boom duration = 365 } }        #Mauretania
+			#3408 = { add_province_modifier = { name = small_baby_boom duration = 3650 } } #Mauretania
+			#3408 = { add_province_modifier = { name = baby_boom duration = 365 } }        #Mauretania
+		}
+	}
+	
+	ZYD_1836_setup = {
+		picture = constantinople
+		potential = {
+			tag = ZYD
+			always = no
+		}
+		
+		allow = {
+			tag = ZYD
+		}
+		
+		effect = {
+			any_pop = {
+				limit = { is_culture_group = amazigh }
+				literacy = 0.1
+			}
+			any_pop = {
+				limit = {  
+				   has_pop_religion = jewish
+				}
+			literacy = 0.25
+			}
+			any_owned = {
+				limit = {
+					is_core = THIS
+				}
+				add_province_modifier = { name = baby_boom duration = 365 }
+			}
+		}
+	}
+	
+	MTF_1836_setup = {
+		picture = constantinople
+		potential = {
+			tag = MTF
+			always = no
+		}
+		
+		allow = {
+			tag = MTF
+		}
+		
+		effect = {
+			any_pop = {
+				limit = { is_culture_group = amazigh }
+				literacy = 0.1
+			}
+			any_pop = {
+				limit = {  
+				   has_pop_religion = jewish
+				}
+			    literacy = 0.25
+			}
+			any_pop = {
+				limit = { OR = { has_pop_culture = saharan_arabic has_pop_culture = maures } }
+				literacy = -0.18
+			}
+			any_owned = {
+				limit = {
+					is_core = THIS
+				}
+				add_province_modifier = { name = baby_boom duration = 365 }
+			}
+			1720 = { add_province_modifier = { name = small_baby_boom duration = 3650 } }
+			1720 = { add_province_modifier = { name = baby_boom duration = 365 } }
+		}
+	}
+	
+	BBB_1836_setup = {
+		picture = constantinople
+		potential = {
+			tag = BBB
+			always = no
+		}
+		
+		allow = {
+			tag = BBB
+		}
+		
+		effect = {
+			any_pop = {
+				limit = { is_culture_group = amazigh }
+				literacy = 0.1
+			}
+			any_pop = {
+				limit = {  
+				   has_pop_religion = jewish
+				}
+			    literacy = 0.25
+			}
+			any_owned = {
+				limit = {
+					is_core = THIS
+				}
+				add_province_modifier = { name = baby_boom duration = 365 }
+			}
+		}
+	}
+	
+	MZB_1836_setup = {
+		picture = constantinople
+		potential = {
+			tag = MZB
+			always = no
+		}
+		
+		allow = {
+			tag = MZB
+		}
+		
+		effect = {
+			any_pop = {
+				limit = { is_culture_group = amazigh }
+				literacy = 0.1
+			}
+			any_pop = {
+				limit = {  
+				   has_pop_religion = jewish
+				}
+			    literacy = 0.25
+			}
+			any_pop = {
+				limit = { has_pop_culture = algerian_arabic }
+				literacy = -0.08
+			}
+			any_owned = {
+				limit = {
+					is_core = THIS
+				}
+				add_province_modifier = { name = baby_boom duration = 365 }
+			}
+			1711 = { add_province_modifier = { name = small_baby_boom duration = 3650 } }
+		}
+	}
+	
+	TRZ_1836_setup = {
+		picture = constantinople
+		potential = {
+			tag = TRZ
+			always = no
+		}
+		
+		allow = {
+			tag = TRZ
+		}
+		
+		effect = {
+			any_owned = {
+				limit = {
+					is_core = THIS
+				}
+				add_province_modifier = { name = small_baby_boom duration = 3650 }
+			}
+			1773 = { add_province_modifier = { name = baby_boom duration = 365 } }
+			3403 = { add_province_modifier = { name = baby_boom duration = 365 } }
+			1775 = { add_province_modifier = { name = baby_boom duration = 365 } }
+			1773 = { add_province_modifier = { name = baby_boom duration = 365 } }
+			1776 = { add_province_modifier = { name = baby_boom duration = 365 } }
+            1777 = { add_province_modifier = { name = baby_boom duration = 365 } }
+		}
+	}
+	
+	TMB_1836_setup = {
+		picture = constantinople
+		potential = {
+			tag = TMB
+			always = no
+		}
+		
+		allow = {
+			tag = TMB
+		}
+		
+		effect = {
+			any_pop = {
+				limit = { has_pop_culture = maghrebi  }
+				literacy = 0.19
+			}
+			2609 = { add_province_modifier = { name = baby_boom duration = 365 } }
+			3406 = { add_province_modifier = { name = baby_boom duration = 365 } }
+			1781 = { add_province_modifier = { name = baby_boom duration = 365 } }
+			1717 = { add_province_modifier = { name = baby_boom duration = 365 } }
+			3407 = { add_province_modifier = { name = baby_boom duration = 365 } }
+			2609 = { add_province_modifier = { name = small_baby_boom duration = 3650 } }
+			3406 = { add_province_modifier = { name = small_baby_boom duration = 3650 } }
+			1781 = { add_province_modifier = { name = small_baby_boom duration = 3650 } }
+			1717 = { add_province_modifier = { name = small_baby_boom duration = 3650 } }
+			3407 = { add_province_modifier = { name = small_baby_boom duration = 3650 } }
 		}
 	}
 	
@@ -958,35 +1193,35 @@ political_decisions = {
 			any_pop = {
 				limit = {
 					OR = {
-						has_pop_culture = turkish 
 						has_pop_culture = persian 
-						has_pop_culture = azerbaijani 
-						has_pop_culture = circassian 
-						has_pop_culture = chechen 
+						has_pop_culture = adari 
 						has_pop_culture = armenian
+						has_pop_culture = greek
+						has_pop_culture = georgian
 					} 
 				}
-				literacy = 0.02
+				literacy = 0.2
 			}
 			
 			any_pop = {
 				limit = {
 					NOT = { has_pop_religion = sunni } 
-					OR = { has_pop_culture = ashkenazi has_pop_culture = sephardic }
+					OR = { has_pop_religion = jewish }
 				}
-			literacy = 0.2
+			literacy = 0.5
 			}
 			
 			any_pop = { limit = { is_culture_group = arab } literacy = 0.01 }
-			any_pop = { limit = { has_pop_religion = catholic NOT = { has_pop_culture = assyrian } } literacy = 0.01 }
-			any_pop = { limit = { has_pop_culture = greek } literacy = 0.07 }
+			any_pop = { limit = { has_pop_religion = catholic NOT = { has_pop_culture = assyrian } } literacy = 0.1 }
+			any_pop = { limit = { has_pop_culture = azeri } literacy = 0.01 }
+			any_pop = { limit = { has_pop_culture = turkish } literacy = 0.01 }
 		}
 	}
 	
 	persia_1836_setup = {
 		picture = constantinople
 		potential = {
-			tag = PER
+			tag = TIM
 			always = no
 		}
 		
@@ -996,21 +1231,21 @@ political_decisions = {
 		
 		effect = {
 			any_pop = {
-				limit = { OR = { has_pop_culture = turkish has_pop_culture = circassian has_pop_culture = chechen } }
-				literacy = 0.02
+				limit = { OR = { has_pop_culture = azeri has_pop_culture = circassian has_pop_culture = chechen } }
+				literacy = 0.01
 			}
 			
 			any_pop = {
 				limit = { 
 					NOT = { has_pop_religion = sunni } 
-					OR = { has_pop_culture = ashkenazi has_pop_culture = sephardic }
+					OR = { has_pop_religion = jewish }
 				}
 				literacy = 0.1
 			}
 			
 			any_pop = { limit = { has_pop_culture = baluchi } literacy = -0.02 }
 			
-			any_pop = { limit = { OR = { has_pop_culture = georgian has_pop_culture = armenian } } literacy = 0.03 }
+			any_pop = { limit = { OR = { has_pop_culture = georgian has_pop_culture = armenian } } literacy = 0.02 }
 			
 			any_pop = { limit = { is_culture_group = arab } literacy = 0.01 }
 			any_pop = { limit = { has_pop_religion = catholic NOT = { has_pop_culture = assyrian } } literacy = 0.01 }
@@ -1035,8 +1270,6 @@ political_decisions = {
 			1008 = { any_pop = { literacy = 0.1 } }
 			994 = { any_pop = { literacy = 0.1 } }
 			any_pop = { limit = { has_pop_culture = ashkenazi } literacy = 0.54 }
-			any_pop = { limit = { has_pop_culture = volga_german } literacy = 0.4 }
-			any_pop = { limit = { has_pop_culture = south_italian } literacy = 0.15 }
 			any_pop = { limit = { has_pop_culture = mongol } literacy = 0.01 }
 			any_pop = {
 				limit = {
@@ -1048,18 +1281,6 @@ political_decisions = {
 					} 
 				}
 				literacy = 0.49
-			}
-			any_pop = {
-				limit = {
-					has_pop_culture = volga_german
-					location = { 
-						OR = {
-							province_id = 1037 
-							is_core = UKR
-						}
-					}
-				}
-				literacy = -0.2
 			}
 			any_pop = {
 				limit = {

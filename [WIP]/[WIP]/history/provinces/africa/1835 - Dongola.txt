@@ -1,8 +1,7 @@
-owner = ABB
-controller = ABB
-add_core = ABB
-add_core = SUD
+owner = SNR
+controller = SNR
+add_core = SNR
+add_core = NBI
 trade_goods = fruit
 life_rating = 32
 terrain = semidesert
-colonial = 2

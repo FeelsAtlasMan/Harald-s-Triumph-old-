@@ -1,5 +1,6 @@
-add_core = KZB
+owner = BTS
+controller = BTS
+add_core = BTS
 trade_goods = grain
 terrain = savanna
-life_rating = 10
-colonial = 1
+life_rating = 35
