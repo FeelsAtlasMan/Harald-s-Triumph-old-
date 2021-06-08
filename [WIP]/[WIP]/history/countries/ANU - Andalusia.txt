@@ -139,4 +139,5 @@ govt_flag = {
 	flag = theocracy
 }
 
+oob = "ANU_oob.txt"
 

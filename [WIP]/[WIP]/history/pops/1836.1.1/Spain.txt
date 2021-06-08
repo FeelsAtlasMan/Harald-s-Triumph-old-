@@ -2100,13 +2100,13 @@
 	soldiers = {
 		culture = algaravian
 		religion = sunni
-		size = 1100
+		size = 3000
 	}
 
 	farmers = {
 		culture = algaravian
 		religion = sunni
-		size = 60800
+		size = 61800
 	}
 	
 	clergymen = {
@@ -2124,7 +2124,7 @@
 	farmers = {
 		culture = mozarabic
 		religion = catholic
-		size = 500
+		size = 750
 	}
 }
 #Huelva (140000/35000 POPS)
@@ -2201,13 +2201,13 @@
 	soldiers = {
 		culture = algaravian
 		religion = sunni
-		size = 1100
+		size = 3000
 	}
 
 	farmers = {
 		culture = algaravian
 		religion = sunni
-		size = 64000
+		size = 65000
 	}
 	
 	artisans = {
@@ -2219,7 +2219,7 @@
 	farmers = {
 		culture = mozarabic
 		religion = catholic
-		size = 650
+		size = 1500
 	}	
 
 }
@@ -2322,7 +2322,7 @@
 	soldiers = {
 		culture = algaravian
 		religion = sunni
-		size = 1100
+		size = 3000
 	}
 
 	farmers = {
@@ -2352,7 +2352,7 @@
 	farmers = {
 		culture = mozarabic
 		religion = catholic
-		size = 500
+		size = 1000
 	}		
 	
 }
@@ -2379,7 +2379,7 @@
 	soldiers = {
 		culture = algaravian
 		religion = sunni
-		size = 1100
+		size = 3000
 	}
 
 	farmers = {
@@ -2391,7 +2391,7 @@
 	farmers = {
 		culture = mozarabic
 		religion = catholic
-		size = 1600
+		size = 2600
 	}
 }
 #Jaen (270000/67500 POPS)
@@ -2417,7 +2417,7 @@
 	soldiers = {
 		culture = algaravian
 		religion = sunni
-		size = 1100
+		size = 3000
 	}
 
 	farmers = {
@@ -2429,7 +2429,7 @@
 	farmers = {
 		culture = mozarabic
 		religion = catholic
-		size = 1200
+		size = 2000
 	}
 
 }
