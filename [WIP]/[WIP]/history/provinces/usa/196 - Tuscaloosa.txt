@@ -1,5 +1,5 @@
-owner = ILL
-controller = ILL
-add_core = ILL
+owner = NIB
+controller = NIB
+add_core = NIB
 trade_goods = iron
 life_rating = 35

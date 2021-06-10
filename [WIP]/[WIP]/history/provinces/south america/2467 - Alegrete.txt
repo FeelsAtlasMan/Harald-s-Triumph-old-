@@ -1,5 +1,5 @@
-owner = BAH
-controller = BAH
-add_core = BAH
+owner = GNI
+controller = GNI
+add_core = GNI
 trade_goods = cattle
 life_rating = 35

@@ -514,8 +514,6 @@ BRZ_anarcho_liberal;Partido Anarquista;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 BRZ_socialist;Partido Socialista;;;;;;;;;;;;;;;;x;;;;
 BRZ_communist;Partido Comunista;;;;;;;;;;;;;;;x;;;;
 BRZ_fascist;Ação Integralista Brasileira;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-PNB;Ashjar Alzambir;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PNB_ADJ;Brazili;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 SWI_communist;Kommunistische Partei;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 SWI_fascist;Nationale Front;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 FRA_fascist;Parti Franciste;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
@@ -1209,15 +1207,6 @@ GRA;Grenada;;;;;;;;;;;;x
 GRA_ADJ;Grenadian;;;;;;;;;;;;x
 GRN;Greenland;;;;;;;;;;;;;x
 GRN_ADJ;Greenlandic;;;;;;;;;;;;;x
-GUY;Al'Amazun;;;;;;;;;;;;;x
-GUY_ADJ;Amazuni;;;;;;;;;;;;;x
-GUY_conservative;Hizb al-Muhafizin;;;;;;;;;;;;;x
-GUY_liberal;Hizb al-Liybiraliu;;;;;;;;;;;;;x
-GUY_socialist;Hizb Al Aishtirakiu;;;;;;;;;;;;;x
-GUY_communist;Hizb al Shuyueiu;;;;;;;;;;;;;x
-GUY_reactionary;Hizb Rijei;;;;;;;;;;;;;x
-GUY_anarcho_liberal;Hizb Libiraliin Radikaliun;;;;;;;;;;;;;x
-GUY_fascist;Hizb Fashi;;;;;;;;;;;;;x
 GXI_presidential_dictatorship;Guangxi Clique;Clique de Guangxi;Guangxi-Clique;;;;;;;;;;;x
 HAL;Ha'il;;;;;;;;;;;;x
 HAL_ADJ;Haili;;;;;;;;;;;;x

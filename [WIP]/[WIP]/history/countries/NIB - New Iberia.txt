@@ -1,12 +1,12 @@
 capital = 204
 primary_culture = iberiano
 religion = catholic
-government = presidential_dictatorship
+government = colonial_company
 plurality = 0.2
 nationalvalue = nv_equality
 literacy = 0.6
 civilized = yes
-prestige = 40
+prestige = 4
 
 
 # Political reforms

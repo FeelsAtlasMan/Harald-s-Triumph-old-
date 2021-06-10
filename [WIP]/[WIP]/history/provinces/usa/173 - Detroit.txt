@@ -1,6 +1,6 @@
-owner = ILL
-controller = ILL
-add_core = ILL
+owner = MIA
+controller = MIA
+add_core = MIA
 trade_goods = timber
 life_rating = 35
 terrain = detroit

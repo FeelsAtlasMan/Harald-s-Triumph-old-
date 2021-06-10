@@ -1,7 +1,6 @@
-owner = FDA
-controller = FDA
-add_core = FDA
-add_core = MEX
+owner = UNM
+controller = UNM
+add_core = UNM
 terrain = new_world_semidesert
 trade_goods = coal
 life_rating = 30

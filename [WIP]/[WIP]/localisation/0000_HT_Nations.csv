@@ -149,6 +149,7 @@ ULS_anarcho_liberal;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 ULS_socialist;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 ULS_communist;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 ULS_fascist;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+FDA_colonial_company;Tenochtitlan Company;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 FDA;Fédération d'Sallie;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 FDA_ADJ;Sallien;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 FDA_conservative;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
@@ -1281,6 +1282,76 @@ GWR;Gwari;x
 GWR_ADJ;Gwari;x
 TWT;Twat;x
 TWT_ADJ;Twati;x
+ASB;Iron Confederacy;x
+ASB_ADJ;Iron;x
+YCH;Yauchi;x
+YCH_ADJ;Yauchi;x
+CEE;Cree;x
+CEE_ADJ;Cree;x
+BCK;Blackfoot;x
+BCK_ADJ;Blackfoot;x
+ABS;Absarokee;x
+ABS_ADJ;Absarokee;x
+CYN;Cheyenne;x
+CYN_ADJ;Cheyenne;x
+CMM;Commanche;x
+CMM_ADJ;Commanche;x
+SHS;Shoshone;x
+SHS_ADJ;Shoshone;x
+YKM;Yakama;x
+YKM_ADJ;Yakama;x
+CSH;Chumash;x
+CSH_ADJ;Chumash;x
+ATL;Autlan;x
+ATL_ADJ;Autlanian;x
+OTS;Otomi;x
+OTS_ADJ;Otomian;x
+TTP;Tututepec;x
+TTP_ADJ;Tututepecian;x
+TLP;Yopitzinco;x
+TLP_ADJ;Yopitzinco;x
+TTT;Teotitlan;x
+TTT_ADJ;Teotitlanian;x
+CLL;Collima;x
+CLL_ADJ;Colliman;x
+TRS;Tzintzuntzan;x
+TRS_ADJ;Tzintzuntzan;x
+GMR;Guamar;x
+GMR_ADJ;Guamar;x
+KQC;Kaqchikel;x
+KQC_ADJ;Kaqchikel;x
+CHP;Chiapanecatl;x
+CHP_ADJ;Chiapanecatl;x
+LNC;Lenca;x
+LNC_ADJ;Lenca;x
+PPL;Pipil;x
+PPL_ADJ;Pipil;x
+MPC;Mapuche;x
+MPC_ADJ;Mapuche;x
+DGT;Diaguita;x
+DGT_ADJ;Diaguita;x
+GNI;Guarani Sultanate;x
+GNI_ADJ;Guarani;x
+MTG;Matagalpa;x
+MTG_ADJ;Matagalpa;x
+ACM;Atacama;x
+ACM_ADJ;Atacaman;x
+QLW;Qalwu Federation;x
+QLW_ADJ;Qalwuyi;x
+TPB;Tupinamba;x
+TPB_ADJ;Tupinamba;x
+ABP;Abipon;x
+ABP_ADJ;Abipon;x
+HLC;Huilliches;x
+HLC_ADJ;Huilliches;x
+CQT;Chiquita;x
+CQT_ADJ;Chiquita;x
+CCH;Comechingon;x
+CCH_ADJ;Comechingon;x
+HRB;al-Haribun;x
+HRB_ADJ;Haribun;x
+MRA;Mura;x
+MRA_ADJ;Mura;x
 DAM;Maradi;x
 DAM_proletarian_dictatorship;Maradi;;;;;;;;;;;;;x;
 DAM_presidential_dictatorship;Maradi;;;;;;;;;;;;;x;
@@ -1305,3 +1376,66 @@ NGN_absolute_monarchy;Mwenemutapa Empire;;;;;;;;;;;;;x;
 NGN_prussian_constitutionalism;Mwenemutapa Empire;;;;;;;;;;;;;x;
 NGN_hms_government;Mwenemutapa Empire;;;;;;;;;;;;;x;
 NGN_ADJ;Mwenemutapan;;;;;;;;;;;x;
+UNM;Terre d'Or;;;;;;;;;;;x;
+UNM_proletarian_dictatorship;Terre d'Or;;;;;;;;;;;;;x;
+UNM_presidential_dictatorship;Terre d'Or;;;;;;;;;;;;;x;
+UNM_democracy;Terre d'Or;;;;;;;;;;;;;x;
+UNM_absolute_monarchy;Terre d'Or;;;;;;;;;;;;;x;
+UNM_prussian_constitutionalism;Terre d'Or;;;;;;;;;;;;;x;
+UNM_hms_government;Terre d'Or;;;;;;;;;;;;;x;
+UNM_ADJ;d'Or;;;;;;;;;;;x;
+HAI;Kiskeya;;;;;;;;;;;x;
+HAI_proletarian_dictatorship;People's Republic of Kiskeya;;;;;;;;;;;;;x;
+HAI_presidential_dictatorship;Republic of Kiskeya;;;;;;;;;;;;;x;
+HAI_democracy;Republic of Kiskeya;;;;;;;;;;;;;x;
+HAI_absolute_monarchy;Kiskeya;;;;;;;;;;;;;x;
+HAI_prussian_constitutionalism;Kiskeya;;;;;;;;;;;;;x;
+HAI_hms_government;Kiskeya;;;;;;;;;;;;;x;
+HAI_bourgeois_dictatorship;Pirate Republic of Kiskeya;;;;;;;;;;;;;x;
+HAI_ADJ;Kiskeyan;;;;;;;;;;;x;
+GUY;al-Tufunawa;;;;;;;;;;;;;x
+GUY_ADJ;Tufunawan;;;;;;;;;;;;;x
+GUY_conservative;Hizb al-Muhafizin;;;;;;;;;;;;;x
+GUY_liberal;Hizb al-Liybiraliu;;;;;;;;;;;;;x
+GUY_socialist;Hizb Al Aishtirakiu;;;;;;;;;;;;;x
+GUY_communist;Hizb al Shuyueiu;;;;;;;;;;;;;x
+GUY_reactionary;Hizb Rijei;;;;;;;;;;;;;x
+GUY_anarcho_liberal;Hizb Libiraliin Radikaliun;;;;;;;;;;;;;x
+GUY_fascist;Hizb Fashi;;;;;;;;;;;;;
+PNB;al-Humr;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+PNB_ADJ;Humri;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+PRG;Mbaya;;;;;;;;;;;x;
+PRG_proletarian_dictatorship;Mbaya;;;;;;;;;;;;;x;
+PRG_presidential_dictatorship;Mbaya;;;;;;;;;;;;;x;
+PRG_democracyMbaya;;;;;;;;;;;;;x;
+PRG_absolute_monarchy;Mbaya;;;;;;;;;;;;;x;
+PRG_prussian_constitutionalism;Mbaya;;;;;;;;;;;;;x;
+PRG_hms_government;Mbaya;;;;;;;;;;;;;x;
+PRG_bourgeois_dictatorship;Mbaya;;;;;;;;;;;;;x;
+PRG_ADJ;Mbaya;;;;;;;;;;;x;
+BRZ;Potiguara;;;;;;;;;;;x;
+BRZ_proletarian_dictatorship;Potiguara;;;;;;;;;;;;;x;
+BRZ_presidential_dictatorship;Potiguara;;;;;;;;;;;;;x;
+BRZ_democracy;Potiguara;;;;;;;;;;;;;x;
+BRZ_absolute_monarchy;Potiguara;;;;;;;;;;;;;x;
+BRZ_prussian_constitutionalism;Potiguara;;;;;;;;;;;;;x;
+BRZ_hms_government;Potiguara;;;;;;;;;;;;;x;
+BRZ_bourgeois_dictatorship;Potiguara;;;;;;;;;;;;;x;
+BRZ_ADJ;Potiguara;;;;;;;;;;;x;
+BAH;al-Humr;;;;;;;;;;;x;
+BAH_proletarian_dictatorship;al-Humr;;;;;;;;;;;;;x;
+BAH_presidential_dictatorship;al-Humr;;;;;;;;;;;;;x;
+BAH_democracy;al-Humr;;;;;;;;;;;;;x;
+BAH_absolute_monarchy;Wilaya of al-Humr;;;;;;;;;;;;;x;
+BAH_prussian_constitutionalism;Wilaya of al-Humr;;;;;;;;;;;;;x;
+BAH_hms_government;Wilaya of al-Humr;;;;;;;;;;;;;x;
+BAH_ADJ;Humri;;;;;;;;;;;x;
+SBA;al-Abid;;;;;;;;;;;x;
+SBA_proletarian_dictatorship;al-Abid;;;;;;;;;;;;;x;
+SBA_presidential_dictatorship;al-Abid;;;;;;;;;;;;;x;
+SBA_democracy;al-Abid;;;;;;;;;;;;;x;
+SBA_absolute_monarchy;al-Abid;;;;;;;;;;;;;x;
+SBA_prussian_constitutionalism;al-Abid;;;;;;;;;;;;;x;
+SBA_hms_government;al-Abid;;;;;;;;;;;;;x;
+SBA_bourgeois_dictatorship;Revolt of the Abid;;;;;;;;;;;;;x;
+SBA_ADJ;Abidi;;;;;;;;;;;x;

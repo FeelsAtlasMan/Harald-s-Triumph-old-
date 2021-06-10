@@ -1,7 +1,6 @@
+owner = HRB
+controller = HRB
+add_core = HRB
 trade_goods = wool
-life_rating = 15
-1861.1.1 = { 
-	owner = ARG
-	controller = ARG
-	add_core = ARG
-	}
+life_rating = 35
+

@@ -1,6 +1,6 @@
-owner = BAH
-controller = BAH
-add_core = BAH
+owner = PNB
+controller = PNB
+add_core = PNB
 trade_goods = coffee
 life_rating = 40
 terrain = saopaulo

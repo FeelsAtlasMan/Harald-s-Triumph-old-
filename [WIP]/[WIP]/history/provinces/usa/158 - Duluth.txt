@@ -1,6 +1,6 @@
-owner = RPL
-controller = RPL
-add_core = RPL
+owner = CEE
+controller = CEE
+add_core = CEE
 trade_goods = fish
 life_rating = 35
-colonial = 2
+

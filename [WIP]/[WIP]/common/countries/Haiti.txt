@@ -1,4 +1,5 @@
 color = { 139  179  207 }
+bourgeois_dictatorship = { 5  5  5 }
 graphical_culture = Generic
 party = {
 	name = "HAI_conservative"

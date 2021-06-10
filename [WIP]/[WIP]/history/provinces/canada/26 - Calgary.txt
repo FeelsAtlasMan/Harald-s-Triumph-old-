@@ -1,7 +1,7 @@
-owner = MTC
-controller = MTC
-add_core = MTC
+owner = BCK
+controller = BCK
+add_core = BCK
 trade_goods = timber
 terrain = plains
 life_rating = 30
-colonial = 2
+

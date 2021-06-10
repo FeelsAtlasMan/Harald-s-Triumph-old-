@@ -1,7 +1,3 @@
-owner = FDA
-controller = FDA
-add_core = CLM
-add_core = INC
 trade_goods = cattle
 terrain = savanna
 life_rating = 35

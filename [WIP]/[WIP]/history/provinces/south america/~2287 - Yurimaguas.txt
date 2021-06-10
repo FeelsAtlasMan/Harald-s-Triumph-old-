@@ -1,0 +1,7 @@
+owner = FDA
+controller = FDA
+add_core = CLM
+add_core = INC
+trade_goods = timber
+terrain = montane_forest
+life_rating = 31

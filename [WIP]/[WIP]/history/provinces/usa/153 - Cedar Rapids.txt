@@ -1,5 +1,5 @@
-owner = ILL
-controller = ILL
-add_core = ILL
+owner = SSX
+controller = SSX
+add_core = SSX
 trade_goods = cattle
 life_rating = 35

@@ -1,6 +1,5 @@
-owner = CAL
-controller = CAL
-add_core = CAL
+owner = YKM
+controller = YKM
+add_core = YKM
 trade_goods = cattle
 life_rating = 35
-colonial = 2

@@ -1,6 +1,6 @@
-owner = MTC
-controller = MTC
-add_core = MTC
+owner = BCK
+controller = BCK
+add_core = BCK
 trade_goods = grain
 life_rating = 35
-colonial = 2
+

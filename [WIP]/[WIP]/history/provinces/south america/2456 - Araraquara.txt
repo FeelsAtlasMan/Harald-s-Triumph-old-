@@ -1,5 +1,2 @@
-owner = BAH
-controller = BAH
-add_core = BAH
 trade_goods = coffee
 life_rating = 35

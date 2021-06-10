@@ -1,12 +1,14 @@
-capital = 2213
-primary_culture = afro_antillean
-culture = afro_caribeno
+capital = 2220
+primary_culture = north_german
+culture = french
+culture = maghrebi
+#culture = taino
 religion = catholic
-government = presidential_dictatorship
+government = bourgeois_dictatorship
 plurality = 10
-nationalvalue = nv_autocracy
-literacy = 0.02
-non_state_culture_literacy = 0.05
+nationalvalue = nv_euqality
+literacy = 0.3
+non_state_culture_literacy = 0.1
 civilized = yes
 prestige = 0
 
@@ -36,12 +38,10 @@ penal_system = capital_punishment
 child_labor = child_labor_legal
 citizens_rights = primary_culture_only
 border_policy = open_borders
-centralization = unitary
+centralization = regionalism
 colonial_policy = no_colonies 
 
-set_country_flag = catholic_country
 set_country_flag = new_world_nation
-set_country_flag = slave_revolution
 
 ruling_party = HAI_reactionary
 upper_house = {
@@ -54,7 +54,11 @@ upper_house = {
 	communist = 0
 }
 
-schools = unciv_tech_school
+govt_flag = {
+	government = bourgeois_dictatorship
+	flag = theocracy
+}
+
 
 # Technologies
 

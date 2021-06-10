@@ -1,7 +1,6 @@
-owner = FDA
-controller = FDA
+owner = CLM
+controller = CLM
 add_core = CLM
-add_core = INC
 trade_goods = cattle
 terrain = montane_forest
 life_rating = 32

@@ -1,6 +1,5 @@
-owner = FDA
-controller = FDA
-add_core = ULA
+owner = NIB
+controller = NIB
+add_core = NIB
 trade_goods = cotton
 life_rating = 35
-colonial = 2

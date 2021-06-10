@@ -1,6 +1,5 @@
-owner = FDA
-controller = FDA
-add_core = FDA
-add_core = MEX
+owner = UNM
+controller = UNM
+add_core = UNM
 trade_goods = iron
 life_rating = 35

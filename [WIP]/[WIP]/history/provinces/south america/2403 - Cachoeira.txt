@@ -1,5 +1,2 @@
-owner = GUY
-controller = GUY
-add_core = GUY
 trade_goods = tobacco
 life_rating = 15

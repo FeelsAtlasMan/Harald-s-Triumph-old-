@@ -1,5 +1,5 @@
-owner = FDA
-controller = FDA
-add_core = ULA
+owner = CDD
+controller = CDD
+add_core = CDD
 trade_goods = cotton
 life_rating = 35

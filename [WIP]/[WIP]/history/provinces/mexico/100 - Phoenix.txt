@@ -1,8 +1,7 @@
-owner = FDA
-controller = FDA
-add_core = FDA
+owner = APC
+controller = APC
+add_core = APC
 add_core = UNM
 terrain = new_world_semidesert
 trade_goods = cattle
 life_rating = 35
-colonial = 2

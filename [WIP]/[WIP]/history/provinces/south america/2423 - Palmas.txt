@@ -1,5 +1,5 @@
-owner = PNB
-controller = PNB
-add_core = PNB
+owner = QLW
+controller = QLW
+add_core = QLW
 trade_goods = fruit
 life_rating = 25

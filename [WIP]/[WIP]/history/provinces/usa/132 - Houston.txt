@@ -1,6 +1,6 @@
-owner = FDA
-controller = FDA
-add_core = ULA
+owner = PHI
+controller = PHI
+add_core = PHI
 trade_goods = cattle
 life_rating = 35
 

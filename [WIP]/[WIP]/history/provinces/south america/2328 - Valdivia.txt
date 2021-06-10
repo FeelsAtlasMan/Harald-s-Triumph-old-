@@ -1,7 +1,6 @@
-owner = ARC
-controller = ARC
-add_core = ARC
-add_core = PTG
+owner = HLC
+controller = HLC
+add_core = HLC
 trade_goods = grain
 terrain = montane_forest
 life_rating = 35

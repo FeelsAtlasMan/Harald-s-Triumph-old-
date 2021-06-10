@@ -1,6 +1,5 @@
-owner = FDA
-controller = FDA
-add_core = ULA
+owner = UNM
+controller = UNM
+add_core = UNM
 trade_goods = cattle
 life_rating = 35
-fort = 1 #Remember the Alamo!

@@ -1,7 +1,7 @@
-owner = MTC
-controller = MTC
-add_core = MTC
+owner = ASB
+controller = ASB
+add_core = ASB
 trade_goods = grain
 terrain = plains
 life_rating = 30
-colonial = 2
+

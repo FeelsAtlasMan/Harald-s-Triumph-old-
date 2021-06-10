@@ -1,6 +1,3 @@
-owner = BAH
-controller = BAH
-add_core = BAH
 trade_goods = fruit
 terrain = jungle
 life_rating = 25

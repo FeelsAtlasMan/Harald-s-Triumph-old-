@@ -1,8 +1,6 @@
-owner = MTC
-controller = MTC
-add_core = MTC
-add_core = ILL
+owner = BCK
+controller = BCK
+add_core = BCK
 trade_goods = grain
 terrain = steppe
 life_rating = 30
-colonial = 2
