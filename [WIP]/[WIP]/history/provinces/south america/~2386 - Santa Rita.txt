@@ -1,1 +1,0 @@
-owner = ABPcontroller = ABPadd_core = ABPtrade_goods = fruitterrain = steppelife_rating = 35

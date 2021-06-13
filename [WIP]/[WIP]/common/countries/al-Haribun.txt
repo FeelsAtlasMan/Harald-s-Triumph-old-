@@ -2,7 +2,7 @@ color = { 129 121 124 }
 graphical_culture = Generic
 
 party = {
-	name = "IRQ_reactionary"
+	name = "Reactionary Party"
 	start_date = 1830.1.1
 	end_date = 2000.1.1
 
@@ -17,7 +17,7 @@ party = {
 }
 
 party = {
-	name = "IRQ_liberal"
+	name = "Liberal Party"
 	start_date = 1830.1.1
 	end_date = 2000.1.1
 
@@ -32,7 +32,7 @@ party = {
 }
 
 party = {
-	name = "IRQ_conservative"
+	name = "Council of the Five Tribes"
 	start_date = 1830.1.1
 	end_date = 2000.1.1
 
@@ -47,7 +47,7 @@ party = {
 }
 
 party = {
-	name = "IRQ_anarcho_liberal"
+	name = "Nomadic Party"
 	start_date = 1830.1.1
 	end_date = 2000.1.1
 
@@ -62,7 +62,7 @@ party = {
 }
 
 party = {
-	name = "IRQ_socialist"
+	name = "Socialist Party"
 	start_date = 1848.1.1
 	end_date = 2000.1.1
 
@@ -77,7 +77,7 @@ party = {
 }
 
 party = {
-	name = "IRQ_communist"
+	name = "Communist Party"
 	start_date = 1848.1.1
 	end_date = 2000.1.1
 
@@ -92,7 +92,7 @@ party = {
 }
 
 party = {
-	name = "IRQ_fascist"
+	name = "Fascist Party"
 	start_date = 1830.1.1
 	end_date = 2000.1.1
 

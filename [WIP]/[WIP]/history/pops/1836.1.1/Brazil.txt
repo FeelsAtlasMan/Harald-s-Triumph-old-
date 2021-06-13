@@ -2420,31 +2420,31 @@
 #Uberaba (68000/17000 POPS)
 2445 = {
 	aristocrats = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 350
 	}
 
 	clergymen = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 125
 	}
 
 	artisans = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 275
 	}
 
 	soldiers = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 75
 	}
 
 	farmers = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 6175
 	}
@@ -2723,55 +2723,55 @@
 #Sorocaba (8000/2000 POPS)
 2306 = {
 	aristocrats = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 300
 	}
 
 	clergymen = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 100
 	}
 
 	artisans = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 400
 	}
 
 	soldiers = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 100
 	}
 
 	farmers = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 9100
 	}
 
 	clergymen = {
-		culture = haraldian
+		culture = brazili
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = haraldian
+		culture = brazili
 		religion = catholic
 		size = 200
 	}
 
 	soldiers = {
-		culture = haraldian
+		culture = brazili
 		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = haraldian
+		culture = brazili
 		religion = catholic
 		size = 2700
 	}
@@ -2779,43 +2779,43 @@
 #Sao Paulo (252000/63000 POPS)
 2450 = {
 	aristocrats = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 1275
 	}
 
 	bureaucrats = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 125
 	}
 
 	officers = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 150
 	}
 
 	clergymen = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 550
 	}
 
 	artisans = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 1925
 	}
 
 	soldiers = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 1100
 	}
 
 	farmers = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 42900
 	}
@@ -2885,61 +2885,61 @@
 #Campiras (64000/16000 POPS)
 2452 = {
 	aristocrats = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 325
 	}
 
 	clergymen = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 125
 	}
 
 	artisans = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 400
 	}
 
 	soldiers = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 100
 	}
 
 	farmers = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 9050
 	}
 
 	clergymen = {
-		culture = haraldian
+		culture = brazili
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = haraldian
+		culture = brazili
 		religion = catholic
 		size = 300
 	}
 
 	soldiers = {
-		culture = haraldian
+		culture = brazili
 		religion = catholic
 		size = 75
 	}
 
 	farmers = {
-		culture = haraldian
+		culture = brazili
 		religion = catholic
 		size = 2075
 	}
 
 	slaves = {
-		culture = haraldian
+		culture = brazili
 		religion = catholic
 		size = 3500
 	}
@@ -2947,31 +2947,31 @@
 #Assis (52000/14000 POPS)
 2453 = {
 		clergymen = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 25
 	}
 
 	artisans = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 50
 	}
 
 	soldiers = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 25
 	}
 
 	farmers = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 900
 	}
 	
 	slaves = {
-		culture = haraldian
+		culture = brazili
 		religion = catholic
 		size = 300
 	}
@@ -3009,61 +3009,61 @@
 #Iguape (64000/16000 POPS)
 2455 = {
 	aristocrats = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 325
 	}
 
 	clergymen = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 125
 	}
 
 	artisans = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 450
 	}
 
 	soldiers = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 125
 	}
 
 	farmers = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 9975
 	}
 
 	clergymen = {
-		culture = haraldian
+		culture = brazili
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = haraldian
+		culture = brazili
 		religion = catholic
 		size = 250
 	}
 
 	soldiers = {
-		culture = haraldian
+		culture = brazili
 		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = haraldian
+		culture = brazili
 		religion = catholic
 		size = 1700
 	}
 
 	slaves = {
-		culture = haraldian
+		culture = brazili
 		religion = catholic
 		size = 8000
 	}
@@ -3071,31 +3071,31 @@
 #Araraquara (8000/2000 POPS)
 2456 = {
 	clergymen = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 25
 	}
 
 	artisans = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 50
 	}
 
 	soldiers = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 25
 	}
 
 	farmers = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 900
 	}
 	
 	farmers = {
-		culture = haraldian
+		culture = brazili
 		religion = catholic
 		size = 300
 	}
@@ -3135,43 +3135,43 @@
 #Curitiba (172000/43000 POPS)
 2457 = {
 	aristocrats = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 875
 	}
 
 	bureaucrats = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 200
 	}
 
 	officers = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 125
 	}
 
 	clergymen = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 400
 	}
 
 	artisans = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 1525
 	}
 
 	soldiers = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 1100
 	}
 
 	farmers = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 33875
 	}
@@ -3209,31 +3209,31 @@
 #Garapuava (40000/10000 POPS)
 2458 = {
 	aristocrats = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 200
 	}
 
 	clergymen = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 75
 	}
 
 	artisans = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 250
 	}
 
 	soldiers = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 75
 	}
 
 	farmers = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 5400
 	}
@@ -3295,31 +3295,31 @@
 #Lajes (60000/15000 POPS)
 2459 = {
 	aristocrats = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 225
 	}
 
 	clergymen = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 75
 	}
 
 	artisans = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 250
 	}
 
 	soldiers = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 75
 	}
 
 	farmers = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 5375
 	}
@@ -3387,31 +3387,31 @@
 #Castro (72000/18000 POPS)
 2460 = {
 	aristocrats = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 375
 	}
 
 	clergymen = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 150
 	}
 
 	artisans = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 525
 	}
 
 	soldiers = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 125
 	}
 
 	farmers = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 11825
 	}
@@ -3473,31 +3473,31 @@
 #Desterro (88000/22000 POPS)
 2461 = {
 	aristocrats = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 450
 	}
 
 	clergymen = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 200
 	}
 
 	artisans = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 650
 	}
 
 	soldiers = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 175
 	}
 
 	farmers = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 14525
 	}
@@ -3509,25 +3509,25 @@
 	}
 
 	artisans = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 300
 	}
 
 	soldiers = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 75
 	}
 
 	farmers = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 2075
 	}
 
 	slaves = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 3500
 	}
@@ -3535,31 +3535,31 @@
 #Sao Miguel (80000/20000 POPS)
 2462 = {
 	aristocrats = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 425
 	}
 
 	clergymen = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 150
 	}
 
 	artisans = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 525
 	}
 
 	soldiers = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 125
 	}
 
 	farmers = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 11775
 	}
@@ -3599,49 +3599,49 @@
 #Porto Alegre (224000/56000 POPS)
 2463 = {
 	aristocrats = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 1025
 	}
 
 	bureaucrats = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 300
 	}
 
 	officers = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 225
 	}
 
 	clergymen = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 1550
 	}
 
 	artisans = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 6725
 	}
 
 	soldiers = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 3000
 	}
 
 	soldiers = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 2000
 	}
 
 	farmers = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 52575
 	}
@@ -3679,31 +3679,31 @@
 #Sao Pedro (44000/11000 POPS)
 2464 = {
 	aristocrats = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 225
 	}
 
 	clergymen = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 75
 	}
 
 	artisans = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 300
 	}
 
 	soldiers = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 2400
 	}
 
 	farmers = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 6500
 	}
@@ -3736,31 +3736,31 @@
 #Passo Fundo (112000/28000 POPS)
 2465 = {
 	aristocrats = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 575
 	}
 
 	clergymen = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 250
 	}
 
 	artisans = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 725
 	}
 
 	soldiers = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 2450
 	}
 
 	farmers = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 14000
 	}
@@ -3816,31 +3816,31 @@
 #Santa Maria (88000/22000 POPS)
 2466 = {
 	aristocrats = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 450
 	}
 
 	clergymen = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 200
 	}
 
 	artisans = {
-	    culture = haraldian
+	    culture = brazili
 		religion = protestant
 		size = 650
 	}
 
 	soldiers = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 2700
 	}
 
 	farmers = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 12000
 	}
@@ -3873,57 +3873,57 @@
 #Alegrete (64000/16000 POPS)
 2467 = {
 	clergymen = {
-		culture = haraldian
-		religion = protestant
-		size = 75
-	}
-
-	artisans = {
-		culture = haraldian
-		religion = protestant
-		size = 200
+		culture = charruan_minor
+		religion = sunni
+		size = 225
 	}
 
 	soldiers = {
-		culture = haraldian
-		religion = protestant
-		size = 1725
+		culture = charruan_minor
+		religion = sunni
+		size = 725
 	}
-
+	
 	farmers = {
-		culture = haraldian
-		religion = protestant
-		size = 2000
+		culture = charruan_minor
+		religion = sunni
+		size = 10000
+	}
+	
+	farmers = {
+		culture = charruan_minor
+		religion = animist
+		size = 6000
 	}
 
 	aristocrats = {
 		culture = guarani
 		religion = animist
-		size = 75
+		size = 250
 	}
 
 	clergymen = {
 		culture = guarani
 		religion = animist
-		size = 50
+		size = 200
 	}
 
 	artisans = {
 		culture = guarani
 		religion = animist
-		size = 250
+		size = 1000
 	}
 
 	soldiers = {
 		culture = guarani
 		religion = animist
-		size = 50
+		size = 1050
 	}
 
 	farmers = {
 		culture = guarani
 		religion = animist
-		size = 4575
+		size = 8300
 	}
 }
 #Beni Region (32000) #see Bolivia.txt for balance of region

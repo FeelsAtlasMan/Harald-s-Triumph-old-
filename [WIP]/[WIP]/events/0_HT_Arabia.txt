@@ -930,7 +930,7 @@ country_event = {
 		name = "Remove the Mamluk Privileges!"
 		set_country_flag = abb_western_administration
 		DMC = { country_event = 9934 }
-		TRI = { country_event = 9934 }
+		HDJ = { country_event = 9934 }
 		1745 = { remove_province_modifier = mamluk_estates  }
 		1746 = { remove_province_modifier = mamluk_estates  }
 		1747 = { remove_province_modifier = mamluk_estates  }
@@ -996,7 +996,7 @@ country_event = {
 			factor = 30
 			modifier = {
 				factor = 0.1
-				tag = TRI
+				tag = HDJ
 			}
 			modifier = {
 				factor = 0.9

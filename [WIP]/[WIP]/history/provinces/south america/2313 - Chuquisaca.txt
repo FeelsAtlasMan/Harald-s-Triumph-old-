@@ -1,5 +1,6 @@
-owner = INC
-controller = INC
+owner = QLS
+controller = QLS
+add_core = QLS
 add_core = INC
 trade_goods = wool
 life_rating = 35
