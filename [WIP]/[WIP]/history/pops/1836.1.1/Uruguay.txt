@@ -207,20 +207,20 @@
 	}
 	
 	slaves = {
-		culture = carijo
-		religion = animist
+		culture = guarani
+		religion = sunni
 		size = 8775
 	}
 
 	slaves = {
 		culture = charruas
-		religion = animist
+		religion = sunni
 		size = 10000
 	}
 	
 	slaves = {
 		culture = afro_brazilian
-		religion = animist
+		religion = sunni
 		size = 8000
 	}
 
