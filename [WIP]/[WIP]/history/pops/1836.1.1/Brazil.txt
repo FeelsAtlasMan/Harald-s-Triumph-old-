@@ -661,29 +661,64 @@
 #Under the rule of Brazil 1836
 #Dourados (44000/11000 POPS)
 2416 = {
+	clergymen = {
+		culture = mbaya
+		religion = animist
+		size = 150
+	}
+
+	artisans = {
+		culture = mbaya
+		religion = animist
+		size = 800
+	}
+
+	soldiers = {
+		culture = mbaya
+		religion = animist
+		size = 1050
+	}
+
+	farmers = {
+		culture = mbaya
+		religion = animist
+		size = 10000
+	}
+	
+	farmers = {
+		culture = kaiwa
+		religion = animist
+		size = 1000
+	}
+	
+	farmers = {
+		culture = kayapo
+		religion = animist
+		size = 1600
+	}
 	
 	clergymen = {
-		culture = guarani
+		culture = guato
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = guarani
+		culture = guato
 		religion = animist
-		size = 250
+		size = 200
 	}
 
 	soldiers = {
-		culture = guarani
+		culture = guato
 		religion = animist
-		size = 50
+		size = 550
 	}
 
 	farmers = {
-		culture = guarani
+		culture = guato
 		religion = animist
-		size = 4650
+		size = 9000
 	}
 }
 #Under loose authority of Brazil 1836
@@ -2420,31 +2455,31 @@
 #Uberaba (68000/17000 POPS)
 2445 = {
 	aristocrats = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 350
 	}
 
 	clergymen = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 125
 	}
 
 	artisans = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 275
 	}
 
 	soldiers = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 75
 	}
 
 	farmers = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 6175
 	}
@@ -2723,55 +2758,55 @@
 #Sorocaba (8000/2000 POPS)
 2306 = {
 	aristocrats = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 300
 	}
 
 	clergymen = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 100
 	}
 
 	artisans = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 400
 	}
 
 	soldiers = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 100
 	}
 
 	farmers = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 9100
 	}
 
 	clergymen = {
-		culture = haraldian
+		culture = brazili
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = haraldian
+		culture = brazili
 		religion = catholic
 		size = 200
 	}
 
 	soldiers = {
-		culture = haraldian
+		culture = brazili
 		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = haraldian
+		culture = brazili
 		religion = catholic
 		size = 2700
 	}
@@ -2779,43 +2814,43 @@
 #Sao Paulo (252000/63000 POPS)
 2450 = {
 	aristocrats = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 1275
 	}
 
 	bureaucrats = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 125
 	}
 
 	officers = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 150
 	}
 
 	clergymen = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 550
 	}
 
 	artisans = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 1925
 	}
 
 	soldiers = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 1100
 	}
 
 	farmers = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 42900
 	}
@@ -2885,61 +2920,61 @@
 #Campiras (64000/16000 POPS)
 2452 = {
 	aristocrats = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 325
 	}
 
 	clergymen = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 125
 	}
 
 	artisans = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 400
 	}
 
 	soldiers = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 100
 	}
 
 	farmers = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 9050
 	}
 
 	clergymen = {
-		culture = haraldian
+		culture = brazili
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = haraldian
+		culture = brazili
 		religion = catholic
 		size = 300
 	}
 
 	soldiers = {
-		culture = haraldian
+		culture = brazili
 		religion = catholic
 		size = 75
 	}
 
 	farmers = {
-		culture = haraldian
+		culture = brazili
 		religion = catholic
 		size = 2075
 	}
 
 	slaves = {
-		culture = haraldian
+		culture = brazili
 		religion = catholic
 		size = 3500
 	}
@@ -2947,31 +2982,31 @@
 #Assis (52000/14000 POPS)
 2453 = {
 		clergymen = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 25
 	}
 
 	artisans = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 50
 	}
 
 	soldiers = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 25
 	}
 
 	farmers = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 900
 	}
 	
 	slaves = {
-		culture = haraldian
+		culture = brazili
 		religion = catholic
 		size = 300
 	}
@@ -3009,61 +3044,61 @@
 #Iguape (64000/16000 POPS)
 2455 = {
 	aristocrats = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 325
 	}
 
 	clergymen = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 125
 	}
 
 	artisans = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 450
 	}
 
 	soldiers = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 125
 	}
 
 	farmers = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 9975
 	}
 
 	clergymen = {
-		culture = haraldian
+		culture = brazili
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = haraldian
+		culture = brazili
 		religion = catholic
 		size = 250
 	}
 
 	soldiers = {
-		culture = haraldian
+		culture = brazili
 		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = haraldian
+		culture = brazili
 		religion = catholic
 		size = 1700
 	}
 
 	slaves = {
-		culture = haraldian
+		culture = brazili
 		religion = catholic
 		size = 8000
 	}
@@ -3071,31 +3106,31 @@
 #Araraquara (8000/2000 POPS)
 2456 = {
 	clergymen = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 25
 	}
 
 	artisans = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 50
 	}
 
 	soldiers = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 25
 	}
 
 	farmers = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 900
 	}
 	
 	farmers = {
-		culture = haraldian
+		culture = brazili
 		religion = catholic
 		size = 300
 	}
@@ -3135,73 +3170,103 @@
 #Curitiba (172000/43000 POPS)
 2457 = {
 	aristocrats = {
-		culture = haraldian
-		religion = protestant
+		culture = brazili
+		religion = sunni
 		size = 875
 	}
 
 	bureaucrats = {
-		culture = haraldian
-		religion = protestant
+		culture = brazili
+		religion = sunni
 		size = 200
 	}
 
 	officers = {
-		culture = haraldian
-		religion = protestant
+		culture = brazili
+		religion = sunni
 		size = 125
 	}
 
 	clergymen = {
-		culture = haraldian
-		religion = protestant
+		culture = brazili
+		religion = sunni
 		size = 400
 	}
 
 	artisans = {
-		culture = haraldian
-		religion = protestant
+		culture = brazili
+		religion = sunni
 		size = 1525
 	}
 
 	soldiers = {
-		culture = haraldian
-		religion = protestant
+		culture = brazili
+		religion = sunni
 		size = 1100
 	}
 
 	farmers = {
-		culture = haraldian
-		religion = protestant
-		size = 33875
+		culture = brazili
+		religion = sunni
+		size = 23875
+	}
+	
+	clergymen = {
+		culture = carijo
+		religion = sunni
+		size = 40
+	}
+
+	artisans = {
+		culture = carijo
+		religion = sunni
+		size = 25
+	}
+
+	soldiers = {
+		culture = carijo
+		religion = sunni
+		size = 100
+	}
+	
+	farmers = {
+		culture = carijo
+		religion = sunni
+		size = 1000
+	}
+
+	slaves = {
+		culture = carijo
+		religion = animist
+		size = 10000
 	}
 
 	clergymen = {
-		culture = afro_germanic
-		religion = protestant
+		culture = afro_brazilian
+		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = afro_germanic
-		religion = protestant
+		culture = afro_brazilian
+		religion = sunni
 		size = 250
 	}
 
 	soldiers = {
-		culture = afro_germanic
-		religion = protestant
+		culture = afro_brazilian
+		religion = sunni
 		size = 50
 	}
 
 	farmers = {
-		culture = afro_germanic
-		religion = protestant
+		culture = afro_brazilian
+		religion = sunni
 		size = 1700
 	}
 
 	slaves = {
-		culture = afro_germanic
+		culture = afro_brazilian
 		religion = protestant
 		size = 13000
 	}
@@ -3209,31 +3274,31 @@
 #Garapuava (40000/10000 POPS)
 2458 = {
 	aristocrats = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 200
 	}
 
 	clergymen = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 75
 	}
 
 	artisans = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 250
 	}
 
 	soldiers = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 75
 	}
 
 	farmers = {
-		culture = haraldian
+		culture = brazili
 		religion = protestant
 		size = 5400
 	}
@@ -3295,303 +3360,405 @@
 #Lajes (60000/15000 POPS)
 2459 = {
 	aristocrats = {
-		culture = haraldian
-		religion = protestant
+		culture = brazili
+		religion = sunni
 		size = 225
 	}
 
 	clergymen = {
-		culture = haraldian
-		religion = protestant
+		culture = brazili
+		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = haraldian
-		religion = protestant
+		culture = brazili
+		religion = sunni
 		size = 250
 	}
 
 	soldiers = {
-		culture = haraldian
-		religion = protestant
+		culture = brazili
+		religion = sunni
 		size = 75
 	}
 
 	farmers = {
-		culture = haraldian
-		religion = protestant
+		culture = brazili
+		religion = sunni
 		size = 5375
 	}
 
 	clergymen = {
-		culture = afro_germanic
-		religion = protestant
+		culture = afro_brazilian
+		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = afro_germanic
-		religion = protestant
+		culture = afro_brazilian
+		religion = sunni
 		size = 200
 	}
 
 	soldiers = {
-		culture = afro_germanic
-		religion = protestant
+		culture = afro_brazilian
+		religion = sunni
 		size = 50
 	}
 
 	farmers = {
-		culture = afro_germanic
-		religion = protestant
+		culture = afro_brazilian
+		religion = sunni
 		size = 1200
 	}
 
 	slaves = {
-		culture = afro_germanic
-		religion = protestant
+		culture = afro_brazilian
+		religion = animist
 		size = 2500
 	}
 
 	aristocrats = {
-		culture = guarani
-		religion = animist
+		culture = kaingang
+		religion = sunni
 		size = 75
 	}
 
 	clergymen = {
-		culture = guarani
-		religion = animist
+		culture = kaingang
+		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = guarani
-		religion = animist
+		culture = kaingang
+		religion = sunni
 		size = 250
 	}
 
 	soldiers = {
-		culture = guarani
-		religion = animist
+		culture = kaingang
+		religion = sunni
 		size = 50
 	}
 
 	farmers = {
-		culture = guarani
-		religion = animist
+		culture = kaingang
+		religion = sunni
 		size = 4575
+	}
+	
+	slaves = {
+		culture = kaingang
+		religion = animist
+		size = 10000
 	}
 }
 #Castro (72000/18000 POPS)
 2460 = {
 	aristocrats = {
-		culture = haraldian
-		religion = protestant
+		culture = brazili
+		religion = sunni
 		size = 375
 	}
 
 	clergymen = {
-		culture = haraldian
-		religion = protestant
+		culture = brazili
+		religion = sunni
 		size = 150
 	}
 
 	artisans = {
-		culture = haraldian
-		religion = protestant
+		culture = brazili
+		religion = sunni
 		size = 525
 	}
 
 	soldiers = {
-		culture = haraldian
-		religion = protestant
+		culture = brazili
+		religion = sunni
 		size = 125
 	}
 
 	farmers = {
-		culture = haraldian
-		religion = protestant
-		size = 11825
+		culture = brazili
+		religion = sunni
+		size = 9825
+	}
+	
+	clergymen = {
+		culture = kaingang
+		religion = sunni
+		size = 15
+	}
+
+	artisans = {
+		culture = kaingang
+		religion = sunni
+		size = 25
+	}
+
+	soldiers = {
+		culture = kaingang
+		religion = sunni
+		size = 125
+	}
+
+	farmers = {
+		culture = kaingang
+		religion = sunni
+		size = 825
+	}
+
+	farmers = {
+		culture = kaingang
+		religion = animist
+		size = 7000
 	}
 
 	clergymen = {
-		culture = afro_germanic
-		religion = protestant
+		culture = afro_brazilian
+		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = afro_germanic
-		religion = protestant
+		culture = afro_brazilian
+		religion = sunni
 		size = 200
 	}
 
 	soldiers = {
-		culture = afro_germanic
-		religion = protestant
+		culture = afro_brazilian
+		religion = sunni
 		size = 50
 	}
 
 	farmers = {
-		culture = afro_germanic
-		religion = protestant
+		culture = afro_brazilian
+		religion = sunni
 		size = 1200
 	}
 
 	slaves = {
-		culture = afro_germanic
-		religion = protestant
+		culture = afro_brazilian
+		religion = animist
 		size = 2500
 	}
 
 	clergymen = {
-		culture = tupinamba
-		religion = animist
-		size = 25
+		culture = xeta
+		religion = sunni
+		size = 200
 	}
 
 	artisans = {
-		culture = tupinamba
-		religion = animist
-		size = 50
+		culture = xeta
+		religion = sunni
+		size = 300
 	}
 
 	soldiers = {
-		culture = tupinamba
-		religion = animist
-		size = 15
+		culture = xeta
+		religion = sunni
+		size = 415
 	}
 
 	farmers = {
-		culture = tupinamba
+		culture = xeta
+		religion = sunni
+		size = 460
+	}
+	
+	slaves = {
+		culture = xeta
 		religion = animist
-		size = 910
+		size = 5000
 	}
 }
 #Desterro (88000/22000 POPS)
 2461 = {
 	aristocrats = {
-		culture = haraldian
-		religion = protestant
+		culture = brazili
+		religion = sunni
 		size = 450
 	}
 
 	clergymen = {
-		culture = haraldian
-		religion = protestant
+		culture = brazili
+		religion = sunni
 		size = 200
 	}
 
 	artisans = {
-		culture = haraldian
-		religion = protestant
+		culture = brazili
+		religion = sunni
 		size = 650
 	}
 
 	soldiers = {
-		culture = haraldian
-		religion = protestant
+		culture = brazili
+		religion = sunni
 		size = 175
 	}
 
 	farmers = {
-		culture = haraldian
-		religion = protestant
+		culture = brazili
+		religion = sunni
 		size = 14525
+	}
+	
+	clergymen = {
+		culture = carijo
+		religion = sunni
+		size = 20
+	}
+
+	artisans = {
+		culture = carijo
+		religion = sunni
+		size = 65
+	}
+
+	soldiers = {
+		culture = carijo
+		religion = sunni
+		size = 175
+	}
+
+	farmers = {
+		culture = carijo
+		religion = sunni
+		size = 2525
+	}
+	
+	slaves = {
+		culture = carijo
+		religion = animist
+		size = 16525
 	}
 
 	clergymen = {
-		culture = afro_germanic
-		religion = protestant
+		culture = afro_brazilian
+		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = haraldian
-		religion = protestant
+		culture = afro_brazilian
+		religion = sunni
 		size = 300
 	}
 
 	soldiers = {
-		culture = haraldian
-		religion = protestant
+		culture = afro_brazilian
+		religion = sunni
 		size = 75
 	}
 
 	farmers = {
-		culture = haraldian
-		religion = protestant
-		size = 2075
+		culture = afro_brazilian
+		religion = sunni
+		size = 175
 	}
 
 	slaves = {
-		culture = haraldian
-		religion = protestant
-		size = 3500
+		culture = afro_brazilian
+		religion = animist
+		size = 5500
 	}
 }
 #Sao Miguel (80000/20000 POPS)
 2462 = {
 	aristocrats = {
-		culture = haraldian
-		religion = protestant
+		culture = brazili
+		religion = sunni
 		size = 425
 	}
 
 	clergymen = {
-		culture = haraldian
-		religion = protestant
+		culture = brazili
+		religion = sunni
 		size = 150
 	}
 
 	artisans = {
-		culture = haraldian
-		religion = protestant
+		culture = brazili
+		religion = sunni
 		size = 525
 	}
 
 	soldiers = {
-		culture = haraldian
-		religion = protestant
+		culture = brazili
+		religion = sunni
 		size = 125
 	}
 
 	farmers = {
-		culture = haraldian
-		religion = protestant
-		size = 11775
+		culture = brazili
+		religion = sunni
+		size = 4775
 	}
-
+	
 	clergymen = {
-		culture = afro_germanic
-		religion = protestant
+		culture = kaiwa
+		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = afro_germanic
-		religion = protestant
+		culture = kaiwa
+		religion = sunni
 		size = 350
 	}
 
 	soldiers = {
-		culture = afro_germanic
-		religion = protestant
+		culture = kaiwa
+		religion = sunni
 		size = 75
 	}
 
 	farmers = {
-		culture = afro_germanic
-		religion = protestant
+		culture = kaiwa
+		religion = sunni
 		size = 2500
 	}
 
 	slaves = {
-		culture = afro_germanic
-		religion = protestant
-		size = 4000
+		culture = kaiwa
+		religion = animist
+		size = 11000
+	}
+
+	clergymen = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 75
+	}
+
+	artisans = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 350
+	}
+
+	soldiers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 75
+	}
+
+	farmers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 500
+	}
+
+	slaves = {
+		culture = afro_brazilian
+		religion = animist
+		size = 2000
 	}
 }
 #Sao Pedro Region (532000)
@@ -3599,331 +3766,415 @@
 #Porto Alegre (224000/56000 POPS)
 2463 = {
 	aristocrats = {
-		culture = haraldian
-		religion = protestant
+		culture = brazili
+		religion = sunni
 		size = 1025
 	}
 
 	bureaucrats = {
-		culture = haraldian
-		religion = protestant
+		culture = brazili
+		religion = sunni
 		size = 300
 	}
 
 	officers = {
-		culture = haraldian
-		religion = protestant
+		culture = brazili
+		religion = sunni
 		size = 225
 	}
 
 	clergymen = {
-		culture = haraldian
-		religion = protestant
-		size = 1550
+		culture = brazili
+		religion = sunni
+		size = 1000
 	}
 
 	artisans = {
-		culture = haraldian
-		religion = protestant
-		size = 6725
+		culture = brazili
+		religion = sunni
+		size = 5000
 	}
 
 	soldiers = {
-		culture = haraldian
-		religion = protestant
+		culture = brazili
+		religion = sunni
 		size = 3000
 	}
 
+	farmers = {
+		culture = brazili
+		religion = sunni
+		size = 22575
+	}
+	
+	clergymen = {
+		culture = carijo
+		religion = sunni
+		size = 550
+	}
+
+	artisans = {
+		culture = carijo
+		religion = sunni
+		size = 1725
+	}
+
 	soldiers = {
-		culture = haraldian
-		religion = protestant
+		culture = carijo
+		religion = sunni
 		size = 2000
 	}
 
 	farmers = {
-		culture = haraldian
-		religion = protestant
-		size = 52575
+		culture = carijo
+		religion = sunni
+		size = 10000
+	}
+	
+	slaves = {
+		culture = carijo
+		religion = animist
+		size = 20000
+	}
+	
+	slaves = {
+		culture = kaingang
+		religion = animist
+		size = 3000
 	}
 
 	clergymen = {
-		culture = afro_germanic
-		religion = protestant
+		culture = afro_brazilian
+		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = afro_germanic
-		religion = protestant
+		culture = afro_brazilian
+		religion = sunni
 		size = 650
 	}
 
 	soldiers = {
-		culture = afro_germanic
-		religion = protestant
+		culture = afro_brazilian
+		religion = sunni
 		size = 125
 	}
 
 	farmers = {
-		culture = afro_germanic
-		religion = protestant
+		culture = afro_brazilian
+		religion = sunni
 		size = 4175
 	}
 
 	slaves = {
-		culture = afro_germanic
-		religion = protestant
+		culture = afro_brazilian
+		religion = animist
 		size = 8000
 	}
 }
 #Sao Pedro (44000/11000 POPS)
 2464 = {
 	aristocrats = {
-		culture = haraldian
-		religion = protestant
+		culture = brazili
+		religion = sunni
 		size = 225
 	}
 
 	clergymen = {
-		culture = haraldian
-		religion = protestant
+		culture = brazili
+		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = haraldian
-		religion = protestant
+		culture = brazili
+		religion = sunni
 		size = 300
 	}
 
 	soldiers = {
-		culture = haraldian
-		religion = protestant
+		culture = brazili
+		religion = sunni
 		size = 2400
 	}
 
 	farmers = {
-		culture = haraldian
-		religion = protestant
-		size = 6500
+		culture = brazili
+		religion = sunni
+		size = 9500
 	}
 
 	clergymen = {
-		culture = afro_germanic
-		religion = protestant
+		culture = afro_brazilian
+		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = afro_germanic
-		religion = protestant
+		culture = afro_brazilian
+		religion = sunni
 		size = 200
 	}
 
 	soldiers = {
-		culture = afro_germanic
-		religion = protestant
+		culture = afro_brazilian
+		religion = sunni
 		size = 50
 	}
 
 	farmers = {
-		culture = afro_germanic
-		religion = protestant
-		size = 1200
+		culture = afro_brazilian
+		religion = sunni
+		size = 200
 	}
 
+	slaves = {
+		culture = afro_brazilian
+		religion = animist
+		size = 18000
+	}
+	
+	clergymen = {
+		culture = carijo
+		religion = sunni
+		size = 300
+	}
+
+	artisans = {
+		culture = carijo
+		religion = sunni
+		size = 200
+	}
+
+	soldiers = {
+		culture = carijo
+		religion = sunni
+		size = 50
+	}
+
+	farmers = {
+		culture = carijo
+		religion = sunni
+		size = 7200
+	}
+
+	slaves = {
+		culture = carijo
+		religion = animist
+		size = 20000
+	}
+	
 }
 #Passo Fundo (112000/28000 POPS)
 2465 = {
 	aristocrats = {
-		culture = haraldian
-		religion = protestant
+		culture = brazili
+		religion = sunni
 		size = 575
 	}
 
 	clergymen = {
-		culture = haraldian
-		religion = protestant
+		culture = brazili
+		religion = sunni
 		size = 250
 	}
 
 	artisans = {
-		culture = haraldian
-		religion = protestant
+		culture = brazili
+		religion = sunni
 		size = 725
 	}
 
 	soldiers = {
-		culture = haraldian
-		religion = protestant
+		culture = brazili
+		religion = sunni
 		size = 2450
 	}
 
 	farmers = {
-		culture = haraldian
-		religion = protestant
-		size = 14000
+		culture = brazili
+		religion = sunni
+		size = 4000
 	}
 
 	clergymen = {
-		culture = afro_germanic
-		religion = protestant
-		size = 50
+		culture = kaingang
+		religion = sunni
+		size = 200
 	}
 
 	artisans = {
-		culture = afro_germanic
-		religion = protestant
+		culture = kaingang
+		religion = sunni
+		size = 100
+	}
+
+	soldiers = {
+		culture = kaingang
+		religion = sunni
+		size = 200
+	}
+
+	farmers = {
+		culture = kaingang
+		religion = sunni
+		size = 4800
+	}
+	
+	slaves = {
+		culture = kaingang
+		religion = animist
+		size = 11800
+	}
+	
+	slaves = {
+		culture = afro_brazilian
+		religion = animist
+		size = 5800
+	}
+
+	clergymen = {
+		culture = carijo
+		religion = sunni
+		size = 200
+	}
+
+	artisans = {
+		culture = carijo
+		religion = sunni
 		size = 250
 	}
 
 	soldiers = {
-		culture = afro_germanic
-		religion = protestant
-		size = 50
+		culture = carijo
+		religion = sunni
+		size = 800
 	}
-
+	
 	farmers = {
-		culture = afro_germanic
-		religion = protestant
-		size = 1700
+		culture = carijo
+		religion = sunni
+		size = 5600
 	}
 
-	clergymen = {
-		culture = guarani
+	slaves = {
+		culture = carijo
 		religion = animist
-		size = 50
-	}
-
-	artisans = {
-		culture = guarani
-		religion = animist
-		size = 250
-	}
-
-	soldiers = {
-		culture = guarani
-		religion = animist
-		size = 50
-	}
-
-	farmers = {
-		culture = guarani
-		religion = animist
-		size = 4650
+		size = 8000
 	}
 }
 #Santa Maria (88000/22000 POPS)
 2466 = {
 	aristocrats = {
-		culture = haraldian
-		religion = protestant
+		culture = guarani
+		religion = sunni
 		size = 450
 	}
 
 	clergymen = {
-		culture = haraldian
-		religion = protestant
+		culture = guarani
+		religion = sunni
 		size = 200
 	}
 
 	artisans = {
-	    culture = haraldian
-		religion = protestant
+	    culture = guarani
+		religion = sunni
 		size = 650
 	}
 
 	soldiers = {
-		culture = haraldian
-		religion = protestant
+		culture = guarani
+		religion = sunni
 		size = 2700
 	}
 
 	farmers = {
-		culture = haraldian
-		religion = protestant
+		culture = guarani
+		religion = sunni
 		size = 12000
 	}
 
 	clergymen = {
-		culture = afro_germanic
-		religion = protestant
-		size = 50
+		culture = guarani
+		religion = animist
+		size = 200
 	}
 
 	artisans = {
-		culture = afro_germanic
-		religion = protestant
-		size = 300
+		culture = guarani
+		religion = animist
+		size = 1200
 	}
 
 	soldiers = {
-		culture = afro_germanic
-		religion = protestant
-		size = 75
+		culture = guarani
+		religion = animist
+		size = 600
 	}
 
 	farmers = {
-        culture = afro_germanic
-		religion = protestant
-		size = 2075
+       culture = guarani
+		religion = animist
+		size = 8300
 	}
 
 }
 #Alegrete (64000/16000 POPS)
 2467 = {
 	clergymen = {
-		culture = haraldian
-		religion = protestant
-		size = 75
-	}
-
-	artisans = {
-		culture = haraldian
-		religion = protestant
-		size = 200
+		culture = charruan_minor
+		religion = sunni
+		size = 225
 	}
 
 	soldiers = {
-		culture = haraldian
-		religion = protestant
-		size = 1725
+		culture = charruan_minor
+		religion = sunni
+		size = 725
 	}
-
+	
 	farmers = {
-		culture = haraldian
-		religion = protestant
-		size = 2000
+		culture = charruan_minor
+		religion = sunni
+		size = 10000
+	}
+	
+	farmers = {
+		culture = charruan_minor
+		religion = animist
+		size = 6000
 	}
 
 	aristocrats = {
 		culture = guarani
 		religion = animist
-		size = 75
+		size = 250
 	}
 
 	clergymen = {
 		culture = guarani
 		religion = animist
-		size = 50
+		size = 200
 	}
 
 	artisans = {
 		culture = guarani
 		religion = animist
-		size = 250
+		size = 1000
 	}
 
 	soldiers = {
 		culture = guarani
 		religion = animist
-		size = 50
+		size = 1050
 	}
 
 	farmers = {
 		culture = guarani
 		religion = animist
-		size = 4575
+		size = 8300
 	}
 }
 #Beni Region (32000) #see Bolivia.txt for balance of region

@@ -287,6 +287,10 @@ QLW	    = "countries/Qalwu Federation.txt"
 HRB	    = "countries/al-Haribun.txt"
 TPB	    = "countries/Tupinamba.txt"
 MRA	    = "countries/Mura.txt"
+CHM	    = "countries/Chimu.txt"
+QLS	    = "countries/Qullasuyu.txt"
+ARS	    = "countries/Sachaqasuyu.txt"
+KKR	    = "countries/Kuikuro.txt"
 
 ##HFM New Nations
 #ATB	= "countries/Saxe-Altenburg.txt"

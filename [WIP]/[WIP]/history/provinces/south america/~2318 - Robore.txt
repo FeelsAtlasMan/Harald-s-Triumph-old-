@@ -1,5 +1,0 @@
-add_core = SPU
-trade_goods = wool
-terrain = savanna
-life_rating = 31
-

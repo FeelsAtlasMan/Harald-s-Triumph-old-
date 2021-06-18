@@ -1,5 +1,6 @@
-owner = INC
-controller = INC
+owner = ARS
+controller = ARS
+add_core = ARS
 add_core = INC
 trade_goods = fruit
 life_rating = 20

@@ -208,7 +208,7 @@ country_event = {
            }
 		}
 		ai_chance = {
-			factor = 100
+			factor = 80
 		}
 	}
 	
@@ -218,7 +218,7 @@ country_event = {
 		TMB = { all_core = { add_core = TOO } }
 		TMB = { all_core = { remove_core = MOR remove_core = TMB } }
 		ai_chance = {
-			factor = 0
+			factor = 20
 		}
 	}
 }
@@ -234,6 +234,7 @@ country_event = {
 	    tag = MOR
 		has_recently_lost_war = yes
 		has_country_flag = got_cut_down
+		truce_with = TOO		   
 	}
 	
 	option = {
@@ -282,14 +283,14 @@ country_event = {
 		TOO = { inherit = TMB }
 		TMB = { all_core = { add_core = TOO } }
 		war = {
-	           target = MOR
+	           target = TOO
 	           attacker_goal = { casus_belli = acquire_all_cores }
 	           defender_goal = { casus_belli = humiliate }
 	           call_ally = no
            }
 		set_country_flag = lost_timbuktu
 		ai_chance = {
-			factor = 100
+			factor = 20
 		}
 	}
 }

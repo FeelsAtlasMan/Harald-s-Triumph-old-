@@ -4803,16 +4803,6 @@ native_american = {
 		Guaman Guayasamín Gutiérrez Heredia Humala Iturri Lazarte Ludueña Melgarejo Palacios
 		Patiño Quispe Rodríguez Roncaglia "Santa Cruz" Sosa Sumac Toledo Vargas Zapata }
 	}
-	guarani = {
-		color = {89 80 175}
-		first_names = { Aniceto Antonio Bartolomé Camilo Carlos Claudio David Emiliano Eugenio Felipe
-		Félix Fernando Gregorio Jacinto Jesús José Juan Julio Luis Manuel
-		Marcos Máximo Narciso Pablo Pedro Rodrigo Roque Simón Teodoro Víctor }
-
-		last_names = { Abjaisu Álvarez Ayegua Camba Chuaie Correa Cunhagatú Díaz Fernández Galeano 
-		Gómez González Guaracay Guaraní Guerrero Jopara López Mongelós Morla Ortíz
-		Paravé Picagua Riquelme Rivarola "Santa Cruz" Tarayú Torga Velázquez Yaguarete Yrahi }
-	}
 	aimara = {
 		color = {190 45 23}
 		first_names = { Agustín Alejandro Antonio Bartolomé Carlos David Eduardo Enrique Evo Facundo
@@ -4831,16 +4821,6 @@ native_american = {
 
 		last_names = { Arawá Arawak Bororo Garifuna Gê Guayaná Jeikó Kaingang Kalinago Kamakán
 		Karajá Kayapó Matsés Maxakalí Purí Timbira Xavante Xerente Xokieng Yanomamö }
-	}
-	patagonian = {
-		color = {88 99 133}
-		first_names = { Agustín Antonio Aquiles Arturo Aurelio Bernardo Carlos Claudio Diego Facundo
-		Félix Fernando Francisco Gerardo Gregorio Hugo Ignacio José Juan Luis
-		Manuel Marcos Martín Máximo Melchor Pedro Ramón Raúl Santiago Víctor }
-
-		last_names = { Aliwen Amuylifko Aukan Ayllapan Chiguay Cumin Curumilla Epulewfu Foyelkay Guaiquil
-		Huichaman Ilwen Kayupi Kumlafken Kvlapi Leviñanco Lincoman Marifil Melifilu Millakoyam
-		Millapani Nahuel Ñanku Paillacar Pillancar Quelin Remultray Unquen Waikimill Yankvleufu }
 	}
 	guajiro = {
 		color = {221 248 75}
@@ -4954,6 +4934,556 @@ native_american = {
 	}
 }
 
+#South American Natives - South to North
+#Chon Languages
+chon_group = {
+	leader = nativeamerican
+	is_overseas = no
+	patagonian = { #now Het
+		color = {90 100 130}
+		first_names = { Agustín Antonio Aquiles Arturo Aurelio Bernardo Carlos Claudio Diego Facundo
+		Félix Fernando Francisco Gerardo Gregorio Hugo Ignacio José Juan Luis
+		Manuel Marcos Martín Máximo Melchor Pedro Ramón Raúl Santiago Víctor }
+
+		last_names = { Aliwen Amuylifko Aukan Ayllapan Chiguay Cumin Curumilla Epulewfu Foyelkay Guaiquil
+		Huichaman Ilwen Kayupi Kumlafken Kvlapi Leviñanco Lincoman Marifil Melifilu Millakoyam
+		Millapani Nahuel Ñanku Paillacar Pillancar Quelin Remultray Unquen Waikimill Yankvleufu }
+	}
+	
+	pwelche = {
+		color = {110 120 150}
+		first_names = { Agustín Antonio Aquiles Arturo Aurelio Bernardo Carlos Claudio Diego Facundo
+		Félix Fernando Francisco Gerardo Gregorio Hugo Ignacio José Juan Luis
+		Manuel Marcos Martín Máximo Melchor Pedro Ramón Raúl Santiago Víctor }
+
+		last_names = { Aliwen Amuylifko Aukan Ayllapan Chiguay Cumin Curumilla Epulewfu Foyelkay Guaiquil
+		Huichaman Ilwen Kayupi Kumlafken Kvlapi Leviñanco Lincoman Marifil Melifilu Millakoyam
+		Millapani Nahuel Ñanku Paillacar Pillancar Quelin Remultray Unquen Waikimill Yankvleufu }
+	}
+	
+	teushen = {
+		color = {130 140 170}
+		first_names = { Agustín Antonio Aquiles Arturo Aurelio Bernardo Carlos Claudio Diego Facundo
+		Félix Fernando Francisco Gerardo Gregorio Hugo Ignacio José Juan Luis
+		Manuel Marcos Martín Máximo Melchor Pedro Ramón Raúl Santiago Víctor }
+
+		last_names = { Aliwen Amuylifko Aukan Ayllapan Chiguay Cumin Curumilla Epulewfu Foyelkay Guaiquil
+		Huichaman Ilwen Kayupi Kumlafken Kvlapi Leviñanco Lincoman Marifil Melifilu Millakoyam
+		Millapani Nahuel Ñanku Paillacar Pillancar Quelin Remultray Unquen Waikimill Yankvleufu }
+	}
+	
+	tehuelche = {
+		color = {150 160 190}
+		first_names = { Agustín Antonio Aquiles Arturo Aurelio Bernardo Carlos Claudio Diego Facundo
+		Félix Fernando Francisco Gerardo Gregorio Hugo Ignacio José Juan Luis
+		Manuel Marcos Martín Máximo Melchor Pedro Ramón Raúl Santiago Víctor }
+
+		last_names = { Aliwen Amuylifko Aukan Ayllapan Chiguay Cumin Curumilla Epulewfu Foyelkay Guaiquil
+		Huichaman Ilwen Kayupi Kumlafken Kvlapi Leviñanco Lincoman Marifil Melifilu Millakoyam
+		Millapani Nahuel Ñanku Paillacar Pillancar Quelin Remultray Unquen Waikimill Yankvleufu }
+	}
+	
+	ona = {
+		color = {170 180 210}
+		first_names = { Agustín Antonio Aquiles Arturo Aurelio Bernardo Carlos Claudio Diego Facundo
+		Félix Fernando Francisco Gerardo Gregorio Hugo Ignacio José Juan Luis
+		Manuel Marcos Martín Máximo Melchor Pedro Ramón Raúl Santiago Víctor }
+
+		last_names = { Aliwen Amuylifko Aukan Ayllapan Chiguay Cumin Curumilla Epulewfu Foyelkay Guaiquil
+		Huichaman Ilwen Kayupi Kumlafken Kvlapi Leviñanco Lincoman Marifil Melifilu Millakoyam
+		Millapani Nahuel Ñanku Paillacar Pillancar Quelin Remultray Unquen Waikimill Yankvleufu }
+	}
+	
+	haush = {
+		color = {190 200 230}
+		first_names = { Agustín Antonio Aquiles Arturo Aurelio Bernardo Carlos Claudio Diego Facundo
+		Félix Fernando Francisco Gerardo Gregorio Hugo Ignacio José Juan Luis
+		Manuel Marcos Martín Máximo Melchor Pedro Ramón Raúl Santiago Víctor }
+
+		last_names = { Aliwen Amuylifko Aukan Ayllapan Chiguay Cumin Curumilla Epulewfu Foyelkay Guaiquil
+		Huichaman Ilwen Kayupi Kumlafken Kvlapi Leviñanco Lincoman Marifil Melifilu Millakoyam
+		Millapani Nahuel Ñanku Paillacar Pillancar Quelin Remultray Unquen Waikimill Yankvleufu }
+	}
+}
+
+#Charruan
+charruan_group = {
+	leader = nativeamerican
+	is_overseas = no
+	charruas = {
+		color = {100 10 30}
+		first_names = { Agustín Antonio Aquiles Arturo Aurelio Bernardo Carlos Claudio Diego Facundo
+		Félix Fernando Francisco Gerardo Gregorio Hugo Ignacio José Juan Luis
+		Manuel Marcos Martín Máximo Melchor Pedro Ramón Raúl Santiago Víctor }
+
+		last_names = { Aliwen Amuylifko Aukan Ayllapan Chiguay Cumin Curumilla Epulewfu Foyelkay Guaiquil
+		Huichaman Ilwen Kayupi Kumlafken Kvlapi Leviñanco Lincoman Marifil Melifilu Millakoyam
+		Millapani Nahuel Ñanku Paillacar Pillancar Quelin Remultray Unquen Waikimill Yankvleufu }
+	}
+	
+	guenoa_minuan = {
+		color = {120 30 50}
+		first_names = { Agustín Antonio Aquiles Arturo Aurelio Bernardo Carlos Claudio Diego Facundo
+		Félix Fernando Francisco Gerardo Gregorio Hugo Ignacio José Juan Luis
+		Manuel Marcos Martín Máximo Melchor Pedro Ramón Raúl Santiago Víctor }
+
+		last_names = { Aliwen Amuylifko Aukan Ayllapan Chiguay Cumin Curumilla Epulewfu Foyelkay Guaiquil
+		Huichaman Ilwen Kayupi Kumlafken Kvlapi Leviñanco Lincoman Marifil Melifilu Millakoyam
+		Millapani Nahuel Ñanku Paillacar Pillancar Quelin Remultray Unquen Waikimill Yankvleufu }
+	}
+	
+	bohane = {
+		color = {140 50 70}
+		first_names = { Agustín Antonio Aquiles Arturo Aurelio Bernardo Carlos Claudio Diego Facundo
+		Félix Fernando Francisco Gerardo Gregorio Hugo Ignacio José Juan Luis
+		Manuel Marcos Martín Máximo Melchor Pedro Ramón Raúl Santiago Víctor }
+
+		last_names = { Aliwen Amuylifko Aukan Ayllapan Chiguay Cumin Curumilla Epulewfu Foyelkay Guaiquil
+		Huichaman Ilwen Kayupi Kumlafken Kvlapi Leviñanco Lincoman Marifil Melifilu Millakoyam
+		Millapani Nahuel Ñanku Paillacar Pillancar Quelin Remultray Unquen Waikimill Yankvleufu }
+	}
+	
+	chana = {
+		color = {160 70 110}
+		first_names = { Agustín Antonio Aquiles Arturo Aurelio Bernardo Carlos Claudio Diego Facundo
+		Félix Fernando Francisco Gerardo Gregorio Hugo Ignacio José Juan Luis
+		Manuel Marcos Martín Máximo Melchor Pedro Ramón Raúl Santiago Víctor }
+
+		last_names = { Aliwen Amuylifko Aukan Ayllapan Chiguay Cumin Curumilla Epulewfu Foyelkay Guaiquil
+		Huichaman Ilwen Kayupi Kumlafken Kvlapi Leviñanco Lincoman Marifil Melifilu Millakoyam
+		Millapani Nahuel Ñanku Paillacar Pillancar Quelin Remultray Unquen Waikimill Yankvleufu }
+	}
+	
+	charruan_minor = {
+		color = {180 90 130}
+		first_names = { Agustín Antonio Aquiles Arturo Aurelio Bernardo Carlos Claudio Diego Facundo
+		Félix Fernando Francisco Gerardo Gregorio Hugo Ignacio José Juan Luis
+		Manuel Marcos Martín Máximo Melchor Pedro Ramón Raúl Santiago Víctor }
+
+		last_names = { Aliwen Amuylifko Aukan Ayllapan Chiguay Cumin Curumilla Epulewfu Foyelkay Guaiquil
+		Huichaman Ilwen Kayupi Kumlafken Kvlapi Leviñanco Lincoman Marifil Melifilu Millakoyam
+		Millapani Nahuel Ñanku Paillacar Pillancar Quelin Remultray Unquen Waikimill Yankvleufu }
+	}
+}
+
+#Fuegian Isolates
+fuegian_group = {
+	leader = nativeamerican
+	is_overseas = no
+	yaghan = {
+		color = {30 10 130}
+		first_names = { Agustín Antonio Aquiles Arturo Aurelio Bernardo Carlos Claudio Diego Facundo
+		Félix Fernando Francisco Gerardo Gregorio Hugo Ignacio José Juan Luis
+		Manuel Marcos Martín Máximo Melchor Pedro Ramón Raúl Santiago Víctor }
+
+		last_names = { Aliwen Amuylifko Aukan Ayllapan Chiguay Cumin Curumilla Epulewfu Foyelkay Guaiquil
+		Huichaman Ilwen Kayupi Kumlafken Kvlapi Leviñanco Lincoman Marifil Melifilu Millakoyam
+		Millapani Nahuel Ñanku Paillacar Pillancar Quelin Remultray Unquen Waikimill Yankvleufu }
+	}
+	
+	alacalufan = {
+		color = {50 30 150}
+		first_names = { Agustín Antonio Aquiles Arturo Aurelio Bernardo Carlos Claudio Diego Facundo
+		Félix Fernando Francisco Gerardo Gregorio Hugo Ignacio José Juan Luis
+		Manuel Marcos Martín Máximo Melchor Pedro Ramón Raúl Santiago Víctor }
+
+		last_names = { Aliwen Amuylifko Aukan Ayllapan Chiguay Cumin Curumilla Epulewfu Foyelkay Guaiquil
+		Huichaman Ilwen Kayupi Kumlafken Kvlapi Leviñanco Lincoman Marifil Melifilu Millakoyam
+		Millapani Nahuel Ñanku Paillacar Pillancar Quelin Remultray Unquen Waikimill Yankvleufu }
+	}
+	
+	chono = {
+		color = {70 50 170}
+		first_names = { Agustín Antonio Aquiles Arturo Aurelio Bernardo Carlos Claudio Diego Facundo
+		Félix Fernando Francisco Gerardo Gregorio Hugo Ignacio José Juan Luis
+		Manuel Marcos Martín Máximo Melchor Pedro Ramón Raúl Santiago Víctor }
+
+		last_names = { Aliwen Amuylifko Aukan Ayllapan Chiguay Cumin Curumilla Epulewfu Foyelkay Guaiquil
+		Huichaman Ilwen Kayupi Kumlafken Kvlapi Leviñanco Lincoman Marifil Melifilu Millakoyam
+		Millapani Nahuel Ñanku Paillacar Pillancar Quelin Remultray Unquen Waikimill Yankvleufu }
+	}
+}
+
+#Araucanian
+araucanian  = {
+	leader = nativeamerican
+	is_overseas = no
+	mapuche = {
+		color = {80 20 80}
+		first_names = { Agustín Antonio Aquiles Arturo Aurelio Bernardo Carlos Claudio Diego Facundo
+		Félix Fernando Francisco Gerardo Gregorio Hugo Ignacio José Juan Luis
+		Manuel Marcos Martín Máximo Melchor Pedro Ramón Raúl Santiago Víctor }
+
+		last_names = { Aliwen Amuylifko Aukan Ayllapan Chiguay Cumin Curumilla Epulewfu Foyelkay Guaiquil
+		Huichaman Ilwen Kayupi Kumlafken Kvlapi Leviñanco Lincoman Marifil Melifilu Millakoyam
+		Millapani Nahuel Ñanku Paillacar Pillancar Quelin Remultray Unquen Waikimill Yankvleufu }
+	}
+	
+	pewenche = {
+		color = {100 25 100}
+		first_names = { Agustín Antonio Aquiles Arturo Aurelio Bernardo Carlos Claudio Diego Facundo
+		Félix Fernando Francisco Gerardo Gregorio Hugo Ignacio José Juan Luis
+		Manuel Marcos Martín Máximo Melchor Pedro Ramón Raúl Santiago Víctor }
+
+		last_names = { Aliwen Amuylifko Aukan Ayllapan Chiguay Cumin Curumilla Epulewfu Foyelkay Guaiquil
+		Huichaman Ilwen Kayupi Kumlafken Kvlapi Leviñanco Lincoman Marifil Melifilu Millakoyam
+		Millapani Nahuel Ñanku Paillacar Pillancar Quelin Remultray Unquen Waikimill Yankvleufu }
+	}
+	
+	picunche = {
+		color = {120 30 120}
+		first_names = { Agustín Antonio Aquiles Arturo Aurelio Bernardo Carlos Claudio Diego Facundo
+		Félix Fernando Francisco Gerardo Gregorio Hugo Ignacio José Juan Luis
+		Manuel Marcos Martín Máximo Melchor Pedro Ramón Raúl Santiago Víctor }
+
+		last_names = { Aliwen Amuylifko Aukan Ayllapan Chiguay Cumin Curumilla Epulewfu Foyelkay Guaiquil
+		Huichaman Ilwen Kayupi Kumlafken Kvlapi Leviñanco Lincoman Marifil Melifilu Millakoyam
+		Millapani Nahuel Ñanku Paillacar Pillancar Quelin Remultray Unquen Waikimill Yankvleufu }
+	}
+	
+	chiquiyan = {
+		color = {140 35 140}
+		first_names = { Agustín Antonio Aquiles Arturo Aurelio Bernardo Carlos Claudio Diego Facundo
+		Félix Fernando Francisco Gerardo Gregorio Hugo Ignacio José Juan Luis
+		Manuel Marcos Martín Máximo Melchor Pedro Ramón Raúl Santiago Víctor }
+
+		last_names = { Aliwen Amuylifko Aukan Ayllapan Chiguay Cumin Curumilla Epulewfu Foyelkay Guaiquil
+		Huichaman Ilwen Kayupi Kumlafken Kvlapi Leviñanco Lincoman Marifil Melifilu Millakoyam
+		Millapani Nahuel Ñanku Paillacar Pillancar Quelin Remultray Unquen Waikimill Yankvleufu }
+	}
+	
+	huilliche = {
+		color = {165 40 165}
+		first_names = { Agustín Antonio Aquiles Arturo Aurelio Bernardo Carlos Claudio Diego Facundo
+		Félix Fernando Francisco Gerardo Gregorio Hugo Ignacio José Juan Luis
+		Manuel Marcos Martín Máximo Melchor Pedro Ramón Raúl Santiago Víctor }
+
+		last_names = { Aliwen Amuylifko Aukan Ayllapan Chiguay Cumin Curumilla Epulewfu Foyelkay Guaiquil
+		Huichaman Ilwen Kayupi Kumlafken Kvlapi Leviñanco Lincoman Marifil Melifilu Millakoyam
+		Millapani Nahuel Ñanku Paillacar Pillancar Quelin Remultray Unquen Waikimill Yankvleufu }
+	}
+}
+
+#Huarpe-Comechingon - unclassifiable Languages of Central Argentina
+huarpe_comechingon  = {
+	leader = nativeamerican
+	is_overseas = no
+	huarpe = {
+		color = {75 100 70}
+		first_names = { Agustín Antonio Aquiles Arturo Aurelio Bernardo Carlos Claudio Diego Facundo
+		Félix Fernando Francisco Gerardo Gregorio Hugo Ignacio José Juan Luis
+		Manuel Marcos Martín Máximo Melchor Pedro Ramón Raúl Santiago Víctor }
+
+		last_names = { Aliwen Amuylifko Aukan Ayllapan Chiguay Cumin Curumilla Epulewfu Foyelkay Guaiquil
+		Huichaman Ilwen Kayupi Kumlafken Kvlapi Leviñanco Lincoman Marifil Melifilu Millakoyam
+		Millapani Nahuel Ñanku Paillacar Pillancar Quelin Remultray Unquen Waikimill Yankvleufu }
+	}
+	
+	sanaviron = {
+		color = {45 100 40}
+		first_names = { Agustín Antonio Aquiles Arturo Aurelio Bernardo Carlos Claudio Diego Facundo
+		Félix Fernando Francisco Gerardo Gregorio Hugo Ignacio José Juan Luis
+		Manuel Marcos Martín Máximo Melchor Pedro Ramón Raúl Santiago Víctor }
+
+		last_names = { Aliwen Amuylifko Aukan Ayllapan Chiguay Cumin Curumilla Epulewfu Foyelkay Guaiquil
+		Huichaman Ilwen Kayupi Kumlafken Kvlapi Leviñanco Lincoman Marifil Melifilu Millakoyam
+		Millapani Nahuel Ñanku Paillacar Pillancar Quelin Remultray Unquen Waikimill Yankvleufu }
+	}
+	
+	comechingon = {
+		color = {15 100 10}
+		first_names = { Agustín Antonio Aquiles Arturo Aurelio Bernardo Carlos Claudio Diego Facundo
+		Félix Fernando Francisco Gerardo Gregorio Hugo Ignacio José Juan Luis
+		Manuel Marcos Martín Máximo Melchor Pedro Ramón Raúl Santiago Víctor }
+
+		last_names = { Aliwen Amuylifko Aukan Ayllapan Chiguay Cumin Curumilla Epulewfu Foyelkay Guaiquil
+		Huichaman Ilwen Kayupi Kumlafken Kvlapi Leviñanco Lincoman Marifil Melifilu Millakoyam
+		Millapani Nahuel Ñanku Paillacar Pillancar Quelin Remultray Unquen Waikimill Yankvleufu }
+	}
+}
+
+#Lule–Vilela languages
+lule_vilela  = {
+	leader = nativeamerican
+	is_overseas = no
+	lule = {
+		color = {175 200 170}
+		first_names = { Agustín Antonio Aquiles Arturo Aurelio Bernardo Carlos Claudio Diego Facundo
+		Félix Fernando Francisco Gerardo Gregorio Hugo Ignacio José Juan Luis
+		Manuel Marcos Martín Máximo Melchor Pedro Ramón Raúl Santiago Víctor }
+
+		last_names = { Aliwen Amuylifko Aukan Ayllapan Chiguay Cumin Curumilla Epulewfu Foyelkay Guaiquil
+		Huichaman Ilwen Kayupi Kumlafken Kvlapi Leviñanco Lincoman Marifil Melifilu Millakoyam
+		Millapani Nahuel Ñanku Paillacar Pillancar Quelin Remultray Unquen Waikimill Yankvleufu }
+	}
+	
+	vilela = {
+		color = {145 200 140}
+		first_names = { Agustín Antonio Aquiles Arturo Aurelio Bernardo Carlos Claudio Diego Facundo
+		Félix Fernando Francisco Gerardo Gregorio Hugo Ignacio José Juan Luis
+		Manuel Marcos Martín Máximo Melchor Pedro Ramón Raúl Santiago Víctor }
+
+		last_names = { Aliwen Amuylifko Aukan Ayllapan Chiguay Cumin Curumilla Epulewfu Foyelkay Guaiquil
+		Huichaman Ilwen Kayupi Kumlafken Kvlapi Leviñanco Lincoman Marifil Melifilu Millakoyam
+		Millapani Nahuel Ñanku Paillacar Pillancar Quelin Remultray Unquen Waikimill Yankvleufu }
+	}
+	
+	tonocote = {
+		color = {115 200 110}
+		first_names = { Agustín Antonio Aquiles Arturo Aurelio Bernardo Carlos Claudio Diego Facundo
+		Félix Fernando Francisco Gerardo Gregorio Hugo Ignacio José Juan Luis
+		Manuel Marcos Martín Máximo Melchor Pedro Ramón Raúl Santiago Víctor }
+
+		last_names = { Aliwen Amuylifko Aukan Ayllapan Chiguay Cumin Curumilla Epulewfu Foyelkay Guaiquil
+		Huichaman Ilwen Kayupi Kumlafken Kvlapi Leviñanco Lincoman Marifil Melifilu Millakoyam
+		Millapani Nahuel Ñanku Paillacar Pillancar Quelin Remultray Unquen Waikimill Yankvleufu }
+	}
+}
+
+#Matacoan Languages
+matacoan  = {
+	leader = nativeamerican
+	is_overseas = no
+	nivacle  = {
+		color = {75 10 70}
+		first_names = { Agustín Antonio Aquiles Arturo Aurelio Bernardo Carlos Claudio Diego Facundo
+		Félix Fernando Francisco Gerardo Gregorio Hugo Ignacio José Juan Luis
+		Manuel Marcos Martín Máximo Melchor Pedro Ramón Raúl Santiago Víctor }
+
+		last_names = { Aliwen Amuylifko Aukan Ayllapan Chiguay Cumin Curumilla Epulewfu Foyelkay Guaiquil
+		Huichaman Ilwen Kayupi Kumlafken Kvlapi Leviñanco Lincoman Marifil Melifilu Millakoyam
+		Millapani Nahuel Ñanku Paillacar Pillancar Quelin Remultray Unquen Waikimill Yankvleufu }
+	}
+	
+	wichi = {
+		color = {45 10 40}
+		first_names = { Agustín Antonio Aquiles Arturo Aurelio Bernardo Carlos Claudio Diego Facundo
+		Félix Fernando Francisco Gerardo Gregorio Hugo Ignacio José Juan Luis
+		Manuel Marcos Martín Máximo Melchor Pedro Ramón Raúl Santiago Víctor }
+
+		last_names = { Aliwen Amuylifko Aukan Ayllapan Chiguay Cumin Curumilla Epulewfu Foyelkay Guaiquil
+		Huichaman Ilwen Kayupi Kumlafken Kvlapi Leviñanco Lincoman Marifil Melifilu Millakoyam
+		Millapani Nahuel Ñanku Paillacar Pillancar Quelin Remultray Unquen Waikimill Yankvleufu }
+	}
+}
+
+#Guaykuruan Languages
+guaykuruan  = {
+	leader = nativeamerican
+	is_overseas = no
+	mbaya  = {
+		color = {75 50 170}
+		first_names = { Agustín Antonio Aquiles Arturo Aurelio Bernardo Carlos Claudio Diego Facundo
+		Félix Fernando Francisco Gerardo Gregorio Hugo Ignacio José Juan Luis
+		Manuel Marcos Martín Máximo Melchor Pedro Ramón Raúl Santiago Víctor }
+
+		last_names = { Aliwen Amuylifko Aukan Ayllapan Chiguay Cumin Curumilla Epulewfu Foyelkay Guaiquil
+		Huichaman Ilwen Kayupi Kumlafken Kvlapi Leviñanco Lincoman Marifil Melifilu Millakoyam
+		Millapani Nahuel Ñanku Paillacar Pillancar Quelin Remultray Unquen Waikimill Yankvleufu }
+	}
+	
+	payagua = {
+		color = {55 50 150}
+		first_names = { Agustín Antonio Aquiles Arturo Aurelio Bernardo Carlos Claudio Diego Facundo
+		Félix Fernando Francisco Gerardo Gregorio Hugo Ignacio José Juan Luis
+		Manuel Marcos Martín Máximo Melchor Pedro Ramón Raúl Santiago Víctor }
+
+		last_names = { Aliwen Amuylifko Aukan Ayllapan Chiguay Cumin Curumilla Epulewfu Foyelkay Guaiquil
+		Huichaman Ilwen Kayupi Kumlafken Kvlapi Leviñanco Lincoman Marifil Melifilu Millakoyam
+		Millapani Nahuel Ñanku Paillacar Pillancar Quelin Remultray Unquen Waikimill Yankvleufu }
+	}
+	
+	toba  = {
+		color = {35 50 130}
+		first_names = { Agustín Antonio Aquiles Arturo Aurelio Bernardo Carlos Claudio Diego Facundo
+		Félix Fernando Francisco Gerardo Gregorio Hugo Ignacio José Juan Luis
+		Manuel Marcos Martín Máximo Melchor Pedro Ramón Raúl Santiago Víctor }
+
+		last_names = { Aliwen Amuylifko Aukan Ayllapan Chiguay Cumin Curumilla Epulewfu Foyelkay Guaiquil
+		Huichaman Ilwen Kayupi Kumlafken Kvlapi Leviñanco Lincoman Marifil Melifilu Millakoyam
+		Millapani Nahuel Ñanku Paillacar Pillancar Quelin Remultray Unquen Waikimill Yankvleufu }
+	}
+	
+	abipon = {
+		color = {15 50 110}
+		first_names = { Agustín Antonio Aquiles Arturo Aurelio Bernardo Carlos Claudio Diego Facundo
+		Félix Fernando Francisco Gerardo Gregorio Hugo Ignacio José Juan Luis
+		Manuel Marcos Martín Máximo Melchor Pedro Ramón Raúl Santiago Víctor }
+
+		last_names = { Aliwen Amuylifko Aukan Ayllapan Chiguay Cumin Curumilla Epulewfu Foyelkay Guaiquil
+		Huichaman Ilwen Kayupi Kumlafken Kvlapi Leviñanco Lincoman Marifil Melifilu Millakoyam
+		Millapani Nahuel Ñanku Paillacar Pillancar Quelin Remultray Unquen Waikimill Yankvleufu }
+	}
+}
+
+#Lengua Group
+lengua_group  = {
+	leader = nativeamerican
+	is_overseas = no
+	lengua  = {
+		color = {25 150 170}
+		first_names = { Agustín Antonio Aquiles Arturo Aurelio Bernardo Carlos Claudio Diego Facundo
+		Félix Fernando Francisco Gerardo Gregorio Hugo Ignacio José Juan Luis
+		Manuel Marcos Martín Máximo Melchor Pedro Ramón Raúl Santiago Víctor }
+
+		last_names = { Aliwen Amuylifko Aukan Ayllapan Chiguay Cumin Curumilla Epulewfu Foyelkay Guaiquil
+		Huichaman Ilwen Kayupi Kumlafken Kvlapi Leviñanco Lincoman Marifil Melifilu Millakoyam
+		Millapani Nahuel Ñanku Paillacar Pillancar Quelin Remultray Unquen Waikimill Yankvleufu }
+	}
+}
+
+#Zamucoan Group
+zamucoan _group  = {
+	leader = nativeamerican
+	is_overseas = no
+	zamucoan = {
+		color = {55 10 10}
+		first_names = { Agustín Antonio Aquiles Arturo Aurelio Bernardo Carlos Claudio Diego Facundo
+		Félix Fernando Francisco Gerardo Gregorio Hugo Ignacio José Juan Luis
+		Manuel Marcos Martín Máximo Melchor Pedro Ramón Raúl Santiago Víctor }
+
+		last_names = { Aliwen Amuylifko Aukan Ayllapan Chiguay Cumin Curumilla Epulewfu Foyelkay Guaiquil
+		Huichaman Ilwen Kayupi Kumlafken Kvlapi Leviñanco Lincoman Marifil Melifilu Millakoyam
+		Millapani Nahuel Ñanku Paillacar Pillancar Quelin Remultray Unquen Waikimill Yankvleufu }
+	}
+}
+
+#Guarani Languages
+guarani_group  = {
+	leader = nativeamerican
+	is_overseas = no
+	guarani = {
+		color = {90 80 175}
+		first_names = { Aniceto Antonio Bartolomé Camilo Carlos Claudio David Emiliano Eugenio Felipe
+		Félix Fernando Gregorio Jacinto Jesús José Juan Julio Luis Manuel
+		Marcos Máximo Narciso Pablo Pedro Rodrigo Roque Simón Teodoro Víctor }
+
+		last_names = { Abjaisu Álvarez Ayegua Camba Chuaie Correa Cunhagatú Díaz Fernández Galeano 
+		Gómez González Guaracay Guaraní Guerrero Jopara López Mongelós Morla Ortíz
+		Paravé Picagua Riquelme Rivarola "Santa Cruz" Tarayú Torga Velázquez Yaguarete Yrahi }
+	}
+	
+	kaiwa = {
+		color = {120 110 195}
+		first_names = { Agustín Antonio Aquiles Arturo Aurelio Bernardo Carlos Claudio Diego Facundo
+		Félix Fernando Francisco Gerardo Gregorio Hugo Ignacio José Juan Luis
+		Manuel Marcos Martín Máximo Melchor Pedro Ramón Raúl Santiago Víctor }
+
+		last_names = { Aliwen Amuylifko Aukan Ayllapan Chiguay Cumin Curumilla Epulewfu Foyelkay Guaiquil
+		Huichaman Ilwen Kayupi Kumlafken Kvlapi Leviñanco Lincoman Marifil Melifilu Millakoyam
+		Millapani Nahuel Ñanku Paillacar Pillancar Quelin Remultray Unquen Waikimill Yankvleufu }
+	}
+	
+	ache = {
+		color = {150 140 215}
+		first_names = { Agustín Antonio Aquiles Arturo Aurelio Bernardo Carlos Claudio Diego Facundo
+		Félix Fernando Francisco Gerardo Gregorio Hugo Ignacio José Juan Luis
+		Manuel Marcos Martín Máximo Melchor Pedro Ramón Raúl Santiago Víctor }
+
+		last_names = { Aliwen Amuylifko Aukan Ayllapan Chiguay Cumin Curumilla Epulewfu Foyelkay Guaiquil
+		Huichaman Ilwen Kayupi Kumlafken Kvlapi Leviñanco Lincoman Marifil Melifilu Millakoyam
+		Millapani Nahuel Ñanku Paillacar Pillancar Quelin Remultray Unquen Waikimill Yankvleufu }
+	}
+	
+	carijo = {
+		color = {180 170 235}
+		first_names = { Agustín Antonio Aquiles Arturo Aurelio Bernardo Carlos Claudio Diego Facundo
+		Félix Fernando Francisco Gerardo Gregorio Hugo Ignacio José Juan Luis
+		Manuel Marcos Martín Máximo Melchor Pedro Ramón Raúl Santiago Víctor }
+
+		last_names = { Aliwen Amuylifko Aukan Ayllapan Chiguay Cumin Curumilla Epulewfu Foyelkay Guaiquil
+		Huichaman Ilwen Kayupi Kumlafken Kvlapi Leviñanco Lincoman Marifil Melifilu Millakoyam
+		Millapani Nahuel Ñanku Paillacar Pillancar Quelin Remultray Unquen Waikimill Yankvleufu }
+	}
+	
+	xeta = {
+		color = {210 200 255}
+		first_names = { Agustín Antonio Aquiles Arturo Aurelio Bernardo Carlos Claudio Diego Facundo
+		Félix Fernando Francisco Gerardo Gregorio Hugo Ignacio José Juan Luis
+		Manuel Marcos Martín Máximo Melchor Pedro Ramón Raúl Santiago Víctor }
+
+		last_names = { Aliwen Amuylifko Aukan Ayllapan Chiguay Cumin Curumilla Epulewfu Foyelkay Guaiquil
+		Huichaman Ilwen Kayupi Kumlafken Kvlapi Leviñanco Lincoman Marifil Melifilu Millakoyam
+		Millapani Nahuel Ñanku Paillacar Pillancar Quelin Remultray Unquen Waikimill Yankvleufu }
+	}
+}
+
+#Je
+je_group  = {
+	leader = nativeamerican
+	is_overseas = no
+	kayapo = {
+		color = {25 150 25}
+		first_names = { Agustín Antonio Aquiles Arturo Aurelio Bernardo Carlos Claudio Diego Facundo
+		Félix Fernando Francisco Gerardo Gregorio Hugo Ignacio José Juan Luis
+		Manuel Marcos Martín Máximo Melchor Pedro Ramón Raúl Santiago Víctor }
+
+		last_names = { Aliwen Amuylifko Aukan Ayllapan Chiguay Cumin Curumilla Epulewfu Foyelkay Guaiquil
+		Huichaman Ilwen Kayupi Kumlafken Kvlapi Leviñanco Lincoman Marifil Melifilu Millakoyam
+		Millapani Nahuel Ñanku Paillacar Pillancar Quelin Remultray Unquen Waikimill Yankvleufu }
+	}
+	
+	guato = {
+		color = {25 170 25}
+		first_names = { Agustín Antonio Aquiles Arturo Aurelio Bernardo Carlos Claudio Diego Facundo
+		Félix Fernando Francisco Gerardo Gregorio Hugo Ignacio José Juan Luis
+		Manuel Marcos Martín Máximo Melchor Pedro Ramón Raúl Santiago Víctor }
+
+		last_names = { Aliwen Amuylifko Aukan Ayllapan Chiguay Cumin Curumilla Epulewfu Foyelkay Guaiquil
+		Huichaman Ilwen Kayupi Kumlafken Kvlapi Leviñanco Lincoman Marifil Melifilu Millakoyam
+		Millapani Nahuel Ñanku Paillacar Pillancar Quelin Remultray Unquen Waikimill Yankvleufu }
+	}
+	
+	bororo = {
+		color = {25 190 25}
+		first_names = { Agustín Antonio Aquiles Arturo Aurelio Bernardo Carlos Claudio Diego Facundo
+		Félix Fernando Francisco Gerardo Gregorio Hugo Ignacio José Juan Luis
+		Manuel Marcos Martín Máximo Melchor Pedro Ramón Raúl Santiago Víctor }
+
+		last_names = { Aliwen Amuylifko Aukan Ayllapan Chiguay Cumin Curumilla Epulewfu Foyelkay Guaiquil
+		Huichaman Ilwen Kayupi Kumlafken Kvlapi Leviñanco Lincoman Marifil Melifilu Millakoyam
+		Millapani Nahuel Ñanku Paillacar Pillancar Quelin Remultray Unquen Waikimill Yankvleufu }
+	}
+	
+	kaingang = {
+		color = {25 220 25}
+		first_names = { Agustín Antonio Aquiles Arturo Aurelio Bernardo Carlos Claudio Diego Facundo
+		Félix Fernando Francisco Gerardo Gregorio Hugo Ignacio José Juan Luis
+		Manuel Marcos Martín Máximo Melchor Pedro Ramón Raúl Santiago Víctor }
+
+		last_names = { Aliwen Amuylifko Aukan Ayllapan Chiguay Cumin Curumilla Epulewfu Foyelkay Guaiquil
+		Huichaman Ilwen Kayupi Kumlafken Kvlapi Leviñanco Lincoman Marifil Melifilu Millakoyam
+		Millapani Nahuel Ñanku Paillacar Pillancar Quelin Remultray Unquen Waikimill Yankvleufu }
+	}
+}
+
+#Arawakian
+arawak_group  = {
+	leader = nativeamerican
+	is_overseas = no
+	chane  = {
+		color = {25 25 250}
+		first_names = { Agustín Antonio Aquiles Arturo Aurelio Bernardo Carlos Claudio Diego Facundo
+		Félix Fernando Francisco Gerardo Gregorio Hugo Ignacio José Juan Luis
+		Manuel Marcos Martín Máximo Melchor Pedro Ramón Raúl Santiago Víctor }
+
+		last_names = { Aliwen Amuylifko Aukan Ayllapan Chiguay Cumin Curumilla Epulewfu Foyelkay Guaiquil
+		Huichaman Ilwen Kayupi Kumlafken Kvlapi Leviñanco Lincoman Marifil Melifilu Millakoyam
+		Millapani Nahuel Ñanku Paillacar Pillancar Quelin Remultray Unquen Waikimill Yankvleufu }
+	}
+	
+	terena  = {
+		color = {25 25 240}
+		first_names = { Agustín Antonio Aquiles Arturo Aurelio Bernardo Carlos Claudio Diego Facundo
+		Félix Fernando Francisco Gerardo Gregorio Hugo Ignacio José Juan Luis
+		Manuel Marcos Martín Máximo Melchor Pedro Ramón Raúl Santiago Víctor }
+
+		last_names = { Aliwen Amuylifko Aukan Ayllapan Chiguay Cumin Curumilla Epulewfu Foyelkay Guaiquil
+		Huichaman Ilwen Kayupi Kumlafken Kvlapi Leviñanco Lincoman Marifil Melifilu Millakoyam
+		Millapani Nahuel Ñanku Paillacar Pillancar Quelin Remultray Unquen Waikimill Yankvleufu }
+	}
+}
+
 #Languages/Dialects, that divegered, because of colonisation. Seperate groups for gameplay reasons
 american_cultures = {
 	leader = european
@@ -5028,7 +5558,7 @@ american_cultures = {
 neo_arabic_cultures = {
 leader = arabic
 is_overseas = no
-amazuni = {
+    amazuni = {
     color = {20 120 0}
 	    first_names = { 
 			"Abd Allah" "Abd al-Karim" "Abd al-Malik" "Abd al-Qadir" "Abd al-Rahman" Ahmad Ali 
@@ -5049,7 +5579,7 @@ amazuni = {
 			} 
 	}
 	
-brazili = {
+    brazili = {
     color = {20 120 50}
 	    first_names = { 
 			"Abd Allah" "Abd al-Karim" "Abd al-Malik" "Abd al-Qadir" "Abd al-Rahman" Ahmad Ali 
@@ -5070,7 +5600,7 @@ brazili = {
 			} 
 	}
 	
-janubi = {
+    janubi = {
     color = {80 120 50}
 	    first_names = { 
 			"Abd Allah" "Abd al-Karim" "Abd al-Malik" "Abd al-Qadir" "Abd al-Rahman" Ahmad Ali 
@@ -5438,12 +5968,25 @@ african_diaspora_cultures = {
 		last_names = { Cilliers Botha Joubert Kruger Duquesne Potgieter "van Rensburg" "de la Rey" Theron "de Wet" Pretorius Retief "de Beer" Uys 
 		}
 	}
-	afro_argentinian = {
-		color = {165 105 185}
-		first_names = { Sarel Rudolf Andries Hendrik Piet Racheltjie Dirkie Siener Koos Danie Christiaan Louis Petrus Paul Eugene Joubert
-		}
-		last_names = { Cilliers Botha Joubert Kruger Duquesne Potgieter "van Rensburg" "de la Rey" Theron "de Wet" Pretorius Retief "de Beer" Uys 
-		}
+	afro_argentinian = { #now Haribi
+		color = {65 15 85}
+		first_names = { 
+			"Abd Allah" "Abd al-Karim" "Abd al-Malik" "Abd al-Qadir" "Abd al-Rahman" Ahmad Ali 
+			Fawzi Fuad Halil Hasan Hisham Ibrahim Ishaq Iskandar Jamal Kamil Khalid Mahmud
+			Muhammad Mustafa "Nur al-Din" "Sa'd al-Din" Salim Shukri
+			Tawfiq Umar Uthman Yahya Yusuf Zafir 		
+	         }
+		
+		last_names = { 
+			"al-Annabi" "al-Araishi" "al-Asfawi" "al-Binzarti" "al-Fasi" "al-Gharyani"
+			"al-Jaza'iri" "al-Miknasi" "al-Misurati" "al-Murrakushi" "al-Qabisi" "al-Qayrawani" "al-Ribati" "al-Safaqisi"
+			"al-Silawi" "al-Sirti" "al-Susawi" "al-Tilimsani" "al-Tanjawi" "al-Tatwani" "al-Trablusi" "al-Tunusi" 
+			"al-Wahrani" "al-Warqali" "al-Wujdi"
+			"ibn Abd Allah" "ibn Abd al-Qadir" "ibn Abu Bakr" "ibn Ahmad" "ibn Ali"
+			"ibn Fuad" "ibn Halil" "ibn Hasan" "ibn Hisham" "ibn Ishaq" "ibn Ja'far" "ibm Kamil" "ibn Khalid" 
+			"ibn Muhammad" "ibn Mustafa" "ibn Salim"   
+			"ibn Umar" "ibn Uthman" "ibn Yusuf"  
+			}
 	}
 	
 }

@@ -1,2 +1,5 @@
+owner = KKR
+controller = KKR
+add_core = KKR
 trade_goods = fruit
-life_rating = 25
+life_rating = 35
