@@ -442,44 +442,44 @@
 #Corrientes (96000/24000 POPS)
 2356 = {
 	aristocrats = {
-		culture = argentinian
-		religion = protestant
+		culture = guarani
+		religion = sunni
 		size = 450
 	}
 
 	bureaucrats = {
-		culture = argentinian
-		religion = protestant
+		culture = guarani
+		religion = sunni
 		size = 800
 	}
 
 	officers = {
-		culture = argentinian
-		religion = protestant
+		culture = guarani
+		religion = sunni
 		size = 35
 	}
 
 	clergymen = {
-		culture = argentinian
-		religion = protestant
+		culture = guarani
+		religion = sunni
 		size = 225
 	}
 
 	artisans = {
-		culture = argentinian
-		religion = protestant
+		culture = guarani
+		religion = sunni
 		size = 3000
 	}
 
 	soldiers = {
-		culture = argentinian
-		religion = protestant
+		culture = guarani
+		religion = sunni
 		size = 3000
 	}
 
 	farmers = {
-		culture = argentinian
-		religion = protestant
+		culture = guarani
+		religion = sunni
 		size = 45015
 	}
 
@@ -496,8 +496,8 @@
 	}
 
 	slaves = {
-		culture = afro_argentinian
-		religion = catholic
+		culture = abipon
+		religion = animist
 		size = 5000
 	}
 }
@@ -548,45 +548,33 @@
 #Santo Tomas (28000/7000 POPS)
 2358 = {
 	clergymen = {
-		culture = argentinian
-		religion = protestant
-		size = 50
+		culture = guarani
+		religion = sunni
+		size = 400
 	}
 
 	farmers = {
-		culture = argentinian
-		religion = protestant
-		size = 1875
-	}
-
-	clergymen = {
-		culture = argentinian
-		religion = catholic
-		size = 50
-	}
-
-	farmers = {
-		culture = argentinian
-		religion = catholic
-		size = 1825
+		culture = guarani
+		religion = sunni
+		size = 15000
 	}
 
 	aristocrats = {
 		culture = guarani
-		religion = animist
-		size = 50
+		religion = sunni
+		size = 200
 	}
 
 	clergymen = {
 		culture = guarani
 		religion = animist
-		size = 75
+		size = 300
 	}
 
 	farmers = {
 		culture = guarani
 		religion = animist
-		size = 2700
+		size = 10800
 	}
 }
 #Colon (8000/2000 POPS)
@@ -812,43 +800,43 @@
 	farmers = {
 		culture = sanaviron
 		religion = animist
-		size = 14000
+		size = 4000
 	} 
 	
 	aristocrats = {
-		culture = guarani
+		culture = abipon
 		religion = animist
-		size = 75
+		size = 275
 	}
 
 	bureaucrats = {
-		culture = guarani
+		culture = abipon
 		religion = animist
 		size = 300
 	}
 
 	officers = {
-		culture = guarani
+		culture = abipon
 		religion = animist
 		size = 80
 	}
 	
 	clergymen = {
-		culture = guarani
+		culture = abipon
 		religion = animist
-		size = 75
+		size = 175
 	}
 
 	soldiers = {
-		culture = guarani
+		culture = abipon
 		religion = animist
-		size = 450
+		size = 1450
 	}
 
 	farmers = {
-		culture = guarani
+		culture = abipon
 		religion = animist
-		size = 4000
+		size = 14000
 	} 
 }
 #Rosario (8000/2000 POPS)
@@ -912,184 +900,202 @@
 #Resistencia (16000/4000 POPS)
 2364 = {
 	aristocrats = {
-		culture = guarani
+		culture = abipon
 		religion = animist
-		size = 50
+		size = 200
 	}
 
 	clergymen = {
-		culture = guarani
+		culture = abipon
 		religion = animist
-		size = 75
+		size = 300
 	}
 
 	soldiers = {
-		culture = guarani
+		culture = abipon
 		religion = animist
-		size = 25
+		size = 100
 	}
 
 	farmers = {
-		culture = guarani
+		culture = abipon
 		religion = animist
-		size = 2700
+		size = 10800
 	}
 
 	bureaucrats = {
-		culture = argentinian
-		religion = protestant
-		size = 2
+		culture = wichi
+		religion = animist
+		size = 8
 	}
 
 	clergymen = {
-		culture = argentinian
-		religion = protestant
-		size = 23
+		culture = wichi
+		religion = animist
+		size = 92
 	}
 
 	soldiers = {
-		culture = argentinian
-		religion = protestant
-		size = 25
+		culture = wichi
+		religion = animist
+		size = 100
 	}
 
 	farmers = {
-		culture = argentinian
-		religion = protestant
-		size = 1200
+		culture = wichi
+		religion = animist
+		size = 4800
 	}
 }
 #Villa Angela (16000/4000 POPS)
 2365 = {
 	aristocrats = {
-		culture = guarani
+		culture = lule
 		religion = animist
-		size = 50
+		size = 200
 	}
 
 	clergymen = {
-		culture = guarani
+		culture = lule
 		religion = animist
-		size = 75
+		size = 300
 	}
 
 	soldiers = {
-		culture = guarani
+		culture = lule
 		religion = animist
-		size = 25
+		size = 100
 	}
 
 	farmers = {
-		culture = guarani
+		culture = lule
 		religion = animist
-		size = 2700
+		size = 10800
 	}
 
 	clergymen = {
-		culture = argentinian
-		religion = protestant
-		size = 25
+		culture = vilela
+		religion = animist
+		size = 100
 	}
 
 	soldiers = {
-		culture = argentinian
-		religion = protestant
-		size = 25
+		culture = vilela
+		religion = animist
+		size = 100
 	}
 
 	farmers = {
-		culture = argentinian
-		religion = protestant
-		size = 900
+		culture = vilela
+		religion = animist
+		size = 3600
 	}
 }
 #Under loose authority of Paraguay 1836
 #Formosa (24000/6000 POPS) #now part of Argentina
 2366 = {
 	aristocrats = {
-		culture = guarani
-		religion = catholic
-		size = 75
+		culture = toba
+		religion = animist
+		size = 300
 	}
 
 	clergymen = {
-		culture = guarani
-		religion = catholic
-		size = 75
+		culture = toba
+		religion = animist
+		size = 300
 	}
 
 	soldiers = {
 		culture = guarani
-		religion = catholic
-		size = 500
-	}
-
-	labourers = {
-		culture = guarani
 		religion = animist
-		size = 2300
+		size = 2000
 	}
 
-	labourers = {
-		culture = guarani
-		religion = catholic
-		size = 1075
+	farmers = {
+		culture = toba
+		religion = animist
+		size = 13500
 	}
 
 	bureaucrats = {
-		culture = argentinian
-		religion = catholic
-		size = 2
+		culture = mbaya
+		religion = animist
+		size = 8
 	}
 
 	clergymen = {
-		culture = argentinian
-		religion = catholic
-		size = 23
+		culture = mbaya
+		religion = animist
+		size = 92
 	}
 
 	soldiers = {
-		culture = argentinian
-		religion = catholic
-		size = 25
-	}
-
-	labourers = {
-		culture = argentinian
-		religion = catholic
-		size = 500
-	}
-
-	slaves = {
-		culture = guarani
+		culture = mbaya
 		religion = animist
-		size = 800
+		size = 100
+	}
+
+	farmers = {
+		culture = mbaya
+		religion = animist
+		size = 2000
+	}
+
+	farmers = {
+		culture = nivacle
+		religion = animist
+		size = 3200
 	}
 }
 #Xolotas (20000/5000 POPS) #now part of Argentina
 2367 = {
 	aristocrats = {
-		culture = guarani
-		religion = catholic
+		culture = nivacle
+		religion = animist
+		size = 150
+	}
+
+	clergymen = {
+		culture = nivacle
+		religion = animist
+		size = 150
+	}
+
+	soldiers = {
+		culture = nivacle
+		religion = animist
+		size = 1000
+	}
+
+	farmers = {
+		culture = nivacle
+		religion = animist
+		size = 5000
+	}
+	
+	aristocrats = {
+		culture = wichi
+		religion = animist
 		size = 75
 	}
 
 	clergymen = {
-		culture = guarani
-		religion = catholic
+		culture = wichi
+		religion = animist
 		size = 75
 	}
 
 	soldiers = {
-		culture = guarani
-		religion = catholic
-		size = 550
+		culture = wichi
+		religion = animist
+		size = 650
 	}
 
-	labourers = {
-		culture = guarani
+	farmers = {
+		culture = wichi
 		religion = animist
-		size = 4075
+		size = 3150
 	}
 }
 #Salta Region (36000)
@@ -1294,33 +1300,57 @@
 #Rivadavia (4000/1000 POPS)
 2372 = {
 	aristocrats = {
+		culture = chane
+		religion = animist
+		size = 60
+	}
+
+	clergymen = {
+		culture = chane
+		religion = animist
+		size = 100
+	}
+
+	soldiers = {
+		culture = chane
+		religion = animist
+		size = 800
+	}
+	
+	farmers = {
+		culture = chane
+		religion = animist
+		size = 5000
+	}
+	
+	aristocrats = {
 		culture = guarani
 		religion = animist
-		size = 15
+		size = 60
 	}
 
 	clergymen = {
 		culture = guarani
 		religion = animist
-		size = 25
+		size = 100
 	}
 
 	soldiers = {
 		culture = guarani
 		religion = animist
-		size = 10
+		size = 800
 	}
 	
 	farmers = {
 		culture = guarani
 		religion = animist
-		size = 900
+		size = 2000
 	}
 	
 	farmers = {
-		culture = argentinian
-		religion = catholic
-		size = 100
+		culture = lule
+		religion = animist
+		size = 400
 	}
 }
 #Tucuman Region (36000)
@@ -1456,89 +1486,95 @@
 #Santiago del Estero (16000/4000 POPS)
 2376 = {
 	aristocrats = {
-		culture = argentinian
-		religion = catholic
-		size = 75
+		culture = tonocote
+		religion = animist
+		size = 300
 	}
 
 	bureaucrats = {
-		culture = argentinian
-		religion = catholic
-		size = 10
+		culture = tonocote
+		religion = animist
+		size = 40
 	}
 
 	officers = {
-		culture = argentinian
-		religion = catholic
-		size = 10
+		culture = tonocote
+		religion = animist
+		size = 40
 	}
 
 	clergymen = {
-		culture = argentinian
-		religion = catholic
-		size = 50
+		culture = tonocote
+		religion = animist
+		size = 200
 	}
 
 	soldiers = {
-		culture = argentinian
-		religion = catholic
-		size = 50
+		culture = tonocote
+		religion = animist
+		size = 2200
 	}
 
 	farmers = {
-		culture = argentinian
-		religion = catholic
-		size = 3005
+		culture = tonocote
+		religion = animist
+		size = 7000
 	}
-
-	slaves = {
-		culture = afro_argentinian
-		religion = catholic
-		size = 500
+	
+	farmers = {
+		culture = lule
+		religion = animist
+		size = 3020
 	}
 }
 #Anatuya (16000/4000 POPS)
 2377 = {
 	clergymen = {
-		culture = argentinian
-		religion = catholic
-		size = 25
+		culture = lule
+		religion = animist
+		size = 100
 	}
 
 	soldiers = {
-		culture = argentinian
-		religion = catholic
-		size = 25
+		culture = lule
+		religion = animist
+		size = 100
 	}
 
 	farmers = {
-		culture = argentinian
-		religion = catholic
-		size = 900
+		culture = lule
+		religion = animist
+		size = 3600
 	}
 
 	aristocrats = {
-		culture = guarani
+		culture = vilela
 		religion = animist
-		size = 50
+		size = 200
 	}
 
 	clergymen = {
-		culture = guarani
+		culture = vilela
 		religion = animist
-		size = 75
+		size = 300
 	}
 
 	soldiers = {
-		culture = guarani
+		culture = vilela
 		religion = animist
-		size = 25
+		size = 1100
 	}
 
 	farmers = {
-		culture = guarani
+		culture = vilela
 		religion = animist
-		size = 2700
+		size = 7000
+	}
+	
+	farmers = {
+		culture = wichi
+		religion = animist
+		size = 2800
 	}
 }
 #Mailin (8000/2000 POPS)
@@ -1558,13 +1594,37 @@
 	soldiers = {
 		culture = sanaviron
 		religion = animist
-		size = 525
+		size = 1025
 	}
 
 	farmers = {
 		culture = sanaviron
 		religion = animist
-		size = 8800
+		size = 4500
+	}
+	
+	aristocrats = {
+		culture = tonocote
+		religion = animist
+		size = 125
+	}
+
+	clergymen = {
+		culture = tonocote
+		religion = animist
+		size = 150
+	}
+
+	soldiers = {
+		culture = tonocote
+		religion = animist
+		size = 1025
+	}
+
+	farmers = {
+		culture = tonocote
+		religion = animist
+		size = 3300
 	}
 }
 #Cordoba Region (136000)
@@ -2486,46 +2546,46 @@
 #Under loose authority of Paraguay 1836
 #Posadas (16000/4000 POPS) #now part of Argentina
 2554 = {
-	clergymen = {
-		culture = argentinian
-		religion = catholic
-		size = 75
-	}
-
-	soldiers = {
-		culture = argentinian
-		religion = catholic
-		size = 25
-	}
-
-	farmers = {
-		culture = argentinian
-		religion = catholic
-		size = 900
-	}
-
-	aristocrats = {
+    aristocrats = {
 		culture = guarani
-		religion = animist
-		size = 50
+		religion = sunni
+		size = 200
 	}
-
+	
 	clergymen = {
 		culture = guarani
-		religion = animist
-		size = 75
+		religion = sunni
+		size = 300
 	}
 
 	soldiers = {
 		culture = guarani
-		religion = animist
-		size = 175
+		religion = sunni
+		size = 100
 	}
 
 	farmers = {
 		culture = guarani
+		religion = sunni
+		size = 3600
+	}
+
+	clergymen = {
+		culture = kaiwa
 		religion = animist
-		size = 2700
+		size = 300
+	}
+
+	soldiers = {
+		culture = kaiwa
+		religion = animist
+		size = 1750
+	}
+
+	farmers = {
+		culture = kaiwa
+		religion = animist
+		size = 21600
 	}
 
 }
