@@ -39,33 +39,39 @@
 	}
 
 	clergymen = {
-		culture = afro_antillean
+		culture = ineri
 		religion = catholic
 		size = 125
 	}
 
 	artisans = {
-		culture = afro_antillean
+		culture = ineri
 		religion = catholic
 		size = 1250
 	}
 
 	soldiers = {
-		culture = afro_antillean
+		culture = ineri
 		religion = catholic
 		size = 250
 	}
 
 	farmers = {
-		culture = afro_antillean
+		culture = ineri
 		religion = catholic
 		size = 3400
 	}
+	
+	slaves = {
+		culture = ineri
+		religion = catholic
+		size = 2000
+	}
 
 	slaves = {
-		culture = afro_antillean
+		culture = kreol
 		religion = catholic
-		size = 20000
+		size = 18000
 	}
 }
 #Guadeloupe (128400/32100 POPS)
@@ -101,33 +107,39 @@
 	}
 
 	clergymen = {
-		culture = afro_antillean
+		culture = ineri
 		religion = catholic
 		size = 150
 	}
 
 	artisans = {
-		culture = afro_antillean
+		culture = ineri
 		religion = catholic
 		size = 1500
 	}
 
 	soldiers = {
-		culture = afro_antillean
+		culture = ineri
 		religion = catholic
 		size = 300
 	}
 
 	farmers = {
-		culture = afro_antillean
+		culture = ineri
 		religion = catholic
 		size = 3050
 	}
+	
+	slaves = {
+		culture = ineri
+		religion = catholic
+		size = 4000
+	}
 
 	slaves = {
-		culture = afro_antillean
+		culture = kreol
 		religion = catholic
-		size = 24000
+		size = 20000
 	}
 
 }
@@ -136,33 +148,105 @@
 45 = {
 	
 	aristocrats = {
-		culture = french
-		religion = catholic
-		size = 10
+		culture = maghrebi
+		religion = sunni
+		size = 100
+	}
+	
+	clergymen = {
+		culture = maghrebi
+		religion = sunni
+		size = 225
+	}
+
+	artisans = {
+		culture = maghrebi
+		religion = sunni
+		size = 6055
+	}
+	
+	farmers = {
+		culture = maghrebi
+		religion = sunni
+		size = 40500
+	}
+	
+	clergymen = {
+		culture = north_german
+		religion = protestant
+		size = 175
+	}
+
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 655
+	}
+	
+	farmers = {
+		culture = north_german
+		religion = protestant
+		size = 4500
 	}
 	
 	clergymen = {
 		culture = french
 		religion = catholic
-		size = 25
+		size = 125
 	}
 
 	artisans = {
-		culture = afro_caribbean
+		culture = french
 		religion = catholic
-		size = 55
+		size = 1055
 	}
 	
 	farmers = {
 		culture = french
 		religion = catholic
-		size = 500
+		size = 10500
+	}
+	
+	clergymen = {
+		culture = taino
+		religion = sunni
+		size = 25
 	}
 
-	slaves = {
-		culture = afro_caribbean
-		religion = catholic
-		size = 120
+	artisans = {
+		culture = taino
+		religion = sunni
+		size = 655
+	}
+	
+	farmers = {
+		culture = taino
+		religion = sunni
+		size = 15200
+	}
+	
+	artisans = {
+		culture = kreol
+		religion = sunni
+		size = 550
+	}
+
+	farmers = {
+		culture = kreol
+		religion = sunni
+		size = 12000
+	}
+	
+	artisans = {
+		culture = macoris
+		religion = sunni
+		size = 355
+	}
+	
+	farmers = {
+		culture = macoris
+		religion = sunni
+		size = 6500
 	}
 
 }

@@ -11,123 +11,112 @@
 	bureaucrats = {
 		culture = amazuni
 		religion = sunni
-		size = 10
+		size = 60
 	}
 
 	clergymen = {
 		culture = amazuni
 		religion = sunni
-		size = 10
+		size = 125
 	}
-
+	
 	artisans = {
 		culture = amazuni
 		religion = sunni
-		size = 100
+		size = 650
 	}
 
 	soldiers = {
 		culture = amazuni
 		religion = sunni
-		size = 50
+		size = 1050
 	}
 
 	farmers = {
 		culture = amazuni
 		religion = sunni
-		size = 80
-	}
-
-	artisans = {
-		culture = amazuni
-		religion = sunni
-		size = 150
-	}
-
-	clergymen = {
-		culture = amazuni
-		religion = sunni
-		size = 25
-	}
-
-	soldiers = {
-		culture = amazuni
-		religion = sunni
-		size = 50
-	}
-
-	farmers = {
-		culture = amazuni
-		religion = sunni
-		size = 2425
+		size = 12425
 	}
 
 	slaves = {
-		culture = forest_bantu
-		religion = sunni
+		culture = afro_brazilian
+		religion = amazuni
 		size = 950
 	}
 
 	aristocrats = {
-		culture = amazonian
-		religion = animist
+		culture = carib
+		religion = sunni
 		size = 2
 	}
 
 	clergymen = {
-		culture = amazonian
-		religion = animist
+		culture = carib
+		religion = sunni
 		size = 3
 	}
 
 	artisans = {
-		culture = amazonian
-		religion = animist
+		culture = carib
+		religion = sunni
 		size = 10
 	}
 
 	soldiers = {
-		culture = amazonian
-		religion = animist
+		culture = carib
+		religion = sunni
 		size = 5
 	}
 
 	farmers = {
-		culture = amazonian
+		culture = carib
 		religion = animist
-		size = 230
+		size = 15230
+	}
+	
+	farmers = {
+		culture = palikur
+		religion = animist
+		size = 5000
 	}
 }
 #Maripasoula (3000/750 POPS)
 2246 = {
 	aristocrats = {
-		culture = amazonian
+		culture = taranoan
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = amazonian
+		culture = taranoan
 		religion = animist
 		size = 15
 	}
 
 	artisans = {
-		culture = amazonian
+		culture = taranoan
 		religion = animist
 		size = 35
 	}
 
 	soldiers = {
-		culture = amazonian
+		culture = taranoan
 		religion = animist
 		size = 10
 	}
 
 	farmers = {
-		culture = amazonian
+		culture = taranoan
 		religion = animist
-		size = 680
+		size = 5680
 	}
+	
+	farmers = {
+		culture = carib
+		religion = animist
+		size = 1680
+	}
+
 
 }

@@ -2309,7 +2309,7 @@
 2308;160;0;112;Arica;x
 2309;32;128;112;Calama;x
 2310;225;188;206;La Paz;x
-2311;160;64;48;Cochabamba;x
+2311;160;64;48;Yuracare;x
 2312;160;64;176;Oruro;x
 2313;96;128;240;Chuquisaca;x
 2314;160;128;112;Potosi;x
@@ -3462,5 +3462,72 @@
 3461;200;190;190;Daura;x
 3462;194;194;194;Yauri;x
 3463;196;196;196;Teotitlan;x
-;111;17;244;x
+3464;201;201;201;Kuhikugu;x
+3465;206;206;206;Waura;x
+3466;211;211;211;Tembe;x
+3467;243;84;93;Tobajara;x
+3468;3;197;68;Chakamekra;x
+3469;26;182;15;Itaueira;x
+3470;110;206;39;Apinaye;x
+3471;32;189;101;Cariri;x
+3472;213;45;164;Amoipira;x
+3473;173;94;221;Patasho;x
+3474;173;194;221;Niya;x
+3475;216;216;216;Shikrin;x
+3476;221;221;221;Gorotire;x
+3477;226;226;226;Juruna;x
+3478;231;231;231;Bororo;x
+3479;236;236;236;Tshukahamai;x
+3480;241;241;241;Kawahib;x
+3481;1;222;200;Amassuna Delta;x
+3482;1;202;222;Western Amassuna;x
+3483;1;182;242;Central Amassuna;x
+3484;1;142;252;Tafeyus;x
+3485;32;41;120;Tupiza;x
+3486;160;39;70;Quchapampa;x
+3487;62;105;75;Omasuyu;x
+3488;190;103;25;Golla;x
+3489;60;85;75;Cana;x
+3490;32;37;20;Paria;x
+3491;189;95;75;Camana;x
+3492;61;93;25;Atico;x
+3493;189;87;125;Chumpivilca;x
+3494;189;91;225;Yauca;x
+3495;176;107;90;Nazca;x
+3496;116;128;64;Pachacamac;x
+3497;116;120;128;Moche;x
+3498;115;108;64;Chanchan;x
+3499;186;47;125;Tumbez;x
+3500;186;51;225;Huancapampa;x
+3501;243;110;128;Chachapoyas;x
+3502;243;118;64;Kasha Marka;x
+3503;186;55;75;Huamachugo;x
+3504;59;65;75;Huanuco;x
+3505;244;122;192;Panatahuas;x
+3506;58;57;125;Huayla;x
+3507;245;134;255;Yarowilca;x
+3508;187;63;25;Chinchaycocha;x
+3509;59;69;175;Yauyo;x
+3510;187;67;125;Satipo;x
+3511;117;136;0;Huancayo;x
+3512;60;73;25;Angara;x
+3513;61;89;175;Parinacocha;x
+3514;60;77;125;Aymara;x
+3515;48;109;135;Vilcashuaman;x
+3516;159;31;120;Chiquito;x
+3517;177;111;180;Cuzco;x
+3518;60;81;225;Paucartampo;x
+3519;49;113;225;Vilcabamba;x
+3520;159;27;20;Hatun Colla;x
+3521;115;112;192;Huamanga;x
+3522;188;79;175;Yanahuara;x
+3523;57;37;125;Pichincha;x
+3524;245;142;192;Kwayker;x
+3525;145;142;192;Tumipampa;x
+3526;45;142;192;Salasaca;x
+3527;85;12;192;Otavalo;x
+3528;85;112;192;Caranqui;x
+3529;85;112;92;Quijo;x
+3530;85;212;92;Tukumi;x
+;111;17;244;x 
 ;111;17;248;Lake Winnebago ;x

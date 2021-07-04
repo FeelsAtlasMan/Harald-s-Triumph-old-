@@ -38,27 +38,33 @@
 	}
 
 	clergymen = {
-		culture = forest_bantu
+		culture = ineri
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = forest_bantu
+		culture = ineri
 		religion = sunni
 		size = 2750
 	}
 
 	soldiers = {
-		culture = forest_bantu
+		culture = ineri
 		religion = sunni
 		size = 250
 	}
-
+	
 	farmers = {
-		culture = forest_bantu
+		culture = ineri
 		religion = sunni
-		size = 18925
+		size = 2925
+	}
+
+	slaves = {
+		culture = kreol
+		religion = sunni
+		size = 16000
 	}
 }
 #Saint Lucia (18000/4500 POPS) #now independent
@@ -88,27 +94,33 @@
 	}
 
 	clergymen = {
-		culture = afro_germanic
+		culture = ineri
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = afro_germanic
+		culture = ineri
 		religion = protestant
 		size = 100
 	}
 
 	soldiers = {
-		culture = afro_germanic
+		culture = ineri
 		religion = protestant
 		size = 50
 	}
-
+	
 	farmers = {
-		culture = afro_germanic
+		culture = ineri
 		religion = protestant
-		size = 4050
+		size = 1050
+	}
+
+	slaves = {
+		culture = kreol
+		religion = protestant
+		size = 8050
 	}
 }
 #Dominica (19000/4750 POPS) #now independent
@@ -138,25 +150,31 @@
 	}
 
 	clergymen = {
-		culture = afro_germanic
+		culture = ineri
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = afro_germanic
+		culture = ineri
 		religion = protestant
 		size = 150
 	}
 
 	soldiers = {
-		culture = afro_germanic
+		culture = ineri
 		religion = protestant
 		size = 50
 	}
-
+	
 	farmers = {
-		culture = afro_germanic
+		culture = ineri
+		religion = protestant
+		size = 1250
+	}
+
+	slaves = {
+		culture = kreol
 		religion = protestant
 		size = 4250
 	}
@@ -194,25 +212,31 @@
 	}
 
 	clergymen = {
-		culture = forest_bantu
+		culture = ineri
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = forest_bantu
+		culture = ineri
 		religion = sunni
 		size = 150
 	}
 
 	soldiers = {
-		culture = forest_bantu
+		culture = ineri
 		religion = sunni
 		size = 75
 	}
-
+	
 	farmers = {
-		culture = forest_bantu
+		culture = ineri
+		religion = sunni
+		size = 1725
+	}
+
+	slaves = {
+		culture = kreol
 		religion = sunni
 		size = 6725
 	}
@@ -244,25 +268,32 @@
 	}
 
 	clergymen = {
-		culture = afro_germanic
+		culture = ineri
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = afro_germanic
+		culture = ineri
 		religion = protestant
 		size = 200
 	}
 
 	soldiers = {
-		culture = afro_germanic
+		culture = ineri
 		religion = protestant
 		size = 50
 	}
-
+	
 	farmers = {
-		culture = afro_germanic
+		culture = ineri
+		religion = protestant
+		size = 1700
+	}
+
+
+	slaves = {
+		culture = kreol
 		religion = protestant
 		size = 4700
 	}

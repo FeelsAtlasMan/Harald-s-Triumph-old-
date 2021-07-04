@@ -3,123 +3,100 @@
 #Antofagasta (80000/20000 POPS)
 2305 = {
 	aristocrats = {
-		culture = argentinian
-		religion = protestant
+		culture = kunza
+		religion = inti
 		size = 425
 	}
 
 	bureaucrats = {
-		culture = argentinian
-		religion = protestant
+		culture = kunza
+		religion = inti
 		size = 25
 	}
 
 	officers = {
-		culture = argentinian
-		religion = protestant
+		culture = kunza
+		religion = inti
 		size = 25
 	}
 
 	clergymen = {
-		culture = argentinian
-		religion = protestant
+		culture = kunza
+		religion = inti
 		size = 150
 	}
 
 	artisans = {
-		culture = argentinian
-		religion = protestant
+		culture = kunza
+		religion = inti
 		size = 400
 	}
 
 	soldiers = {
-		culture = argentinian
-		religion = protestant
-		size = 75
+		culture = kunza
+		religion = inti
+		size = 1075
 	}
 
 	farmers = {
-		culture = argentinian
-		religion = protestant
-		size = 6900
-	}
-
-	clergymen = {
-		culture = aimara
+		culture = kunza
 		religion = inti
-		size = 50
-	}
-
-	artisans = {
-		culture = aimara
-		religion = inti
-		size = 600
-	}
-
-	soldiers = {
-		culture = aimara
-		religion = inti
-		size = 125
-	}
-
-	farmers = {
-		culture = aimara
-		religion = inti
-		size = 11225
+		size = 21900
 	}
 }
 #Calama (32000/8000 POPS)
 2309 = {
+
+	clergymen = {
+		culture = camanchacos
+		religion = inti
+		size = 50
+	}
+
+	artisans = {
+		culture = camanchacos
+		religion = inti
+		size = 50
+	}
+
+	soldiers = {
+		culture = camanchacos
+		religion = inti
+		size = 50
+	}
+
+	farmers = {
+		culture = camanchacos
+		religion = inti
+		size = 8575
+	}
+	
 	aristocrats = {
-		culture = argentinian
-		religion = protestant
+		culture = kunza
+		religion = inti
 		size = 175
 	}
 
 	clergymen = {
-		culture = argentinian
-		religion = protestant
-		size = 50
-	}
-
-	artisans = {
-		culture = argentinian
-		religion = protestant
-		size = 150
-	}
-
-	soldiers = {
-		culture = argentinian
-		religion = protestant
-		size = 50
-	}
-
-	farmers = {
-		culture = argentinian
-		religion = protestant
-		size = 2575
-	}
-
-	clergymen = {
-		culture = aimara
+		culture = kunza
 		religion = inti
 		size = 50
 	}
 
 	artisans = {
-		culture = aimara
+		culture = kunza
 		religion = inti
-		size = 250
+		size = 550
 	}
 
 	soldiers = {
-		culture = aimara
+		culture = kunza
 		religion = inti
 		size = 50
 	}
 
 	farmers = {
-		culture = aimara
+		culture = kunza
 		religion = inti
 		size = 4700
 	}
@@ -128,113 +105,119 @@
 #Iquique (32000/8000 POPS)
 2307 = {
 	aristocrats = {
-		culture = argentinian
-		religion = protestant
+		culture = chipaya
+		religion = inti
 		size = 175
 	}
 
 	clergymen = {
-		culture = argentinian
-		religion = protestant
-		size = 50
+		culture = chipaya
+		religion = inti
+		size = 150
 	}
 
 	artisans = {
-		culture = argentinian
-		religion = protestant
-		size = 100
+		culture = chipaya
+		religion = inti
+		size = 1000
 	}
 
 	soldiers = {
-		culture = argentinian
-		religion = protestant
-		size = 25
+		culture = chipaya
+		religion = inti
+		size = 525
 	}
 
 	farmers = {
-		culture = argentinian
-		religion = protestant
-		size = 1650
+		culture = chipaya
+		religion = inti
+		size = 7650
+	}
+	
+	farmers = {
+		culture = uru
+		religion = inti
+		size = 4650
+	}
+	
+	aristocrats = {
+		culture = chipaya
+		religion = inti
+		size = 175
 	}
 
 	clergymen = {
 		culture = aimara
 		religion = inti
-		size = 50
+		size = 250
 	}
 
 	artisans = {
 		culture = aimara
 		religion = inti
-		size = 300
+		size = 6300
 	}
 
 	soldiers = {
 		culture = aimara
 		religion = inti
-		size = 75
+		size = 1075
 	}
 
 	farmers = {
 		culture = aimara
 		religion = inti
-		size = 5575
+		size = 20000
 	}
 }
 #Arica (20000/5000 POPS)
 2308 = {
 	aristocrats = {
-		culture = argentinian
-		religion = protestant
+		culture = camanchacos
+		religion = inti
 		size = 125
 	}
 
 	clergymen = {
-		culture = argentinian
-		religion = protestant
-		size = 75
+		culture = camanchacos
+		religion = inti
+		size = 175
 	}
 
 	artisans = {
-		culture = argentinian
-		religion = protestant
-		size = 50
+		culture = camanchacos
+		religion = inti
+		size = 150
 	}
 
 	soldiers = {
-		culture = argentinian
-		religion = protestant
-		size = 10
+		culture = camanchacos
+		religion = inti
+		size = 410
 	}
 
 	farmers = {
-		culture = argentinian
-		religion = protestant
+		culture = camanchacos
+		religion = inti
+		size = 8000
+	}
+	
+	farmers = {
+		culture = pukina
+		religion = inti
+		size = 1000
+	}
+	
+	artisans = {
+		culture = quechua
+		religion = inti
+		size = 340
+	}
+	
+	artisans = {
+		culture = aimara
+		religion = inti
 		size = 740
-	}
-
-	clergymen = {
-		culture = aimara
-		religion = inti
-		size = 25
-	}
-
-	artisans = {
-		culture = aimara
-		religion = inti
-		size = 200
-	}
-
-	soldiers = {
-		culture = aimara
-		religion = inti
-		size = 50
-	}
-
-	farmers = {
-		culture = aimara
-		religion = inti
-		size = 3725
 	}
 }
 #Chile Norte Region (116000)
@@ -242,77 +225,143 @@
 #Copiapo (52000/13000 POPS)
 2322 = {
 	aristocrats = {
-		culture = argentinian
-		religion = protestant
+		culture = kunza
+		religion = inti
 		size = 275
 	}
 
 	clergymen = {
-		culture = argentinian
-		religion = protestant
+		culture = kunza
+		religion = inti
 		size = 125
 	}
 
 	artisans = {
-		culture = argentinian
-		religion = protestant
+		culture = kunza
+		religion = inti
 		size = 650
 	}
 
 	soldiers = {
-		culture = argentinian
-		religion = protestant
+		culture = kunza
+		religion = inti
 		size = 1125
 	}
 
 	farmers = {
-		culture = argentinian
-		religion = protestant
-		size = 21825
+		culture = kunza
+		religion = inti
+		size = 26825
+	}
+	
+	clergymen = {
+		culture = diaguita
+		religion = inti
+		size = 25
+	}
+
+	artisans = {
+		culture = diaguita
+		religion = inti
+		size = 150
+	}
+
+	soldiers = {
+		culture = diaguita
+		religion = inti
+		size = 425
+	}
+
+	farmers = {
+		culture = diaguita
+		religion = inti
+		size = 7825
 	}
 }
 #La Serena (64000/16000 POPS)
 2323 = {
 	aristocrats = {
-		culture = argentinian
-		religion = protestant
+		culture = diaguita
+		religion = inti
 		size = 350
 	}
 
 	bureaucrats = {
-		culture = argentinian
-		religion = protestant
+		culture = diaguita
+		religion = inti
 		size = 100
 	}
 
 	officers = {
-		culture = argentinian
-		religion = protestant
+		culture = diaguita
+		religion = inti
 		size = 25
 	}
 
 	clergymen = {
-		culture = argentinian
-		religion = protestant
+		culture = diaguita
+		religion = inti
 		size = 150
 	}
 
 	artisans = {
-		culture = argentinian
-		religion = protestant
+		culture = diaguita
+		religion = inti
 		size = 800
 	}
 
 	soldiers = {
-		culture = argentinian
-		religion = protestant
+		culture = diaguita
+		religion = inti
+		size = 1175
+	}
+
+	farmers = {
+		culture = diaguita
+		religion = inti
+		size = 48450
+	}
+	
+	clergymen = {
+		culture = kunza
+		religion = inti
+		size = 50
+	}
+	
+	artisans = {
+		culture = kunza
+		religion = inti
+		size = 80
+	}
+
+	soldiers = {
+		culture = kunza
+		religion = inti
 		size = 175
 	}
 
 	farmers = {
-		culture = argentinian
-		religion = protestant
-		size = 18450
+		culture = kunza
+		religion = inti
+		size = 15450
+	}
+
+	artisans = {
+		culture = picunche
+		religion = inti
+		size = 80
+	}
+
+	soldiers = {
+		culture = picunche
+		religion = inti
+		size = 175
+	}
+
+	farmers = {
+		culture = picunche
+		religion = inti
+		size = 8450
 	}
 }
 #Valle Central Region (640000)
@@ -468,33 +517,69 @@
 #Vina del Mar (72000/18000 POPS)
 2326 = {
 	aristocrats = {
-		culture = argentinian
-		religion = protestant
+		culture = picunche
+		religion = inti
 		size = 375
 	}
 
 	clergymen = {
-		culture = argentinian
-		religion = protestant
+		culture = picunche
+		religion = inti
 		size = 175
 	}
 
 	artisans = {
-		culture = argentinian
-		religion = protestant
+		culture = picunche
+		religion = inti
 		size = 900
 	}
 
 	soldiers = {
-		culture = argentinian
-		religion = protestant
+		culture = picunche
+		religion = inti
 		size = 1100
+	}
+	
+	farmers = {
+		culture = picunche
+		religion = inti
+		size = 5550
 	}
 
 	farmers = {
-		culture = argentinian
-		religion = protestant
-		size = 15550
+		culture = picunche
+		religion = animist
+		size = 30000
+	}
+	
+	aristocrats = {
+		culture = diaguita
+		religion = inti
+		size = 175
+	}
+
+	clergymen = {
+		culture = diaguita
+		religion = inti
+		size = 75
+	}
+
+	artisans = {
+		culture = diaguita
+		religion = inti
+		size = 200
+	}
+
+	soldiers = {
+		culture = diaguita
+		religion = inti
+		size = 100
+	}
+	
+	farmers = {
+		culture = diaguita
+		religion = inti
+		size = 10550
 	}
 }
 #Talca (20000/5000 POPS)

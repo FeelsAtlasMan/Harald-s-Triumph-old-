@@ -14,12 +14,6 @@
 		size = 60
 	}
 
-	artisans = {
-		culture = amazuni
-		religion = sunni
-		size = 100
-	}
-
 	soldiers = {
 		culture = amazuni
 		religion = sunni
@@ -35,13 +29,13 @@
 	artisans = {
 		culture = amazuni
 		religion = sunni
-		size = 1750
+		size = 1850
 	}
 
 	farmers = {
 		culture = amazuni
 		religion = sunni
-		size = 1200
+		size = 8200
 	}
 
 	soldiers = {
@@ -49,41 +43,53 @@
 		religion = sunni
 		size = 25
 	}
-
+	
 	slaves = {
-		culture = forest_bantu
+		culture = afro_brazilian
 		religion = animist
+		size = 1000
+	}
+
+	farmers = {
+		culture = lokono
+		religion = sunni
 		size = 9000
 	}
 }
 #Aperina (8000/2000 POPS)
 2245 = {
 	aristocrats = {
-		culture = amazonian
+		culture = pemon_panare
 		religion = animist
 		size = 25
 	}
 
 	clergymen = {
-		culture = amazonian
+		culture = pemon_panare
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = amazonian
+		culture = pemon_panare
 		religion = animist
 		size = 100
 	}
 
 	soldiers = {
-		culture = amazonian
+		culture = pemon_panare
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = amazonian
+		culture = pemon_panare
+		religion = animist
+		size = 4750
+	}
+	
+	farmers = {
+		culture = taranoan
 		religion = animist
 		size = 1750
 	}

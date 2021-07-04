@@ -3,93 +3,99 @@
 #Puerto Rico (356000/89000 POPS)
 2222 = {
 	aristocrats = {
-		culture = french
-		religion = catholic
+		culture = maghrebi
+		religion = sunni
 		size = 250
 	}
 
 	bureaucrats = {
-		culture = french
-		religion = catholic
-		size = 75
+		culture = maghrebi
+		religion = sunni
+		size = 1075
 	}
 
 	clergymen = {
-		culture = french
-		religion = catholic
+		culture = maghrebi
+		religion = sunni
 		size = 300
 	}
 
 	artisans = {
-		culture = french
-		religion = catholic
+		culture = maghrebi
+		religion = sunni
 		size = 800
 	}
 
 	soldiers = {
-		culture = french
-		religion = catholic
+		culture = maghrebi
+		religion = sunni
 		size = 50
+	}
+	
+	farmers = {
+		culture = maghrebi
+		religion = sunni
+		size = 1050
 	}
 
 	aristocrats = {
-		culture = caribeno
-		religion = catholic
-		size = 1535
+		culture = taino
+		religion = sunni
+		size = 535
 	}
 
 	bureaucrats = {
-		culture = caribeno
-		religion = catholic
+		culture = taino
+		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
-		culture = caribeno
-		religion = catholic
+		culture = taino
+		religion = sunni
 		size = 200
 	}
 
 	artisans = {
-		culture = caribeno
-		religion = catholic
+		culture = taino
+		religion = sunni
 		size = 3000
 	}
 
 	soldiers = {
-		culture = caribeno
-		religion = catholic
+		culture = taino
+		religion = sunni
 		size = 450
 	}
 
 	farmers = {
-		culture = caribeno
-		religion = catholic
-		size = 40850
+		culture = taino
+		religion = sunni
+		size = 30850
 	}
 
 	artisans = {
-		culture = afro_antillean
-		religion = catholic
+		culture = kreol
+		religion = sunni
 		size = 1100
 	}
 
 	soldiers = {
-		culture = afro_antillean
-		religion = catholic
+		culture = kreol
+		religion = sunni
 		size = 400
 	}
 
 	farmers = {
-		culture = afro_antillean
-		religion = catholic
-		size = 30600
+		culture = kreol
+		religion = sunni
+		size = 10600
 	}
 
 	slaves = {
-		culture = afro_antillean
-		religion = catholic
-		size = 10000
+		culture = kreol
+		religion = sunni
+		size = 30000
 	}
 
 }

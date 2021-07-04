@@ -40,7 +40,7 @@
 	}
 	
 	slaves = {
-		culture = forest_bantu
+		culture = kreol
 		religion = animist
 		size = 900
 	}
@@ -49,27 +49,33 @@
 2235 = {
 	
 	aristocrats = {
-		culture = maghrebi
+		culture = amazuni
 		religion = sunni
 		size = 1
 	}
 	
 	clergymen = {
-		culture = maghrebi
+		culture = amazuni
 		religion = sunni
 		size = 25
 	}
 	
 	farmers = {
-		culture = maghrebi
-		religion = sunni
-		size = 400
-	}
-
-	slaves = {
-		culture = forest_bantu
+		culture = munduruku
 		religion = animist
-		size = 175
+		size = 200
+	}
+	
+	clergymen = {
+		culture = munduruku
+		religion = animist
+		size = 25
+	}
+	
+	farmers = {
+		culture = munduruku
+		religion = animist
+		size = 7200
 	}
 }
 #Philipsburg - Saint Martin (4800/1200 POPS)
@@ -77,32 +83,38 @@
 
 	aristocrats = {
 		culture = french
-		religion = protestant
+		religion = catholic
 		size = 10
 	}
 	
 	clergymen = {
-		culture = north_german
-		religion = protestant
+	    culture = french
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = afro_caribbean
-		religion = protestant
+		culture = french
+		religion = catholic
 		size = 55
 	}
 	
 	farmers = {
-		culture = north_german
-		religion = protestant
+		culture = french
+		religion = catholic
 		size = 400
+	}
+	
+	slaves = {
+		culture = taino
+		religion = catholic
+		size = 2000
 	}
 
 	slaves = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 100
+		culture = kreol
+		religion = catholic
+		size = 4000
 	}
 
 }

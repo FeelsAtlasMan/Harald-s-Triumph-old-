@@ -17,105 +17,177 @@
 	clergymen = {
 		culture = north_german
 		religion = protestant
-		size = 100
+		size = 400
 	}
 
 	artisans = {
 		culture = north_german
+		religion = protestant
+		size = 8350
+	}
+
+	soldiers = {
+		culture = north_german
+		religion = protestant
+		size = 1075
+	}
+
+	farmers = {
+		culture = north_german
+		religion = protestant
+		size = 19000
+	}
+	
+	artisans = {
+		culture = kreol
 		religion = protestant
 		size = 350
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = kreol
+		religion = protestant
+		size = 1075
+	}
+
+	farmers = {
+		culture = kreol
+		religion = protestant
+		size = 19000
+	}
+	
+	clergymen = {
+		culture = taino
+		religion = protestant
+		size = 200
+	}
+
+	artisans = {
+		culture = taino
+		religion = protestant
+		size = 1350
+	}
+
+	soldiers = {
+		culture = taino
 		religion = protestant
 		size = 75
 	}
 
 	farmers = {
-		culture = north_german
+		culture = taino
 		religion = protestant
-		size = 62375
+		size = 14375
 	}
 
 	clergymen = {
-		culture = afro_germanic
-		religion = protestant
+		culture = maghrebi
+		religion = sunni
+		size = 350
+	}
+
+	artisans = {
+		culture = maghrebi
+		religion = sunni
+		size = 5500
+	}
+
+	soldiers = {
+		culture = maghrebi
+		religion = sunni
+		size = 1050
+	}
+
+	farmers = {
+		culture = maghrebi
+		religion = sunni
+		size = 29050
+	}
+	
+	clergymen = {
+		culture = macoris
+		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = afro_germanic
-		religion = protestant
+		culture = macoris
+		religion = sunni
 		size = 500
 	}
 
 	soldiers = {
-		culture = afro_germanic
-		religion = protestant
+		culture = macoris
+		religion = sunni
 		size = 50
 	}
 
 	farmers = {
-		culture = afro_germanic
-		religion = protestant
-		size = 45350
+		culture = macoris
+		religion = sunni
+		size = 10000
 	}
 }
 #La Vega (56000/15000 POPS) #now part of Dominican Republic
 2216 = {
 	aristocrats = {
-		culture = north_german
+		culture = taino
 		religion = protestant
 		size = 550
 	}
 	
 	clergymen = {
-		culture = north_german
+		culture = taino
 		religion = protestant
-		size = 100
+		size = 300
 	}
 
 	artisans = {
-		culture = north_german
+		culture = taino
 		religion = protestant
 		size = 400
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = taino
 		religion = protestant
-		size = 50
+		size = 1050
 	}
 
 	farmers = {
-		culture = north_german
+		culture = taino
 		religion = protestant
-		size = 30175
+		size = 40000
+	}
+	
+	farmers = {
+		culture = taino
+		religion = sunni
+		size = 20175
 	}
 
 	clergymen = {
-		culture = afro_germanic
+		culture = macoris
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = afro_germanic
+		culture = macoris
 		religion = protestant
 		size = 300
 	}
 
 	soldiers = {
-		culture = afro_germanic
+		culture = macoris
 		religion = protestant
 		size = 75
 	}
 
 	farmers = {
-		culture = afro_germanic
+		culture = macoris
 		religion = protestant
-		size = 19575
+		size = 9575
 	}
 
 }

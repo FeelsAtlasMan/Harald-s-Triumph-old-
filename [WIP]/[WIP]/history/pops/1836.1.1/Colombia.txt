@@ -5,31 +5,31 @@
 	aristocrats = {
 		culture = aquitan
 		religion = catholic
-		size = 1250
+		size = 250
 	}
 
 	bureaucrats = {
 		culture = aquitan
 		religion = catholic
-		size = 225
+		size = 25
 	}
 
 	officers = {
 		culture = aquitan
 		religion = catholic
-		size = 175
+		size = 75
 	}
 
 	clergymen = {
 		culture = aquitan
 		religion = catholic
-		size = 525
+		size = 125
 	}
 
 	artisans = {
 		culture = aquitan
 		religion = catholic
-		size = 2600
+		size = 600
 	}
 
 	soldiers = {
@@ -41,7 +41,7 @@
 	farmers = {
 		culture = aquitan
 		religion = catholic
-		size = 76875
+		size = 6875
 	}
 
 	clergymen = {
@@ -65,37 +65,61 @@
 	farmers = {
 		culture = afro_antillean
 		religion = catholic
-		size = 2475
+		size = 475
 	}
 
 	slaves = {
 		culture = afro_antillean
 		religion = catholic
-		size = 1250
+		size = 16250
 	}
 
 	clergymen = {
 		culture = chibcha
-		religion = inti
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
 		culture = chibcha
-		religion = inti
+		religion = catholic
 		size = 200
 	}
 
 	soldiers = {
 		culture = chibcha
-		religion = inti
+		religion = catholic
 		size = 50
 	}
 
 	farmers = {
 		culture = chibcha
+		religion = catholic
+		size = 13700
+	}
+	
+	clergymen = {
+		culture = chibcha
 		religion = inti
-		size = 3700
+		size = 450
+	}
+
+	artisans = {
+		culture = chibcha
+		religion = inti
+		size = 8200
+	}
+
+	soldiers = {
+		culture = chibcha
+		religion = inti
+		size = 2050
+	}
+
+	farmers = {
+		culture = chibcha
+		religion = inti
+		size = 93700
 	}
 }
 #Ibaque (88000/22000 POPS)
@@ -127,7 +151,7 @@
 	farmers = {
 		culture = aquitan
 		religion = catholic
-		size = 17200
+		size = 7200
 	}
 
 	clergymen = {
@@ -157,31 +181,37 @@
 	slaves = {
 		culture = afro_antillean
 		religion = catholic
-		size = 250
+		size = 2250
 	}
 
 	clergymen = {
 		culture = chibcha
-		religion = inti
-		size = 25
+		religion = catholic
+		size = 325
 	}
 
 	artisans = {
 		culture = chibcha
-		religion = inti
-		size = 100
+		religion = catholic
+		size = 1100
 	}
 
 	soldiers = {
 		culture = chibcha
-		religion = inti
-		size = 25
+		religion = catholic
+		size = 2025
 	}
 
 	farmers = {
 		culture = chibcha
-		religion = inti
-		size = 1850
+		religion = catholic
+		size = 16850
+	}
+	
+	farmers = {
+		culture = nawaki
+		religion = animist
+		size = 5000
 	}
 }
 #Tunja (56000/14000 POPS)
@@ -225,19 +255,49 @@
 	artisans = {
 		culture = chibcha
 		religion = inti
-		size = 250
+		size = 50
 	}
 
 	soldiers = {
 		culture = chibcha
 		religion = inti
-		size = 50
+		size = 250
 	}
 
 	farmers = {
 		culture = chibcha
 		religion = inti
-		size = 4700
+		size = 25000
+	}
+	
+	clergymen = {
+		culture = chibcha
+		religion = catholic
+		size = 450
+	}
+
+	artisans = {
+		culture = chibcha
+		religion = catholic
+		size = 250
+	}
+
+	soldiers = {
+		culture = chibcha
+		religion = catholic
+		size = 2050
+	}
+
+	farmers = {
+		culture = chibcha
+		religion = catholic
+		size = 9700
+	}
+	
+	farmers = {
+		culture = nawaki
+		religion = animist
+		size = 24700
 	}
 }
 #Manizales (116000/29000 POPS)
@@ -269,7 +329,43 @@
 	farmers = {
 		culture = aquitan
 		religion = catholic
-		size = 26650
+		size = 30000
+	}
+	
+	farmers = {
+		culture = chibcha
+		religion = catholic
+		size = 16650
+	}
+	
+	aristocrats = {
+		culture = choco
+		religion = catholic
+		size = 25
+	}
+
+	clergymen = {
+		culture = choco
+		religion = catholic
+		size = 75
+	}
+
+	artisans = {
+		culture = choco
+		religion = catholic
+		size = 450
+	}
+
+	soldiers = {
+		culture = choco
+		religion = catholic
+		size = 1100
+	}
+
+	farmers = {
+		culture = choco
+		religion = catholic
+		size = 36650
 	}
 }
 #Cucuta (84000/21000 POPS)
@@ -301,31 +397,43 @@
 	farmers = {
 		culture = aquitan
 		religion = catholic
-		size = 14525
+		size = 24525
 	}
 
 	clergymen = {
 		culture = chibcha
-		religion = inti
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
 		culture = chibcha
-		religion = inti
+		religion = catholic
 		size = 250
 	}
 
 	soldiers = {
 		culture = chibcha
+		religion = catholic
+		size = 1050
+	}
+	
+	farmers = {
+		culture = chibcha
+		religion = catholic
+		size = 4650
+	}
+	
+	farmers = {
+		culture = chibcha
 		religion = inti
-		size = 50
+		size = 3000
 	}
 
 	farmers = {
 		culture = chibcha
-		religion = inti
-		size = 4650
+		religion = animist
+		size = 17000
 	}
 }
 #Antioquia Region (452000)
@@ -371,7 +479,7 @@
 	farmers = {
 		culture = aquitan
 		religion = catholic
-		size = 56875
+		size = 36875
 	}
 
 	clergymen = {
@@ -405,27 +513,27 @@
 	}
 
 	clergymen = {
-		culture = guajiro
+		culture = choco
 		religion = catholic
-		size = 25
+		size = 225
 	}
 
 	artisans = {
-		culture = guajiro
+		culture = choco
 		religion = catholic
-		size = 150
+		size = 1150
 	}
 
 	soldiers = {
-		culture = guajiro
+		culture = choco
 		religion = catholic
-		size = 25
+		size = 1025
 	}
 
 	farmers = {
-		culture = guajiro
+		culture = choco
 		religion = catholic
-		size = 2800
+		size = 22800
 	}
 }
 #Quibdo (48000/12000 POPS)
@@ -461,29 +569,35 @@
 	}
 
 	clergymen = {
-		culture = afro_antillean
+		culture = choco
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = afro_antillean
+		culture = choco
 		religion = catholic
 		size = 350
 	}
 
 	soldiers = {
-		culture = afro_antillean
+		culture = choco
 		religion = catholic
 		size = 75
 	}
 
 	farmers = {
-		culture = afro_antillean
+		culture = choco
 		religion = catholic
-		size = 1500
+		size = 3500
 	}
 
+	slaves = {
+		culture = choco
+		religion = catholic
+		size = 9000
+	}
+	
 	slaves = {
 		culture = afro_antillean
 		religion = catholic
@@ -495,13 +609,25 @@
 	aristocrats = {
 		culture = aquitan
 		religion = catholic
-		size = 700
+		size = 2700
 	}
 
 	clergymen = {
 		culture = aquitan
 		religion = catholic
-		size = 125
+		size = 4125
+	}
+	
+	artisans = {
+		culture = aquitan
+		religion = catholic
+		size = 10000
+	}
+	
+	artisans = {
+		culture = aquitan
+		religion = catholic
+		size = 10000
 	}
 
 	artisans = {
@@ -513,13 +639,13 @@
 	soldiers = {
 		culture = aquitan
 		religion = catholic
-		size = 1100
+		size = 4100
 	}
 
 	farmers = {
 		culture = aquitan
 		religion = catholic
-		size = 10575
+		size = 80575
 	}
 
 	clergymen = {
@@ -543,37 +669,37 @@
 	farmers = {
 		culture = afro_antillean
 		religion = catholic
-		size = 15675
+		size = 5675
 	}
 
 	slaves = {
 		culture = afro_antillean
 		religion = catholic
-		size = 4000
+		size = 14000
 	}
 
 	clergymen = {
-		culture = guajiro 
+		culture = cuna 
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = guajiro 
+		culture = cuna 
 		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
-		culture = guajiro 
+		culture = cuna 
 		religion = catholic
 		size = 25
 	}
 
 	farmers = {
-		culture = guajiro 
+		culture = cuna 
 		religion = catholic
-		size = 1850
+		size = 4850
 	}
 }
 #Barranquilla (132000/33000 POPS)
@@ -605,7 +731,7 @@
 	farmers = {
 		culture = aquitan
 		religion = catholic
-		size = 35725
+		size = 5725
 	}
 
 	clergymen = {
@@ -629,37 +755,49 @@
 	farmers = {
 		culture = afro_antillean
 		religion = catholic
-		size = 14800
+		size = 1800
 	}
 
 	slaves = {
 		culture = afro_antillean
 		religion = catholic
-		size = 3000
+		size = 7000
+	}
+	
+	aristocrats = {
+		culture = tayrona
+		religion = animist
+		size = 650
 	}
 
 	clergymen = {
-		culture = guajiro
-		religion = catholic
-		size = 10
+		culture = tayrona
+		religion = animist
+		size = 3200
+	}
+	
+	artisans = {
+		culture = tayrona 
+		religion = animist
+		size = 10000
 	}
 
 	artisans = {
-		culture = guajiro 
-		religion = catholic
-		size = 50
+		culture = tayrona 
+		religion = animist
+		size = 5000
 	}
 
 	soldiers = {
-		culture = guajiro 
-		religion = catholic
-		size = 10
+		culture = tayrona 
+		religion = animist
+		size = 1100
 	}
 
 	farmers = {
-		culture = guajiro 
-		religion = catholic
-		size = 930
+		culture = tayrona 
+		religion = animist
+		size = 70930
 	}
 }
 #Ruled by Colombia 1836
@@ -687,13 +825,13 @@
 	clergymen = {
 		culture = aquitan
 		religion = catholic
-		size = 175
+		size = 1975
 	}
-
+	
 	artisans = {
 		culture = aquitan
 		religion = catholic
-		size = 850
+		size = 10000
 	}
 
 	soldiers = {
@@ -705,7 +843,25 @@
 	farmers = {
 		culture = aquitan
 		religion = catholic
-		size = 14300
+		size = 44300
+	}
+	
+	artisans = {
+		culture = paez
+		religion = inti
+		size = 850
+	}
+
+	soldiers = {
+		culture = paez
+		religion = inti
+		size = 100
+	}
+
+	farmers = {
+		culture = paez
+		religion = inti
+		size = 10300
 	}
 
 	clergymen = {
@@ -729,37 +885,43 @@
 	farmers = {
 		culture = afro_antillean
 		religion = catholic
-		size = 2000
+		size = 200
 	}
 
 	slaves = {
 		culture = afro_antillean
 		religion = catholic
-		size = 750
+		size = 2750
 	}
 
 	clergymen = {
-		culture = chibcha
-		religion = inti
+		culture = choco
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = chibcha
-		religion = inti
+		culture = choco
+		religion = catholic
 		size = 150
 	}
 
 	soldiers = {
-		culture = chibcha
-		religion = inti
+		culture = choco
+		religion = catholic
 		size = 25
 	}
-
+	
 	farmers = {
-		culture = chibcha
-		religion = inti
+		culture = choco
+		religion = catholic
 		size = 2775
+	}
+
+	slaves = {
+		culture = choco
+		religion = catholic
+		size = 10000
 	}
 }
 #Popayan (68000/17000 POPS)
@@ -793,145 +955,181 @@
 		religion = catholic
 		size = 9875
 	}
-
+	
 	clergymen = {
-		culture = quechua
+		culture = paez
 		religion = inti
 		size = 75
 	}
 
 	artisans = {
-		culture = quechua
+		culture = paez
 		religion = inti
 		size = 300
 	}
 
 	soldiers = {
-		culture = quechua
+		culture = paez
 		religion = inti
 		size = 75
 	}
 
 	farmers = {
-		culture = quechua
+		culture = paez
+		religion = inti
+		size = 35550
+	}
+	
+	farmers = {
+		culture = nawaki
+		religion = animist
+		size = 5550
+	}
+
+	clergymen = {
+		culture = awa_pasto
+		religion = inti
+		size = 75
+	}
+
+	artisans = {
+		culture = awa_pasto
+		religion = inti
+		size = 300
+	}
+
+	soldiers = {
+		culture = awa_pasto
+		religion = inti
+		size = 75
+	}
+
+	farmers = {
+		culture = awa_pasto
 		religion = inti
 		size = 5550
 	}
 }
-#Buenaventura (60000/15000 POPS)
+#Buenaventura - now Cayapa (60000/15000 POPS)
 2258 = {
 	aristocrats = {
-		culture = aquitan
-		religion = catholic
+		culture = cayapa_tsafiki
+		religion = inti
 		size = 325
 	}
 
 	clergymen = {
-		culture = aquitan
-		religion = catholic
+		culture = cayapa_tsafiki
+		religion = inti
 		size = 75
 	}
 
 	artisans = {
-		culture = aquitan
-		religion = catholic
+		culture = cayapa_tsafiki
+		religion = inti
 		size = 450
 	}
 
 	soldiers = {
-		culture = aquitan
-		religion = catholic
-		size = 50
+		culture = cayapa_tsafiki
+		religion = inti
+		size = 150
 	}
 
 	farmers = {
-		culture = aquitan
-		religion = catholic
-		size = 3100
+		culture = cayapa_tsafiki
+		religion = inti
+		size = 8100
+	}
+	
+	farmers = {
+		culture = cayapa_tsafiki
+		religion = animist
+		size = 15000
 	}
 
 	clergymen = {
-		culture = afro_antillean
-		religion = catholic
+		culture = kichwa
+		religion = inti
 		size = 25
 	}
 
 	artisans = {
-		culture = afro_antillean
-		religion = catholic
+		culture = kichwa
+		religion = inti
 		size = 100
 	}
 
 	soldiers = {
-		culture = afro_antillean
-		religion = catholic
+		culture = kichwa
+		religion = inti
 		size = 75
 	}
 
 	farmers = {
-		culture = afro_antillean
-		religion = catholic
-		size = 1800
-	}
-
-	slaves = {
-		culture = afro_antillean
-		religion = catholic
-		size = 5000
+		culture = kichwa
+		religion = inti
+		size = 3800
 	}
 }
 #Pasto (80000/20000 POPS)
 2259 = {
 	aristocrats = {
-		culture = aquitan
-		religion = catholic
-		size = 425
+		culture = awa_pasto
+		religion = inti
+		size = 225
 	}
 
 	clergymen = {
-		culture = aquitan
-		religion = catholic
-		size = 100
+		culture = awa_pasto
+		religion = inti
+		size = 300
 	}
 
 	artisans = {
-		culture = aquitan
-		religion = catholic
+		culture = awa_pasto
+		religion = inti
 		size = 450
 	}
 
 	soldiers = {
-		culture = aquitan
-		religion = catholic
+		culture = awa_pasto
+		religion = inti
 		size = 100
 	}
 
 	farmers = {
-		culture = aquitan
-		religion = catholic
-		size = 7925
+		culture = awa_pasto
+		religion = inti
+		size = 17925
+	}
+	
+	farmers = {
+		culture = awa_pasto
+		religion = animist
+		size = 40000
 	}
 
 	clergymen = {
-		culture = quechua
+		culture = kichwa
 		religion = inti
 		size = 50
 	}
 
 	artisans = {
-		culture = quechua
+		culture = kichwa
 		religion = inti
 		size = 550
 	}
 
 	soldiers = {
-		culture = quechua
+		culture = kichwa
 		religion = inti
 		size = 125
 	}
 
 	farmers = {
-		culture = quechua
+		culture = kichwa
 		religion = inti
 		size = 10275
 	}
@@ -943,19 +1141,19 @@
 	aristocrats = {
 		culture = aquitan
 		religion = catholic
-		size = 75
+		size = 5
 	}
 
 	clergymen = {
 		culture = aquitan
 		religion = catholic
-		size = 75
+		size = 5
 	}
 
 	artisans = {
 		culture = aquitan
 		religion = catholic
-		size = 150
+		size = 50
 	}
 
 	soldiers = {
@@ -967,229 +1165,264 @@
 	farmers = {
 		culture = aquitan
 		religion = catholic
-		size = 2675
+		size = 75
 	}
 
 	aristocrats = {
-		culture = amazonian
+		culture = nawaki
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = amazonian
+		culture = nawaki
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = amazonian
+		culture = nawaki
 		religion = animist
 		size = 300
 	}
 
 	soldiers = {
-		culture = amazonian
+		culture = nawaki
 		religion = animist
 		size = 75
 	}
 
 	farmers = {
-		culture = amazonian
+		culture = nawaki
 		religion = animist
-		size = 5475
+		size = 35475
 	}
 }
 #Obando (20000/5000 POPS)
 2261 = {
 	aristocrats = {
-		culture = amazonian
+		culture = tukano
 		religion = animist
 		size = 75
 	}
 
 	soldiers = {
-		culture = amazonian
+		culture = tukano
 		religion = animist
 		size = 50
 	}
 
 	farmers = {
-		culture = amazonian
+		culture = tukano
 		religion = animist
-		size = 4875
+		size = 8875
 	}
 	
 	clergymen = {
 		culture = aquitan
-		religion = catholic
+		religion = animist
 		size = 5
 	}
 
 	artisans = {
 		culture = aquitan
-		religion = catholic
+		religion = animist
 		size = 5
 	}
 
 	soldiers = {
 		culture = aquitan
-		religion = catholic
+		religion = animist
 		size = 5
 	}
 
 	farmers = {
-		culture = aquitan
-		religion = catholic
-		size = 20
+		culture = nawaki
+		religion = animist
+		size = 10020
+	}
+	
+	farmers = {
+		culture = maku
+		religion = animist
+		size = 5020
 	}
 }
 #Casanare (60000/15000 POPS)
 2262 = {
 	aristocrats = {
-		culture = aquitan
-		religion = catholic
+		culture = saliban
+		religion = animist
 		size = 125
 	}
 
-	bureaucrats = {
-		culture = aquitan
-		religion = catholic
-		size = 25
-	}
-
-	officers = {
-		culture = aquitan
-		religion = catholic
-		size = 25
-	}
-
 	clergymen = {
-		culture = aquitan
-		religion = catholic
+	    culture = saliban
+		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = aquitan
-		religion = catholic
+		culture = saliban
+		religion = animist
 		size = 200
 	}
 
 	soldiers = {
-		culture = aquitan
-		religion = catholic
+		culture = saliban
+		religion = animist
 		size = 50
 	}
 
 	farmers = {
-		culture = aquitan
-		religion = catholic
-		size = 3500
+		culture = saliban
+		religion = animist
+		size = 6500
 	}
 
 	aristocrats = {
-		culture = amazonian
+		culture = nawaki
 		religion = animist
 		size = 125
 	}
 
 	clergymen = {
-		culture = amazonian
+		culture = nawaki
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = amazonian
+		culture = nawaki
 		religion = animist
 		size = 400
 	}
 
 	soldiers = {
-		culture = amazonian
+		culture = nawaki
 		religion = animist
 		size = 75
 	}
 
 	farmers = {
-		culture = amazonian
+		culture = nawaki
 		religion = animist
-		size = 7325
+		size = 10025
 	}
 
-	clergymen = {
-		culture = afro_antillean
-		religion = catholic
-		size = 25
-	}
-
-	artisans = {
-		culture = afro_antillean
-		religion = catholic
-		size = 150
-	}
-
-	soldiers = {
-		culture = afro_antillean
-		religion = catholic
-		size = 25
-	}
-
-	farmers = {
-		culture = afro_antillean
-		religion = catholic
-		size = 1550
-	}
-
-	slaves = {
-		culture = afro_antillean
-		religion = catholic
-		size = 1250
-	}
 }
 #El Encanto (12000/3000 POPS)
 2263 = {
 	aristocrats = {
-		culture = amazonian
+		culture = tukano
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = amazonian
+		culture = tukano
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = amazonian
+		culture = tukano
 		religion = animist
 		size = 2925
 	}
 	
 	clergymen = {
-		culture = aquitan
-		religion = catholic
+		culture = witoto
+		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = aquitan
-		religion = catholic
+		culture = witoto
+		religion = animist
 		size = 5
 	}
 
 	soldiers = {
-		culture = aquitan
-		religion = catholic
+		culture = witoto
+		religion = animist
 		size = 5
 	}
 
 	farmers = {
-		culture = aquitan
-		religion = catholic
-		size = 20
+		culture = witoto
+		religion = animist
+		size = 7020
+	}
+	
+	farmers = {
+		culture = carib
+		religion = animist
+		size = 4020
 	}
 
+}
+
+#new provinces
+#Kwayker (60000/15000 POPS)
+3524 = {
+	aristocrats = {
+		culture = awa_pasto
+		religion = inti
+		size = 325
+	}
+
+	clergymen = {
+		culture = awa_pasto
+		religion = inti
+		size = 75
+	}
+
+	artisans = {
+		culture = awa_pasto
+		religion = inti
+		size = 450
+	}
+
+	soldiers = {
+		culture = awa_pasto
+		religion = inti
+		size = 150
+	}
+
+	farmers = {
+		culture = awa_pasto
+		religion = inti
+		size = 8100
+	}
+	
+	farmers = {
+		culture = awa_pasto
+		religion = animist
+		size = 17000
+	}
+
+	clergymen = {
+		culture = kichwa
+		religion = inti
+		size = 25
+	}
+
+	artisans = {
+		culture = kichwa
+		religion = inti
+		size = 900
+	}
+
+	soldiers = {
+		culture = kichwa
+		religion = inti
+		size = 75
+	}
+
+	farmers = {
+		culture = kichwa
+		religion = inti
+		size = 8800
+	}
 }

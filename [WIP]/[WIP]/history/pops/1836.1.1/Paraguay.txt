@@ -485,25 +485,25 @@
 	}
 
 	clergymen = {
-		culture = terena
+		culture = chane_terena
 		religion = animist
 		size = 300
 	}
 
 	artisans = {
-		culture = terena
+		culture = chane_terena
 		religion = animist
 		size = 600
 	}
 
 	soldiers = {
-		culture = terena
+		culture = chane_terena
 		religion = animist
 		size = 1025
 	}
 
 	farmers = {
-		culture = terena
+		culture = chane_terena
 		religion = animist
 		size = 20000
 	}

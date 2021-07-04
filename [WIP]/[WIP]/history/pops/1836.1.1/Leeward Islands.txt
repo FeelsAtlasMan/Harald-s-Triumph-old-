@@ -39,25 +39,31 @@
 	}
 
 	clergymen = {
-		culture = afro_caribbean
+		culture = taino
 		religion = protestant
 		size = 75
 	}
 
 	artisans = {
-		culture = afro_caribbean
+		culture = taino
 		religion = protestant
 		size = 150
 	}
 
 	soldiers = {
-		culture = afro_caribbean
+		culture = taino
 		religion = protestant
 		size = 50
 	}
+	
+	slaves = {
+		culture = taino
+		religion = protestant
+		size = 1470
+	}
 
-	farmers = {
-		culture = afro_caribbean
+	slaves = {
+		culture = kreol
 		religion = protestant
 		size = 5470
 	}
@@ -66,27 +72,33 @@
 2225 = {
 
 	clergymen = {
-		culture = afro_antillean
+		culture = taino
 		religion = catholic
 		size = 15
 	}
 
 	artisans = {
-		culture = afro_antillean
+		culture = taino
 		religion = catholic
 		size = 45
 	}
 
 	soldiers = {
-		culture = afro_antillean
+		culture = taino
 		religion = catholic
 		size = 10
 	}
+	
+	farmers = {
+		culture = taino
+		religion = catholic
+		size = 380
+	}
 
 	farmers = {
-		culture = afro_antillean
+		culture = kreol
 		religion = catholic
-		size = 1380
+		size = 2380
 	}
 }
 #Tortola (4800/1200 POPS) #still British Colony
@@ -116,25 +128,31 @@
 	}
 
 	clergymen = {
-		culture = afro_antillean
+		culture = taino
 		religion = catholic
 		size = 15
 	}
 
 	artisans = {
-		culture = afro_antillean
+		culture = taino
 		religion = catholic
 		size = 35
 	}
 
 	soldiers = {
-		culture = afro_antillean
+		culture = taino
 		religion = catholic
 		size = 10
 	}
-
+	
 	farmers = {
-		culture = afro_antillean
+		culture = taino
+		religion = catholic
+		size = 140
+	}
+
+	slaves = {
+		culture = kreol
 		religion = catholic
 		size = 1040
 	}
@@ -172,25 +190,31 @@
 	}
 
 	clergymen = {
-	    culture = afro_antillean
+	    culture = taino
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = afro_antillean
+		culture = taino
 		religion = catholic
 		size = 150
 	}
 
 	soldiers = {
-		culture = afro_antillean
+		culture = taino
 		religion = catholic
 		size = 75
 	}
+	
+	farmers = {
+		culture = taino
+		religion = catholic
+		size = 900
+	}
 
 	farmers = {
-		culture = afro_antillean
+		culture = kreol
 		religion = catholic
 		size = 5900
 	}

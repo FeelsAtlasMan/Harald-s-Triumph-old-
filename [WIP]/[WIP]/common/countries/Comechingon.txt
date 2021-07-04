@@ -2,7 +2,7 @@ color = { 15 100 10 }
 graphical_culture = SouthAmericanGC
 
 party = {
-	name = "PEU_conservative"
+	name = "Conservatives"
 	start_date = 1800.1.1
 	end_date = 2000.1.1
 
@@ -17,7 +17,7 @@ party = {
 }
 
 party = {
-	name = "PEU_liberal"
+	name = "Liberals"
 	start_date = 1830.1.1
 	end_date = 2000.1.1
 
@@ -32,7 +32,7 @@ party = {
 }
 
 party = {
-	name = "PEU_reactionary"
+	name = "Reactionaries"
 	start_date = 1820.1.1
 	end_date = 2000.1.1
 
@@ -47,7 +47,7 @@ party = {
 }
 
 party = {
-	name = "PEU_anarcho_liberal"
+	name = "Revolutionaries"
 	start_date = 1830.1.1
 	end_date = 2000.1.1
 
@@ -62,7 +62,7 @@ party = {
 }
 
 party = {
-	name = "PEU_socialist"
+	name = "Socialists"
 	start_date = 1848.1.1
 	end_date = 2000.1.1
 
@@ -77,7 +77,7 @@ party = {
 }
 
 party = {
-	name = "PEU_communist"
+	name = "Communists"
 	start_date = 1848.1.1
 	end_date = 2000.1.1
 
@@ -92,7 +92,7 @@ party = {
 }
 
 party = {
-	name = "PEU_fascist"
+	name = "Fascists"
 	start_date = 1900.1.1
 	end_date = 2000.1.1
 

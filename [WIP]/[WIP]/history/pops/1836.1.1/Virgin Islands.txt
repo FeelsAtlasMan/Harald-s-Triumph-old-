@@ -27,19 +27,19 @@
 	}
 
 	artisans = {
-		culture = afro_antillean
+		culture = taino
 		religion = catholic
 		size = 150
 	}
 
 	farmers = {
-		culture = afro_antillean
+		culture = taino
 		religion = catholic
 		size = 350
 	}
 
 	slaves = {
-		culture = afro_antillean
+		culture = kreol
 		religion = catholic
 		size = 500
 	}

@@ -166,8 +166,8 @@
 		size = 300
 	}
 	
-	farmers = {
-		culture = artisans
+	artisans = {
+		culture = persian
 		religion = shiite
 		size = 900
 	}

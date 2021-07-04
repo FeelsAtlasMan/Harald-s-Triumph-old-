@@ -1,6 +1,7 @@
-owner = ACM
-controller = ACM
-add_core = ACM
+owner = QLS
+controller = QLS
+add_core = QLS
+add_core = INC
 trade_goods = cattle
 terrain = new_world_desert
 life_rating = 15

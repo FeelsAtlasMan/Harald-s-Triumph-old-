@@ -1,13 +1,12 @@
 capital = 2578
-primary_culture = quechua
+primary_culture = diaguita
 culture = aimara
+culture = kunza
 religion = inti
 government = colonial_company
 nationalvalue = nv_tradition
 literacy = 0.09
 non_state_culture_literacy = 0.02
-
-prestige = 2
 
 # Political reforms
 slavery = yes_slavery
@@ -50,8 +49,6 @@ upper_house = {
 	socialist = 0
 	communist = 0
 }
-
-set_country_flag = new_world_nation
 
 # Technologies
 #post_napoleonic_thought = 1

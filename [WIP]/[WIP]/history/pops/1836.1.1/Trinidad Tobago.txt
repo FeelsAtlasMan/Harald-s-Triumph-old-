@@ -39,25 +39,25 @@
 	}
 
 	clergymen = {
-		culture = forest_bantu
+		culture = kreol
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = forest_bantu
+		culture = kreol
 		religion = sunni
 		size = 750
 	}
 
 	soldiers = {
-		culture = forest_bantu
+		culture = kreol
 		religion = sunni
 		size = 100
 	}
 
-	farmers = {
-		culture = forest_bantu
+	slaves = {
+		culture = kreol
 		religion = sunni
 		size = 9075
 	}
@@ -89,25 +89,25 @@
 	}
 
 	clergymen = {
-		culture = forest_bantu
+		culture = kreol
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = forest_bantu
+		culture = kreol
 		religion = sunni
 		size = 150
 	}
 
 	soldiers = {
-		culture = forest_bantu
+		culture = kreol
 		religion = sunni
 		size = 50
 	}
 
-	farmers = {
-		culture = forest_bantu
+	slaves = {
+		culture = kreol
 		religion = sunni
 		size = 3400
 	}

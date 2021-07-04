@@ -23,25 +23,67 @@
 	clergymen = {
 		culture = uighur
 		religion = sunni
-		size = 525
+		size = 485
 	}
 
 	artisans = {
 		culture = uighur
 		religion = sunni
-		size = 2600
+		size = 2400
 	}
 
 	soldiers = {
 		culture = uighur
 		religion = sunni
-		size = 2525
+		size = 2000
 	}
 
 	farmers = {
 		culture = uighur
 		religion = sunni
-		size = 30775
+		size = 27000
+	}
+	
+	clergymen = {
+		culture = abdal
+		religion = shiite
+		size = 40
+	}
+
+	artisans = {
+		culture = abdal
+		religion = shiite
+		size = 200
+	}
+
+	soldiers = {
+		culture = abdal
+		religion = shiite
+		size = 525
+	}
+
+	farmers = {
+		culture = abdal
+		religion = shiite
+		size = 3775
+	}
+	
+	aristocrats = {
+		culture = khotani
+		religion = mahayana
+		size = 110
+	}
+
+	clergymen = {
+		culture = khotani
+		religion = mahayana
+		size = 75
+	}
+
+	artisans = {
+		culture = khotani
+		religion = mahayana
+		size = 600
 	}
 
 	aristocrats = {
@@ -124,11 +166,17 @@
 		religion = sunni
 		size = 400
 	}
+
+	farmers = {
+		culture = abdal
+		religion = shiite
+		size = 50
+	}
 	
 	farmers = {
 		culture = oirat
 		religion = mahayana
-		size = 107
+		size = 100
 	}
 }
 #Qarasheher 
@@ -282,25 +330,73 @@
 	clergymen = {
 		culture = uighur
 		religion = sunni
-		size = 525
+		size = 400
 	}
 
 	artisans = {
 		culture = uighur
 		religion = sunni
-		size = 2600
+		size = 2000
 	}
 
 	soldiers = {
 		culture = uighur
 		religion = sunni
-		size = 2525
+		size = 1525
 	}
 
 	farmers = {
 		culture = uighur
 		religion = sunni
-		size = 50775
+		size = 35775
+	}
+	
+	clergymen = {
+		culture = abdal
+		religion = shiite
+		size = 125
+	}
+
+	artisans = {
+		culture = abdal
+		religion = shiite
+		size = 600
+	}
+
+	soldiers = {
+		culture = abdal
+		religion = shiite
+		size = 1000
+	}
+
+	farmers = {
+		culture = abdal
+		religion = shiite
+		size = 15000
+	}
+	
+	aristocrats = {
+		culture = khotani
+		religion = mahayana
+		size = 100
+	}
+
+	clergymen = {
+		culture = khotani
+		religion = mahayana
+		size = 75
+	}
+
+	artisans = {
+		culture = khotani
+		religion = mahayana
+		size = 600
+	}
+
+	farmers = {
+		culture = khotani
+		religion = mahayana
+		size = 775
 	}
 
 	aristocrats = {
@@ -622,24 +718,24 @@
 		size = 43650
 	}
 }
-#Khotan (88000/22000 POPS)
-1598 = {
+#Niya (88000/22000 POPS)
+3474 = {
 	aristocrats = {
 		culture = uighur
 		religion = sunni
-		size = 425
+		size = 200
 	}
 
 	clergymen = {
 		culture = uighur
 		religion = sunni
-		size = 225
+		size = 85
 	}
 
 	artisans = {
 		culture = uighur
 		religion = sunni
-		size = 1100
+		size = 200
 	}
 
 	soldiers = {
@@ -651,7 +747,129 @@
 	farmers = {
 		culture = uighur
 		religion = sunni
-		size = 20025
+		size = 7000
+	}
+	
+	aristocrats = {
+		culture = u_tsang
+		religion = mahayana
+		size = 25
+	}
+
+	clergymen = {
+		culture = u_tsang
+		religion = mahayana
+		size = 40
+	}
+
+	artisans = {
+		culture = u_tsang
+		religion = mahayana
+		size = 100
+	}
+
+	soldiers = {
+		culture = u_tsang
+		religion = mahayana
+		size = 225
+	}
+
+	farmers = {
+		culture = u_tsang
+		religion = mahayana
+		size = 1025
+	}
+}
+#Khotan (88000/22000 POPS)
+1598 = {
+	aristocrats = {
+		culture = uighur
+		religion = sunni
+		size = 200
+	}
+
+	clergymen = {
+		culture = uighur
+		religion = sunni
+		size = 85
+	}
+
+	artisans = {
+		culture = uighur
+		religion = sunni
+		size = 200
+	}
+
+	soldiers = {
+		culture = uighur
+		religion = sunni
+		size = 225
+	}
+
+	farmers = {
+		culture = uighur
+		religion = sunni
+		size = 7000
+	}
+	
+	aristocrats = {
+		culture = abdal
+		religion = shiite
+		size = 25
+	}
+
+	clergymen = {
+		culture = abdal
+		religion = shiite
+		size = 40
+	}
+
+	artisans = {
+		culture = abdal
+		religion = shiite
+		size = 100
+	}
+
+	soldiers = {
+		culture = abdal
+		religion = shiite
+		size = 225
+	}
+
+	farmers = {
+		culture = abdal
+		religion = shiite
+		size = 5025
+	}
+	
+	aristocrats = {
+		culture = khotani
+		religion = mahayana
+		size = 200
+	}
+
+	clergymen = {
+		culture = khotani
+		religion = mahayana
+		size = 200
+	}
+
+	artisans = {
+		culture = khotani
+		religion = mahayana
+		size = 4100
+	}
+
+	soldiers = {
+		culture = khotani
+		religion = mahayana
+		size = 225
+	}
+
+	farmers = {
+		culture = khotani
+		religion = mahayana
+		size = 5000
 	}
 }
 #Kumul (188000/47000 POPS)
@@ -957,7 +1175,13 @@
 	farmers = {
 		culture = uighur
 		religion = sunni
-		size = 4575
+		size = 3000
+	}
+	
+	farmers = {
+		culture = u_tsang
+		religion = mahayana
+		size = 1075
 	}
 
 	aristocrats = {
