@@ -2,4 +2,5 @@ owner = CLM
 controller = CLM
 add_core = CLM
 trade_goods = coffee
+terrain = dry_forest
 life_rating = 35

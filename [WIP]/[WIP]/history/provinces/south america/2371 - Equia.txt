@@ -4,3 +4,4 @@ add_core = DGT
 add_core = INC
 trade_goods = timber
 life_rating = 31
+terrain = mountain

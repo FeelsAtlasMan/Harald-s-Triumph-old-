@@ -2,6 +2,6 @@ owner = CCH
 controller = CCH
 add_core = CCH
 trade_goods = fruit
-terrain = dryhills
-life_rating = 35
+terrain = steppe
+life_rating = 25
 

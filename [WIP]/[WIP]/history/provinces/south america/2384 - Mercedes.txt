@@ -2,4 +2,4 @@ owner = MPC
 controller = MPC
 add_core = MPC
 trade_goods = cattle
-life_rating = 30
+life_rating = 32

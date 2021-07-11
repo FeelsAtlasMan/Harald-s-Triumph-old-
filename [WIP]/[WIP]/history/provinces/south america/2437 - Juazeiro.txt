@@ -1,6 +1,3 @@
-owner = TPB
-controller = TPB
-add_core = TPB
-trade_goods = tobacco
-terrain = new_world_semidesert
-life_rating = 25
+trade_goods = timber
+terrain = dry_forest
+life_rating = 32

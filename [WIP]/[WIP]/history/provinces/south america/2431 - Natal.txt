@@ -2,5 +2,5 @@ owner = BRZ
 controller = BRZ
 add_core = BRZ
 trade_goods = cotton
-terrain = savanna
-life_rating = 45
+terrain = dry_forest
+life_rating = 35

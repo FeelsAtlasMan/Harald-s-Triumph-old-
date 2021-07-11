@@ -341,6 +341,18 @@ spriteTypes = {
 	}
 	
 	spriteType = {
+		name = "GFX_terrainimg_dry_forest"
+		texturefile = "gfx\\interface\\terrain_dry_forest.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_high_plateau"
+		texturefile = "gfx\\interface\\terrain_high_plateau.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
 		name = "GFX_terrainimg_semidesert"
 		texturefile = "gfx\\interface\\terrain_semidesert.tga"
 		norefcount = yes

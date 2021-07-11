@@ -2,5 +2,6 @@ owner = CCH
 controller = CCH
 add_core = CCH
 trade_goods = grain
-life_rating = 35
+terrain = dry_forest
+life_rating = 32
 

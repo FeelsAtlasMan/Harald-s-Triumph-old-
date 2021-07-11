@@ -3,5 +3,5 @@ controller = QLS
 add_core = QLS
 add_core = INC
 trade_goods = cattle
-terrain = new_world_desert
-life_rating = 15
+terrain = dryhills
+life_rating = 25

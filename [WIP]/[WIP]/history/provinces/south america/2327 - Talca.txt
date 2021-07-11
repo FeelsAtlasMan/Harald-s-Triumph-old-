@@ -3,4 +3,4 @@ controller = MPC
 add_core = MPC
 trade_goods = grain
 terrain = montane_forest
-life_rating = 35
+life_rating = 40

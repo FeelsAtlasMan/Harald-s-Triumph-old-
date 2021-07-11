@@ -3061,6 +3061,18 @@ categories =  {
 		combat_width = -0.20
 	}
 	
+	dry_forest = {
+		movement_cost = 1.2
+		defence = 1
+		color = { 91 223 45 }
+		farm_rgo_size = 0.0
+		farm_rgo_eff = 0.0
+		mine_rgo_size = 0.0
+		mine_rgo_eff = 0.0
+		supply_limit = 6
+		combat_width = -0.20
+	}
+	
 	coastal_forest = {
 		movement_cost = 1.2
 		defence = 1
@@ -3197,6 +3209,22 @@ categories =  {
                 immigrant_attract = -0.5
 	}
 	
+	new_world_montane_tundra = {
+		movement_cost = 1.4
+		defence = 3
+		color = { 210 155 16 }	
+		farm_rgo_size = -0.2
+		farm_rgo_eff = 0.0
+		mine_rgo_size = 0.1
+		mine_rgo_eff = 0.0
+		supply_limit = 2
+		min_build_naval_base = 4
+		min_build_railroad = 4
+		min_build_fort = 1
+		immigrant_attract = -0.15
+		combat_width = -0.6
+	}
+	
 	montane_forest = {
 		movement_cost = 1.5
 		defence = 3
@@ -3241,7 +3269,6 @@ categories =  {
 		attrition = 1
 	}
 	
-	
 	coastal_desert = {
 		movement_cost = 1.2
 		color = { 208 156 0 }
@@ -3254,6 +3281,19 @@ categories =  {
 		min_build_railroad = 3
 		attrition = 1
 		immigrant_attract = -0.15
+	}
+	
+	high_plateau = {
+		movement_cost = 1.5
+		defence = 3
+		color = { 117 108 191 }
+		farm_rgo_size = -0.4
+		farm_rgo_eff = -0.2
+		mine_rgo_size = 0.0
+		mine_rgo_eff = 0.0
+		supply_limit = 8
+		combat_width = -0.70
+		min_build_railroad = 3
 	}
 	
 	oasis = {
@@ -3314,24 +3354,6 @@ categories =  {
 		min_build_railroad = 4
 		min_build_fort = 1
 		combat_width = -0.20
-	}
-
-	new_world_montane_tundra = {
-		movement_cost = 1.4
-		defence = 3
-		color = { 210 155 16 }
-		
-		farm_rgo_size = -10.8
-		farm_rgo_eff = -0.5
-		mine_rgo_size = -10.0
-		mine_rgo_eff = 0.0
-		
-		min_build_naval_base = 4
-		min_build_railroad = 4
-		min_build_fort = 1
-		immigrant_attract = -1.5
-		combat_width = -0.6
-		attrition = 2
 	}
 
 	new_world_arctic = {

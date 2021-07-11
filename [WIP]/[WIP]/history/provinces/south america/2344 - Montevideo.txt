@@ -3,5 +3,5 @@ controller = BAH
 add_core = BAH
 trade_goods = cattle
 life_rating = 38
-terrain = montevideo
+terrain = plains
 naval_base = 1

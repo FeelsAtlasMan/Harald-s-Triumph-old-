@@ -3,4 +3,5 @@ controller = QLS
 add_core = QLS
 add_core = INC
 trade_goods = wool
-life_rating = 35
+life_rating = 32
+terrain = mountain

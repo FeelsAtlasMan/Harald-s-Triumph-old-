@@ -1338,18 +1338,18 @@ ACM;Atacama;x
 ACM_ADJ;Atacaman;x
 QLW;Qalwu Federation;x
 QLW_ADJ;Qalwuyi;x
-TPB;Tupinamba;x
-TPB_ADJ;Tupinamba;x
+TPB;Tamo Federation;x
+TPB_ADJ;Tupi;x
 ABP;Abipon;x
 ABP_ADJ;Abipon;x
 HLC;Huilliches;x
 HLC_ADJ;Huilliches;x
 CQT;Tarapecosi;x
 CQT_ADJ;Tarapecosi;x
-CCH;Comechingon;x
-CCH_ADJ;Comechingon;x
-HRB;al-Haribun;x
-HRB_ADJ;Haribun;x
+CCH;Kamichingan;x
+CCH_ADJ;Kamichingan;x
+HRB;al-Haribin;x
+HRB_ADJ;Haribin;x
 MRA;Mura;x
 MRA_ADJ;Mura;x
 KKR;Kuikuro;x
@@ -1410,14 +1410,14 @@ GUY_ADJ;Tufunawan;;;;;;;;;;;;;x
 GUY_conservative;Hizb al-Muhafizin;;;;;;;;;;;;;x
 GUY_liberal;Hizb al-Liybiraliu;;;;;;;;;;;;;x
 GUY_socialist;Hizb Al Aishtirakiu;;;;;;;;;;;;;x
-GUY_communist;Hizb al Shuyueiu;;;;;;;;;;;;;x
-GUY_reactionary;Hizb Rijei;;;;;;;;;;;;;x
+GUY_communist;Hizb al Shuyu'iu;;;;;;;;;;;;;x
+GUY_reactionary;Hizb Rij'i;;;;;;;;;;;;;x
 GUY_anarcho_liberal;Hizb Libiraliin Radikaliun;;;;;;;;;;;;;x
 GUY_fascist;Hizb Fashi;;;;;;;;;;;;;
 PNB;al-Humr;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PNB_ADJ;Humri;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 CLM;Sallia;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-CLM_colonial_company;New Aquitane;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+CLM_colonial_company;New Aquitania;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 CLM_ADJ;Sallian;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PRG;Mbaya;;;;;;;;;;;x;
 PRG_proletarian_dictatorship;Mbaya;;;;;;;;;;;;;x;

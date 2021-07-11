@@ -1,6 +1,6 @@
 owner = ABP
 controller = ABP
 add_core = ABP
-trade_goods = timber
-terrain = savanna
-life_rating = 35
+trade_goods = cattle
+terrain = dry_forest
+life_rating = 32

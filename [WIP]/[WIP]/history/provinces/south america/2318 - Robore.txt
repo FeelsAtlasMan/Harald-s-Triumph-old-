@@ -1,7 +1,7 @@
 owner = CQT
 controller = CQT
-add_core = CQT
-trade_goods = wool
-terrain = savanna
-life_rating = 31
+add_core = CQT
+trade_goods = wool
+terrain = dry_forest
+life_rating = 32
 

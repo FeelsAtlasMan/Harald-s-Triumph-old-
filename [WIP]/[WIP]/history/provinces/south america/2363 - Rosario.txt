@@ -2,4 +2,6 @@ owner = HRB
 controller = HRB
 add_core = HRB
 trade_goods = cattle
-life_rating = 35
+life_rating = 30
+terrain = steppe
+

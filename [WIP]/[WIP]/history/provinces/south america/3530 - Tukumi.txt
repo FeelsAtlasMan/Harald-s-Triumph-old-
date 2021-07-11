@@ -3,4 +3,5 @@ controller = CHM
 add_core = CHM
 add_core = INC
 trade_goods = cotton
+terrain = farmlands
 life_rating = 35

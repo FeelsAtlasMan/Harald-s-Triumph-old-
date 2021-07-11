@@ -1,3 +1,6 @@
-terrain = new_world_jungle
+owner = CLM
+controller = CLM
+add_core = CLM
+terrain = dry_forest
 trade_goods = tropical_wood
-life_rating = 15
+life_rating = 32

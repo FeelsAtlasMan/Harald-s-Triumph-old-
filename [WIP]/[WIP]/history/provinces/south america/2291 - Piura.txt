@@ -3,5 +3,5 @@ controller = CHM
 add_core = CHM
 add_core = INC
 trade_goods = grain
-terrain = new_world_semidesert
+terrain = farmlands
 life_rating = 35

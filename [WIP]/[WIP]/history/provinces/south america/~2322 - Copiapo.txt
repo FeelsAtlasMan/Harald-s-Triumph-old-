@@ -1,0 +1,7 @@
+owner = ACM
+controller = ACM
+add_core = ACM
+trade_goods = iron
+terrain = dryhills
+life_rating = 35
+
