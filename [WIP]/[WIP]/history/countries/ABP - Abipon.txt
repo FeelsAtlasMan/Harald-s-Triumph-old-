@@ -1,7 +1,6 @@
-capital = 2379
-primary_culture = comechingon
-culture = huarpe
-culture = sanaviron
+capital = 2362
+primary_culture = abipon
+culture = wichi
 religion = animist
 government = tribal_confederation
 nationalvalue = nv_tradition
@@ -142,4 +141,4 @@ upper_house = {
 consciousness = 2
 nonstate_consciousness = 0
 
-oob = "CCH_oob.txt"
+oob = "ABP_oob.txt"

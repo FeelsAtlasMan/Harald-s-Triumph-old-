@@ -1,8 +1,6 @@
 capital = 2379
-primary_culture = comechingon
-culture = huarpe
-culture = sanaviron
-religion = animist
+primary_culture = tarapecosi
+religion = inti
 government = tribal_confederation
 nationalvalue = nv_tradition
 literacy = 0.01
@@ -37,7 +35,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies 
 
-set_country_flag = animist_country
+set_country_flag = inti_country
 
 #Unciv Reforms
 #monetary_reform = yes_monetary_reform #Currency

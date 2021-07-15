@@ -1,7 +1,8 @@
-capital = 2379
-primary_culture = comechingon
-culture = huarpe
-culture = sanaviron
+capital = 2421
+primary_culture = afro_je
+culture = shakriaba
+culture = acroa
+culture = shavanate
 religion = animist
 government = tribal_confederation
 nationalvalue = nv_tradition
@@ -125,7 +126,7 @@ flintlock_rifles = 1 #Foreign Weapons
 #bronze_muzzle_loaded_artillery = 1 #Artillery
 #iron_muzzle_loaded_artillery = 1
 
-ruling_party = "Conservatives"
+ruling_party = "Tribal Council"
 upper_house = {
 	fascist = 0
 	liberal = 29
@@ -142,4 +143,4 @@ upper_house = {
 consciousness = 2
 nonstate_consciousness = 0
 
-oob = "CCH_oob.txt"
+oob = "QLW_oob.txt"

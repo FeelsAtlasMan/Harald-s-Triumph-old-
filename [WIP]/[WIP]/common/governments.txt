@@ -125,6 +125,20 @@ democracy = {
 	flagType = republic
 }
 
+tribal_confederation = {
+	liberal = yes
+	socialist = yes
+	conservative = yes
+	reactionary = yes
+	anarcho_liberal = yes
+	
+	
+	election = yes
+	duration = 96
+	appoint_ruling_party = yes
+	flagType = monarchy
+}
+
 federal_democracy = {
 	liberal = yes
 	socialist = yes

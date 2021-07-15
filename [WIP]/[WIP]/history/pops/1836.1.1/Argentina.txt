@@ -1974,61 +1974,61 @@
 2384 = {
 	clergymen = {
 		culture = pewenche
-		religion = animist
+		religion = inti
 		size = 100
 	}
 
 	soldiers = {
 		culture = pewenche
-		religion = animist
+		religion = inti
 		size = 500
 	}
 
 	farmers = {
 		culture = pewenche
-		religion = animist
+		religion = inti
 		size = 9600
 	}
 	
 	clergymen = {
 		culture = chiquiyan
-		religion = animist
+		religion = inti
 		size = 100
 	}
 
 	soldiers = {
 		culture = chiquiyan
-		religion = animist
+		religion = inti
 		size = 500
 	}
 
 	farmers = {
 		culture = chiquiyan
-		religion = animist
+		religion = inti
 		size = 6100
 	}
 
 	aristocrats = {
 		culture = huarpe
-		religion = animist
+		religion = inti
 		size = 40
 	}
 
 	clergymen = {
 		culture = huarpe
-		religion = animist
+		religion = inti
 		size = 100
 	}
 
 	soldiers = {
 		culture = huarpe
-		religion = animist
+		religion = inti
 		size = 500
 	}
 
 	farmers = {
 		culture = huarpe
-		religion = animist
+		religion = inti
 		size = 3000
 	}
 }
@@ -2107,26 +2107,32 @@
 #San Juan de la Frontera (12000/3000 POPS)
 2387 = {
 	aristocrats = {
-		culture = huarpe
-		religion = animist
+		culture = quechua
+		religion = inti
 		size = 100
 	}
 
 	clergymen = {
-		culture = huarpe
-		religion = animist
+		culture = quechua
+		religion = inti
 		size = 300
 	}
 
 	soldiers = {
-		culture = huarpe
-		religion = animist
+		culture = quechua
+		religion = inti
 		size = 300
+	}
+	
+	farmers = {
+		culture = quechua
+		religion = inti
+		size = 1000
 	}
 
 	farmers = {
 		culture = huarpe
-		religion = animist
+		religion = inti
 		size = 8000
 	}
 }
@@ -2161,50 +2167,56 @@
 #Mendoza (12000/3000 POPS)
 2389 = {
 	aristocrats = {
-		culture = huarpe
-		religion = animist
+		culture = quechua
+		religion = inti
 		size = 150
 	}
 
 	clergymen = {
-		culture = huarpe
-		religion = animist
+		culture = quechua
+		religion = inti
 		size = 225
 	}
 
 	soldiers = {
-		culture = huarpe
-		religion = animist
+		culture = quechua
+		religion = inti
 		size = 600
+	}
+	
+	farmers = {
+		culture = quechua
+		religion = inti
+		size = 180
 	}
 
 	farmers = {
 		culture = huarpe
-		religion = animist
-		size = 6180
+		religion = inti
+		size = 7000
 	}
 
 	aristocrats = {
 		culture = chiquiyan
-		religion = animist
+		religion = inti
 		size = 50
 	}
 
 	clergymen = {
 		culture = chiquiyan
-		religion = animist
+		religion = inti
 		size = 75
 	}
 
 	soldiers = {
 		culture = chiquiyan
-		religion = animist
+		religion = inti
 		size = 200
 	}
 
 	farmers = {
 		culture = chiquiyan
-		religion = animist
+		religion = inti
 		size = 2060
 	}
 }
@@ -2263,25 +2275,25 @@
 
 	aristocrats = {
 		culture = pewenche
-		religion = animist
+		religion = inti
 		size = 25
 	}
 
 	clergymen = {
 		culture = pewenche
-		religion = animist
+		religion = inti
 		size = 50
 	}
 
 	soldiers = {
 		culture = pewenche
-		religion = animist
+		religion = inti
 		size = 125
 	}
 
 	farmers = {
 		culture = pewenche
-		religion = animist
+		religion = inti
 		size = 3400
 	}
 }

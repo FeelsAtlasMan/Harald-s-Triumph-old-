@@ -370,85 +370,85 @@
 2324 = {
 	aristocrats = {
 		culture = picunche
-		religion = animist
+		religion = inti
 		size = 1400
 	}
 
 	bureaucrats = {
 		culture = picunche
-		religion = animist
+		religion = inti
 		size = 450
 	}
 
 	officers = {
 		culture = picunche
-		religion = animist
+		religion = inti
 		size = 150
 	}
 
 	clergymen = {
 		culture = picunche
-		religion = animist
+		religion = inti
 		size = 800
 	}
 
 	artisans = {
 		culture = picunche
-		religion = animist
+		religion = inti
 		size = 7000
 	}
 
 	soldiers = {
 		culture = picunche
-		religion = animist
+		religion = inti
 		size = 6000
 	}
 
 	farmers = {
 		culture = picunche
-		religion = animist
+		religion = inti
 		size = 60000
 	}
 	
 	aristocrats = {
 		culture = mapuche
-		religion = animist
+		religion = inti
 		size = 800
 	}
 
 	bureaucrats = {
 		culture = mapuche
-		religion = animist
+		religion = inti
 		size = 50
 	}
 
 	officers = {
 		culture = mapuche
-		religion = animist
+		religion = inti
 		size = 25
 	}
 
 	clergymen = {
 	    culture = mapuche
-		religion = animist
+		religion = inti
 		size = 250
 	}
 
 	artisans = {
 		culture = mapuche
-		religion = animist
+		religion = inti
 		size = 500
 	}
 
 	soldiers = {
 		culture = mapuche
-		religion = animist
+		religion = inti
 		size = 1000
 	}
 
 	farmers = {
 		culture = mapuche
-		religion = animist
+		religion = inti
 		size = 9775
 	}
 }
@@ -456,84 +456,66 @@
 2325 = {
 	aristocrats = {
 		culture = picunche
-		religion = animist
+		religion = inti
 		size = 500
 	}
 
 	clergymen = {
 		culture = picunche
-		religion = animist
+		religion = inti
 		size = 255
 	}
 
 	artisans = {
 		culture = picunche
-		religion = animist
+		religion = inti
 		size = 1800
 	}
 
 	soldiers = {
 		culture = picunche
-		religion = animist
+		religion = inti
 		size = 1100
 	}
 
 	farmers = {
 		culture = picunche
-		religion = animist
+		religion = inti
 		size = 43000
 	}
 	
 	aristocrats = {
 		culture = mapuche
-		religion = animist
+		religion = inti
 		size = 175
 	}
 
 	clergymen = {
 		culture = mapuche
-		religion = animist
+		religion = inti
 		size = 75
 	}
 
 	artisans = {
 		culture = mapuche
-		religion = animist
+		religion = inti
 		size = 200
 	}
 
 	soldiers = {
 		culture = mapuche
-		religion = animist
+		religion = inti
 		size = 300
 	}
 
 	farmers = {
 		culture = mapuche
-		religion = animist
+		religion = inti
 		size = 18000
 	}
 }
 #Vina del Mar (72000/18000 POPS)
 2326 = {
-	aristocrats = {
-		culture = picunche
-		religion = inti
-		size = 375
-	}
-
-	clergymen = {
-		culture = picunche
-		religion = inti
-		size = 175
-	}
-
-	artisans = {
-		culture = picunche
-		religion = inti
-		size = 900
-	}
-
 	soldiers = {
 		culture = picunche
 		religion = inti
@@ -543,13 +525,31 @@
 	farmers = {
 		culture = picunche
 		religion = inti
-		size = 5550
+		size = 30000
+	}
+	
+	aristocrats = {
+		culture = quechua
+		religion = inti
+		size = 375
 	}
 
+	clergymen = {
+		culture = quechua
+		religion = inti
+		size = 175
+	}
+
+	artisans = {
+		culture = quechua
+		religion = inti
+		size = 900
+	}
+	
 	farmers = {
-		culture = picunche
-		religion = animist
-		size = 30000
+		culture = quechua
+		religion = inti
+		size = 5550
 	}
 	
 	aristocrats = {
@@ -586,31 +586,31 @@
 2327 = {
 	aristocrats = {
 		culture = mapuche
-		religion = animist
+		religion = inti
 		size = 1250
 	}
 
 	clergymen = {
 		culture = mapuche
-		religion = animist
+		religion = inti
 		size = 500
 	}
 
 	artisans = {
 		culture = mapuche
-		religion = animist
+		religion = inti
 		size = 2500
 	}
 
 	soldiers = {
 		culture = mapuche
-		religion = animist
+		religion = inti
 		size = 4050
 	}
 
 	farmers = {
 		culture = mapuche
-		religion = animist
+		religion = inti
 		size = 70300
 	}
 }
@@ -620,73 +620,73 @@
 2328 = {
 	aristocrats = {
 		culture = huilliche
-		religion = animist
+		religion = inti
 		size = 1050
 	}
 
 	bureaucrats = {
 		culture = huilliche
-		religion = animist
+		religion = inti
 		size = 150
 	}
 
 	officers = {
 		culture = huilliche
-		religion = animist
+		religion = inti
 		size = 150
 	}
 
 	clergymen = {
 		culture = huilliche
-		religion = animist
+		religion = inti
 		size = 525
 	}
 
 	artisans = {
 		culture = huilliche
-		religion = animist
+		religion = inti
 		size = 2550
 	}
 
 	soldiers = {
 		culture = huilliche
-		religion = animist
+		religion = inti
 		size = 3300
 	}
 
 	farmers = {
 		culture = huilliche
-		religion = animist
+		religion = inti
 		size = 33650
 	}
 
 	aristocrats = {
 		culture = mapuche
-		religion = animist
+		religion = inti
 		size = 300
 	}
 
 	clergymen = {
 		culture = mapuche
-		religion = animist
+		religion = inti
 		size = 150
 	}
 
 	artisans = {
 		culture = mapuche
-		religion = animist
+		religion = inti
 		size = 900
 	}
 
 	soldiers = {
 		culture = mapuche
-		religion = animist
+		religion = inti
 		size = 1000
 	}
 
 	farmers = {
 		culture = mapuche
-		religion = animist
+		religion = inti
 		size = 10425
 	}
 }
@@ -694,31 +694,31 @@
 2329 = {
 	aristocrats = {
 		culture = mapuche
-		religion = animist
+		religion = inti
 		size = 750
 	}
 
 	clergymen = {
 		culture = mapuche
-		religion = animist
+		religion = inti
 		size = 300
 	}
 
 	artisans = {
 		culture = mapuche
-		religion = animist
+		religion = inti
 		size = 1500
 	}
 
 	soldiers = {
 		culture = mapuche
-		religion = animist
+		religion = inti
 		size = 2000
 	}
 
 	farmers = {
 		culture = mapuche
-		religion = animist
+		religion = inti
 		size = 53300
 	}
 }
@@ -726,31 +726,31 @@
 2330 = {
 	aristocrats = {
 		culture = mapuche
-		religion = animist
+		religion = inti
 		size = 1350
 	}
 
 	clergymen = {
 		culture = mapuche
-		religion = animist
+		religion = inti
 		size = 750
 	}
 
 	artisans = {
 		culture = mapuche
-		religion = animist
+		religion = inti
 		size = 4850
 	}
 
 	soldiers = {
 		culture = mapuche
-		religion = animist
+		religion = inti
 		size = 4400
 	}
 
 	farmers = {
 		culture = mapuche
-		religion = animist
+		religion = inti
 		size = 58600
 	}
 }
@@ -758,31 +758,31 @@
 2331 = {
 	aristocrats = {
 		culture = mapuche
-		religion = animist
+		religion = inti
 		size = 2100
 	}
 
 	clergymen = {
 		culture = mapuche
-		religion = animist
+		religion = inti
 		size = 900
 	}
 
 	artisans = {
 		culture = mapuche
-		religion = animist
+		religion = inti
 		size = 4200
 	}
 
 	soldiers = {
 		culture = mapuche
-		religion = animist
+		religion = inti
 		size = 6000
 	}
 
 	farmers = {
 		culture = mapuche
-		religion = animist
+		religion = inti
 		size = 75900
 	}
 }
@@ -792,43 +792,43 @@
 2332 = {
 	aristocrats = {
 		culture = huilliche
-		religion = animist
+		religion = inti
 		size = 1100
 	}
 
 	bureaucrats = {
 		culture = huilliche
-		religion = animist
+		religion = inti
 		size = 60
 	}
 
 	officers = {
 		culture = huilliche
-		religion = animist
+		religion = inti
 		size = 40
 	}
 
 	clergymen = {
 		culture = huilliche
-		religion = animist
+		religion = inti
 		size = 500
 	}
 
 	artisans = {
 		culture = huilliche
-		religion = animist
+		religion = inti
 		size = 2600
 	}
 
 	soldiers = {
 		culture = huilliche
-		religion = animist
+		religion = inti
 		size = 1000
 	}
 
 	farmers = {
 		culture = huilliche
-		religion = animist
+		religion = inti
 		size = 47200
 	}
 	
@@ -898,7 +898,7 @@
 	
 	farmers = {
 		culture = huilliche
-		religion = animist
+		religion = inti
 		size = 800
 	}
 }

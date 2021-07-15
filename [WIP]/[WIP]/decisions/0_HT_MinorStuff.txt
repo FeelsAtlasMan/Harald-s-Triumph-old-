@@ -1,0 +1,18 @@
+#political_decisions = {
+#	
+#	reform_the_gov = {
+#		picture = hundred_days_reform
+#		potential = {
+#			government = tribal_confederation
+#		}
+#		allow = {
+#			civilized = yes
+#		}
+#		effect = {
+#			government = absolute_monarchy
+#			remove_school = unciv_tech_school
+#			prestige = 5
+#		}
+#		ai_will_do = { factor = 1 }
+#	}
+#}

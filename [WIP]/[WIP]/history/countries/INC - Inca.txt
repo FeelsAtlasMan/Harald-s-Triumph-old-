@@ -15,7 +15,7 @@ non_state_culture_literacy = 0.02
 prestige = 20
 
 # Political reforms
-slavery = yes_slavery
+slavery = no_slavery
 upper_house_composition = appointed
 vote_franschise = none_voting
 public_meetings = no_meeting
@@ -57,7 +57,7 @@ upper_house = {
 }
 
 
-Unciv Reforms
+#Unciv Reforms
 monetary_reform = yes_monetary_reform #Currency
 #monetary_reform = monetary_reform_two
 #research_reform = yes_education_reform #Universities 
