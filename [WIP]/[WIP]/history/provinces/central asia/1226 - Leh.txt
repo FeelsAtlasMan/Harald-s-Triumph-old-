@@ -1,7 +1,6 @@
-owner = PNJ
-controller = PNJ
-add_core = PNJ
-add_core = KAS
+owner = TIB
+controller = TIB
+add_core = TIB
 add_core = LAD
 trade_goods = wool
 life_rating = 30

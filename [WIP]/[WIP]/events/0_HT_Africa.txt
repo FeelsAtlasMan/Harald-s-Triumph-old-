@@ -224,7 +224,7 @@ country_event = {
 		prestige = 20
 		
         inherit = WDD
-        WDD = { all_core { add_core = THIS } }
+        WDD = { all_core = { add_core = THIS } }
 		ai_chance = { factor = 100 }
 	}
 }

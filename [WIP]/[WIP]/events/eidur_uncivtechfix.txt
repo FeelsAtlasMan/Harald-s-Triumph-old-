@@ -54,7 +54,7 @@ country_event = {
 	
 	trigger = {
 		civilized = no
-		foreign_training = foreign_artillery_two
+		foreign_artillery = foreign_artillery_two
 		NOT = { has_country_flag = foreign_artillery2_flag }
 	}
 	
@@ -621,6 +621,7 @@ country_event = {
 	option = {
 		name = "Ok"
 		clr_country_flag = nu2_flag
+		activate_technology = clipper_design
 		activate_technology = steamers
 	}
 }
@@ -710,6 +711,7 @@ country_event = {
 	option = {
 		name = "Ok"
 		clr_country_flag = shipyards2_flag
+		activate_technology = post_nelsonian_thought
 		activate_technology = battleship_column_doctrine
 	}
 }
@@ -718,12 +720,12 @@ country_event = {
 country_event = {
 	id = 999025
 	title = "Tech reform flag"
-	desc = "Naval Academies Established"
+	desc = "Naval Schools Established"
 	picture = "Unite"
 	
 	trigger = {
 		civilized = no
-		naval_schools = naval_schools_two
+		naval_schools = naval_schools
 		NOT = { has_country_flag = nsch_flag }
 	}
 	
@@ -740,7 +742,7 @@ country_event = {
 country_event = {
 	id = 999026
 	title = "Tech activation"
-	desc = "Naval Academies Activated"
+	desc = "Naval Schools Activated"
 	picture = "Unite"
 	
 	trigger = {
@@ -755,6 +757,50 @@ country_event = {
 	option = {
 		name = "Ok"
 		clr_country_flag = nsch_flag
+		activate_technology = the_command_principle
+	}
+}
+
+country_event = {
+	id = 9990252
+	title = "Tech reform flag"
+	desc = "Naval Academies Established"
+	picture = "Unite"
+	
+	trigger = {
+		civilized = no
+		naval_schools = naval_schools_two
+		NOT = { has_country_flag = nsch_flag_two }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "Ok"
+		set_country_flag = nsch_flag_two
+	}
+}
+
+country_event = {
+	id = 9990262
+	title = "Tech activation"
+	desc = "Naval Academies Activated"
+	picture = "Unite"
+	
+	trigger = {
+		civilized = yes
+		has_country_flag = nsch_flag_two
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "Ok"
+		clr_country_flag = nsch_flag_two
 		activate_technology = the_command_principle
 		activate_technology = naval_professionalism
 	}
@@ -1114,6 +1160,7 @@ country_event = {
 		name = "Ok"
 		clr_country_flag = edu2_flag
 		activate_technology = medicine
+		#activate_technology = aerial_bacteria_and_antiseptic_principle giving inventions this way does nothing :(
 	}
 }
 
@@ -1257,7 +1304,7 @@ country_event = {
 	
 	trigger = {
 		civilized = no
-		pre_indust = yes_industrial_construction
+		pre_indust = yes_pre_indust
 		NOT = { has_country_flag = earlyid2_flag }
 	}
 	
@@ -1301,7 +1348,7 @@ country_event = {
 	
 	trigger = {
 		civilized = no
-		industrial_construction = yes_western_science
+		research_reform = yes_education_reform
 		NOT = { has_country_flag = indc_flag }
 	}
 	
@@ -1555,6 +1602,7 @@ country_event = {
 	option = {
 		name = "Ok"
 		clr_country_flag = currency2_flag
+		activate_technology = early_classical_theory_and_critique
 		activate_technology = late_classical_theory
 	}
 }

@@ -1,0 +1,72 @@
+#The Mapuche Exodus
+country_event = {
+        id = 690000
+        title = "The Mapuche Exodus"
+        desc = "EVTDESC690000"
+        picture = "kazan_refugees"
+        
+        fire_only_once = yes
+        trigger = {
+                    tag = INC
+                    NOT = { exists = MPC }
+					NOT = { exists = HLC }
+        }
+	
+        option = {
+		    name = "EVT690000OPTA"
+	        2391 = { 
+		       secede_province = INC
+		       add_core = MPC
+		    }
+		    2397 = { 
+		       secede_province = INC
+		       add_core = MPC
+		    }
+		    2394 = { 
+		       secede_province = INC
+		       add_core = MPC
+		    }
+		    2392 = { 
+		       secede_province = INC
+		       add_core = MPC
+		    }
+			2355 = { 
+		       secede_province = INC
+		       add_core = MPC
+		    }
+		    2395 = { 
+		       secede_province = INC
+		       add_core = MPC
+		    }
+		    1190 = { 
+		       any_pop = {
+		       limit = {
+		         has_pop_culture = kirgiz
+		       }
+		       move_pop = 1184
+		    }
+		    remove_core = KML
+		    }
+		    2328 = { 	    
+			   any_pop = {
+		       limit = {
+		         has_pop_culture = mapuche
+				 has_pop_type = solider
+		       }
+		       move_pop = 2611
+		    }
+		    remove_core = KML
+		    }
+		    1186 = { 	    
+			   any_pop = {
+		       limit = {
+		         has_pop_culture = kirgiz
+		       }
+		       move_pop = 2611
+		    }
+		    remove_core = KML
+		    }
+		    release = KML
+		    ai_chance = { factor = 100 }
+	    }
+}

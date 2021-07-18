@@ -150,7 +150,7 @@ IS_ACCEPTED_CULTURE_POP;belong to a national language.\n;;;;;;;;;;;;;x;
 COUNTRY_IS_NOT_CULTURE;Official Language is NOT;;;;;;;;;;;;x;
 COUNTRY_IS_CULTURE;Official Language is;;;;;;;;;;;;;x;
 IS_NOT_PRIMARY_CULTURE;§Y$NAME$§W is NOT our official language.\n;;;;;;;;;;;;;x;
-IS_PRIMARY_CULTURE;§Y$NAME$§W is primary our official language.\n;;;;;;;;;;;;;x;
+IS_PRIMARY_CULTURE;§Y$NAME$§W is our primary or official language.\n;;;;;;;;;;;;;x;
 IS_NOT_ACCEPTED_CULTURE2;§Y$NAME$§W is NOT a national language.\n;;;;;;;;;;;;;x;
 IS_ACCEPTED_CULTURE2;§Y$NAME$§W is a national language.\n;;;;;;;;;;;;;x;
 american_cultures;American Languages;;;;;;;;;;;;;x;
@@ -160,7 +160,7 @@ limited_citizenship_desc;Only people of your nation's official and national lang
 CULTURE_IS_NOT;Language is NOT;;;;;;;;;;;;x;;;
 CULTURE_IS;Language is;;;;;;;;;;;;x;;;
 SET_PRIMARY_CULTURE;§Y$CULTURE$§W set to our official language.\n;;;;;;;;;;;;;x
-DIPLOMACY_PRIMARYCULTURE_DESC;The official language represents the language of administration, prestige and cross-cultural communication;La culture principale correspond aux citoyens de première classe de notre pays.;Die Primärkultur repräsentiert den Teil unserer Bevölkerung, die als Bürger erster Klasse gelten.;;La cultura principal representa a los ciudadanos de primera clase de nuestro país.;;;;;;;;;x
+DIPLOMACY_PRIMARYCULTURE_DESC;The official language represents the language of administration, prestige and cross-cultural communication within our nation;La culture principale correspond aux citoyens de première classe de notre pays.;Die Primärkultur repräsentiert den Teil unserer Bevölkerung, die als Bürger erster Klasse gelten.;;La cultura principal representa a los ciudadanos de primera clase de nuestro país.;;;;;;;;;x
 DIPLOMACY_ACCEPTEDCULTURE_DESC;Our national language(s) represent languages or dialects that have an official and protected status within our nation;;;;;;;;;;;;;x
 LEDGER_PROVINCE_CULTURE;Language;;;;;;;;;;;;;x;;;;
 POP_CULTURE;Language;;;;;;;;;;;;;x;;;;
