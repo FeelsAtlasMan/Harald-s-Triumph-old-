@@ -1,6 +1,6 @@
-owner = MPC
-controller = MPC
-add_core = MPC
+owner = CCH
+controller = CCH
+add_core = CCH
 trade_goods = fruit
 terrain = dryhills
 life_rating = 32

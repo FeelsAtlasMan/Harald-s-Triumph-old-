@@ -3,354 +3,317 @@
 #Balboa (12000/3000 POPS)
 1723 = {
 	aristocrats = {
-		culture = central_american
+		culture = cuna 
 		religion = catholic
 		size = 20
 	}
 
 	clergymen = {
-		culture = central_american
+		culture = cuna 
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = central_american
+		culture = cuna 
 		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
-		culture = central_american
+		culture = cuna 
 		religion = catholic
 		size = 10
 	}
 
 	farmers = {
-		culture = central_american
+		culture = cuna 
 		religion = catholic
 		size = 895
 	}
+	
+	farmers = {
+		culture = cuna 
+		religion = animist
+		size = 2895
+	}
 
 	clergymen = {
-		culture = afro_antillean
+		culture = choco
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = afro_antillean
+		culture = choco
 		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
-		culture = afro_antillean
+		culture = choco
 		religion = catholic
 		size = 25
 	}
 
 	farmers = {
-		culture = afro_antillean
+		culture = choco
 		religion = catholic
-		size = 1325
+		size = 225
 	}
-
-	slaves = {
-		culture = afro_antillean
-		religion = catholic
-		size = 500
+	
+	farmers = {
+		culture = choco
+		religion = animist
+		size = 425
 	}
 }
 
 #Panama City (52000/13000 POPS)
 2204 = {
-	aristocrats = {
+    aristocrats = {
 		culture = central_american
 		religion = catholic
-		size = 225
+		size = 400
 	}
 
 	bureaucrats = {
 		culture = central_american
 		religion = catholic
-		size = 25
+		size = 100
 	}
 
 	officers = {
 		culture = central_american
 		religion = catholic
-		size = 50
+		size = 200
 	}
-
-	clergymen = {
-		culture = central_american
+	
+	aristocrats = {
+		culture = cuna
 		religion = catholic
 		size = 100
 	}
 
-	artisans = {
-		culture = central_american
+	clergymen = {
+		culture = cuna
 		religion = catholic
-		size = 450
+		size = 400
+	}
+
+	artisans = {
+		culture = cuna
+		religion = catholic
+		size = 1800
 	}
 
 	soldiers = {
-		culture = central_american
+		culture = cuna
 		religion = catholic
-		size = 100
+		size = 400
 	}
 
 	farmers = {
-		culture = central_american
+		culture = cuna
 		religion = catholic
-		size = 8050
+		size = 2050
+	}
+	
+	farmers = {
+		culture = cuna
+		religion = animist
+		size = 60050
 	}
 
 	clergymen = {
-		culture = afro_antillean
+		culture = choco
 		religion = catholic
-		size = 75
+		size = 300
 	}
 
 	artisans = {
-		culture = afro_antillean
+		culture = choco
+		religion = catholic
+		size = 800
+	}
+
+	soldiers = {
+		culture = choco
 		religion = catholic
 		size = 200
 	}
 
-	soldiers = {
-		culture = afro_antillean
+	farmers = {
+		culture = choco
 		religion = catholic
-		size = 50
+		size = 5140
 	}
 
 	farmers = {
-		culture = afro_antillean
-		religion = catholic
-		size = 2675
-	}
-
-	slaves = {
-		culture = afro_antillean
-		religion = catholic
-		size = 1100
+		culture = choco
+		religion = animist
+		size = 21100
 	}
 }
 #David (28000/7000 POPS)
 2205 = {
 	aristocrats = {
-		culture = central_american
+		culture = waimi
+		religion = catholic
+		size = 350
+	}
+
+	clergymen = {
+		culture = waimi
 		religion = catholic
 		size = 150
 	}
 
-	clergymen = {
-		culture = central_american
-		religion = catholic
-		size = 50
-	}
-
 	artisans = {
-		culture = central_american
+		culture = waimi
 		religion = catholic
 		size = 300
 	}
 
 	soldiers = {
-		culture = central_american
+		culture = waimi
 		religion = catholic
-		size = 75
+		size = 725
 	}
 
 	farmers = {
-		culture = central_american
+		culture = waimi
 		religion = catholic
 		size = 5375
 	}
+	
+	farmers = {
+		culture = waimi
+		religion = animist
+		size = 50000
+	}
 
 	clergymen = {
-		culture = afro_antillean
-		religion = catholic
+		culture = chibcha_minor
+		religion = animist
 		size = 20
 	}
 
 	artisans = {
-		culture = afro_antillean
-		religion = catholic
-		size = 50
+		culture = chibcha_minor
+		religion = animist
+		size = 150
 	}
 
 	soldiers = {
-		culture = afro_antillean
-		religion = catholic
-		size = 10
+		culture = chibcha_minor
+		religion = animist
+		size = 100
 	}
 
 	farmers = {
-		culture = afro_antillean
-		religion = catholic
-		size = 670
-	}
-
-	slaves = {
-		culture = afro_antillean
-		religion = catholic
-		size = 250
+		culture = chibcha_minor
+		religion = animist
+		size = 8670
 	}
 }
 #Penonome (24000/6000 POPS)
 2206 = {
 	aristocrats = {
-		culture = central_american
+		culture = waimi
 		religion = catholic
-		size = 150
+		size = 450
 	}
 
 	clergymen = {
-		culture = central_american
-		religion = catholic
-		size = 50
-	}
-
-	artisans = {
-		culture = central_american
+		culture = waimi
 		religion = catholic
 		size = 250
 	}
 
-	soldiers = {
-		culture = central_american
+	artisans = {
+		culture = waimi
 		religion = catholic
-		size = 50
+		size = 1250
+	}
+
+	soldiers = {
+		culture = waimi
+		religion = catholic
+		size = 950
 	}
 
 	farmers = {
-		culture = central_american
+		culture = waimi
 		religion = catholic
 		size = 4500
 	}
-
-	clergymen = {
-		culture = afro_antillean
-		religion = catholic
-		size = 20
-	}
-
-	artisans = {
-		culture = afro_antillean
-		religion = catholic
-		size = 50
-	}
-
-	soldiers = {
-		culture = afro_antillean
-		religion = catholic
-		size = 10
-	}
-
+	
 	farmers = {
-		culture = afro_antillean
-		religion = catholic
-		size = 670
-	}
-
-	slaves = {
-		culture = afro_antillean
-		religion = catholic
-		size = 250
+		culture = waimi
+		religion = animist
+		size = 50000
 	}
 }
 #Yaviza (12000/3000 POPS)
 2208 = {
 	aristocrats = {
-		culture = central_american
+		culture = choco
 		religion = catholic
-		size = 20
+		size = 220
 	}
 
 	clergymen = {
-		culture = central_american
+		culture = choco
 		religion = catholic
-		size = 25
+		size = 125
 	}
 
 	artisans = {
-		culture = central_american
+		culture = choco
 		religion = catholic
-		size = 50
+		size = 150
 	}
 
 	soldiers = {
-		culture = central_american
+		culture = choco
 		religion = catholic
-		size = 10
+		size = 310
 	}
 
 	farmers = {
-		culture = central_american
+		culture = choco
 		religion = catholic
-		size = 895
+		size = 20895
 	}
 
 	aristocrats = {
-		culture = aquitan
+		culture = cuna
 		religion = catholic
-		size = 20
+		size = 120
 	}
 
 	clergymen = {
-		culture = aquitan
+		culture = cuna
 		religion = catholic
-		size = 25
+		size = 125
 	}
 
 	artisans = {
-		culture = aquitan
+		culture = cuna
 		religion = catholic
-		size = 50
+		size = 150
 	}
 
 	soldiers = {
-		culture = aquitan
+		culture = cuna
 		religion = catholic
-		size = 10
+		size = 410
 	}
 
 	farmers = {
-		culture = aquitan
+		culture = cuna
 		religion = catholic
-		size = 895
+		size = 10895
 	}
-
-	aristocrats = {
-		culture = aquitan
-		religion = catholic
-		size = 15
-	}
-
-	clergymen = {
-		culture = aquitan
-		religion = catholic
-		size = 25
-	}
-
-	artisans = {
-		culture = aquitan
-		religion = catholic
-		size = 50
-	}
-
-	soldiers = {
-		culture = aquitan
-		religion = catholic
-		size = 10
-	}
-
-	farmers = {
-		culture = aquitan
-		religion = catholic
-		size = 900
-	}
-
 }

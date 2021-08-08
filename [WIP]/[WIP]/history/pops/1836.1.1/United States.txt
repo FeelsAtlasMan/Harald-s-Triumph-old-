@@ -185,27 +185,51 @@
 #Baker City (4000/1000 POPS)
 82 = {
 	aristocrats = {
-		culture = native_american_minor
+		culture = shoshone
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = native_american_minor
+		culture = shoshone
 		religion = animist
 		size = 45
 	}
 
 	soldiers = {
-		culture = native_american_minor
+		culture = shoshone
 		religion = animist
 		size = 15
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = shoshone
 		religion = animist
-		size = 900
+		size = 2600
+	}
+	
+	aristocrats = {
+		culture = paiute
+		religion = animist
+		size = 10
+	}
+
+	clergymen = {
+		culture = paiute
+		religion = animist
+		size = 45
+	}
+
+	soldiers = {
+		culture = paiute
+		religion = animist
+		size = 60
+	}
+
+	farmers = {
+		culture = paiute
+		religion = animist
+		size = 4600
 	}
 	
 }
@@ -377,25 +401,49 @@
 #Mariposa (8000/2000 POPS)
 88 = {
 	aristocrats = {
-		culture = native_american_minor
+		culture = ute_lang
 		religion = animist
 		size = 25
 	}
 
 	clergymen = {
-		culture = native_american_minor
+		culture = ute_lang
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = native_american_minor
+		culture = ute_lang
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = ute_lang
+		religion = animist
+		size = 6000
+	}
+	
+	aristocrats = {
+		culture = cupan
+		religion = animist
+		size = 25
+	}
+
+	clergymen = {
+		culture = cupan
+		religion = animist
+		size = 50
+	}
+
+	soldiers = {
+		culture = cupan
+		religion = animist
+		size = 25
+	}
+
+	farmers = {
+		culture = cupan
 		religion = animist
 		size = 1800
 	}
@@ -518,28 +566,53 @@
 #Boise (8000/2000 POPS)
 91 = {
 	aristocrats = {
+		culture = shoshone
+		religion = animist
+		size = 125
+	}
+
+	clergymen = {
+		culture = shoshone
+		religion = animist
+		size = 150
+	}
+
+	soldiers = {
+		culture = shoshone
+		religion = animist
+		size = 1025
+	}
+
+	farmers = {
+		culture = shoshone
+		religion = animist
+		size = 18000
+	}
+	
+	aristocrats = {
 		culture = native_american_minor
 		religion = animist
-		size = 25
+		size = 45
 	}
 
 	clergymen = {
 		culture = native_american_minor
 		religion = animist
-		size = 50
+		size = 70
 	}
 
 	soldiers = {
 		culture = native_american_minor
 		religion = animist
-		size = 25
+		size = 525
 	}
 
 	farmers = {
 		culture = native_american_minor
 		religion = animist
-		size = 1800
+		size = 8000
 	}
+	
 }
 #Coeur d'Alene (4000/1000 POPS)
 92 = {
@@ -560,69 +633,154 @@
 93 = {
 
 	soldiers = {
-		culture = native_american_minor
+		culture = shoshone
+		religion = animist
+		size = 1000
+	}
+
+	farmers = {
+		culture = shoshone
+		religion = animist
+		size = 10000
+	}
+	
+	soldiers = {
+		culture = paiute
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = paiute
 		religion = animist
 		size = 2700
 	}
+	
 }
 #Nevada Region (12000)
 #"ruled" by Mexico 1836/de facto under Native Control
 #Carson City (4000/1000 POPS)
 94 = {
 	aristocrats = {
-		culture = native_american_minor
+		culture = ute_lang
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = native_american_minor
+		culture = ute_lang
 		religion = animist
 		size = 25
 	}
 
 	soldiers = {
-		culture = native_american_minor
+		culture = ute_lang
 		religion = animist
 		size = 15
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = ute_lang
 		religion = animist
-		size = 900
+		size = 700
+	}
+	
+	aristocrats = {
+		culture = shoshone
+		religion = animist
+		size = 10
+	}
+
+	clergymen = {
+		culture = shoshone
+		religion = animist
+		size = 25
+	}
+
+	soldiers = {
+		culture = shoshone
+		religion = animist
+		size = 15
+	}
+
+	farmers = {
+		culture = shoshone
+		religion = animist
+		size = 700
+	}
+	
+	aristocrats = {
+		culture = paiute
+		religion = animist
+		size = 10
+	}
+
+	clergymen = {
+		culture = paiute
+		religion = animist
+		size = 25
+	}
+
+	soldiers = {
+		culture = paiute
+		religion = animist
+		size = 15
+	}
+
+	farmers = {
+		culture = paiute
+		religion = animist
+		size = 1800
 	}
 }
 #Elko (4000/1000 POPS)
 95 = {
 	aristocrats = {
-		culture = native_american_minor
+		culture = ute_lang
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = native_american_minor
+		culture = ute_lang
 		religion = animist
 		size = 25
 	}
 
 	soldiers = {
-		culture = native_american_minor
+		culture = ute_lang
 		religion = animist
 		size = 15
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = ute_lang
 		religion = animist
-		size = 900
+		size = 4600
+	}
+	
+	aristocrats = {
+		culture = shoshone
+		religion = animist
+		size = 10
+	}
+
+	clergymen = {
+		culture = shoshone
+		religion = animist
+		size = 25
+	}
+
+	soldiers = {
+		culture = shoshone
+		religion = animist
+		size = 15
+	}
+
+	farmers = {
+		culture = shoshone
+		religion = animist
+		size = 2600
 	}
 }
 #Las Vegas (4000/1000 POPS)
@@ -652,67 +810,114 @@
 	}
 }
 #Utah Region (16000)
-#"ruled" by Mexico 1836/de facto under Native Control
 #Salt Lake City (8000/2000 POPS)
 97 = {
 	aristocrats = {
-		culture = native_american_minor
+		culture = shoshone
 		religion = animist
-		size = 25
+		size = 225
 	}
 
 	clergymen = {
-		culture = native_american_minor
+		culture = shoshone
 		religion = animist
-		size = 50
+		size = 150
 	}
 
 	artisans = {
-		culture = native_american_minor
+		culture = shoshone
 		religion = animist
 		size = 100
 	}
 
 	soldiers = {
-		culture = native_american_minor
+		culture = shoshone
 		religion = animist
-		size = 25
+		size = 1025
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = shoshone
 		religion = animist
-		size = 1800
+		size = 21800
 	}
 }
 #Loa (4000/1000 POPS)
 98 = {
 	aristocrats = {
-		culture = native_american_minor
+		culture = shoshone
+		religion = animist
+		size = 40
+	}
+
+	clergymen = {
+		culture = shoshone
+		religion = animist
+		size = 45
+	}
+
+	soldiers = {
+		culture = shoshone
+		religion = animist
+		size = 315
+	}
+
+	farmers = {
+		culture = shoshone
+		religion = animist
+		size = 5900
+	}
+	
+	aristocrats = {
+		culture = ute_lang
+		religion = animist
+		size = 60
+	}
+
+	clergymen = {
+		culture = ute_lang
+		religion = animist
+		size = 65
+	}
+
+	soldiers = {
+		culture = ute_lang
+		religion = animist
+		size = 715
+	}
+
+	farmers = {
+		culture = ute_lang
+		religion = animist
+		size = 12900
+	}
+}
+#Moab (4000/1000 POPS)
+99 = {
+	aristocrats = {
+		culture = paiute
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = native_american_minor
+		culture = paiute
 		religion = animist
 		size = 25
 	}
 
 	soldiers = {
-		culture = native_american_minor
+		culture = paiute
 		religion = animist
 		size = 15
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = paiute
 		religion = animist
 		size = 900
 	}
-}
-#Moab (4000/1000 POPS)
-99 = {
+	
 	aristocrats = {
 		culture = native_american_minor
 		religion = animist
@@ -734,7 +939,7 @@
 	farmers = {
 		culture = native_american_minor
 		religion = animist
-		size = 900
+		size = 1000
 	}
 }
 #Arizona Region (37000)
@@ -872,33 +1077,33 @@
 #Santa Fe (32000/8000 POPS)
 103 = {
 	aristocrats = {
-		culture = native_american_minor
+		culture = commanche
 		religion = animist
-		size = 10
+		size = 60
 	}
 
 	clergymen = {
-		culture = native_american_minor
+		culture = commanche
 		religion = animist
-		size = 25
+		size = 125
 	}
 
 	artisans = {
-		culture = native_american_minor
+		culture = commanche
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = native_american_minor
+		culture = commanche
 		religion = animist
-		size = 15
+		size = 1015
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = commanche
 		religion = animist
-		size = 900
+		size = 8900
 	}
 }
 
@@ -1014,21 +1219,21 @@
 106 = {
 
 	aristocrats = {
-		culture = native_american_minor
+		culture = commanche
 		religion = animist
 		size = 100
 	}
 
 	soldiers = {
-		culture = native_american_minor
+		culture = commanche
 		religion = animist
-		size = 100
+		size = 1100
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = commanche
 		religion = animist
-		size = 1950
+		size = 12950
 	}
 }
 
@@ -1061,33 +1266,57 @@
 #Pueblo (4000/1000 POPS)
 109 = {
 	aristocrats = {
-		culture = native_american_minor
+		culture = commanche
 		religion = animist
-		size = 10
+		size = 100
 	}
 
 	clergymen = {
-		culture = native_american_minor
+		culture = commanche
 		religion = animist
-		size = 25
+		size = 125
 	}
 
 	artisans = {
-		culture = native_american_minor
+		culture = commanche
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = native_american_minor
+		culture = commanche
 		religion = animist
-		size = 15
+		size = 215
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = commanche
 		religion = animist
-		size = 900
+		size = 3900
+	}
+	
+	clergymen = {
+		culture = ute_lang
+		religion = animist
+		size = 25
+	}
+
+	artisans = {
+		culture = ute_lang
+		religion = animist
+		size = 50
+	}
+
+	soldiers = {
+		culture = ute_lang
+		religion = animist
+		size = 1015
+	}
+
+	farmers = {
+		culture = ute_lang
+		religion = animist
+		size = 13900
 	}
 }
 #Wyoming Region (28000)
@@ -1095,54 +1324,54 @@
 #Cheyenne (8000/2000 POPS)
 110 = {
 	aristocrats = {
-		culture = native_american_minor
+		culture = shoshone
 		religion = animist
-		size = 25
+		size = 75
 	}
 
 	clergymen = {
-		culture = native_american_minor
+		culture = shoshone
 		religion = animist
-		size = 50
+		size = 70
 	}
 
 	artisans = {
-		culture = native_american_minor
+		culture = shoshone
 		religion = animist
 		size = 100
 	}
 
 	soldiers = {
-		culture = native_american_minor
+		culture = shoshone
 		religion = animist
-		size = 25
+		size = 1025
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = shoshone
 		religion = animist
-		size = 1800
+		size = 7800
 	}
 }
 #Cody (12000/3000 POPS)
 111 = {
 	
 	aristocrats = {
-		culture = native_american_minor
+		culture = shoshone
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = native_american_minor
+		culture = shoshone
 		religion = animist
-		size = 100
+		size = 1100
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = shoshone
 		religion = animist
-		size = 2900
+		size = 17900
 	}
 }
 #Casper (8000/2000 POPS)
