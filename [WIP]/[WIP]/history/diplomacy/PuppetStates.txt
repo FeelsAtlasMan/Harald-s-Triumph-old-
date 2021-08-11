@@ -885,13 +885,31 @@ vassal = {
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }
-#NA
-substate = {
+vassal = {
 	first = FRA
-	second = UNM
+	second = TNL
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }
+vassal = {
+	first = FRA
+	second = ZCT
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+vassal = {
+	first = FRA
+	second = GCC
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+vassal = {
+	first = FRA
+	second = TTP
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+#NA
 substate = {
 	first = FRA
 	second = PHI

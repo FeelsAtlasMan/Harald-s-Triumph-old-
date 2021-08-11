@@ -1,6 +1,5 @@
-owner = FDA
-controller = FDA
-add_core = FDA
-add_core = MEX
+owner = ATL
+controller = ATL
+add_core = ATL
 trade_goods = fish
 life_rating = 35

@@ -1,6 +1,6 @@
-owner = YKM
-controller = YKM
-add_core = YKM
+owner = CNK
+controller = CNK
+add_core = CNK
 trade_goods = fish
 life_rating = 35
 

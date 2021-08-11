@@ -3,82 +3,211 @@
 #San Jose (52000/13000 POPS)
 2201 = {
 	aristocrats = {
-		culture = central_american
+		culture = huetar
 		religion = catholic
-		size = 300
+		size = 600
 	}
 
 	bureaucrats = {
-		culture = central_american
+		culture = huetar
 		religion = catholic
-		size = 50
+		size = 150
 	}
 
 	officers = {
-		culture = central_american
-		religion = catholic
-		size = 25
-	}
-
-	clergymen = {
-		culture = central_american
+		culture = huetar
 		religion = catholic
 		size = 125
 	}
 
+	clergymen = {
+		culture = huetar
+		religion = catholic
+		size = 425
+	}
+
 	artisans = {
-		culture = central_american
+		culture = huetar
 		religion = catholic
 		size = 650
 	}
 
 	soldiers = {
-		culture = central_american
+		culture = huetar
 		religion = catholic
-		size = 525
+		size = 1525
 	}
 
 	farmers = {
-		culture = central_american
+		culture = huetar
 		religion = catholic
-		size = 11725
+		size = 10000
+	}
+	
+	farmers = {
+		culture = huetar
+		religion = animist
+		size = 31725
+	}
+}
+#Chorotega
+3556 = {
+	aristocrats = {
+		culture = nahua
+		religion = animist
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = nahua
+		religion = animist
+		size = 50
+	}
+
+	officers = {
+		culture = nahua
+		religion = animist
+		size = 25
+	}
+
+	clergymen = {
+		culture = nahua
+		religion = animist
+		size = 125
+	}
+
+	artisans = {
+		culture = nahua
+		religion = animist
+		size = 650
+	}
+
+	soldiers = {
+		culture = nahua
+		religion = animist
+		size = 1525
+	}
+
+	farmers = {
+		culture = nahua
+		religion = animist
+		size = 10000
+	}
+	
+	aristocrats = {
+		culture = manguean
+		religion = animist
+		size = 500
+	}
+
+	bureaucrats = {
+		culture = manguean
+		religion = animist
+		size = 150
+	}
+
+	officers = {
+		culture = manguean
+		religion = animist
+		size = 125
+	}
+
+	clergymen = {
+		culture = manguean
+		religion = animist
+		size = 425
+	}
+
+	artisans = {
+		culture = manguean
+		religion = animist
+		size = 650
+	}
+
+	soldiers = {
+		culture = manguean
+		religion = animist
+		size = 1525
+	}
+	
+	farmers = {
+		culture = manguean
+		religion = animist
+		size = 31725
 	}
 }
 #Liberia (20000/5000 POPS)
 2202 = {
 	aristocrats = {
-		culture = central_american
+		culture = huetar
 		religion = catholic
 		size = 150
-		militancy = 9
 	}
 
 	clergymen = {
-		culture = central_american
+		culture = huetar
 		religion = catholic
-		size = 50
-		militancy = 9
+		size = 250
 	}
 
 	artisans = {
-		culture = central_american
+		culture = huetar
 		religion = catholic
 		size = 250
 	}
 
 	soldiers = {
-		culture = central_american
+		culture = huetar
 		religion = catholic
-		size = 50
-
-		militancy = 9
+		size = 1050
 	}
 
 	farmers = {
-		culture = central_american
+		culture = huetar
+		religion = animist
+		size = 20000
+	}
+	
+	farmers = {
+		culture = huetar
 		religion = catholic
 		size = 4500
-		militancy = 5
+	}
+	
+	aristocrats = {
+		culture = chibcha_minor
+		religion = catholic
+		size = 150
+	}
+
+	clergymen = {
+		culture = chibcha_minor
+		religion = catholic
+		size = 150
+	}
+
+	artisans = {
+		culture = chibcha_minor
+		religion = catholic
+		size = 150
+	}
+
+	soldiers = {
+		culture = chibcha_minor
+		religion = catholic
+		size = 150
+	}
+
+	farmers = {
+		culture = chibcha_minor
+		religion = animist
+		size = 10000
+	}
+	
+	farmers = {
+		culture = chibcha_minor
+		religion = catholic
+		size = 500
 	}
 }
 #Limon (12000/3000 POPS)

@@ -1,5 +1,5 @@
-owner = UNM
-controller = UNM
-add_core = UNM
+owner = OPT
+controller = OPT
+add_core = OPT
 trade_goods = iron
 life_rating = 35

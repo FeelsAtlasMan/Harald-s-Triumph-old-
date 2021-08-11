@@ -1385,8 +1385,8 @@
 	}
 
 	bureaucrats = {
-		culture = romanian
-		religion = orthodox
+		culture = hungarian
+		religion = catholic
 		size = 500 
 	}
 	
@@ -1463,26 +1463,26 @@
 	}
 
 	clergymen = {
-		culture = romanian
-		religion = orthodox
+		culture = hungarian
+		religion = protestant
 		size = 510  
 	}
 
 	artisans = {
-		culture = romanian
-		religion = orthodox
+		culture = hungarian
+		religion = protestant
 		size = 2550 
 	}
 
 	soldiers = {
-		culture = romanian
-		religion = orthodox
+		culture = hungarian
+		religion = protestant
 		size = 1025
 	}
 
 	farmers = {
-		culture = romanian
-		religion = orthodox
+		culture = hungarian
+		religion = protestant
 		size = 9915 
 	}
 }
@@ -1495,8 +1495,8 @@
 	}
 	
 	bureaucrats = {
-		culture = romanian
-		religion = orthodox
+		culture = hungarian
+		religion = protestant
 		size = 600 
 	}
 
@@ -1579,26 +1579,26 @@
 	}
 
 	clergymen = {
-		culture = romanian
-		religion = orthodox
+		culture = hungarian
+		religion = protestant
 		size = 550  
 	}
 
 	artisans = {
-		culture = romanian
-		religion = orthodox
+		culture = hungarian
+		religion = protestant
 		size = 2500  
 	}
 
 	soldiers = {
-		culture = romanian
-		religion = orthodox
+		culture = hungarian
+		religion = protestant
 		size = 2075
 	}
 
 	farmers = {
-		culture = romanian
-		religion = orthodox
+		culture = hungarian
+		religion = protestant
 		size = 10375  
 	}
 }
@@ -1611,8 +1611,8 @@
 	}
 
 	bureaucrats = {
-		culture = romanian
-		religion = orthodox
+		culture = hungarian
+		religion = protestant
 		size = 600 
 	}
 	
@@ -1695,26 +1695,26 @@
 	}
 
 	clergymen = {
-		culture = romanian
-		religion = orthodox
+		culture = hungarian
+		religion = protestant
 		size = 150  
 	}
 
 	artisans = {
-		culture = romanian
-		religion = orthodox
+		culture = hungarian
+		religion = protestant
 		size = 1650  
 	}
 
 	soldiers = {
-		culture = romanian
-		religion = orthodox
+		culture = hungarian
+		religion = protestant
 		size = 525
 	}
 
 	farmers = {
-		culture = romanian
-		religion = orthodox
+		culture = hungarian
+		religion = protestant
 		size = 29675  
 	}
 }

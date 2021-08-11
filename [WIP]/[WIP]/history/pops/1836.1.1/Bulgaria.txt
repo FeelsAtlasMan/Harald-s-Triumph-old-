@@ -1093,25 +1093,25 @@
 	}
 	
 	soldiers = {
-		culture = romanian
+		culture = pecenak
 		religion = orthodox
 		size = 750
 	}
 
 	clergymen = {
-		culture = romanian
+		culture = pecenak
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = romanian
+		culture = pecenak
 		religion = orthodox
 		size = 200
 	}
 
 	farmers = {
-		culture = romanian
+		culture = pecenak
 		religion = orthodox
 		size = 19625 
 	}

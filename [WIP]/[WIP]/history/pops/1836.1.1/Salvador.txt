@@ -3,91 +3,202 @@
 #San Salvador (260000/65000 POPS)
 2191 = {
 	aristocrats = {
-		culture = central_american
-		religion = catholic
-		size = 1425
-		militancy = 5
+		culture = nahua
+		religion = animist
+		size = 3425
 	}
 
 	bureaucrats = {
-		culture = central_american
-		religion = catholic
-		size = 150
-		militancy = 6
+		culture = nahua
+		religion = animist
+		size = 750
 	}
 
 	officers = {
-		culture = central_american
-		religion = catholic
-		size = 125
-		militancy = 9
+		culture = nahua
+		religion = animist
+		size = 425
 	}
 
 	clergymen = {
-		culture = central_american
-		religion = catholic
-		size = 650
-		militancy = 4
+		culture = nahua
+		religion = animist
+		size = 3650
 	}
 
 	artisans = {
-		culture = central_american
-		religion = catholic
-		size = 3250
-		militancy = 9
+		culture = nahua
+		religion = animist
+		size = 23250
 	}
 
 	soldiers = {
-		culture = central_american
-		religion = catholic
-		size = 1100
-
-		militancy = 9
+		culture = nahua
+		religion = animist
+		size = 4100
 	}
 
 	farmers = {
-		culture = central_american
-		religion = catholic
-		size = 58350
-		militancy = 4
+		culture = nahua
+		religion = animist
+		size = 178350
+	}
+	
+	clergymen = {
+		culture = chol
+		religion = animist
+		size = 150
+	}
+	
+	artisans = {
+		culture = chol
+		religion = animist
+		size = 1250
+	}
+
+	soldiers = {
+		culture = chol
+		religion = animist
+		size = 300
+	}
+
+	farmers = {
+		culture = chol
+		religion = animist
+		size = 8350
+	}
+	
+	clergymen = {
+		culture = quiche
+		religion = animist
+		size = 150
+	}
+
+	artisans = {
+		culture = quiche
+		religion = animist
+		size = 3250
+	}
+
+	soldiers = {
+		culture = quiche
+		religion = animist
+		size = 1100
+	}
+
+	farmers = {
+		culture = quiche
+		religion = animist
+		size = 38350
+	}
+	
+	clergymen = {
+		culture = xincan
+		religion = animist
+		size = 150
+	}
+
+	artisans = {
+		culture = xincan
+		religion = animist
+		size = 3250
+	}
+
+	soldiers = {
+		culture = xincan
+		religion = animist
+		size = 1100
+	}
+
+	farmers = {
+		culture = xincan
+		religion = animist
+		size = 43000
 	}
 }
 #San Miguel (156000/44000 POPS)
 2192 = {
 	aristocrats = {
-		culture = central_american
-		religion = catholic
-		size = 950
-		militancy = 9
+		culture = lenka
+		religion = animist
+		size = 1950
 	}
 
 	clergymen = {
-		culture = central_american
-		religion = catholic
-		size = 450
-		militancy = 9
+		culture = lenka
+		religion = animist
+		size = 2450
 	}
 
 	artisans = {
-		culture = central_american
-		religion = catholic
-		size = 2200
-		militancy = 9
+		culture = lenka
+		religion = animist
+		size = 6200
 	}
 
 	soldiers = {
-		culture = central_american
-		religion = catholic
-		size = 450
-
-		militancy = 9
+		culture = lenka
+		religion = animist
+		size = 3450
 	}
 
 	farmers = {
-		culture = central_american
-		religion = catholic
-		size = 39950
-		militancy = 4
+		culture = lenka
+		religion = animist
+		size = 139950
+	}
+	
+	clergymen = {
+		culture = xincan
+		religion = animist
+		size = 2450
 	}
 
+	artisans = {
+		culture = xincan
+		religion = animist
+		size = 6200
+	}
+
+	soldiers = {
+		culture = xincan
+		religion = animist
+		size = 1450
+	}
+
+	farmers = {
+		culture = xincan
+		religion = animist
+		size = 19950
+	}
+		
+	aristocrats = {
+		culture = misumalpa
+		religion = animist
+		size = 150
+	}
+
+	clergymen = {
+		culture = misumalpa
+		religion = animist
+		size = 250
+	}
+
+	artisans = {
+		culture = misumalpa
+		religion = animist
+		size = 200
+	}
+
+	soldiers = {
+		culture = misumalpa
+		religion = animist
+		size = 450
+	}
+
+	farmers = {
+		culture = misumalpa
+		religion = animist
+		size = 9950
+	}
 }

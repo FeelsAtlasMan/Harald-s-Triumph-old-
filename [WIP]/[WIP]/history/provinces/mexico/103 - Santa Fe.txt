@@ -1,6 +1,6 @@
-owner = CMM
-controller = CMM
-add_core = CMM
+owner = STE
+controller = STE
+add_core = STE
 trade_goods = fruit
 life_rating = 35
 

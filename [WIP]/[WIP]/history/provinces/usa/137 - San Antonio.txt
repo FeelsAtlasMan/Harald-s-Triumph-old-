@@ -1,5 +1,5 @@
-owner = UNM
-controller = UNM
-add_core = UNM
+owner = PHI
+controller = PHI
+add_core = PHI
 trade_goods = cattle
 life_rating = 35

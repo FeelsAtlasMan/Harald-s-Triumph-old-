@@ -1,7 +1,7 @@
-owner = CDD
-controller = CDD
-add_core = CDD
+owner = HPI
+controller = HPI
+add_core = HPI
 trade_goods = grain
 life_rating = 35
-colonial = 2
+
 

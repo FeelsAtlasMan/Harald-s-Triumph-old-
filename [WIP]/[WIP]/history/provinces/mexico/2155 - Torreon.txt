@@ -1,5 +1,6 @@
-owner = UNM
-controller = UNM
-add_core = UNM
+owner = GCC
+controller = GCC
+add_core = GCC
+add_core = MEX
 trade_goods = cattle
 life_rating = 35

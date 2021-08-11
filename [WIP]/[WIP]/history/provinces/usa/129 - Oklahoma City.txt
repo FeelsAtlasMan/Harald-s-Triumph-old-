@@ -1,5 +1,5 @@
-owner = CDD
-controller = CDD
-add_core = CDD
+owner = CMM
+controller = CMM
+add_core = CMM
 trade_goods = grain
 life_rating = 35

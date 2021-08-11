@@ -944,6 +944,24 @@ south_slavic = {
 		radicalism = 10
 	}
 	
+	pecenak = {
+		color = {75 130 150}
+		first_names = { Aleksandar Andrey Asen Atanas Atila Bogdan Boncho Boris Damyan Dimitar
+		Dobri Ferdinand Georgi Hristo Ilya Ivan Kalin Kardam Kimon Kiril
+		Kliment Konstantin Krastyu Leonid Mihail Nikifor Niloa Pencho Petar Petko
+		Petur Pravoslav Racho Radko Radoy Sava Simeon Sotir Stanislav Stanko
+		Stefan Stiliyan Stoyu Teodosi Todor Trifon Valko Vasil Velizar Vulko		
+		}
+
+		last_names = { Agura Balabanov Balkanski Battemberg Blaskov Boyadzhiev Bradistilov Charakchiev Daskalov Dikov
+		Dimitriev Draganov Fichev Georgiev Hesapchiev Ilyev Ivanov Kirkov Kovachev Krayonski
+		Kutinchev Lazarov Lukov Marinkov Marinov Mutkorov Naydenov Nazlamov Nikiforov Nikolaev
+		Pakov Petrov Radev Saksokoburggotski Savov Sirakov Solarov Stoyanov Tenev Todorov
+		Tsaklev Valkov Valnarov Vasilev Vazov Velchev Zafirov Zhekov Zlatarev Zlatev
+		}
+		radicalism = 10
+	}
+	
 }
 
 western_slavic = {
@@ -4934,6 +4952,99 @@ uto_nahuatl = {
 	}
 }
 
+#Oto-Manguean 
+oto_manguean  = {
+	leader = nativeamerican
+	is_overseas = no
+	manguean  = {
+		color = {255 230 220}
+		first_names = { Agustín Akbal Alejandro Andrés Aníbal Antonio Armando Bernardo Carlos Crescencio
+		Cristóbal Cuautéhmoc Diego Felipe Gaspar Hernando Hilario Humberto Ignacio Jacinto 
+		Jesús Luis Marcial Martín Miguel Ramiro Rodolfo Rolando Santiago Yumil }
+
+		last_names = { Alonso Antúnez Cabrera Cajigas Chacón Chiñas Cortés Fernández Gamboa García
+		González Gutiérrez Guzmán Henestrosa Isael Jiménez Juárez López Matus Mérida
+		Morales Nayeli Orozco Ortíz Pineda Rojas Ruíz Suárez Tamayo Vichido }
+	}
+	
+	tlapanec  = {
+		color = {230 200 190}
+		first_names = { Agustín Akbal Alejandro Andrés Aníbal Antonio Armando Bernardo Carlos Crescencio
+		Cristóbal Cuautéhmoc Diego Felipe Gaspar Hernando Hilario Humberto Ignacio Jacinto 
+		Jesús Luis Marcial Martín Miguel Ramiro Rodolfo Rolando Santiago Yumil }
+
+		last_names = { Alonso Antúnez Cabrera Cajigas Chacón Chiñas Cortés Fernández Gamboa García
+		González Gutiérrez Guzmán Henestrosa Isael Jiménez Juárez López Matus Mérida
+		Morales Nayeli Orozco Ortíz Pineda Rojas Ruíz Suárez Tamayo Vichido }
+	} 
+	
+	popolocan = {
+		color = {200 180 170}
+		first_names = { Agustín Akbal Alejandro Andrés Aníbal Antonio Armando Bernardo Carlos Crescencio
+		Cristóbal Cuautéhmoc Diego Felipe Gaspar Hernando Hilario Humberto Ignacio Jacinto 
+		Jesús Luis Marcial Martín Miguel Ramiro Rodolfo Rolando Santiago Yumil }
+
+		last_names = { Alonso Antúnez Cabrera Cajigas Chacón Chiñas Cortés Fernández Gamboa García
+		González Gutiérrez Guzmán Henestrosa Isael Jiménez Juárez López Matus Mérida
+		Morales Nayeli Orozco Ortíz Pineda Rojas Ruíz Suárez Tamayo Vichido }
+	}
+	
+	chinantec  = {
+		color = {170 150 140}
+		first_names = { Agustín Akbal Alejandro Andrés Aníbal Antonio Armando Bernardo Carlos Crescencio
+		Cristóbal Cuautéhmoc Diego Felipe Gaspar Hernando Hilario Humberto Ignacio Jacinto 
+		Jesús Luis Marcial Martín Miguel Ramiro Rodolfo Rolando Santiago Yumil }
+
+		last_names = { Alonso Antúnez Cabrera Cajigas Chacón Chiñas Cortés Fernández Gamboa García
+		González Gutiérrez Guzmán Henestrosa Isael Jiménez Juárez López Matus Mérida
+		Morales Nayeli Orozco Ortíz Pineda Rojas Ruíz Suárez Tamayo Vichido }
+	}
+	
+	zapotec = {
+		color = {140 120 110}
+		first_names = { Agustín Alberto Alfonso Alfredo Andrés Benito Carlos César Eduardo Eugenio
+		Felipe Fernando Gabriel Gilberto Gregorio Jacinto Jesús José Juan Julio
+		Macario Manuel Miguel Nazario Nicolás Oliverio Pablo Porfirio Rodolfo Rufino }
+	
+		last_names = { Alonso Antúnez Cabrera Cajigas Chacón Chiñas Cortés Fernández Gamboa García
+		González Gutiérrez Guzmán Henestrosa Isael Jiménez Juárez López Matus Mérida
+		Morales Nayeli Orozco Ortíz Pineda Rojas Ruíz Suárez Tamayo Vichido }
+	}
+	
+	amuzgo = {
+		color = {110 90 80}
+		first_names = { Agustín Alberto Alfonso Alfredo Andrés Benito Carlos César Eduardo Eugenio
+		Felipe Fernando Gabriel Gilberto Gregorio Jacinto Jesús José Juan Julio
+		Macario Manuel Miguel Nazario Nicolás Oliverio Pablo Porfirio Rodolfo Rufino }
+	
+		last_names = { Alonso Antúnez Cabrera Cajigas Chacón Chiñas Cortés Fernández Gamboa García
+		González Gutiérrez Guzmán Henestrosa Isael Jiménez Juárez López Matus Mérida
+		Morales Nayeli Orozco Ortíz Pineda Rojas Ruíz Suárez Tamayo Vichido }
+	}
+	
+	mixtec = {
+		color = {80 60 50}
+		first_names = { Agustín Alberto Alfonso Alfredo Andrés Benito Carlos César Eduardo Eugenio
+		Felipe Fernando Gabriel Gilberto Gregorio Jacinto Jesús José Juan Julio
+		Macario Manuel Miguel Nazario Nicolás Oliverio Pablo Porfirio Rodolfo Rufino }
+	
+		last_names = { Alonso Antúnez Cabrera Cajigas Chacón Chiñas Cortés Fernández Gamboa García
+		González Gutiérrez Guzmán Henestrosa Isael Jiménez Juárez López Matus Mérida
+		Morales Nayeli Orozco Ortíz Pineda Rojas Ruíz Suárez Tamayo Vichido }
+	}
+	
+	otomi = {
+		color = {50 30 20}
+		first_names = { Agustín Alberto Alfonso Alfredo Andrés Benito Carlos César Eduardo Eugenio
+		Felipe Fernando Gabriel Gilberto Gregorio Jacinto Jesús José Juan Julio
+		Macario Manuel Miguel Nazario Nicolás Oliverio Pablo Porfirio Rodolfo Rufino }
+	
+		last_names = { Alonso Antúnez Cabrera Cajigas Chacón Chiñas Cortés Fernández Gamboa García
+		González Gutiérrez Guzmán Henestrosa Isael Jiménez Juárez López Matus Mérida
+		Morales Nayeli Orozco Ortíz Pineda Rojas Ruíz Suárez Tamayo Vichido }
+	}
+}
+
 #Hokan
 hokan = {
 	leader = nativeamerican
@@ -5011,15 +5122,104 @@ hokan = {
 	
 }
 
+#Mayan
+mayan_group = {
+leader = nativeamerican
+	is_overseas = no
+	mayan = { #now Yucatec
+		color = {100 90 140}
+		first_names = { Ixmacane Zipacna Ix Xamaniqinqu Vucub-Caquix Gukumatz Tecumbalam Balam Yunuen Yaxkin
+		Itzamna  }
+
+		last_names = { Ak'ab'al Cal Canek Canul Carrillo Ceh Chee Chi Choc Coc
+		Curruchic Ixquiac López Manzanero Mas Menchú Mérida Mes Osorio Pek
+		Poot Pop Puk Shal Sho Tecú Teul Tuyuc Xicara Xiloj }
+	}
+	
+	huastec = { 
+		color = {130 90 100}
+		first_names = { Ixmacane Zipacna Ix Xamaniqinqu Vucub-Caquix Gukumatz Tecumbalam Balam Yunuen Yaxkin
+		Itzamna  }
+
+		last_names = { Ak'ab'al Cal Canek Canul Carrillo Ceh Chee Chi Choc Coc
+		Curruchic Ixquiac López Manzanero Mas Menchú Mérida Mes Osorio Pek
+		Poot Pop Puk Shal Sho Tecú Teul Tuyuc Xicara Xiloj }
+	}
+	
+	chol = { 
+		color = {100 120 140}
+		first_names = { Ixmacane Zipacna Ix Xamaniqinqu Vucub-Caquix Gukumatz Tecumbalam Balam Yunuen Yaxkin
+		Itzamna  }
+
+		last_names = { Ak'ab'al Cal Canek Canul Carrillo Ceh Chee Chi Choc Coc
+		Curruchic Ixquiac López Manzanero Mas Menchú Mérida Mes Osorio Pek
+		Poot Pop Puk Shal Sho Tecú Teul Tuyuc Xicara Xiloj }
+	}
+	
+	qanjobal = { 
+		color = {100 120 160}
+		first_names = { Ixmacane Zipacna Ix Xamaniqinqu Vucub-Caquix Gukumatz Tecumbalam Balam Yunuen Yaxkin
+		Itzamna  }
+
+		last_names = { Ak'ab'al Cal Canek Canul Carrillo Ceh Chee Chi Choc Coc
+		Curruchic Ixquiac López Manzanero Mas Menchú Mérida Mes Osorio Pek
+		Poot Pop Puk Shal Sho Tecú Teul Tuyuc Xicara Xiloj }
+	}
+	
+	mame = { 
+		color = {100 90 170}
+		first_names = { Ixmacane Zipacna Ix Xamaniqinqu Vucub-Caquix Gukumatz Tecumbalam Balam Yunuen Yaxkin
+		Itzamna  }
+
+		last_names = { Ak'ab'al Cal Canek Canul Carrillo Ceh Chee Chi Choc Coc
+		Curruchic Ixquiac López Manzanero Mas Menchú Mérida Mes Osorio Pek
+		Poot Pop Puk Shal Sho Tecú Teul Tuyuc Xicara Xiloj }
+	}
+	
+	quiche = { 
+		color = {100 70 120}
+		first_names = { Ixmacane Zipacna Ix Xamaniqinqu Vucub-Caquix Gukumatz Tecumbalam Balam Yunuen Yaxkin
+		Itzamna  }
+
+		last_names = { Ak'ab'al Cal Canek Canul Carrillo Ceh Chee Chi Choc Coc
+		Curruchic Ixquiac López Manzanero Mas Menchú Mérida Mes Osorio Pek
+		Poot Pop Puk Shal Sho Tecú Teul Tuyuc Xicara Xiloj }
+	}
+}	
+
+#Mixe-Zoque
+mixe_zoque_group = {
+	leader = nativeamerican
+	is_overseas = no
+	mixe = {
+		color = {160 40 90}
+		first_names = { Ixmacane Zipacna Ix Xamaniqinqu Vucub-Caquix Gukumatz Tecumbalam Balam Yunuen Yaxkin
+		Itzamna  }
+
+		last_names = { Ak'ab'al Cal Canek Canul Carrillo Ceh Chee Chi Choc Coc
+		Curruchic Ixquiac López Manzanero Mas Menchú Mérida Mes Osorio Pek
+		Poot Pop Puk Shal Sho Tecú Teul Tuyuc Xicara Xiloj }
+	}
+	
+	zoque = {
+		color = {180 60 70}
+		first_names = { Ixmacane Zipacna Ix Xamaniqinqu Vucub-Caquix Gukumatz Tecumbalam Balam Yunuen Yaxkin
+		Itzamna  }
+
+		last_names = { Ak'ab'al Cal Canek Canul Carrillo Ceh Chee Chi Choc Coc
+		Curruchic Ixquiac López Manzanero Mas Menchú Mérida Mes Osorio Pek
+		Poot Pop Puk Shal Sho Tecú Teul Tuyuc Xicara Xiloj }
+	}
+}
+
 #Xincan
 xincan_group = {
 	leader = nativeamerican
 	is_overseas = no
 	xincan = {
-		color = {30 90 40}
-		first_names = { Agustín Akbal Alejandro Andrés Aníbal Antonio Armando Bernardo Carlos Crescencio
-		Cristóbal Cuautéhmoc Diego Felipe Gaspar Hernando Hilario Humberto Ignacio Jacinto 
-		Jesús Luis Marcial Martín Miguel Ramiro Rodolfo Rolando Santiago Yumil }
+		color = {30 40 90}
+		first_names = { Ixmacane Zipacna Ix Xamaniqinqu Vucub-Caquix Gukumatz Tecumbalam Balam Yunuen Yaxkin
+		Itzamna  }
 
 		last_names = { Ak'ab'al Cal Canek Canul Carrillo Ceh Chee Chi Choc Coc
 		Curruchic Ixquiac López Manzanero Mas Menchú Mérida Mes Osorio Pek
@@ -5032,7 +5232,7 @@ lenka_group = {
 	leader = nativeamerican
 	is_overseas = no
 	lenka = {
-		color = {60 90 40}
+		color = {60 40 90}
 		first_names = { Agustín Akbal Alejandro Andrés Aníbal Antonio Armando Bernardo Carlos Crescencio
 		Cristóbal Cuautéhmoc Diego Felipe Gaspar Hernando Hilario Humberto Ignacio Jacinto 
 		Jesús Luis Marcial Martín Miguel Ramiro Rodolfo Rolando Santiago Yumil }
@@ -5047,8 +5247,8 @@ lenka_group = {
 misumalpa_group = {
 	leader = nativeamerican
 	is_overseas = no
-	lenka = {
-		color = {60 90 40}
+	misumalpa = {
+		color = {200 90 40}
 		first_names = { Agustín Akbal Alejandro Andrés Aníbal Antonio Armando Bernardo Carlos Crescencio
 		Cristóbal Cuautéhmoc Diego Felipe Gaspar Hernando Hilario Humberto Ignacio Jacinto 
 		Jesús Luis Marcial Martín Miguel Ramiro Rodolfo Rolando Santiago Yumil }
@@ -5063,16 +5263,6 @@ misumalpa_group = {
 native_american = {
 	leader = nativeamerican
 	is_overseas = no
-	#zapotec = {
-	#	color = {87 199 81}
-	#	first_names = { Agustín Alberto Alfonso Alfredo Andrés Benito Carlos César Eduardo Eugenio
-	#	Felipe Fernando Gabriel Gilberto Gregorio Jacinto Jesús José Juan Julio
-	#	Macario Manuel Miguel Nazario Nicolás Oliverio Pablo Porfirio Rodolfo Rufino }
-	#
-	#	last_names = { Alonso Antúnez Cabrera Cajigas Chacón Chiñas Cortés Fernández Gamboa García
-	#	González Gutiérrez Guzmán Henestrosa Isael Jiménez Juárez López Matus Mérida
-	#	Morales Nayeli Orozco Ortíz Pineda Rojas Ruíz Suárez Tamayo Vichido }
-	#}
 	mayan = {
 		color = {98 88 142}
 		first_names = { Agustín Akbal Alejandro Andrés Aníbal Antonio Armando Bernardo Carlos Crescencio

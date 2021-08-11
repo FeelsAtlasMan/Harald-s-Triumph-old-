@@ -1,5 +1,5 @@
-owner = YKM
-controller = YKM
-add_core = YKM
+owner = SHS
+controller = SHS
+add_core = SHS
 trade_goods = wool
 life_rating = 35

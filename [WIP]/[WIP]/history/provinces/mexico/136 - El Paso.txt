@@ -1,6 +1,6 @@
-owner = UNM
-controller = UNM
-add_core = UNM
+owner = CMM
+controller = CMM
+add_core = CMM
 terrain = new_world_semidesert
 trade_goods = cotton
 life_rating = 35

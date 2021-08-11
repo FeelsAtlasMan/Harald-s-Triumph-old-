@@ -1,6 +1,5 @@
 owner = APC
 controller = APC
 add_core = APC
-add_core = UNM
 trade_goods = coal
 life_rating = 35

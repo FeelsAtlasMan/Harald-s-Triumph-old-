@@ -1,5 +1,5 @@
-owner = UNM
-controller = UNM
-add_core = UNM
+owner = ODH
+controller = ODH
+add_core = ODH
 trade_goods = cattle
 life_rating = 35
