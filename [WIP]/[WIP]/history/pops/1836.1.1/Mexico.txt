@@ -3,216 +3,161 @@
 #Hermosillo (76000/19000 POPS)
 2137 = {
 	aristocrats = {
-		culture = mexicain
-		religion = catholic
+		culture = opata
+		religion = animist
 		size = 240
-		militancy = 5
-	}
-
-	bureaucrats = {
-		culture = mexicain
-		religion = catholic
-		size = 35
-		militancy = 5
 	}
 
 	clergymen = {
-		culture = mexicain
-		religion = catholic
+		culture = opata
+		religion = animist
 		size = 100
-		militancy = 5
 	}
 
 	artisans = {
-		culture = mexicain
-		religion = catholic
+		culture = opata
+		religion = animist
 		size = 550
-		militancy = 5
 	}
 
 	soldiers = {
-		culture = mexicain
-		religion = catholic
-		size = 125
-
-		militancy = 5
+		culture = opata
+		religion = animist
+		size = 1125
 	}
 
 	farmers = {
-		culture = mexicain
-		religion = catholic
-		size = 9925
-		militancy = 5
+		culture = opata
+		religion = animist
+		size = 11925
 	}
 
 	aristocrats = {
-		culture = native_american_minor
+		culture = piman
 		religion = animist
-		size = 125
+		size = 425
+	}
+	
+	bureaucrats = {
+		culture = piman
+		religion = animist
+		size = 35
 	}
 
 	clergymen = {
-		culture = native_american_minor
+		culture = piman
 		religion = animist
-		size = 75
+		size = 275
 	}
 
 	artisans = {
-		culture = native_american_minor
+		culture = piman
 		religion = animist
 		size = 400
 	}
 
 	soldiers = {
-		culture = native_american_minor
+		culture = piman
 		religion = animist
-		size = 75
+		size = 3075
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = piman
 		religion = animist
-		size = 7325
+		size = 20325
 	}
 }
 #Nogales (12000/3000 POPS)
 2140 = {
 	aristocrats = {
-		culture = mexicain
-		religion = catholic
-		size = 25
-		militancy = 4
+		culture = piman
+		religion = animist
+		size = 125
 	}
 
 	clergymen = {
-		culture = mexicain
-		religion = catholic
-		size = 20
-		militancy = 4
+		culture = piman
+		religion = animist
+		size = 350
 	}
 
 	artisans = {
-		culture = mexicain
-		religion = catholic
-		size = 50
-		militancy = 4
-	}
-
-	soldiers = {
-		culture = mexicain
-		religion = catholic
-		size = 10
-
-		militancy = 4
-	}
-
-	farmers = {
-		culture = mexicain
-		religion = catholic
-		size = 895
-		militancy = 4
-	}
-
-	aristocrats = {
-		culture = native_american_minor
-		religion = animist
-		size = 25
-		militancy = 9
-	}
-
-	clergymen = {
-		culture = native_american_minor
-		religion = animist
-		size = 50
-		militancy = 9
-	}
-
-	artisans = {
-		culture = native_american_minor
+		culture = piman
 		religion = animist
 		size = 100
-		militancy = 9
 	}
 
 	soldiers = {
-		culture = native_american_minor
+		culture = piman
 		religion = animist
-		size = 25
-
-		militancy = 9
+		size = 1025
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = piman
 		religion = animist
-		size = 1800
-		militancy = 9
+		size = 20400
 	}
 }
 #Guaymas (52000/13000 POPS)
 2141 = {
 	aristocrats = {
-		culture = mexicain
-		religion = catholic
-		size = 250
-		militancy = 4
+		culture = hokan_minor
+		religion = animist
+		size = 450
 	}
 
 	clergymen = {
-		culture = mexicain
-		religion = catholic
-		size = 100
-		militancy = 5
+		culture = hokan_minor
+		religion = animist
+		size = 200
 	}
 
 	artisans = {
-		culture = mexicain
-		religion = catholic
-		size = 500
-		militancy = 4
+		culture = hokan_minor
+		religion = animist
+		size = 1000
 	}
 
 	soldiers = {
-		culture = mexicain
-		religion = catholic
-		size = 100
-
-		militancy = 7
+		culture = hokan_minor
+		religion = animist
+		size = 1100
 	}
 
 	farmers = {
-		culture = mexicain
-		religion = catholic
-		size = 9050
-		militancy = 5
+		culture = hokan_minor
+		religion = animist
+		size = 19050
 	}
 
 	aristocrats = {
-		culture = native_american_minor
+		culture = yaqui
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = native_american_minor
+		culture = yaqui
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = native_american_minor
+		culture = yaqui
 		religion = animist
 		size = 150
 	}
 
 	soldiers = {
-		culture = native_american_minor
+		culture = yaqui
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = yaqui
 		religion = animist
 		size = 2700
 	}
@@ -223,84 +168,71 @@
 2138 = {
 
 	soldiers = {
-		culture = british
-		religion = protestant
+		culture = mexicain
+		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = british
-		religion = protestant
+		culture = mexicain
+		religion = catholic
 		size = 95
 	}
 	
 	clergymen = {
-		culture = native_american_minor
+		culture = cochimi
 		religion = animist
 		size = 100
 	}
 
 	artisans = {
-		culture = native_american_minor
+		culture = cochimi
 		religion = animist
 		size = 100
 	}
 
 	soldiers = {
-		culture = native_american_minor
+		culture = cochimi
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = cochimi
 		religion = animist
-		size = 200
+		size = 1800
 	}
 }
 #Rosarito (16000/4000 POPS)
 2139 = {
-
-	soldiers = {
-		culture = british
-		religion = protestant
-		size = 25
-	}
-
-	farmers = {
-		culture = british
-		religion = protestant
-		size = 50
-	}
-
 	aristocrats = {
-		culture = native_american_minor
+		culture = cochimi
 		religion = animist
-		size = 25
+		size = 50
 	}
 
 	clergymen = {
-		culture = native_american_minor
+		culture = cochimi
 		religion = animist
-		size = 50
+		size = 100
 	}
 
 	artisans = {
-		culture = native_american_minor
+		culture = cochimi
 		religion = animist
 		size = 100
 	}
 
 	soldiers = {
-		culture = native_american_minor
+		culture = cochimi
 		religion = animist
-		size = 25
+		size = 100
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = cochimi
 		religion = animist
-		size = 1800
+		size = 5400
 	}
 }
 #Chihuahua Region (136000)
@@ -308,253 +240,195 @@
 #Chihuahua (100000/25000 POPS)
 2142 = {
 	aristocrats = {
-		culture = mexicain
-		religion = catholic
-		size = 440
+		culture = piman
+		religion = animist
+		size = 240
 	}
 
 	bureaucrats = {
-		culture = mexicain
-		religion = catholic
+		culture = piman
+		religion = animist
 		size = 50
 	}
 
 	officers = {
-		culture = mexicain
-		religion = catholic
+		culture = piman
+		religion = animist
 		size = 15
 	}
 
 	clergymen = {
-		culture = mexicain
-		religion = catholic
+		culture = piman
+		religion = animist
 		size = 225
 	}
 
 	artisans = {
-		culture = mexicain
-		religion = catholic
-		size = 1100
-		militancy = 9
+		culture = piman
+		religion = animist
+		size = 300
 	}
 
 	soldiers = {
-		culture = mexicain
-		religion = catholic
-		size = 225
+		culture = piman
+		religion = animist
+		size = 1225
 	}
 
 	farmers = {
-		culture = mexicain
-		religion = catholic
-		size = 19945
+		culture = piman
+		religion = animist
+		size = 12945
 	}
 
 	aristocrats = {
-		culture = nahua
+		culture = opata
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = nahua
+		culture = opata
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = nahua
+		culture = opata
 		religion = animist
 		size = 150
 	}
 
 	soldiers = {
-		culture = nahua
+		culture = opata
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = nahua
+		culture = opata
 		religion = animist
-		size = 2700
-		militancy = 9
+		size = 19700
 	}
 }
 #Paso del Norte (12000/3000 POPS)
 2143 = {
 	aristocrats = {
-		culture = mexicain
-		religion = catholic
+		culture = navajo
+		religion = animist
 		size = 75
 	}
 
 	clergymen = {
-		culture = mexicain
-		religion = catholic
-		size = 100
+		culture = navajo
+		religion = animist
+		size = 50
 	}
 
 	artisans = {
-		culture = mexicain
-		religion = catholic
+		culture = navajo
+		religion = animist
 		size = 150
 	}
 
 	soldiers = {
-		culture = mexicain
-		religion = catholic
-		size = 100
+		culture = navajo
+		religion = animist
+		size = 1100
 	}
 
 	farmers = {
-		culture = mexicain
-		religion = catholic
-		size = 700
-	}
-	
-	clergymen = {
-		culture = caddoan
+		culture = navajo
 		religion = animist
-		size = 100
-	}
-
-	artisans = {
-		culture = caddoan
-		religion = animist
-		size = 100
-	}
-
-	soldiers = {
-		culture = caddoan
-		religion = animist
-		size = 100
-	}
-
-	farmers = {
-		culture = caddoan
-		religion = animist
-		size = 2200
+		size = 6700
 	}
 }
 #Delicias (8000/2000 POPS)
-2144 = {
-	aristocrats = {
-		culture = mexicain
-		religion = catholic
-		size = 75
-	}
-
+2144 = {	
 	clergymen = {
-		culture = mexicain
-		religion = catholic
-		size = 100
-	}
-
-	artisans = {
-		culture = mexicain
-		religion = catholic
-		size = 100
-	}
-
-	soldiers = {
-		culture = mexicain
-		religion = catholic
-		size = 100
-	}
-
-	farmers = {
-		culture = mexicain
-		religion = catholic
-		size = 750
-		militancy = 9
-	}
-	
-	clergymen = {
-		culture = caddoan
+		culture = lipan
 		religion = animist
 		size = 100
 	}
 
 	artisans = {
-		culture = caddoan
+		culture = lipan
 		religion = animist
 		size = 100
 	}
 
 	soldiers = {
-		culture = caddoan
+		culture = lipan
 		religion = animist
-		size = 100
+		size = 1100
 	}
 
 	farmers = {
-		culture = caddoan
+		culture = lipan
 		religion = animist
-		size = 1200
+		size = 11200
 	}
 }
 #Parral (16000/4000 POPS)
 2145 = {
 	aristocrats = {
-		culture = mexicain
-		religion = catholic
+		culture = piman
+		religion = animist
 		size = 25
 	}
 
 	clergymen = {
-		culture = mexicain
-		religion = catholic
+		culture = piman
+		religion = animist
 		size = 20
 	}
 
 	artisans = {
-		culture = mexicain
-		religion = catholic
+		culture = piman
+		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = mexicain
-		religion = catholic
-		size = 10
+		culture = piman
+		religion = animist
+		size = 1010
 	}
 
 	farmers = {
-		culture = mexicain
-		religion = catholic
-		size = 895
+		culture = piman
+		religion = animist
+		size = 6895
 	}
 
 	aristocrats = {
-		culture = nahua #native_american_minor
+		culture = opata
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = nahua #native_american_minor
+		culture = opata
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = nahua #native_american_minor
+		culture = opata
 		religion = animist
 		size = 150
 	}
 
 	soldiers = {
-		culture = nahua #native_american_minor
+		culture = opata
 		religion = animist
-		size = 25
+		size = 1025
 	}
 
 	farmers = {
-		culture = nahua #native_american_minor
+		culture = opata
 		religion = animist
-		size = 2700
-		militancy = 9
+		size = 13000
 	}
 }
 #Coahuila Region (160000)
@@ -562,57 +436,57 @@
 #Morelos (12000/3000 POPS)
 2147 = {
 	aristocrats = {
-		culture = mexicain
-		religion = catholic
-		size = 75
+		culture = commanche
+		religion = animist
+		size = 175
 	}
 
 	clergymen = {
-		culture = mexicain
-		religion = catholic
-		size = 100
+		culture = commanche
+		religion = animist
+		size = 300
 	}
 
 	artisans = {
-		culture = mexicain
-		religion = catholic
+		culture = commanche
+		religion = animist
 		size = 150
 	}
 
 	soldiers = {
-		culture = mexicain
-		religion = catholic
-		size = 100
+		culture = commanche
+		religion = animist
+		size = 1100
 	}
 
 	farmers = {
-		culture = mexicain
-		religion = catholic
-		size = 700
+		culture = commanche
+		religion = animist
+		size = 12700
 	}
 	
 	clergymen = {
-		culture = caddoan
+		culture = native_american_minor #Kiowa
 		religion = animist
 		size = 100
 	}
 
 	artisans = {
-		culture = caddoan
+		culture = native_american_minor
 		religion = animist
 		size = 100
 	}
 
 	soldiers = {
-		culture = caddoan
+		culture = native_american_minor
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = caddoan
+		culture = native_american_minor
 		religion = animist
-		size = 2200
+		size = 4200
 	}
 }
 #Saltillo (44000/11000 POPS)
@@ -2887,198 +2761,429 @@
 	}
 }
 #Yucatan Region (440000)
-#ruled by Mexico 1836
+#ruled by Mayan Trolls
 #Merida (240000/60000 POPS)
 2183 = {
 	aristocrats = {
 		culture = mexicain
 		religion = catholic
-		size = 1275
-		militancy = 9
+		size = 75
 	}
 
 	bureaucrats = {
 		culture = mexicain
 		religion = catholic
-		size = 200
-		militancy = 9
+		size = 20
 	}
 
 	officers = {
 		culture = mexicain
 		religion = catholic
 		size = 50
-		militancy = 9
 	}
 
 	clergymen = {
 		culture = mexicain
 		religion = catholic
-		size = 475
-		militancy = 9
+		size = 75
 	}
 
 	artisans = {
-		culture = mexicain
-		religion = catholic
-		size = 1050
-		militancy = 9
-	}
-
-	soldiers = {
-		culture = mexicain
-		religion = catholic
-		size = 2000
-
-		militancy = 9
-	}
-
-	farmers = {
-		culture = mexicain
-		religion = catholic
-		size = 12950
-		militancy = 9
-	}
-
-	clergymen = {
-		culture = mayan
-		religion = catholic
-		size = 125
-		militancy = 9
-	}
-
-	artisans = {
-		culture = mayan
-		religion = catholic
-		size = 1950
-		militancy = 9
-	}
-
-	soldiers = {
-		culture = mayan
-		religion = catholic
-		size = 400
-
-		militancy = 9
-	}
-
-	farmers = {
-		culture = mayan
-		religion = catholic
-		size = 36525
-		militancy = 9
-	}
-}
-#Camnpeche (108000/27000 POPS)
-2184 = {
-	aristocrats = {
-		culture = mexicain
-		religion = catholic
-		size = 550
-	}
-
-	clergymen = {
-		culture = mexicain
-		religion = catholic
-		size = 175
-	}
-
-	artisans = {
-		culture = mexicain
-		religion = catholic
-		size = 400
-	}
-
-	soldiers = {
-		culture = mexicain
-		religion = catholic
-		size = 100
-	}
-
-	farmers = {
-		culture = mexicain
-		religion = catholic
-		size = 6775
-	}
-
-	clergymen = {
-		culture = mayan
-		religion = catholic
-		size = 100
-	}
-
-	artisans = {
-		culture = mayan
-		religion = catholic
-		size = 900
-	}
-
-	soldiers = {
-		culture = mayan
-		religion = catholic
-		size = 200
-	}
-
-	farmers = {
-		culture = mayan
-		religion = catholic
-		size = 17800
-	}
-}
-#Bacalar (92000/23000 POPS)
-2185 = {
-	aristocrats = {
-		culture = mexicain
-		religion = catholic
-		size = 475
-	}
-
-	clergymen = {
 		culture = mexicain
 		religion = catholic
 		size = 150
 	}
 
-	artisans = {
-		culture = mexicain
-		religion = catholic
-		size = 50
-	}
-
 	soldiers = {
 		culture = mexicain
 		religion = catholic
-		size = 10
+		size = 200
 	}
 
 	farmers = {
 		culture = mexicain
 		religion = catholic
-		size = 1175
+		size = 950
 	}
 
 	clergymen = {
-		culture = mexicain
-		religion = catholic
-		size = 50
+		culture = mayan
+		religion = animist
+		size = 1125
+	}
+	
+	artisans = {
+		culture = mayan
+		religion = animist
+		size = 10000
 	}
 
 	artisans = {
-		culture = mexicain
-		religion = catholic
-		size = 1100
+		culture = mayan
+		religion = animist
+		size = 1950
 	}
 
 	soldiers = {
-		culture = mexicain
-		religion = catholic
-		size = 225
+		culture = mayan
+		religion = animist
+		size = 4400
+
 	}
 
 	farmers = {
 		culture = mayan
-		religion = catholic
-		size = 20625
+		religion = animist
+		size = 125525
+	}
+}
+#Calkini (240000/60000 POPS)
+3546 = {
+	aristocrats = {
+		culture = mayan
+		religion = animist
+		size = 475
+	}
+
+	clergymen = {
+		culture = mayan
+		religion = animist
+		size = 825
+	}
+
+	artisans = {
+		culture = mayan
+		religion = animist
+		size = 9950
+	}
+
+	soldiers = {
+		culture = mayan
+		religion = animist
+		size = 2400
+	}
+
+	farmers = {
+		culture = mayan
+		religion = animist
+		size = 75525
+	}
+}
+#Mani (240000/60000 POPS)
+3547 = {
+	aristocrats = {
+		culture = mayan
+		religion = animist
+		size = 4475
+	}
+
+	clergymen = {
+		culture = mayan
+		religion = animist
+		size = 4825
+	}
+	
+	artisans = {
+		culture = mayan
+		religion = animist
+		size = 10000
+	}
+	
+	artisans = {
+		culture = mayan
+		religion = animist
+		size = 10000
+	}
+
+	artisans = {
+		culture = mayan
+		religion = animist
+		size = 9950
+	}
+
+	soldiers = {
+		culture = mayan
+		religion = animist
+		size = 5400
+	}
+
+	farmers = {
+		culture = mayan
+		religion = animist
+		size = 134525
+	}
+}
+#Saki (240000/60000 POPS)
+3548 = {
+	aristocrats = {
+		culture = mayan
+		religion = animist
+		size = 3475
+	}
+
+	clergymen = {
+		culture = mayan
+		religion = animist
+		size = 7000
+	}
+	
+	artisans = {
+		culture = mayan
+		religion = animist
+		size = 10000
+	}
+	
+	artisans = {
+		culture = mayan
+		religion = animist
+		size = 10000
+	}
+	
+	artisans = {
+		culture = mayan
+		religion = animist
+		size = 10000
+	}
+
+	artisans = {
+		culture = mayan
+		religion = animist
+		size = 9950
+	}
+
+	soldiers = {
+		culture = mayan
+		religion = animist
+		size = 9400
+	}
+
+	farmers = {
+		culture = mayan
+		religion = animist
+		size = 150525
+	}
+}
+#Ekab (240000/60000 POPS)
+3549 = {
+	aristocrats = {
+		culture = mayan
+		religion = animist
+		size = 1475
+	}
+
+	clergymen = {
+		culture = mayan
+		religion = animist
+		size = 3000
+	}
+	
+	artisans = {
+		culture = mayan
+		religion = animist
+		size = 10000
+	}
+
+	artisans = {
+		culture = mayan
+		religion = animist
+		size = 9950
+	}
+
+	soldiers = {
+		culture = mayan
+		religion = animist
+		size = 2400
+	}
+
+	farmers = {
+		culture = mayan
+		religion = animist
+		size = 110525
+	}
+}
+#Champutun (240000/60000 POPS)
+3550 = {
+	aristocrats = {
+		culture = mayan
+		religion = animist
+		size = 1475
+	}
+
+	clergymen = {
+		culture = mayan
+		religion = animist
+		size = 3000
+	}
+	
+	artisans = {
+		culture = mayan
+		religion = animist
+		size = 10000
+	}
+
+	artisans = {
+		culture = mayan
+		religion = animist
+		size = 9950
+	}
+
+	soldiers = {
+		culture = mayan
+		religion = animist
+		size = 8400
+	}
+
+	farmers = {
+		culture = mayan
+		religion = animist
+		size = 90525
+	}
+}
+#Putun Chan (240000/60000 POPS)
+3557 = {
+	aristocrats = {
+		culture = mayan
+		religion = animist
+		size = 475
+	}
+
+	clergymen = {
+		culture = mayan
+		religion = animist
+		size = 1000
+	}
+
+	artisans = {
+		culture = mayan
+		religion = animist
+		size = 6950
+	}
+
+	soldiers = {
+		culture = mayan
+		religion = animist
+		size = 1400
+	}
+
+	farmers = {
+		culture = mayan
+		religion = animist
+		size = 50525
+	}
+}
+#Kan Pech (240000/60000 POPS)
+3558 = {
+    
+	aristocrats = {
+		culture = north_german
+		religion = protestant
+		size = 75
+	}
+
+	clergymen = {
+		culture = north_german
+		religion = protestant
+		size = 20
+	}
+
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 350
+	}
+	
+	aristocrats = {
+		culture = mayan
+		religion = animist
+		size = 200
+	}
+
+	clergymen = {
+		culture = mayan
+		religion = animist
+		size = 600
+	}
+
+	artisans = {
+		culture = mayan
+		religion = animist
+		size = 16950
+	}
+
+	soldiers = {
+		culture = mayan
+		religion = animist
+		size = 400
+	}
+
+	farmers = {
+		culture = mayan
+		religion = animist
+		size = 30525
+	}
+}
+#Camnpeche (108000/27000 POPS)
+2184 = {
+	aristocrats = {
+		culture = mayan
+		religion = animist
+		size = 550
+	}
+
+	clergymen = {
+		culture = mayan
+		religion = animist
+		size = 900
+	}
+
+	artisans = {
+		culture = mayan
+		religion = animist
+		size = 2900
+	}
+
+	soldiers = {
+		culture = mayan
+		religion = animist
+		size = 3200
+	}
+
+	farmers = {
+		culture = mayan
+		religion = animist
+		size = 62000
+	}
+}
+#Bacalar (92000/23000 POPS)
+2185 = {
+	aristocrats = {
+		culture = mayan
+		religion = animist
+		size = 2475
+	}
+
+	clergymen = {
+		culture = mayan
+		religion = animist
+		size = 1050
+	}
+
+	artisans = {
+		culture = mayan
+		religion = animist
+		size = 8100
+	}
+
+	soldiers = {
+		culture = mayan
+		religion = animist
+		size = 4225
+	}
+
+	farmers = {
+		culture = mayan
+		religion = animist
+		size = 65625
 	}
 
 }

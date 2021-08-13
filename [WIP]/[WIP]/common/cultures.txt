@@ -945,7 +945,7 @@ south_slavic = {
 	}
 	
 	pecenak = {
-		color = {75 130 150}
+		color = {75 130 120}
 		first_names = { Aleksandar Andrey Asen Atanas Atila Bogdan Boncho Boris Damyan Dimitar
 		Dobri Ferdinand Georgi Hristo Ilya Ivan Kalin Kardam Kimon Kiril
 		Kliment Konstantin Krastyu Leonid Mihail Nikifor Niloa Pencho Petar Petko
@@ -5071,7 +5071,7 @@ hokan = {
 		Poot Pop Puk Shal Sho Tecú Teul Tuyuc Xicara Xiloj }
 	}
 	
-	coahuiltec  = {
+	coahuiltec = {
 		color = {190 150 40}
 		first_names = { Agustín Akbal Alejandro Andrés Aníbal Antonio Armando Bernardo Carlos Crescencio
 		Cristóbal Cuautéhmoc Diego Felipe Gaspar Hernando Hilario Humberto Ignacio Jacinto 
@@ -5082,7 +5082,7 @@ hokan = {
 		Poot Pop Puk Shal Sho Tecú Teul Tuyuc Xicara Xiloj }
 	}
 	
-	yuman  = {
+	yuman = {
 		color = {170 130 60}
 		first_names = { Agustín Akbal Alejandro Andrés Aníbal Antonio Armando Bernardo Carlos Crescencio
 		Cristóbal Cuautéhmoc Diego Felipe Gaspar Hernando Hilario Humberto Ignacio Jacinto 
@@ -5093,7 +5093,7 @@ hokan = {
 		Poot Pop Puk Shal Sho Tecú Teul Tuyuc Xicara Xiloj }
 	}
 	
-	cochimi  = {
+	cochimi = {
 		color = {150 110 80}
 		first_names = { Agustín Akbal Alejandro Andrés Aníbal Antonio Armando Bernardo Carlos Crescencio
 		Cristóbal Cuautéhmoc Diego Felipe Gaspar Hernando Hilario Humberto Ignacio Jacinto 
@@ -5187,8 +5187,8 @@ leader = nativeamerican
 	}
 }	
 
-#Mixe-Zoque
-mixe_zoque_group = {
+#Totozoquean 
+totozoquean = {
 	leader = nativeamerican
 	is_overseas = no
 	mixe = {
@@ -5203,6 +5203,55 @@ mixe_zoque_group = {
 	
 	zoque = {
 		color = {180 60 70}
+		first_names = { Ixmacane Zipacna Ix Xamaniqinqu Vucub-Caquix Gukumatz Tecumbalam Balam Yunuen Yaxkin
+		Itzamna  }
+
+		last_names = { Ak'ab'al Cal Canek Canul Carrillo Ceh Chee Chi Choc Coc
+		Curruchic Ixquiac López Manzanero Mas Menchú Mérida Mes Osorio Pek
+		Poot Pop Puk Shal Sho Tecú Teul Tuyuc Xicara Xiloj }
+	}
+	
+	totonac = {
+		color = {160 60 120}
+		first_names = { Ixmacane Zipacna Ix Xamaniqinqu Vucub-Caquix Gukumatz Tecumbalam Balam Yunuen Yaxkin
+		Itzamna  }
+
+		last_names = { Almonte Arredondo Arriaga Aureoles Bernal Brito Calderón Cano Carrillo Cristóbal
+		Cuevas Dimas Esquivel Estrada Galeana Gallardo García Gómez López Maciel
+		Magaña Medrano Mena Ocampo Ochoa Paniagua Tinoco Toryo Vargas Zendejas }
+	}
+	
+	chitimacha  = { #likely just an Isolate
+		color = {160 160 90}
+		first_names = { John Paul José Louis Mariano James David Jack Joel Charles Henry Ganado Herandez
+		}
+		last_names = { Piche Ross Alvarez Smith Crane Mayes Thompson Delgado Dagardo Lafayet
+		}
+	}
+}
+
+#Tarascan/Purepuche 
+tarascan_group = {
+	leader = nativeamerican
+	is_overseas = no
+	tarascan = {
+		color = {150 200 5}
+		first_names = { Agustín Alberto Alfredo Antonio Armando Arturo Carlos Cenobio Daniel Diego
+		Everardo Gerardo Gumersindo Héctor Jesús Juan Leobardo Luis Manuel Marcial
+		"Marco Antonio" Melchor Pedro Ricardo Salvador Samuel Sergio Silvano Silvestre Víctor }
+	
+		last_names = { Almonte Arredondo Arriaga Aureoles Bernal Brito Calderón Cano Carrillo Cristóbal
+		Cuevas Dimas Esquivel Estrada Galeana Gallardo García Gómez López Maciel
+		Magaña Medrano Mena Ocampo Ochoa Paniagua Tinoco Toryo Vargas Zendejas }
+	}
+}
+
+#Cuitlatec 
+cuitlatec_group = {
+	leader = nativeamerican
+	is_overseas = no
+	cuitlatec = {
+		color = {30 40 90}
 		first_names = { Ixmacane Zipacna Ix Xamaniqinqu Vucub-Caquix Gukumatz Tecumbalam Balam Yunuen Yaxkin
 		Itzamna  }
 
@@ -5259,30 +5308,180 @@ misumalpa_group = {
 	}
 }
 
+#Na-Dene 
+na_dene = {
+	leader = nativeamerican
+	is_overseas = no
+	#Southern Athabaskan
+	navajo = { #Apache
+		color = {80 110 190}
+		first_names = { Narbona Mariano Zarcillos Manuelito Herrero Barboncito Ganado "Henry Chee" "Digul Chee"
+		}
+		last_names = { Naat'aa Martinez Ch'ilhanjini Largos Delagado Grande Da'ghaaii To'tso'nii Dodge
+		}
+	}
+	
+	lipan = {
+		color = {80 80 160}
+		first_names = { Narbona Mariano Zarcillos Manuelito Herrero Barboncito Ganado "Henry Chee" "Digul Chee"
+		}
+		last_names = { Naat'aa Martinez Ch'ilhanjini Largos Delagado Grande Da'ghaaii To'tso'nii Dodge 
+		}
+	}
+	
+	#California-Oregon/Central Athabaskan
+	hupa = {
+		color = {80 130 170}
+		first_names = { Narbona Mariano Zarcillos Manuelito Herrero Barboncito Ganado "Henry Chee" "Digul Chee"
+		}
+		last_names = { Naat'aa Martinez Ch'ilhanjini Largos Delagado Grande Da'ghaaii To'tso'nii Dodge 
+		}
+	}
+	
+	wailaki_mattole = {
+		color = {100 150 170}
+		first_names = { Narbona Mariano Zarcillos Manuelito Herrero Barboncito Ganado "Henry Chee" "Digul Chee"
+		}
+		last_names = { Naat'aa Martinez Ch'ilhanjini Largos Delagado Grande Da'ghaaii To'tso'nii Dodge 
+		}
+	}
+	
+	tolowa = {
+		color = {120 170 170}
+		first_names = { Narbona Mariano Zarcillos Manuelito Herrero Barboncito Ganado "Henry Chee" "Digul Chee"
+		}
+		last_names = { Naat'aa Martinez Ch'ilhanjini Largos Delagado Grande Da'ghaaii To'tso'nii Dodge 
+		}
+	}
+	
+	tutuni = {
+		color = {140 190 170}
+		first_names = { Narbona Mariano Zarcillos Manuelito Herrero Barboncito Ganado "Henry Chee" "Digul Chee"
+		}
+		last_names = { Naat'aa Martinez Ch'ilhanjini Largos Delagado Grande Da'ghaaii To'tso'nii Dodge 
+		}
+	}
+	
+	#Northern Athabaskan
+	ahtna = {
+		color = {210 240 255}
+		first_names = { Narbona Mariano Zarcillos Manuelito Herrero Barboncito Ganado "Henry Chee" "Digul Chee"
+		}
+		last_names = { Naat'aa Martinez Ch'ilhanjini Largos Delagado Grande Da'ghaaii To'tso'nii Dodge 
+		}
+	}
+	
+	denaina = {
+		color = {200 230 255}
+		first_names = { Narbona Mariano Zarcillos Manuelito Herrero Barboncito Ganado "Henry Chee" "Digul Chee"
+		}
+		last_names = { Naat'aa Martinez Ch'ilhanjini Largos Delagado Grande Da'ghaaii To'tso'nii Dodge 
+		}
+	}
+	
+	koyukon = {
+		color = {190 220 245}
+		first_names = { Narbona Mariano Zarcillos Manuelito Herrero Barboncito Ganado "Henry Chee" "Digul Chee"
+		}
+		last_names = { Naat'aa Martinez Ch'ilhanjini Largos Delagado Grande Da'ghaaii To'tso'nii Dodge 
+		}
+	}
+	
+	tanana_tutchone  = {
+		color = {180 210 230}
+		first_names = { Narbona Mariano Zarcillos Manuelito Herrero Barboncito Ganado "Henry Chee" "Digul Chee"
+		}
+		last_names = { Naat'aa Martinez Ch'ilhanjini Largos Delagado Grande Da'ghaaii To'tso'nii Dodge 
+		}
+	}
+	
+	kutchin_han  = {
+		color = {170 200 225}
+		first_names = { Narbona Mariano Zarcillos Manuelito Herrero Barboncito Ganado "Henry Chee" "Digul Chee"
+		}
+		last_names = { Naat'aa Martinez Ch'ilhanjini Largos Delagado Grande Da'ghaaii To'tso'nii Dodge 
+		}
+	}
+	
+	cordillera  = {
+		color = {160 190 210}
+		first_names = { Narbona Mariano Zarcillos Manuelito Herrero Barboncito Ganado "Henry Chee" "Digul Chee"
+		}
+		last_names = { Naat'aa Martinez Ch'ilhanjini Largos Delagado Grande Da'ghaaii To'tso'nii Dodge 
+		}
+	}
+	
+	slavey  = {
+		color = {150 180 195}
+		first_names = { Narbona Mariano Zarcillos Manuelito Herrero Barboncito Ganado "Henry Chee" "Digul Chee"
+		}
+		last_names = { Naat'aa Martinez Ch'ilhanjini Largos Delagado Grande Da'ghaaii To'tso'nii Dodge 
+		}
+	} 
+	
+	chipewyan = {
+		color = {140 170 180}
+		first_names = { Narbona Mariano Zarcillos Manuelito Herrero Barboncito Ganado "Henry Chee" "Digul Chee"
+		}
+		last_names = { Naat'aa Martinez Ch'ilhanjini Largos Delagado Grande Da'ghaaii To'tso'nii Dodge 
+		}
+	} 
+	
+	dakelh_witsuwiten = {
+		color = {130 160 165}
+		first_names = { Narbona Mariano Zarcillos Manuelito Herrero Barboncito Ganado "Henry Chee" "Digul Chee"
+		}
+		last_names = { Naat'aa Martinez Ch'ilhanjini Largos Delagado Grande Da'ghaaii To'tso'nii Dodge 
+		}
+	} 
+	
+	chilcotin_nicola = {
+		color = {120 150 150}
+		first_names = { Narbona Mariano Zarcillos Manuelito Herrero Barboncito Ganado "Henry Chee" "Digul Chee"
+		}
+		last_names = { Naat'aa Martinez Ch'ilhanjini Largos Delagado Grande Da'ghaaii To'tso'nii Dodge 
+		}
+	} 
+	
+	tsuutina = {
+		color = {110 140 135}
+		first_names = { Narbona Mariano Zarcillos Manuelito Herrero Barboncito Ganado "Henry Chee" "Digul Chee"
+		}
+		last_names = { Naat'aa Martinez Ch'ilhanjini Largos Delagado Grande Da'ghaaii To'tso'nii Dodge 
+		}
+	} 
+	
+	kwalhioqua_tlatskanai = {
+		color = {100 130 120}
+		first_names = { Narbona Mariano Zarcillos Manuelito Herrero Barboncito Ganado "Henry Chee" "Digul Chee"
+		}
+		last_names = { Naat'aa Martinez Ch'ilhanjini Largos Delagado Grande Da'ghaaii To'tso'nii Dodge 
+		}
+	} 
+	
+	#Eyak
+	eyak = {
+		color = {160 60 120}
+		first_names = { Narbona Mariano Zarcillos Manuelito Herrero Barboncito Ganado "Henry Chee" "Digul Chee"
+		}
+		last_names = { Naat'aa Martinez Ch'ilhanjini Largos Delagado Grande Da'ghaaii To'tso'nii Dodge 
+		}
+	}
+	
+	#Tlingit
+	tlingit = {
+		color = {160 60 120}
+		first_names = { Narbona Mariano Zarcillos Manuelito Herrero Barboncito Ganado "Henry Chee" "Digul Chee"
+		}
+		last_names = { Naat'aa Martinez Ch'ilhanjini Largos Delagado Grande Da'ghaaii To'tso'nii Dodge 
+		}
+	}
+}
+
 #Native Americans (WIP)
 native_american = {
 	leader = nativeamerican
 	is_overseas = no
-	mayan = {
-		color = {98 88 142}
-		first_names = { Agustín Akbal Alejandro Andrés Aníbal Antonio Armando Bernardo Carlos Crescencio
-		Cristóbal Cuautéhmoc Diego Felipe Gaspar Hernando Hilario Humberto Ignacio Jacinto 
-		Jesús Luis Marcial Martín Miguel Ramiro Rodolfo Rolando Santiago Yumil }
-
-		last_names = { Ak'ab'al Cal Canek Canul Carrillo Ceh Chee Chi Choc Coc
-		Curruchic Ixquiac López Manzanero Mas Menchú Mérida Mes Osorio Pek
-		Poot Pop Puk Shal Sho Tecú Teul Tuyuc Xicara Xiloj }
-	}
-	#tarascan = {
-	#	color = {148 204 4}
-	#	first_names = { Agustín Alberto Alfredo Antonio Armando Arturo Carlos Cenobio Daniel Diego
-	#	Everardo Gerardo Gumersindo Héctor Jesús Juan Leobardo Luis Manuel Marcial
-	#	"Marco Antonio" Melchor Pedro Ricardo Salvador Samuel Sergio Silvano Silvestre Víctor }
-	#
-	#	last_names = { Almonte Arredondo Arriaga Aureoles Bernal Brito Calderón Cano Carrillo Cristóbal
-	#	Cuevas Dimas Esquivel Estrada Galeana Gallardo García Gómez López Maciel
-	#	Magaña Medrano Mena Ocampo Ochoa Paniagua Tinoco Toryo Vargas Zendejas }
-	#}
 	amazonian = {
 		color = {4 255 84}
 		first_names = { Aníbal Augusto Bento Bernardo César Daniel David Donato Duarte Ernesto
@@ -5353,13 +5552,6 @@ native_american = {
 		first_names = { Louis Maskipitonew Alexis Samson Joe James Baptiste Felix Jacob
 		}
 		last_names = { Piche Kiskiyew Crane Saddleback Buffalo Rain
-		}
-	}
-	navajo = {
-		color = {83 111 191}
-		first_names = { Narbona Mariano Zarcillos Manuelito Herrero Barboncito Ganado "Henry Chee" "Digul Chee"
-		}
-		last_names = { Naat'aa Martinez Ch'ilhanjini Largos Delagado Grande Da'ghaaii To'tso'nii Dodge
 		}
 	}
 	native_american_minor = {
