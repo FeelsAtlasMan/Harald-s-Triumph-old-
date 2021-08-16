@@ -68,6 +68,7 @@ political_decisions = {
 	}
 	
 	protect_frisia = {
+		picture = flag_frisia
 		potential = {
 			FRI = {
 				exists = yes
@@ -130,12 +131,13 @@ political_decisions = {
 						has_pop_culture = norwegian
 					}
 				}
-				counciousness = -1
+				consciousness = -1
 			}
 		}
 	}
 	
 	the_matter_of_anglosaxons = {
+		picture = anglo_saxons
 		potential = {
 			OR = {
 				tag = ENG
@@ -151,6 +153,48 @@ political_decisions = {
 			prestige = 5
 			country_event = 120800
 			set_country_flag = the_matter_of_anglosaxons
+		}
+	}
+	
+	north_sea_protectorate = {
+		picture = north_sea_protectorate
+		potential = {
+			tag = NRD
+			NOT = { has_country_flag = north_sea_protectorate }
+		}
+		allow = {
+			is_greater_power = yes
+			FRI = {
+				all_core = {
+					owned_by = THIS
+				}
+			}
+			NOT = { centralization = confederalism }
+			war_policy = jingoism
+		}
+		effect = {
+			NET = {
+				all_core = {
+					add_core = THIS
+				}
+			}
+			OLD = {
+				all_core = {
+					add_core = THIS
+				}
+			}
+			FLA = {
+				all_core = {
+					add_core = THIS
+				}
+			}
+			HOL = {
+				all_core = {
+					add_core = THIS
+				}
+			}
+			add_core = 531
+			set_country_flag = north_sea_protectorate
 		}
 	}
 }
