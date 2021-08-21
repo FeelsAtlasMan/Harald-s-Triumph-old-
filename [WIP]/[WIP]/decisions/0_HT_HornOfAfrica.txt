@@ -79,7 +79,6 @@ political_decisions = {
 				limit = {
 					any_owned_province = { is_core = ETH }
 					civilized = no
-					NOT = { tag = ABB }
 					NOT = { tag = THIS }
 				}
 				relation = { who = THIS value = -400 }

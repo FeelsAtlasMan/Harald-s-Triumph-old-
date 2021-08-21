@@ -3668,7 +3668,7 @@ great_game_cb = {
 }
 
 swahili_domination = {
-	sprite_index = 18
+	sprite_index = 29
 	is_triggered_only = yes
 	months = 12
 	crisis = no
@@ -3748,9 +3748,11 @@ swahili_domination = {
 		}
 	}
 	
-	on_po_accepted = {
-		country_event = 19370
-	}
+	po_annex = yes
+	
+	#on_po_accepted = {
+	#	country_event = 19370
+	#}
 }
 
 restore_british_raj = {

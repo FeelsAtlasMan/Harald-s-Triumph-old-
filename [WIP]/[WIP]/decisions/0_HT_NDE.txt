@@ -1,5 +1,5 @@
 political_decisions = {
-	
+
 	einn_konungr_einn_kountry = {
 		picture = harald
 		potential = {
@@ -66,7 +66,7 @@ political_decisions = {
 			}
 		}
 	}
-	
+
 	protect_frisia = {
 		potential = {
 			FRI = {
@@ -103,7 +103,7 @@ political_decisions = {
 			set_country_flag = frisia_annexed
 		}
 	}
-	
+
 	create_the_nordic_monetary_union = {
 		picture = SCA_customs_union
 		potential = {
@@ -134,7 +134,7 @@ political_decisions = {
 			}
 		}
 	}
-	
+
 	the_matter_of_anglosaxons = {
 		potential = {
 			OR = {

@@ -3375,6 +3375,11 @@ mamluk_estates = {
 	icon = 1
 }
 
+sedentarization = {
+	population_growth = 0.001
+	icon = 1
+}
+
 fulani_jihad = {
 	mobilisation_size = 0.75
 	population_growth = 0.002

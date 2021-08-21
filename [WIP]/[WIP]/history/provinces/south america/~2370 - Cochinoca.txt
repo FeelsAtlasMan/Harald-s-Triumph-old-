@@ -1,6 +1,0 @@
-owner = DGT
-controller = DGT
-add_core = DGT
-add_core = INC
-trade_goods = wool
-life_rating = 31

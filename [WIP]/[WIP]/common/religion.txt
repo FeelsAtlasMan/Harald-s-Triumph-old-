@@ -82,7 +82,7 @@ yazidi_group = {
 	}
 }
 
-gnostic_group = {
+gnostic_group = { #Mandean
 	mormon = {
 		icon = 15
 		color = { 0 0 0.5 }
@@ -140,4 +140,20 @@ pagan = {
 		icon = 23
 		color = { 0.419 0.247 0.627 }
 	}	
+	tarascan_religion = {
+		icon = 25
+		color = { 0.55 0.22 0.61 }
+	}
+	nahua_religion = {
+		icon = 26
+		color = { 0.4 0.8 0.6 }
+	}
+	maya_religion = {
+		icon = 27
+		color = { 0.55 0.82 0.61 }
+	}
+	#washyacac_religion = {
+	#	icon = 27
+	#	color = { 0.55 0.82 0.61 }
+	#}
 }

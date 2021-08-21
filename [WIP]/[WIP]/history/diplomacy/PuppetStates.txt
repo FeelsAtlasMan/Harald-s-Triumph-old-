@@ -928,7 +928,7 @@ substate = {
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }
-#Incan Empire
+#Incas
 vassal = {
 	first = INC
 	second = DGT
@@ -944,6 +944,12 @@ vassal = {
 vassal = {
 	first = INC
 	second = ACM
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+vassal = {
+	first = INC
+	second = WRP
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }

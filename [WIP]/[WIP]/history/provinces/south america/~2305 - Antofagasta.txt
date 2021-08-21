@@ -1,7 +1,0 @@
-owner = ACM
-controller = ACM
-add_core = ACM
-trade_goods = wool
-terrain = new_world_desert
-life_rating = 15
-naval_base = 1

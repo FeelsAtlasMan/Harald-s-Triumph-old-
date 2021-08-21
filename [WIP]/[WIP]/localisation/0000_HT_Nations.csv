@@ -1456,13 +1456,15 @@ GCC;Guachichil;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 GCC_ADJ;Guachichil;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 TNL;Tonallan;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 TNL_ADJ;Tonallan;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+WRP;Warpe;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+WRP_ADJ;Warpe;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 CLM;Sallia;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 CLM_colonial_company;New Aquitania;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 CLM_ADJ;Sallian;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PRG;Mbaya;;;;;;;;;;;x;
 PRG_proletarian_dictatorship;Mbaya;;;;;;;;;;;;;x;
 PRG_presidential_dictatorship;Mbaya;;;;;;;;;;;;;x;
-PRG_democracyMbaya;;;;;;;;;;;;;x;
+PRG_democracy;Mbaya;;;;;;;;;;;;;x;
 PRG_absolute_monarchy;Mbaya;;;;;;;;;;;;;x;
 PRG_prussian_constitutionalism;Mbaya;;;;;;;;;;;;;x;
 PRG_hms_government;Mbaya;;;;;;;;;;;;;x;

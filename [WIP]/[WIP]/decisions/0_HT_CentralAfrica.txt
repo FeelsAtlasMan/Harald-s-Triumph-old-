@@ -5,6 +5,7 @@ political_decisions = {
 	    potential = {
 			SWA = { exists = no }
 			has_country_flag = swahili_country
+			NOT = { tag = PER }
 		}
 
 		allow = {

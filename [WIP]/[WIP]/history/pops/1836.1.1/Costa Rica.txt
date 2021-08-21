@@ -54,85 +54,85 @@
 3556 = {
 	aristocrats = {
 		culture = nahua
-		religion = animist
+		religion = nahua_religion
 		size = 100
 	}
 
 	bureaucrats = {
 		culture = nahua
-		religion = animist
+		religion = nahua_religion
 		size = 50
 	}
 
 	officers = {
 		culture = nahua
-		religion = animist
+		religion = nahua_religion
 		size = 25
 	}
 
 	clergymen = {
 		culture = nahua
-		religion = animist
+		religion = nahua_religion
 		size = 125
 	}
 
 	artisans = {
 		culture = nahua
-		religion = animist
+		religion = nahua_religion
 		size = 650
 	}
 
 	soldiers = {
 		culture = nahua
-		religion = animist
+		religion = nahua_religion
 		size = 1525
 	}
 
 	farmers = {
 		culture = nahua
-		religion = animist
+		religion = nahua_religion
 		size = 10000
 	}
 	
 	aristocrats = {
 		culture = manguean
-		religion = animist
+		religion = nahua_religion
 		size = 500
 	}
 
 	bureaucrats = {
 		culture = manguean
-		religion = animist
+		religion = nahua_religion
 		size = 150
 	}
 
 	officers = {
 		culture = manguean
-		religion = animist
+		religion = nahua_religion
 		size = 125
 	}
 
 	clergymen = {
 		culture = manguean
-		religion = animist
+		religion = nahua_religion
 		size = 425
 	}
 
 	artisans = {
 		culture = manguean
-		religion = animist
+		religion = nahua_religion
 		size = 650
 	}
 
 	soldiers = {
 		culture = manguean
-		religion = animist
+		religion = nahua_religion
 		size = 1525
 	}
 	
 	farmers = {
 		culture = manguean
-		religion = animist
+		religion = nahua_religion
 		size = 31725
 	}
 }

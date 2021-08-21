@@ -4,49 +4,49 @@
 2190 = {
 	aristocrats = {
 		culture = mayan
-		religion = animist
+		religion = maya_religion
 		size = 140
 	}
 
 	clergymen = {
 		culture = mayan
-		religion = animist
+		religion = maya_religion
 		size = 215
 	}
 
 	artisans = {
 		culture = mayan
-		religion = animist
+		religion = maya_religion
 		size = 900
 	}
 
 	soldiers = {
 		culture = mayan
-		religion = animist
+		religion = maya_religion
 		size = 1010
 	}
 
 	farmers = {
 		culture = mayan
-		religion = animist
+		religion = maya_religion
 		size = 21400
 	}
 	
 	artisans = {
 		culture = quiche
-		religion = animist
+		religion = maya_religion
 		size = 90
 	}
 
 	soldiers = {
 		culture = quiche
-		religion = animist
+		religion = maya_religion
 		size = 110
 	}
 
 	farmers = {
 		culture = quiche
-		religion = animist
+		religion = maya_religion
 		size = 1400
 	}
 }

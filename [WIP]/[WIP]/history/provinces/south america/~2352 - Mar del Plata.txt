@@ -1,6 +1,0 @@
-owner = SBA
-controller = SBA
-add_core = SBA
-trade_goods = cattle
-terrain = farmlands
-life_rating = 35

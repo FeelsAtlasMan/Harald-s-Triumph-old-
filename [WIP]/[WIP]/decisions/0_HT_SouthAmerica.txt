@@ -1,0 +1,39 @@
+political_decisions = {
+	unite_the_chaco = {
+		potential = {
+		    OR = {
+			   tag = CCH
+			   tag = ABP
+			   tag = PRG
+			}
+			NOT = { has_country_flag = { united_the_chaco } }
+		}
+		
+		allow = {
+			CCH = { all_core = { owned_by = THIS } }
+			ABP = { all_core = { owned_by = THIS } }
+			PRG = { all_core = { owned_by = THIS } }
+			war = no
+		}
+		effect = {
+			CCH = { all_core = { add_core = THIS } }
+			ABP = { all_core = { add_core = THIS } }
+			PRG = { all_core = { add_core = THIS } }
+			add_accepted_culture = comechingon
+			add_accepted_culture = sanaviron
+			add_accepted_culture = abipon
+			add_accepted_culture = wichi
+			add_accepted_culture = tonocote
+			add_accepted_culture = vilela
+			add_accepted_culture = lule
+			add_accepted_culture = mbaya
+			add_accepted_culture = chane_terena
+			add_accepted_culture = nivacle
+			add_accepted_culture = toba
+			add_accepted_culture = payagua
+			add_accepted_culture = lengua
+			add_accepted_culture = guarani
+		}
+		ai_will_do = { factor = 1 }
+	}
+}

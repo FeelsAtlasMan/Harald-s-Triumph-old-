@@ -312,6 +312,7 @@ ZCT	    = "countries/Zacatec.txt"
 GCC	    = "countries/Guachichil.txt"
 TNL	    = "countries/Tonallan.txt"
 NCY	    = "countries/Nicoya.txt"
+WRP	    = "countries/Warpe.txt"
 
 ##HFM New Nations
 #ATB	= "countries/Saxe-Altenburg.txt"

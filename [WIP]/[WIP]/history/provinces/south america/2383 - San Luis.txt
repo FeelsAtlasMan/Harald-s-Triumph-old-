@@ -1,8 +1,8 @@
-owner = CCH
-controller = CCH
-add_core = CCH
+owner = WRP
+controller = WRP
+add_core = WRP
 trade_goods = grain
 life_rating = 25
-terrain = steppe
+terrain = dryhills
 
 

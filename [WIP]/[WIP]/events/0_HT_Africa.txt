@@ -7,10 +7,14 @@ country_event = {
 	
 	trigger = {
 		OR = {
-			tag = SWA
 			AND = {
 			   owns = 2048
 			   year = 1860
+			   tag = SWA
+			}
+			AND = {
+			   owns = 2048
+			   year = 1870
 			}
 		}
 	}

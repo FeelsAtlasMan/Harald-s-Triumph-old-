@@ -5246,6 +5246,23 @@ tarascan_group = {
 	}
 }
 
+#Wave
+wave_group = {
+	leader = nativeamerican
+	is_overseas = no
+	wave = {
+		color = {150 10 5}
+		first_names = { Agustín Alberto Alfredo Antonio Armando Arturo Carlos Cenobio Daniel Diego
+		Everardo Gerardo Gumersindo Héctor Jesús Juan Leobardo Luis Manuel Marcial
+		"Marco Antonio" Melchor Pedro Ricardo Salvador Samuel Sergio Silvano Silvestre Víctor }
+	
+		last_names = { Almonte Arredondo Arriaga Aureoles Bernal Brito Calderón Cano Carrillo Cristóbal
+		Cuevas Dimas Esquivel Estrada Galeana Gallardo García Gómez López Maciel
+		Magaña Medrano Mena Ocampo Ochoa Paniagua Tinoco Toryo Vargas Zendejas }
+	}
+}
+
+
 #Cuitlatec 
 cuitlatec_group = {
 	leader = nativeamerican
@@ -5940,7 +5957,7 @@ guaykuruan  = {
 		Millapani Nahuel Ñanku Paillacar Pillancar Quelin Remultray Unquen Waikimill Yankvleufu }
 	}
 	
-	toba  = {
+	toba = {
 		color = {35 50 130}
 		first_names = { Agustín Antonio Aquiles Arturo Aurelio Bernardo Carlos Claudio Diego Facundo
 		Félix Fernando Francisco Gerardo Gregorio Hugo Ignacio José Juan Luis
@@ -7358,7 +7375,7 @@ arawak_group  = {
 	leader = nativeamerican
 	is_overseas = no
 	#Southern
-	  #Western
+	 #Western
 	 yanesha  = {
 		color = {25 25 220}
 		first_names = { Agustín Antonio Aquiles Arturo Aurelio Bernardo Carlos Claudio Diego Facundo

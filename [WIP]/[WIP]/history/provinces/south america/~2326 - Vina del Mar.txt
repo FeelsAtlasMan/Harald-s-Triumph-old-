@@ -1,5 +1,0 @@
-owner = DGT
-controller = DGT
-add_core = DGT
-trade_goods = cattle
-life_rating = 35

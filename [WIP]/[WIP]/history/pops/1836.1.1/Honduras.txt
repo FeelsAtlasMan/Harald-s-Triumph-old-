@@ -108,61 +108,61 @@
 	
 	aristocrats = {
 		culture = chol
-		religion = animist
+		religion = maya_religion
 		size = 500
 	}
 
 	clergymen = {
 		culture = chol
-		religion = animist
+		religion = maya_religion
 		size = 300
 	}
 
 	artisans = {
 		culture = chol
-		religion = animist
+		religion = maya_religion
 		size = 2000
 	}
 
 	soldiers = {
 		culture = chol
-		religion = animist
+		religion = maya_religion
 		size = 500
 	}
 
 	farmers = {
 		culture = chol
-		religion = animist
+		religion = maya_religion
 		size = 30000
 	}
 	
 	aristocrats = {
 		culture = nahua
-		religion = animist
+		religion = maya_religion
 		size = 50
 	}
 
 	clergymen = {
 		culture = nahua
-		religion = animist
+		religion = maya_religion
 		size = 125
 	}
 
 	artisans = {
 		culture = nahua
-		religion = animist
+		religion = maya_religion
 		size = 150
 	}
 
 	soldiers = {
 		culture = nahua
-		religion = animist
+		religion = maya_religion
 		size = 225
 	}
 
 	farmers = {
 		culture = nahua
-		religion = animist
+		religion = maya_religion
 		size = 10850
 	}
 }
@@ -230,31 +230,31 @@
 	
 	aristocrats = {
 		culture = chol
-		religion = animist
+		religion = maya_religion
 		size = 125
 	}
 
 	clergymen = {
 		culture = chol
-		religion = animist
+		religion = maya_religion
 		size = 175
 	}
 
 	artisans = {
 		culture = chol
-		religion = animist
+		religion = maya_religion
 		size = 850
 	}
 
 	soldiers = {
 		culture = chol
-		religion = animist
+		religion = maya_religion
 		size = 1875
 	}
 
 	farmers = {
 		culture = chol
-		religion = animist
+		religion = maya_religion
 		size = 20000
 	}
 }

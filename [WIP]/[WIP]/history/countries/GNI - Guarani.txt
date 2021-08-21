@@ -37,7 +37,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies 
 
-set_country_flag = animist_country
+set_country_flag = sunni_country
 
 #Unciv Reforms
 #monetary_reform = yes_monetary_reform #Currency
@@ -125,7 +125,7 @@ military_staff_system = 1 #Officier Training
 #bronze_muzzle_loaded_artillery = 1 #Artillery
 #iron_muzzle_loaded_artillery = 1
 
-ruling_party = "Conservatives"
+ruling_party = "Hazb Che Rogape"
 upper_house = {
 	fascist = 0
 	liberal = 29
