@@ -1,4 +1,4 @@
-capital = 2432
+capital = 2436
 primary_culture = brazili
 religion = sunni
 government = democracy

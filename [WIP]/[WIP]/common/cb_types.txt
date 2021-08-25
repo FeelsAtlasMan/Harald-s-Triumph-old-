@@ -901,7 +901,7 @@ eth_unification = {
 		NOT = { is_our_vassal = THIS }
 		THIS = {
 		    OR = {
-			   is_culture_group = ethiosemetic
+			   is_culture_group = ethiosemitic
 			   primary_culture = oromo
 			}
 			NOT = { has_country_flag = shiite_country }

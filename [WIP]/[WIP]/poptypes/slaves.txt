@@ -68,3 +68,54 @@ issues = {
 		}
 	}
 }
+
+promote_to = {
+	farmers = {
+		factor = 1
+		
+		modifier = {
+			factor = 0
+			slavery = yes_slavery
+		}
+			
+		modifier = {
+			factor = 0.1
+			slavery = freedom_of_womb
+		}
+	}
+	
+	serfs = {
+		factor = 1
+		
+		modifier = {
+			factor = 0
+			slavery = yes_slavery
+		}
+		
+		modifier = {
+			factor = 0
+			debt_law = debtors_prisons
+		}
+		
+		modifier = {
+			factor = 0
+			debt_law = bankruptcy
+		}
+			
+		modifier = {
+			factor = 0.2
+			AND = {
+			    slavery = freedom_of_womb
+				debt_law = serfdom
+			}
+		}
+		
+		modifier = {
+			factor = 0.6
+			AND = {
+			    slavery = freedom_of_womb
+				debt_law = peonage
+			}
+		}
+	}
+}

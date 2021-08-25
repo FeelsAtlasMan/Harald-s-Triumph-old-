@@ -3373,11 +3373,15 @@ mamluk_estates = {
 	local_RGO_output = 0.05
 	goods_demand = -0.05
 	icon = 1
-}
 
 sedentarization = {
 	population_growth = 0.001
 	icon = 1
+}
+
+native_integration_humr = {
+	assimilation_rate = 0.75
+	icon = 19
 }
 
 fulani_jihad = {
@@ -3390,4 +3394,34 @@ fulani_jihad = {
 	supply_consumption = -0.8
 	war_exhaustion = -0.20
 	icon = 17
+}
+
+cerrado_raids = {
+	immigrant_push = 0.5
+	local_RGO_output = -0.5
+	pop_consciousness_modifier = 0.2
+	pop_militancy_modifier = 0.25
+	population_growth = -0.005
+	icon = 18
+}
+
+rise_of_agriculture = {
+	local_RGO_output = -0.1
+	immigrant_attract = 0.1
+	icon = 1
+}
+
+deforestation = {
+	immigrant_attract = 0.1
+	icon = 2
+}
+
+charcoal_production = {
+	local_RGO_output = -0.3
+	icon = 13
+}
+
+hemp_production = {
+	local_RGO_output = -0.25
+	icon = 13
 }

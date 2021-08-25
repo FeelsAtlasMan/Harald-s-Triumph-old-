@@ -41,7 +41,7 @@ country_event = {
 		    1190 = { 
 		       any_pop = {
 		       limit = {
-		         has_pop_culture = kirgiz
+		         has_pop_culture = mapuche
 		       }
 		       move_pop = 1184
 		    }
@@ -68,5 +68,390 @@ country_event = {
 		    }
 		    release = KML
 		    ai_chance = { factor = 100 }
+	    }
+}
+
+country_event = {
+        id = 690001
+        title = "The future of al-Humr"
+        desc = "EVTDESC690001"
+        picture = "ulama"
+        
+        is_triggered_only = yes
+	
+        option = {
+		    name = "Slavery is an essential part of al-Humr!"
+            any_pop = {
+			    limit = {
+				NOT = { has_pop_culture = brazili }
+				has_pop_religion = animist
+		       }
+			pop_type = slaves
+			reduce_pop = 0.95
+			}
+			any_pop = {
+			    limit = {
+				has_pop_type = slaves
+		       }
+			militancy = 9
+			}
+			ai_chance = { factor = 50 }
+			
+	    }
+		
+		option = {
+		    name = "Give Slaves the chance to work their way up!"
+            political_reform = freedom_of_womb
+			any_pop = {
+			    limit = { 
+				    pop_majority_ideology = reactionary
+				}
+				militancy = 7
+			}
+			any_pop = {
+			    limit = { 
+				    pop_majority_ideology = conservative
+				}
+				militancy = 3
+			}
+			ai_chance = { factor = 40 }
+	    }
+		
+		option = {
+		    name = "This cruel system needs to be removed!"
+            political_reform = no_slavery
+			add_accepted_culture = afro_brazili
+			any_pop = {
+			    limit = { 
+				    pop_majority_ideology = reactionary
+				}
+				militancy = 10
+			}
+			any_pop = {
+			    limit = { 
+				    pop_majority_ideology = conservative
+				}
+				militancy = 7
+			}
+			any_pop = {
+			    limit = { 
+				    has_pop_culture = afro_brazili
+				}
+				militancy = -8
+			}
+			ai_chance = { factor = 10 }
+	    }
+		
+}
+
+country_event = {
+        id = 690002
+        title = "Chief Tamo's resistance"
+        desc = "EVTDESC690002"
+        picture = "chief_tamo"
+        
+        is_triggered_only = yes
+	
+        option = {
+		    name = "Bring him down!"
+            TPB = { 
+			    add_country_modifier = {
+	                name = rally_tribesmen
+	                duration = 365
+                }
+			}
+	    }
+}
+
+country_event = {
+        id = 690003
+        title = "Tamo flees into the woodworks!"
+        desc = "EVTDESC690003"
+        picture = "brazil_forest"
+        
+        trigger = {
+		    TPB = { exists = no }
+			2444 = { owned_by = PNB }
+		}
+	
+        option = {
+		    name = "Put this down. Now!"
+            any_owned = {
+			    limit = {
+				    is_core = TPB
+				}
+				add_province_modifier = {
+	                name = cerrado_raids
+	                duration = 1800
+                }
+			} 
+			set_country_flag = cerrado_guerilla_war
+			country_event = {
+			    id = 690004
+				days = 1800
+			}
+	    }
+}
+
+country_event = {
+        id = 690004
+        title = "The capture of Chief Tamo!"
+        desc = "EVTDESC690004"
+        picture = "capture_of_tamo"
+        
+        is_triggered_only = yes
+	
+        option = {
+		    name = "Spare his life, but hold him hostage."
+            any_pop = {
+		        limit = {
+		            has_pop_culture = tupinamba
+		        }
+				militancy = -2
+			}
+			set_country_flag = spared_tamo
+			set_country_flag = inner_cerrado_pacified
+			ai_chance = { factor = 90 }
+	    }
+		
+		 option = {
+		    name = "Execute him!"
+             any_pop = {
+		        limit = {
+				    OR = {
+		                has_pop_culture = tupinamba
+						has_pop_culture = shakriaba
+						has_pop_culture = kayapo
+					}
+		        }
+				militancy = 8
+			}
+			set_country_flag = inner_cerrado_pacified
+			ai_chance = { factor = 10 }
+	    }
+}
+
+#Cotton
+province_event = {
+        id = 690005
+        title = "Successfull deforestation in $PROVINCENAME$"
+        desc = "EVTDESC690005"
+        #picture = "capture_of_tamo"
+        
+        trigger = {
+		    has_province_modifier = charcoal_production	
+			OR = {
+                province_id = 2345	
+				province_id = 2348
+                province_id = 2349	
+				province_id = 2351	
+                province_id = 2352	
+				province_id = 2359
+                province_id = 2360					
+            }				
+		}
+		
+		mean_time_to_happen = { months = 120 }
+	
+        option = {
+		    name = "Great news!"
+            add_province_modifier = {
+	                name = deforestation
+	                duration = 36500
+            }
+			trade_goods = cotton
+			add_province_modifier = {
+	                name = hemp_production
+	                duration = 36500
+            }
+			add_province_modifier = {
+	                name = rise_of_agriculture
+	                duration = 365
+            }
+			remove_province_modifier = charcoal_production
+	    }
+}
+
+#Precious Metals
+province_event = {
+        id = 690006
+        title = "Discovery of Precious Metals in $PROVINCENAME$!"
+        desc = "EVTDESC690006"
+        #picture = "capture_of_tamo"
+        
+        trigger = {
+		    has_province_modifier = charcoal_production	
+			OR = {
+                province_id = 2440	
+				province_id = 2443					
+            }				
+		}
+		
+		mean_time_to_happen = { months = 120 }
+	
+        option = {
+		    name = "Great news!"
+            add_province_modifier = {
+	                name = deforestation
+	                duration = 36500
+            }
+			trade_goods = precious_metal
+			add_province_modifier = {
+	                name = gold_rush
+	                duration = 1030
+            }
+			owner = {
+			random_owned = {
+				limit = { 
+					owner = {
+						NOT = { has_country_modifier = gold_rush_country }
+						OR = { 
+							capital_scope = { continent = north_america } 
+							capital_scope = { continent = south_america }
+							primary_culture = australian
+						}
+					}
+				}
+				owner = { add_country_modifier = { name = gold_rush_country duration = 730 } }
+			    }
+		    }
+			remove_province_modifier = charcoal_production
+			ai_chance = { 100 }
+	    }
+		
+		option = {
+		    name = "Build Farms instead!"
+            add_province_modifier = {
+	                name = deforestation
+	                duration = 36500
+            }
+			add_province_modifier = {
+	                name = rise_of_agriculture
+	                duration = 365
+            }
+			trade_goods = grain
+			remove_province_modifier = charcoal_production
+			ai_chance = { factor = 0 }
+	    }
+}
+
+#Iron
+province_event = {
+        id = 690006
+        title = "Discovery of Metals in $PROVINCENAME$!"
+        desc = "EVTDESC690006"
+        
+        trigger = {
+		    has_province_modifier = charcoal_production	
+			province_id = 2441			
+		}
+		
+		mean_time_to_happen = { months = 120 }
+	
+        option = {
+		    name = "Focus on the Iron Mines!"
+            add_province_modifier = {
+	                name = deforestation
+	                duration = 36500
+            }
+			trade_goods = iron
+			remove_province_modifier = charcoal_production
+			ai_chance = { 100 }
+	    }
+		
+		option = {
+		    name = "Focus on the Gold Mines!"
+            add_province_modifier = {
+	                name = deforestation
+	                duration = 36500
+            }
+			trade_goods = precious_metal
+			remove_province_modifier = charcoal_production
+			ai_chance = { 0 }
+	    }
+		
+		option = {
+		    name = "Build Farms instead!"
+            add_province_modifier = {
+	                name = deforestation
+	                duration = 36500
+            }
+			add_province_modifier = {
+	                name = rise_of_agriculture
+	                duration = 365
+            }
+			trade_goods = grain
+			remove_province_modifier = charcoal_production
+			ai_chance = { factor = 0 }
+	    }
+}
+
+#Cattle
+province_event = {
+        id = 690007
+        title = "Successfull deforestation in $PROVINCENAME$!"
+        desc = "EVTDESC690007"
+        
+        trigger = {
+		    has_province_modifier = charcoal_production	
+			province_id = 2444		
+            province_id = 2445	
+            province_id = 2452					
+		}
+		
+		mean_time_to_happen = { months = 120 }
+	
+        option = {
+		    name = "Great news!"
+            add_province_modifier = {
+	                name = deforestation
+	                duration = 36500
+            }
+			trade_goods = cattle
+			add_province_modifier = {
+	                name = rise_of_agriculture
+	                duration = 365
+            }
+			remove_province_modifier = charcoal_production
+	    }
+}
+
+#Grain
+province_event = {
+        id = 690008
+        title = "Successfull deforestation in $PROVINCENAME$!"
+        desc = "EVTDESC690008"
+        
+        trigger = {
+		    has_province_modifier = charcoal_production	
+			province_id = 2446	
+            province_id = 2453	
+            province_id = 2456			
+		}
+		
+		mean_time_to_happen = { 
+		    months = 120 
+			modifier = {
+			factor = 0.6
+			slavery = freedom_of_womb
+		    }
+			modifier = {
+			factor = 0.3
+			slavery = no_slavery
+		    }
+		}
+	
+        option = {
+		    name = "Great news!"
+            add_province_modifier = {
+	                name = deforestation
+	                duration = 36500
+            }
+			trade_goods = grain
+			add_province_modifier = {
+	                name = rise_of_agriculture
+	                duration = 365
+            }
+			remove_province_modifier = charcoal_production
 	    }
 }

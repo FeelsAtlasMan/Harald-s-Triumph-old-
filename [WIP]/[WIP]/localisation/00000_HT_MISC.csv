@@ -144,23 +144,23 @@ HAS_UNION_TAG;has ethnic union;;;;;;;;;;;;;x
 HAS_NO_UNION_TAG;has NO ethnic union;;;;;;;;;;;;;x
 HAS_CULTURE_UNION;Has ethnic union;;;;;;;;;;;;;x
 HAS_NOT_CULTURE_UNION;Has NO ethnic union;;;;;;;;;;;;;x
-TB_NATIONALFOCUS_CULTURE;Â§Y$NUM$Â§W people of our official/national language give us Â§Y$FOCUS$Â§W focus points;;;;;;;;;;;;;x
+TB_NATIONALFOCUS_CULTURE;§Y$NUM$§W people of our official/national language give us §Y$FOCUS$§W focus points;;;;;;;;;;;;;x
 IS_NOT_ACCEPTED_CULTURE_POP;does not belong to a national language.\n;;;;;;;;;;;;;x;
 IS_ACCEPTED_CULTURE_POP;belong to a national language.\n;;;;;;;;;;;;;x;
 COUNTRY_IS_NOT_CULTURE;Official Language is NOT;;;;;;;;;;;;x;
 COUNTRY_IS_CULTURE;Official Language is;;;;;;;;;;;;;x;
-IS_NOT_PRIMARY_CULTURE;Â§Y$NAME$Â§W is NOT our official language.\n;;;;;;;;;;;;;x;
-IS_PRIMARY_CULTURE;Â§Y$NAME$Â§W is our primary or official language.\n;;;;;;;;;;;;;x;
-IS_NOT_ACCEPTED_CULTURE2;Â§Y$NAME$Â§W is NOT a national language.\n;;;;;;;;;;;;;x;
-IS_ACCEPTED_CULTURE2;Â§Y$NAME$Â§W is a national language.\n;;;;;;;;;;;;;x;
+IS_NOT_PRIMARY_CULTURE;§Y$NAME$§W is NOT our official language.\n;;;;;;;;;;;;;x;
+IS_PRIMARY_CULTURE;§Y$NAME$§W is our primary or official language.\n;;;;;;;;;;;;;x;
+IS_NOT_ACCEPTED_CULTURE2;§Y$NAME$§W is NOT a national language.\n;;;;;;;;;;;;;x;
+IS_ACCEPTED_CULTURE2;§Y$NAME$§W is a national language.\n;;;;;;;;;;;;;x;
 american_cultures;American Languages;;;;;;;;;;;;;x;
 form_union_nation_desc;Our dominant position among our ethnic brethren puts us in a position to form $CULTURE_GROUP_UNION$.;;;;;;;;;;;;;x;
 residency_desc;Only people of your nation's official language are allowed the vote.;;;;;;;;;;;;;x;
 limited_citizenship_desc;Only people of your nation's official and national languages are allowed the vote.;;;;;;;;;;;;;x;
 CULTURE_IS_NOT;Language is NOT;;;;;;;;;;;;x;;;
 CULTURE_IS;Language is;;;;;;;;;;;;x;;;
-SET_PRIMARY_CULTURE;Â§Y$CULTURE$Â§W set to our official language.\n;;;;;;;;;;;;;x
-DIPLOMACY_PRIMARYCULTURE_DESC;The official language represents the language of administration, prestige and cross-cultural communication within our nation;La culture principale correspond aux citoyens de premiÃ¨re classe de notre pays.;Die PrimÃ¤rkultur reprÃ¤sentiert den Teil unserer BevÃ¶lkerung, die als BÃ¼rger erster Klasse gelten.;;La cultura principal representa a los ciudadanos de primera clase de nuestro paÃ­s.;;;;;;;;;x
+SET_PRIMARY_CULTURE;§Y$CULTURE$§W set to our official language.\n;;;;;;;;;;;;;x
+DIPLOMACY_PRIMARYCULTURE_DESC;The official language represents the language of administration, prestige and cross-cultural communication within our nation;La culture principale correspond aux citoyens de première classe de notre pays.;Die Primärkultur repräsentiert den Teil unserer Bevölkerung, die als Bürger erster Klasse gelten.;;La cultura principal representa a los ciudadanos de primera clase de nuestro país.;;;;;;;;;x
 DIPLOMACY_ACCEPTEDCULTURE_DESC;Our national language(s) represent languages or dialects that have an official and protected status within our nation;;;;;;;;;;;;;x
 LEDGER_PROVINCE_CULTURE;Language;;;;;;;;;;;;;x;;;;
 POP_CULTURE;Language;;;;;;;;;;;;;x;;;;
@@ -168,7 +168,7 @@ PV_POP_NATIONALITY;Language;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 NATIONALITY_DISTTITLE;Language;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 baby_boom_assimilation;Baby Boom;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 NATIONALITY_DISTTITLE;Language;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-anarcho_liberal_focus;Party loyalty towards ï½§YJacobinsï½§! ;Loyautï¾ƒï½© envers le parti ï¾‚ï½§YJacobinsï¾‚ï½§! ;Parteiloyalitï¾ƒï½¤t gegenï¾ƒï½¼ber ï¾‚ï½§YJacobinsï¾‚ï½§! ;;;;;;;;;;;
+anarcho_liberal_focus;Party loyalty towards ?YJacobins?! ;Loyaut?? envers le parti ??YJacobins??! ;Parteiloyalit??t gegen??ber ??YJacobins??! ;;;;;;;;;;;
 anarcho_liberal;Radical;Radical;Radical;;Radical;;;;;;;;;x
 bourgeois_dictatorship;Revolutionary Republic;x
 bourgeois_dictatorship_ruler;Consul;x
