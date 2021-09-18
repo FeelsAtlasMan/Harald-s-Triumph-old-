@@ -2,7 +2,7 @@ color = { 210 0 40 }
 graphical_culture = MiddleEasternGC
 
 party = {
-	name = "KOK_conservative"
+	name = "TIM_conservative"
 	start_date = 1800.1.1
 	end_date = 2000.1.1
 
@@ -16,21 +16,21 @@ party = {
 }
 
 party = {
-	name = "KOK_liberal"
+	name = "TIM_liberal"
 	start_date = 1820.1.1
 	end_date = 1936.1.1
 
 	ideology = liberal
 
-	economic_policy = laissez_faire
+	economic_policy = interventionism
 	trade_policy = protectionism
 	religious_policy = pluralism
 	citizenship_policy = full_citizenship
-	war_policy = pacifism
+	war_policy = anti_military
 }
 
 party = {
-	name = "KOK_reactionary"
+	name = "TIM_reactionary"
 	start_date = 1820.1.1
 	end_date = 2000.1.1
 
@@ -44,7 +44,7 @@ party = {
 }
 
 party = {
-	name = "KOK_anarcho_liberal"
+	name = "TIM_anarcho_liberal"
 	start_date = 1830.1.1
 	end_date = 2000.1.1
 
@@ -58,7 +58,7 @@ party = {
 }
 
 party = {
-	name = "KOK_socialist"
+	name = "TIM_socialist"
 	start_date = 1848.1.1
 	end_date = 2000.1.1
 
@@ -72,7 +72,7 @@ party = {
 }
 
 party = {
-	name = "KOK_communist"
+	name = "TIM_communist"
 	start_date = 1848.1.1
 	end_date = 2000.1.1
 
@@ -86,7 +86,7 @@ party = {
 }
 
 party = {
-	name = "KOK_fascist"
+	name = "TIM_fascist"
 	start_date = 1905.1.1
 	end_date = 2000.1.1
 

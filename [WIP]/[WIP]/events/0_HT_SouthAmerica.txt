@@ -120,7 +120,7 @@ country_event = {
 		option = {
 		    name = "This cruel system needs to be removed!"
             political_reform = no_slavery
-			add_accepted_culture = afro_brazili
+			add_accepted_culture = afro_brazilian
 			any_pop = {
 			    limit = { 
 				    pop_majority_ideology = reactionary
@@ -135,7 +135,7 @@ country_event = {
 			}
 			any_pop = {
 			    limit = { 
-				    has_pop_culture = afro_brazili
+				    has_pop_culture = afro_brazilian
 				}
 				militancy = -8
 			}
@@ -172,6 +172,7 @@ country_event = {
         trigger = {
 		    TPB = { exists = no }
 			2444 = { owned_by = PNB }
+			NOT = { has_country_flag = cerrado_guerilla_war }
 		}
 	
         option = {
@@ -432,11 +433,11 @@ province_event = {
 		mean_time_to_happen = { 
 		    months = 120 
 			modifier = {
-			factor = 0.6
+			factor = 1.3
 			slavery = freedom_of_womb
 		    }
 			modifier = {
-			factor = 0.3
+			factor = 1.6
 			slavery = no_slavery
 		    }
 		}
@@ -453,5 +454,86 @@ province_event = {
 	                duration = 365
             }
 			remove_province_modifier = charcoal_production
+	    }
+}
+
+#Union between Tuf. and Humr proposal
+country_event = {
+        id = 690009
+        title = "The Humrians have offered a union between our nations!"
+        desc = "EVTDESC690009"
+		picture = "asian_administration"
+        
+        is_triggered_only = yes
+	
+        option = {
+		    name = "We accept!"
+            PNG = { inherit = GUY }
+			GUY = { all_core = { add_core = PNB } }
+			GUY = { all_core = { remove_core = GUY } }
+			add_accepted_culture = amazuni
+	    }
+		
+		option = {
+		    name = "We reject!"
+            PNG = {
+			    war = {
+	                target = GUY
+	                attacker_goal = { casus_belli = conquest }
+	                defender_goal = { casus_belli = status_quo }
+	                call_ally = no
+                }
+			}
+			PNG = { add_accepted_culture = amazuni }
+	    }
+}
+
+#Humr calls for a Congress on the Amassuna Basin
+country_event = {
+        id = 690010
+        title = "The Humrians have called for a Congress on the Amassuna!"
+        desc = "EVTDESC690010"
+		picture = "treaty_of_paris_1856"
+        
+        is_triggered_only = yes
+	
+        option = {
+		    name = "We will attend!"
+            set_country_flag = attended_amassuna_conf
+			ai_chance = { 
+			         factor = 50 
+					 modifier = {
+				         factor = 0.8
+						 OR = {
+				           tag = CLM
+						   tag = FRA
+						   tag = PNB
+						 }
+			         }
+					 modifier = {
+				         factor = 0.2
+						 tag = INC
+			         }
+		    }
+	    }
+		
+		option = {
+		    name = "We reject!"
+            set_country_flag = neglected_amassuna_conf
+			ai_chance = { 
+			         factor = 50 
+					 modifier = {
+				         factor = 0.2
+						 OR = {
+				           tag = CLM
+						   tag = FRA
+						   tag = PNB
+						 }
+			         }
+					 modifier = {
+				         factor = 0.8
+						 tag = INC
+			         }
+		    }
 	    }
 }

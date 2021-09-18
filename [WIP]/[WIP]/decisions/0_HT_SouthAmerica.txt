@@ -139,7 +139,7 @@ political_decisions = {
 			2444 = { 
 			    any_pop = { 
 				    limit = { 
-					    has_pop_type = soldier
+					    type = soldiers
 						has_pop_religion = animist
 					} 
 					reduce_pop = 0.30
@@ -148,7 +148,8 @@ political_decisions = {
 			2450 = { 
 			    any_pop = { 
 				    limit = { 
-					    has_pop_type = soldier
+					    type = soldiers
+						has_pop_culture = brazili
 					} 
 					move_pop = 2444
 			    } 
@@ -157,7 +158,7 @@ political_decisions = {
 			2445 = { 
 			    any_pop = { 
 				    limit = { 
-					    has_pop_type = soldier
+					    type = soldiers
 						has_pop_religion = animist
 					} 
 					reduce_pop = 0.30
@@ -166,7 +167,8 @@ political_decisions = {
 			2448 = { 
 			    any_pop = { 
 				    limit = { 
-					    has_pop_type = soldier
+					    type = soldiers
+						has_pop_culture = brazili
 					} 
 					move_pop = 2445
 			    } 
@@ -175,7 +177,7 @@ political_decisions = {
 			2453 = { 
 			    any_pop = { 
 				    limit = { 
-					    has_pop_type = soldier
+					    type = soldiers
 						has_pop_religion = animist
 					} 
 					reduce_pop = 0.30
@@ -184,7 +186,8 @@ political_decisions = {
 			2443 = { 
 			    any_pop = { 
 				    limit = { 
-					    has_pop_type = soldier
+					    type = soldiers
+						has_pop_culture = brazili
 					} 
 					move_pop = 2453
 			    } 
@@ -193,7 +196,7 @@ political_decisions = {
 			2456 = { 
 			    any_pop = { 
 				    limit = { 
-					    has_pop_type = soldier
+					    type = soldiers
 						has_pop_religion = animist
 					} 
 					reduce_pop = 0.30
@@ -202,7 +205,8 @@ political_decisions = {
 			2457 = { 
 			    any_pop = { 
 				    limit = { 
-					    has_pop_type = soldier
+					    type = soldiers
+						has_pop_culture = brazili
 					} 
 					move_pop = 2456
 			    } 
@@ -352,12 +356,47 @@ political_decisions = {
 		ai_will_do = { factor = 1 }
 	}
 	
-	#Initiate the Amassuna Conference
+	#Propose a union between Tufunawa and Humr
 	amassuna_conference = {
-	    #picture = ever_victorious
+	    picture = unite_abralmuhit
 		potential = {
 		    OR = {
-			    tag = GUY
+				AND = {
+				    tag = PNB
+				    alliance_with = GUY
+					relations = { who = GUY value = 180 }
+					GUY = { all_core = { owned_by = GUY } }
+				}
+				AND = {
+				    tag = PNB
+					PNB = { is_sphere_leader_of = GUY }
+					GUY = { all_core = { owned_by = GUY } }
+				}
+			}
+			tag = PNB
+			#PNB = { all_core = { owned_by = PNB } }
+		}
+		
+		allow = {
+		    OR = {
+		       is_greater_power = yes
+			   is_secondary_power = yes
+			}
+			war = no
+		}
+		
+		effect = {
+			GUY = { country_event = 690009 }
+		}
+		ai_will_do = { factor = 1 }
+	}
+	
+	#Initiate the Amassuna Conference
+	amassuna_conference = {
+	    picture = amazonas_gaming
+		potential = {
+		    OR = {
+			    #tag = GUY
 				tag = PNB
 				AND = {
 				    tag = FRA
@@ -372,12 +411,23 @@ political_decisions = {
 		}
 		
 		allow = {
-			GUY = { all_core = { owned_by = GUY } }
+			GUY = { all_core = { owned_by = PNB } }
+		}
+		
+		allow = {
+		    OR = {
+			  AND = {
+			    state_n_government = 1
+			    inorganic_chemistry = 1
+			  }
+			  year = 1870
+			}
 			war = no
 		}
 		
 		effect = {
-			GUY = { country_event = 690002 }
+			INC = { country_event = 690010 }
+			CLM = { country_event = 690010 }
 		}
 		ai_will_do = { factor = 1 }
 	}

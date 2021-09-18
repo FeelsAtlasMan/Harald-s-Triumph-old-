@@ -34,9 +34,8 @@ MUS_anarcho_liberal;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 MUS_socialist;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 MUS_communist;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 MUS_fascist;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-KRM;Karamanoghlu;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-KRM_colonial_company;Karamanoghlu Beylerbek;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-KRM_ADJ;Karamani;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+KRM;Karamanids;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+KRM_ADJ;Karamanid;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 KRM_conservative;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 KRM_liberal;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 KRM_reactionary;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
@@ -58,13 +57,13 @@ TIM_hms_government;The Timurid Empire;;;;;;;;;;;;x
 TIM_prussian_monarchy;The Timurid Empire;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 TIM;Timurids;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 TIM_ADJ;Timurid;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-TIM_conservative;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-TIM_liberal;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-TIM_reactionary;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-TIM_anarcho_liberal;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-TIM_socialist;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-TIM_communist;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-TIM_fascist;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TIM_conservative;Hezb-e homayuni-ye Gurkaniyan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TIM_liberal;Etehad-e Daneshju va Ostad;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TIM_reactionary;Hezb-e Molla;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TIM_anarcho_liberal;Bazari;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TIM_socialist;Hezb-e 'Adl-e Mardom;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TIM_communist;Hezb-e Tude-ye Iran va Turan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TIM_fascist;Hezb-e Turki-ye Bozorg;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 DUL;Dulkadiroghlu;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 DUL_colonial_company;Dulkadiroghlu Beylerbek;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 DUL_ADJ;Dulkadiri;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
@@ -75,9 +74,8 @@ DUL_anarcho_liberal;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 DUL_socialist;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 DUL_communist;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 DUL_fascist;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-CND;Isfendiyaroghlu;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-CND_colonial_company;Isfendiyaroghlu Beylerbek;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-CND_ADJ;Candari;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+CND;Pervanids;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+CND_ADJ;Pervanid;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 CND_conservative;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 CND_liberal;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 CND_reactionary;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
@@ -1411,11 +1409,18 @@ GUY_conservative;Hizb al-Muhafizin;;;;;;;;;;;;;x
 GUY_liberal;Hizb al-Liybiraliu;;;;;;;;;;;;;x
 GUY_socialist;Hizb al-Aishtirakiu;;;;;;;;;;;;;x
 GUY_communist;Hizb al-Shuyu'iu;;;;;;;;;;;;;x
-GUY_reactionary;Hizb Rij'i;;;;;;;;;;;;;x
-GUY_anarcho_liberal;Hizb Libiraliin Radikaliun;;;;;;;;;;;;;x
+GUY_reactionary;Hizb al-Rij'i;;;;;;;;;;;;;x
+GUY_anarcho_liberal;Hizb al-Radikaliun;;;;;;;;;;;;;x
 GUY_fascist;Hizb Fashi;;;;;;;;;;;;;
 PNB;al-Humr;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PNB_ADJ;Humri;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+PNB_ADJ;Humri;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,#
+PNB_conservative;Hizb al-Astiqlal;;;;;;;;;;;;;x
+PNB_liberal;Hizb al-Huriya;;;;;;;;;;;;;x
+PNB_socialist;Hizb al-'Umal;;;;;;;;;;;;;x
+PNB_communist;Hizb al-Shuyu'iu;;;;;;;;;;;;;x
+PNB_reactionary;Hizb al-Rij'i;;;;;;;;;;;;;x
+PNB_anarcho_liberal;Hizb al-Radikaliun;;;;;;;;;;;;;x
+PNB_fascist;Hizb al-Fashi;;;;;;;;;;;;;
 YXI;Tatal-Xiu;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 YXI_ADJ;Xiu;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 YKL;Kupul;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,

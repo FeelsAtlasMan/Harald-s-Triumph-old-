@@ -3401,7 +3401,7 @@ cerrado_raids = {
 	local_RGO_output = -0.5
 	pop_consciousness_modifier = 0.2
 	pop_militancy_modifier = 0.25
-	population_growth = -0.005
+	population_growth = -0.001
 	icon = 18
 }
 
