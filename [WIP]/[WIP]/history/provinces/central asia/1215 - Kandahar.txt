@@ -4,3 +4,4 @@ add_core = AFG
 add_core = SST
 trade_goods = wool
 life_rating = 35
+terrain = kandahar

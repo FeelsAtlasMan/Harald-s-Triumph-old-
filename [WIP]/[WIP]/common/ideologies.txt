@@ -342,6 +342,31 @@ socialist_group = {
 			base = 0
 		}	
 	}
+	
+	religious_communist = {
+		uncivilized = no
+		color = { 50 150 20 }
+		date = 1910.1.1
+		
+		add_political_reform = {
+			base = 0
+			modifier = {
+				factor = 0.9
+				ruling_party_ideology = religious_communist
+				militancy = 9
+				political_movement_strength = 0.9
+			}
+		}
+		remove_political_reform = {
+			base = 1
+		}
+		add_social_reform = {
+			base = 1
+		}
+		remove_social_reform = {
+			base = 0
+		}	
+	}
 }
 
 liberal_group = {

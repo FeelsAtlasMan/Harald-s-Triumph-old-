@@ -1,5 +1,0 @@
-owner = MAH
-controller = MAH
-add_core = MAH
-trade_goods = cotton
-life_rating = 32

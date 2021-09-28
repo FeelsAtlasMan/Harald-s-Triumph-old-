@@ -796,6 +796,12 @@ spriteTypes = {
 		texturefile = "gfx\\interface\\terrain_erivan.tga"
 		norefcount = yes
 	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_derbent"
+		texturefile = "gfx\\interface\\terrain_derbent.tga"
+		norefcount = yes
+	}
 
 	spriteType = {
 		name = "GFX_terrainimg_baku"
@@ -812,6 +818,48 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_terrainimg_baghdad"
 		texturefile = "gfx\\interface\\terrain_baghdad.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_merv"
+		texturefile = "gfx\\interface\\terrain_merv.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_kabul"
+		texturefile = "gfx\\interface\\terrain_kabul.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_kandahar"
+		texturefile = "gfx\\interface\\terrain_kandahar.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_mashhad"
+		texturefile = "gfx\\interface\\terrain_mashhad.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_tabriz"
+		texturefile = "gfx\\interface\\terrain_tabriz.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_shiraz"
+		texturefile = "gfx\\interface\\terrain_shiraz.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_al_bihlal"
+		texturefile = "gfx\\interface\\terrain_al_bihlal.tga"
 		norefcount = yes
 	}
 

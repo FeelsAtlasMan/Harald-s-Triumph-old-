@@ -3,6 +3,6 @@ controller = QLS
 add_core = QLS
 add_core = INC
 add_core = DGT
-trade_goods = timber
+trade_goods = wool
 life_rating = 31
 terrain = mountain

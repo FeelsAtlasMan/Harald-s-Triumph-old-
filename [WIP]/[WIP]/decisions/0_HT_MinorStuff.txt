@@ -11,13 +11,12 @@ political_decisions = {
 		allow = {
             OR = {
               any_neighbor_country = {
-			      limit = {
 				      NOT = { government = tribal_confederation }
 					  #NOT = { government = khanate }
-				  }
 			  }
 			  part_of_sphere = yes
 		      land_reform = land_reform_two
+			}
 		}
 		effect = {
 			government = absolute_monarchy

@@ -1,6 +1,0 @@
-owner = MAH
-controller = MAH
-add_core = MAH
-trade_goods = dye
-life_rating = 32
-

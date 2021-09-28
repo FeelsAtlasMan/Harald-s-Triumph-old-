@@ -953,3 +953,22 @@ vassal = {
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }
+#Tibet
+vassal = {
+	first = NEP
+	second = SGT
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+vassal = {
+	first = OIR
+	second = TIB
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+vassal = {
+	first = OIR
+	second = THR
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}

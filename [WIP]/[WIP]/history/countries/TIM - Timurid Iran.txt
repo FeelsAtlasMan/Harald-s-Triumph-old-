@@ -85,12 +85,12 @@ army_schools = yes_army_schools #Army Training
 foreign_artillery = yes_foreign_artillery #Artillery
 foreign_artillery = foreign_artillery_two
 
-ruling_party = KOK_reactionary
+ruling_party = TIM_conservative
 upper_house = {
 	fascist = 0
-	liberal = 13
-	conservative = 3
-	reactionary = 84
+	liberal = 15
+	conservative = 60
+	reactionary = 25
 	anarcho_liberal = 0
 	socialist = 0
 	communist = 0

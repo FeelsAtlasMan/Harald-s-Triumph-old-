@@ -51,7 +51,7 @@ country_event = {
 			   any_pop = {
 		       limit = {
 		         has_pop_culture = mapuche
-				 has_pop_type = solider
+				 type = soldiers
 		       }
 		       move_pop = 2611
 		    }
@@ -91,7 +91,7 @@ country_event = {
 			}
 			any_pop = {
 			    limit = {
-				has_pop_type = slaves
+				type = slaves
 		       }
 			militancy = 9
 			}
@@ -232,6 +232,315 @@ country_event = {
 	    }
 }
 
+#Union between Tuf. and Humr proposal
+country_event = {
+        id = 690010
+        title = "The Humrians have offered a union between our nations!"
+        desc = "EVTDESC690010"
+		picture = "asian_administration"
+        
+        is_triggered_only = yes
+	
+        option = {
+		    name = "We accept!"
+            PNB = { inherit = GUY }
+			GUY = { all_core = { add_core = PNB } }
+			GUY = { all_core = { remove_core = GUY } }
+			add_accepted_culture = amazuni
+			ai_chance = { factor = 100 }
+	    }
+		
+		option = {
+		    name = "We reject!"
+            PNB = {
+			    war = {
+	                target = GUY
+	                attacker_goal = { casus_belli = conquest }
+	                defender_goal = { casus_belli = status_quo }
+	                call_ally = no
+                }
+			}
+			PNB = { add_accepted_culture = amazuni }
+			ai_chance = { factor = 0 }
+	    }
+}
+
+#Humr calls for a Congress on the Amassuna Basin
+country_event = {
+        id = 690011
+        title = "$COUNTRYFROM$ have called for a Congress on the Amassuna!"
+        desc = "EVTDESC690011"
+		picture = "treaty_of_paris_1856"
+        
+        is_triggered_only = yes
+	
+        option = {
+		    name = "We will attend!"
+            FROM = { country_event = 690012 }
+			set_country_flag = attends_ac
+			ai_chance = { 
+			         factor = 50 
+					 modifier = {
+				         factor = 1
+						 OR = {
+				           tag = CLM
+						   tag = FRA
+						   tag = PNB
+						 }
+			         }
+					 modifier = {
+				         factor = 0.2
+						 tag = INC
+			         }
+		    }
+	    }
+		
+		option = {
+		    name = "We reject!"
+			set_country_flag = rejected_ac
+            FROM = { country_event = 690013 }
+			ai_chance = { 
+			         factor = 50 
+					 modifier = {
+				         factor = 0
+						 OR = {
+				           tag = CLM
+						   tag = FRA
+						   tag = PNB
+						 }
+			         }
+					 modifier = {
+				         factor = 0.8
+						 tag = INC
+			         }
+		    }
+	    }
+}
+
+#FROMCOUNTRY accepts
+country_event = {
+        id = 690012
+        title = "$COUNTRYFROM$ agreed to take part in the Conference"
+        desc = "EVTDESC690011"
+		picture = "banquet"
+        
+        is_triggered_only = yes
+	
+        option = {
+		    name = "Great!"
+		    relation = { who = FROM value = 50 }
+	    }
+}
+
+#FROMCOUNTRY rejects
+country_event = {
+        id = 690013
+        title = "$COUNTRYFROM$ rejected to take part in the Conference"
+        desc = "EVTDESC690011"
+		picture = "banquet"
+        
+        is_triggered_only = yes
+	
+        option = {
+		    name = "Terrible!"
+		    relation = { who = FROM value = -50 }
+	    }
+}
+
+#The Amassuna Conference - Incas take part
+country_event = {
+        id = 690014
+        title = "The Amassuna Conference!"
+        desc = "EVTDESC690014"
+		picture = "treaty_of_paris_1856"
+		
+		major = yes
+        
+        trigger = {
+		    tag = PNB
+		    INC = { has_country_flag = attends_ac }
+			CLM = { has_country_flag = attends_ac }
+		}
+	
+        option = {
+		    name = "This will bring prosperity to our nations!"
+			3466 = { secede_province = PNB }  #al-Humr
+		    3466 = { life_rating = 25 }
+		    3466 = { add_core = PNB }
+			3470 = { secede_province = PNB }
+		    3470 = { life_rating = 25 }
+		    3470 = { add_core = PNB }
+			3475 = { secede_province = PNB }
+		    3475 = { life_rating = 25 }
+		    3475 = { add_core = PNB }
+			3476 = { secede_province = PNB }
+		    3476 = { life_rating = 25 }
+		    3476 = { add_core = PNB }
+			3477 = { secede_province = PNB }
+		    3477 = { life_rating = 25 }
+		    3477 = { add_core = PNB }
+			3479 = { secede_province = PNB }
+		    3479 = { life_rating = 25 }
+		    3479 = { add_core = PNB }
+			2413 = { secede_province = PNB }
+		    2413 = { life_rating = 25 }
+		    2413 = { add_core = PNB }
+			2408 = { secede_province = PNB }
+		    2408 = { life_rating = 25 }
+		    2408 = { add_core = PNB }
+			2404 = { add_core = PNB }
+		    2405 = { add_core = PNB }
+			KKR = { all_core = { add_core PNB } }
+			1979 = { secede_province = PNB }
+		    1979 = { life_rating = 25 }
+		    1979 = { add_core = PNB }
+			2417 = { secede_province = PNB }
+		    2417 = { add_core = PNB }
+			2600 = { secede_province = PNB }
+		    2600 = { life_rating = 25 }
+		    2600 = { add_core = PNB }
+			2550 = { secede_province = PNB }
+		    2550 = { life_rating = 25 }
+		    2550 = { add_core = PNB }
+			2532 = { secede_province = PNB }
+		    2532 = { life_rating = 25 }
+		    2532 = { add_core = PNB }
+			3478 = { secede_province = PNB }
+		    3478 = { life_rating = 25 }
+		    3478 = { add_core = PNB }
+			3480 = { secede_province = PNB }
+		    3480 = { life_rating = 25 }
+		    3480 = { add_core = PNB }
+			2277 = { secede_province = CLM }  #France
+		    2277 = { life_rating = 25 }
+		    2277 = { add_core = CLM }
+			2261 = { secede_province = CLM }
+		    2261 = { life_rating = 25 }
+		    2261 = { add_core = CLM }
+			2263 = { secede_province = CLM }
+		    2263 = { life_rating = 25 }
+		    2263 = { add_core = CLM }
+			2401 = { secede_province = CLM }
+		    2401 = { life_rating = 25 }
+		    2401 = { add_core = CLM }
+			relation = { who = INC value = -150 } #Incas
+			INC = { prestige = -10 }
+			INC = { set_country_flag = cucked_out_of_ac }
+			KKR = { country_event = 690016 days = 10 }
+			MRA = { country_event = 690016 days = 10 }
+	    }
+}
+
+#The Amassuna Conference - Incas take not part
+country_event = {
+        id = 690015
+        title = "The Amassuna Conference!"
+        desc = "EVTDESC690015"
+		picture = "treaty_of_paris_1856"
+		
+		major = yes
+        
+        trigger = {
+		    tag = PNB
+		    INC = { has_country_flag = rejected_ac }
+			CLM = { has_country_flag = attends_ac }
+		}
+	
+        option = {
+		    name = "This will bring prosperity to our nations!"
+			3466 = { secede_province = PNB }  #al-Humr
+		    3466 = { life_rating = 25 }
+		    3466 = { add_core = PNB }
+			3470 = { secede_province = PNB }
+		    3470 = { life_rating = 25 }
+		    3470 = { add_core = PNB }
+			3475 = { secede_province = PNB }
+		    3475 = { life_rating = 25 }
+		    3475 = { add_core = PNB }
+			3476 = { secede_province = PNB }
+		    3476 = { life_rating = 25 }
+		    3476 = { add_core = PNB }
+			3477 = { secede_province = PNB }
+		    3477 = { life_rating = 25 }
+		    3477 = { add_core = PNB }
+			3479 = { secede_province = PNB }
+		    3479 = { life_rating = 25 }
+		    3479 = { add_core = PNB }
+			2413 = { secede_province = PNB }
+		    2413 = { life_rating = 25 }
+		    2413 = { add_core = PNB }
+			2408 = { secede_province = PNB }
+		    2408 = { life_rating = 25 }
+		    2408 = { add_core = PNB }
+			2404 = { add_core = PNB }
+		    2405 = { add_core = PNB }
+			KKR = { all_core = { add_core PNB } }
+			1979 = { secede_province = PNB }
+		    1979 = { life_rating = 25 }
+		    1979 = { add_core = PNB }
+			2417 = { secede_province = PNB }
+		    2417 = { add_core = PNB }
+			2600 = { secede_province = PNB }
+		    2600 = { life_rating = 25 }
+		    2600 = { add_core = PNB }
+			2550 = { secede_province = PNB }
+		    2550 = { life_rating = 25 }
+		    2550 = { add_core = PNB }
+			2532 = { secede_province = PNB }
+		    2532 = { life_rating = 25 }
+		    2532 = { add_core = PNB }
+			3478 = { secede_province = PNB }
+		    3478 = { life_rating = 25 }
+		    3478 = { add_core = PNB }
+			3480 = { secede_province = PNB }
+		    3480 = { life_rating = 25 }
+		    3480 = { add_core = PNB }
+			2277 = { secede_province = PNB }  #France
+			2277 = { secede_province = CLM }
+		    2277 = { life_rating = 25 }
+		    2277 = { add_core = CLM }
+			2261 = { secede_province = PNB }
+			2261 = { secede_province = CLM }
+		    2261 = { life_rating = 25 }
+		    2261 = { add_core = CLM }
+			2263 = { secede_province = PNB }
+			2263 = { secede_province = CLM }
+		    2263 = { life_rating = 25 }
+		    2263 = { add_core = CLM }
+			2401 = { secede_province = PNB }
+			2401 = { secede_province = CLM }
+		    2401 = { life_rating = 25 }
+		    2401 = { add_core = CLM }
+			relation = { who = INC value = -200 } #Incas
+			KKR = { country_event = 690016 days = 10 }
+			MRA = { country_event = 690016 days = 10 }
+	    }
+}
+
+#FROMCOUNTRY rejects
+country_event = {
+        id = 690016
+        title = "The demands of the Conference!"
+        desc = "EVTDESC690016"
+		picture = "banquet"
+        
+        is_triggered_only = yes
+	
+        option = {
+		    name = "Request help from the Inca!"
+		    relation = { who = PNB value = -200 }
+			relation = { who = CLM value = -200 }
+			INC = { country_event = 690017 }
+			ai_chance = { factor = 99 }
+	    }
+		
+		option = {
+		    name = "We'll accept their demands..."
+			
+			ai_chance = { factor = 1 }
+	    }
+}
+
 #Cotton
 province_event = {
         id = 690005
@@ -317,7 +626,7 @@ province_event = {
 			    }
 		    }
 			remove_province_modifier = charcoal_production
-			ai_chance = { 100 }
+			ai_chance = { factor = 100 }
 	    }
 		
 		option = {
@@ -338,9 +647,9 @@ province_event = {
 
 #Iron
 province_event = {
-        id = 690006
+        id = 690007
         title = "Discovery of Metals in $PROVINCENAME$!"
-        desc = "EVTDESC690006"
+        desc = "EVTDESC690007"
         
         trigger = {
 		    has_province_modifier = charcoal_production	
@@ -357,7 +666,7 @@ province_event = {
             }
 			trade_goods = iron
 			remove_province_modifier = charcoal_production
-			ai_chance = { 100 }
+			ai_chance = { factor = 100 }
 	    }
 		
 		option = {
@@ -368,7 +677,7 @@ province_event = {
             }
 			trade_goods = precious_metal
 			remove_province_modifier = charcoal_production
-			ai_chance = { 0 }
+			ai_chance = { factor = 0 }
 	    }
 		
 		option = {
@@ -389,15 +698,17 @@ province_event = {
 
 #Cattle
 province_event = {
-        id = 690007
+        id = 690008
         title = "Successfull deforestation in $PROVINCENAME$!"
-        desc = "EVTDESC690007"
+        desc = "EVTDESC690008"
         
         trigger = {
 		    has_province_modifier = charcoal_production	
-			province_id = 2444		
-            province_id = 2445	
-            province_id = 2452					
+			OR = {
+			    province_id = 2444		
+                province_id = 2445	
+                province_id = 2452					
+			}
 		}
 		
 		mean_time_to_happen = { months = 120 }
@@ -419,15 +730,17 @@ province_event = {
 
 #Grain
 province_event = {
-        id = 690008
+        id = 690009
         title = "Successfull deforestation in $PROVINCENAME$!"
-        desc = "EVTDESC690008"
+        desc = "EVTDESC690009"
         
         trigger = {
 		    has_province_modifier = charcoal_production	
-			province_id = 2446	
-            province_id = 2453	
-            province_id = 2456			
+			OR = {
+			    province_id = 2446	
+                province_id = 2453	
+                province_id = 2456		
+            }			
 		}
 		
 		mean_time_to_happen = { 
@@ -454,86 +767,5 @@ province_event = {
 	                duration = 365
             }
 			remove_province_modifier = charcoal_production
-	    }
-}
-
-#Union between Tuf. and Humr proposal
-country_event = {
-        id = 690009
-        title = "The Humrians have offered a union between our nations!"
-        desc = "EVTDESC690009"
-		picture = "asian_administration"
-        
-        is_triggered_only = yes
-	
-        option = {
-		    name = "We accept!"
-            PNG = { inherit = GUY }
-			GUY = { all_core = { add_core = PNB } }
-			GUY = { all_core = { remove_core = GUY } }
-			add_accepted_culture = amazuni
-	    }
-		
-		option = {
-		    name = "We reject!"
-            PNG = {
-			    war = {
-	                target = GUY
-	                attacker_goal = { casus_belli = conquest }
-	                defender_goal = { casus_belli = status_quo }
-	                call_ally = no
-                }
-			}
-			PNG = { add_accepted_culture = amazuni }
-	    }
-}
-
-#Humr calls for a Congress on the Amassuna Basin
-country_event = {
-        id = 690010
-        title = "The Humrians have called for a Congress on the Amassuna!"
-        desc = "EVTDESC690010"
-		picture = "treaty_of_paris_1856"
-        
-        is_triggered_only = yes
-	
-        option = {
-		    name = "We will attend!"
-            set_country_flag = attended_amassuna_conf
-			ai_chance = { 
-			         factor = 50 
-					 modifier = {
-				         factor = 0.8
-						 OR = {
-				           tag = CLM
-						   tag = FRA
-						   tag = PNB
-						 }
-			         }
-					 modifier = {
-				         factor = 0.2
-						 tag = INC
-			         }
-		    }
-	    }
-		
-		option = {
-		    name = "We reject!"
-            set_country_flag = neglected_amassuna_conf
-			ai_chance = { 
-			         factor = 50 
-					 modifier = {
-				         factor = 0.2
-						 OR = {
-				           tag = CLM
-						   tag = FRA
-						   tag = PNB
-						 }
-			         }
-					 modifier = {
-				         factor = 0.8
-						 tag = INC
-			         }
-		    }
 	    }
 }

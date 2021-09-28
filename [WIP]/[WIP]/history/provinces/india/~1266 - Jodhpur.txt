@@ -1,5 +1,0 @@
-owner = MAH
-controller = MAH
-add_core = RAJ
-trade_goods = fruit
-life_rating = 32

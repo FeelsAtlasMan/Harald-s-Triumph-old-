@@ -124,14 +124,14 @@ post_nelsonian_thought = 1 #Shipyards
 
 set_country_flag = sunni_country
 
-ruling_party = BAH_conservative
+ruling_party = PNB_conservative
 last_election = 1835.1.1
 upper_house = {
 	fascist = 0
-	liberal = 25
-	conservative = 60
-	reactionary = 15
-	anarcho_liberal = 0
+	liberal = 35
+	conservative = 45
+	reactionary = 0
+	anarcho_liberal = 10
 	socialist = 0
 	communist = 0
 }

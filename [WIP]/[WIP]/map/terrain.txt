@@ -711,6 +711,139 @@ categories =  {
 		min_build_railroad = 1
 		combat_width = -0.33
 	}
+	
+	derbent = {
+		movement_cost = 1.2
+		defence = 1
+		color = { 22 44 66 }
+		
+		farm_rgo_size = 0.0
+		farm_rgo_eff = 0.0
+		mine_rgo_size = 0.0
+		mine_rgo_eff = 0.0
+		
+		supply_limit = 6
+		min_build_railroad = 1
+		combat_width = -0.33
+	}
+	
+	tehran = {
+        movement_cost = 1.1
+        defence = 1
+        color = { 135 70 10 }
+
+        farm_rgo_size = 0.10
+        farm_rgo_eff = 0.10
+        mine_rgo_size = 0.0
+        mine_rgo_eff = 0.0
+
+        supply_limit = 10
+        combat_width = -0.33
+    }
+	
+	mashhad = {
+        movement_cost = 1.1
+        defence = 1
+        color = { 22 44 66 }
+
+        farm_rgo_size = 0.0
+        farm_rgo_eff = 0.0
+        mine_rgo_size = 0.10
+        mine_rgo_eff = 0.25
+
+        supply_limit = 10
+        combat_width = -0.33
+    }
+	
+	isfahan = {
+        movement_cost = 1.2
+        defence = 1
+        color = { 22 44 66 }
+
+        farm_rgo_size = 0.0
+        farm_rgo_eff = 0.0
+        mine_rgo_size = 0.0
+        mine_rgo_eff = 0.0
+
+        supply_limit = 10
+        min_build_railroad = 1
+        combat_width = -0.33
+    }
+	
+	tabriz = {
+        movement_cost = 1.2
+        defence = 2
+        color = { 22 44 66 }
+
+        farm_rgo_size = 0.0
+        farm_rgo_eff = 0.0
+        mine_rgo_size = 0.2
+        mine_rgo_eff = 0.25
+
+        supply_limit = 10
+        min_build_railroad = 1
+        combat_width = -0.33
+    }
+	
+	shiraz = {
+        movement_cost = 1.4
+        defence = 3
+        color = { 22 44 66 }
+
+        farm_rgo_size = 0.0
+        farm_rgo_eff = 0.0
+        mine_rgo_size = 0.0
+        mine_rgo_eff = 0.0
+
+        supply_limit = 10
+        min_build_railroad = 1
+        combat_width = -0.33
+    }
+	
+	kabul = {
+        movement_cost = 1.4
+        defence = 3
+        color = { 22 44 66 }
+
+        farm_rgo_size = 0.0
+        farm_rgo_eff = 0.0
+        mine_rgo_size = 0.0
+        mine_rgo_eff = 0.0
+
+        supply_limit = 10
+        min_build_railroad = 1
+        combat_width = -0.33
+    }
+	
+	herat = {
+        movement_cost = 1.2
+        defence = 1.2
+        color = { 22 44 66 }
+
+        farm_rgo_size = 0.10
+        farm_rgo_eff = 0.10
+        mine_rgo_size = 0.0
+        mine_rgo_eff = 0.0
+
+        supply_limit = 10
+        min_build_railroad = 1
+        combat_width = -0.33
+    }
+	
+	kandahar = {
+        movement_cost = 1.2
+        defence = 1.2
+        color = { 22 44 66 }
+
+        farm_rgo_size = 0.10
+        farm_rgo_eff = 0.10
+        mine_rgo_size = 0.0
+        mine_rgo_eff = 0.0
+
+        supply_limit = 10
+        min_build_railroad = 1
+        combat_width = -0.33
+    }
 
 	baku = {
 		movement_cost = 1.4
@@ -738,6 +871,16 @@ categories =  {
 	}
 
 	baghdad = {
+		movement_cost = 1.0
+		color = { 22 44 66 }
+		farm_rgo_size = 0.0
+		farm_rgo_eff = 0.0
+		mine_rgo_size = 0.0
+		mine_rgo_eff = 0.0
+		supply_limit = 10
+	}
+	
+	merv = {
 		movement_cost = 1.0
 		color = { 22 44 66 }
 		farm_rgo_size = 0.0
@@ -1882,37 +2025,6 @@ categories =  {
 
 		supply_limit = 3
 		min_build_railroad = 1
-		combat_width = -0.33
-	}
-
-	isfahan = {
-		movement_cost = 1.5
-		defence = 3
-		color = { 22 44 66 }
-		
-		farm_rgo_size = -0.4
-		farm_rgo_eff = -0.2
-		mine_rgo_size = 0.0
-		mine_rgo_eff = 0.0
-		
-		supply_limit = 2
-		
-		combat_width = -0.70
-		
-		min_build_railroad = 4
-	}
-	
-	herat = {
-		movement_cost = 1.2
-		defence = 3
-		color = { 25 44 66 }
-		
-		farm_rgo_size = 0.0
-		farm_rgo_eff = -0.15
-		mine_rgo_size = 0.0
-		mine_rgo_eff = 0.0
-		
-		supply_limit = 8
 		combat_width = -0.33
 	}
 
@@ -3085,6 +3197,18 @@ categories =  {
 		combat_width = -0.20
 	}
 	
+	al_bihlal = {
+		movement_cost = 1.2
+		defence = 1
+		color = { 91 123 85 }
+		farm_rgo_size = 0.0
+		farm_rgo_eff = 0.0
+		mine_rgo_size = 0.0
+		mine_rgo_eff = 0.0
+		supply_limit = 7
+		combat_width = -0.20
+	}
+	
 	jungle = {
 		movement_cost = 1.3
 		attrition = 1.5
@@ -3390,16 +3514,16 @@ categories =  {
 		defence = 2
 		
 		color = { 210 155 13 }
-		farm_rgo_size = -10.25
+		farm_rgo_size = -0.25
 		farm_rgo_eff = -0.3
-		mine_rgo_size = -10.0
+		mine_rgo_size = 0.0
 		mine_rgo_eff = -0.2
 		
 		supply_limit = 1
 		min_build_railroad = 3
 		min_build_fort = 1
 		combat_width = -0.25
-		immigrant_attract = -0.8
+		immigrant_attract = -0.25
 	}
 
 	new_world_plains = {

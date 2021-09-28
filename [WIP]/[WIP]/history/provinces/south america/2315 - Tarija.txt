@@ -2,6 +2,6 @@ owner = QLS
 controller = QLS
 add_core = QLS
 add_core = INC
-trade_goods = wool
+trade_goods = grain
 life_rating = 32
 terrain = mountain

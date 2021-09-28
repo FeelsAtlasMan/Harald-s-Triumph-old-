@@ -356,37 +356,51 @@ political_decisions = {
 		ai_will_do = { factor = 1 }
 	}
 	
-	#Propose a union between Tufunawa and Humr
-	amassuna_conference = {
+	#Propose a union between Tufunawa and Humr 1
+	unite_abralmuhit_peaceful = {
 	    picture = unite_abralmuhit
 		potential = {
-		    OR = {
-				AND = {
-				    tag = PNB
-				    alliance_with = GUY
-					relations = { who = GUY value = 180 }
-					GUY = { all_core = { owned_by = GUY } }
-				}
-				AND = {
-				    tag = PNB
-					PNB = { is_sphere_leader_of = GUY }
-					GUY = { all_core = { owned_by = GUY } }
-				}
-			}
+		    civilized = yes
 			tag = PNB
-			#PNB = { all_core = { owned_by = PNB } }
+			NOT = { has_country_flag = annexed_guy }
 		}
 		
 		allow = {
-		    OR = {
-		       is_greater_power = yes
-			   is_secondary_power = yes
+		    AND = {
+				tag = PNB
+			    PNB = { is_sphere_leader_of = GUY }
+				GUY = { all_core = { owned_by = GUY } }
 			}
 			war = no
 		}
 		
 		effect = {
-			GUY = { country_event = 690009 }
+			GUY = { country_event = 690010 }
+			set_country_flag = annexed_guy
+		}
+		ai_will_do = { factor = 1 }
+	}
+	
+	#Propose a union between Tufunawa and Humr 2
+	unite_abralmuhit_war = {
+	    picture = unite_abralmuhit
+		potential = {
+		    civilized = yes
+			tag = PNB
+			NOT = { has_country_flag = annexed_guy }
+		}
+		
+		allow = {
+			AND = {
+			    tag = PNB
+				GUY = { all_core = { owned_by = PNB } }
+			}
+			war = no
+		}
+		
+		effect = {
+			add_accepted_culture = amazuni
+			set_country_flag = annexed_guy
 		}
 		ai_will_do = { factor = 1 }
 	}
@@ -394,24 +408,10 @@ political_decisions = {
 	#Initiate the Amassuna Conference
 	amassuna_conference = {
 	    picture = amazonas_gaming
-		potential = {
-		    OR = {
-			    #tag = GUY
-				tag = PNB
-				AND = {
-				    tag = FRA
-					CLM = { vassal_of = FRA }
-				}
-				AND = {
-				    tag = CLM
-					NOT = { CLM = { vassal_of = FRA } }
-				}
-			}
-			QLW = { all_core = { owned_by = PNB } }
-		}
-		
-		allow = {
+	    potential = {
+		    tag = PNB
 			GUY = { all_core = { owned_by = PNB } }
+			NOT = { has_country_flag = intiated_ac }
 		}
 		
 		allow = {
@@ -426,8 +426,9 @@ political_decisions = {
 		}
 		
 		effect = {
-			INC = { country_event = 690010 }
-			CLM = { country_event = 690010 }
+			INC = { country_event = 690011 }
+			CLM = { country_event = 690011 }
+			set_country_flag = intiated_ac
 		}
 		ai_will_do = { factor = 1 }
 	}
