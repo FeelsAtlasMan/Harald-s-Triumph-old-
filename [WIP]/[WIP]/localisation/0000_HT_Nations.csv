@@ -353,7 +353,7 @@ KRC;Kursk Cossacks;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 KRC_ADJ;Kurskian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 SHU;Shu;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 SHU_ADJ;Shu;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-SHN;Shun;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+SHN;Great Shun;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 SHN_ADJ;Shun;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 NNI;Daur;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 NNI_absolute_monarchy;Daur Khanate;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
@@ -1524,3 +1524,69 @@ RGW;Rongwa;;;;;;;;;;;x;
 RGW_ADJ;Rongwa;;;;;;;;;;;x;
 SGR;Sogwo Arig;;;;;;;;;;;x;
 SGR_ADJ;Sogwo Arig;;;;;;;;;;;x;
+TPW;Powo;;;;;;;;;;;x;
+TPW_ADJ;Powonese;;;;;;;;;;;x;
+DRG;Derge;;;;;;;;;;;x;
+DRG_ADJ;Dergenese;;;;;;;;;;;x;
+HRS;Horpa States;;;;;;;;;;;x;
+HRS_ADJ;Horpan;;;;;;;;;;;x;
+LGT;Lingtsang;;;;;;;;;;;x;
+LGT_ADJ;Lingtsangese;;;;;;;;;;;x;
+CHJ;Chuosijia;;;;;;;;;;;x;
+CHJ_ADJ;Chuosijian;;;;;;;;;;;x;
+TSM;Meu;;;;;;;;;;;x;
+TSM_ADJ;Meu;;;;;;;;;;;x;
+SMT;Suomo;;;;;;;;;;;x;
+SMT_ADJ;Suomo;;;;;;;;;;;x;
+LBR;Labrung;;;;;;;;;;;x;
+LBR_ADJ;Labrung;;;;;;;;;;;x;
+CHN;Choni;;;;;;;;;;;x;
+CHN_ADJ;Choni;;;;;;;;;;;x;
+BTH;Bathong;;;;;;;;;;;x;
+BTH_ADJ;Bathong;;;;;;;;;;;x;
+LTH;Lithang;;;;;;;;;;;x;
+LTH_ADJ;Lithang;;;;;;;;;;;x;
+CKL;Chakla;;;;;;;;;;;x;
+CKL_ADJ;Chakla;;;;;;;;;;;x;
+TML;Muli;;;;;;;;;;;x;
+TML_ADJ;Muli;;;;;;;;;;;x;
+NGG;Ninglang;;;;;;;;;;;x;
+NGG_ADJ;Ninglang;;;;;;;;;;;x;
+KHT;Khoshuud;;;;;;;;;;;x;
+KHT_ADJ;Khoshuud;;;;;;;;;;;x;
+MTS;Miao States;;;;;;;;;;;x;
+MTS_ADJ;Miao;;;;;;;;;;;x;
+SDG;Shuidong;;;;;;;;;;;x;
+SDG_ADJ;Shuidong;;;;;;;;;;;x;
+MGE;Mu'ege;;;;;;;;;;;x;
+MGE_ADJ;Mu'ege;;;;;;;;;;;x;
+KKG;Kokang;;;;;;;;;;;x;
+KKG_ADJ;Kokang;;;;;;;;;;;x;
+CGH;Chianghung;;;;;;;;;;;x;
+CGH_ADJ;Chianghung;;;;;;;;;;;x;
+MGN;Manglon;;;;;;;;;;;x;
+MGN_ADJ;Manglon;;;;;;;;;;;x;
+KGT;Kengtung;;;;;;;;;;;x;
+KGT_ADJ;Kengtung;;;;;;;;;;;x;
+MGP;Mongpan;;;;;;;;;;;x;
+MGP_ADJ;Mongpan;;;;;;;;;;;x;
+LWK;Lawksawk;;;;;;;;;;;x;
+LWK_ADJ;Lawksawk;;;;;;;;;;;x;
+HSW;Hsipaw;;;;;;;;;;;x;
+HSW_ADJ;Hsipaw;;;;;;;;;;;x;
+MGM;Mongmit;;;;;;;;;;;x;
+MGM_ADJ;Mongmit;;;;;;;;;;;x;
+HSN;Hsenwi;;;;;;;;;;;x;
+HSN_ADJ;Hsenwi;;;;;;;;;;;x;
+SHA;Taunggyi;;;;;;;;;;;x;
+SHA_ADJ;Taunggyi;;;;;;;;;;;x;
+UYG;Uyghurstan;;;;;;;;;;;;;x
+UYG_ADJ;Uyghur;;;;;;;;;;;;;x
+UYG_absolute_monarchy;Moghulestan;;;;;;;;;;;;;x
+UYG_prussian_constitutionalism;Moghulestan;;;;;;;;;;;;;x
+UYG_colonial_company;Moghulestan;;;;;;;;;;;;;x
+UYG_hms_government;Moghulestan;;;;;;;;;;;;;x
+UYG_absolute_monarchy_ADJ;Moghulestan;;;;;;;;;;;;;x
+UYG_prussian_constitutionalism_ADJ;Moghulestan;;;;;;;;;;;;;x
+UYG_colonial_company_ADJ;Moghulestan;;;;;;;;;;;;;x
+UYG_hms_government_ADJ;Moghul;;;;;;;;;;;;;x

@@ -1,4 +1,5 @@
 color = { 109  168  127 }
+colonial_company = { 40 130 35 }
 graphical_culture = AsianGC
 
 party = {

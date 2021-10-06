@@ -47,7 +47,7 @@
 	farmers = {
 		culture = north_german
 		religion = protestant
-		size = 48650
+		size = 40650
 	}
 
 	clergymen = {
@@ -71,7 +71,7 @@
 	farmers = {
 		culture = north_german
 		religion = catholic
-		size = 1825 
+		size = 9825 
 	}
 
 	clergymen = {
@@ -88,25 +88,25 @@
 
 	clergymen = {
 		culture = danish
-		religion = protestant
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
 		culture = danish
-		religion = protestant
+		religion = catholic
 		size = 200
 	}
 
 	soldiers = {
 		culture = danish
-		religion = protestant
+		religion = catholic
 		size = 50
 	}
 
 	farmers = {
 		culture = danish
-		religion = protestant
+		religion = catholic
 		size = 4700 
 	}
 }
@@ -115,19 +115,19 @@
 	aristocrats = {
 		culture = north_german
 		religion = protestant
-		size = 350 
+		size = 300 
 	}
 
 	clergymen = {
 		culture = north_german
 		religion = protestant
-		size = 375 
+		size = 300 
 	}
 
 	artisans = {
 		culture = north_german
 		religion = protestant
-		size = 1825
+		size = 1600
 	}
 
 	soldiers = {
@@ -139,7 +139,31 @@
 	farmers = {
 		culture = north_german
 		religion = protestant
-		size = 33500
+		size = 28500
+	}
+	
+	aristocrats = {
+		culture = north_german
+		religion = catholic
+		size = 50 
+	}
+	
+	clergymen = {
+		culture = north_german
+		religion = catholic
+		size = 75 
+	}
+
+	artisans = {
+		culture = north_german
+		religion = catholic
+		size = 225
+	}
+
+	farmers = {
+		culture = north_german
+		religion = catholic
+		size = 5000
 	}
 }
 #Lower Elbe Region (557600)
@@ -362,88 +386,136 @@
 544 = {
 	aristocrats = {
 		culture = veleti
-		religion = protestant
+		religion = catholic
 		size = 1225 
 	}
 
 	bureaucrats = {
 		culture = veleti
-		religion = protestant
+		religion = catholic
 		size = 275 
 	}
 
 	officers = {
 		culture = veleti
-		religion = protestant
+		religion = catholic
 		size = 150 
 	}
 
 	clergymen = {
 		culture = veleti
-		religion = protestant
+		religion = catholic
 		size = 1200 
 	}
 
 	artisans = {
 		culture = veleti
-		religion = protestant
+		religion = catholic
 		size = 6000
 	}
 
 	soldiers = {
 		culture = veleti
-		religion = protestant
+		religion = catholic
 		size = 1250 
 	}
 
 	farmers = {
 		culture = veleti
-		religion = protestant
+		religion = catholic
 		size = 109800 
+	}
+	
+	clergymen = {
+		culture = north_german
+		religion = protestant
+		size = 100 
+	}
+
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 2000
+	}
+
+	soldiers = {
+		culture = north_german
+		religion = protestant
+		size = 50 
+	}
+
+	farmers = {
+		culture = north_german
+		religion = protestant
+		size = 9800 
 	}
 
 	clergymen = {
 		culture = ashkenazi
 		religion = jewish
-		size = 25 
+		size = 125 
 	}
 
 	artisans = {
 		culture = ashkenazi
 		religion = jewish
-		size = 975
+		size = 2975
 	}
 }
 #Neustrelitz (90000/22500 POPS)
 545 = {
 	aristocrats = {
 		culture = veleti
-		religion = protestant
-		size = 200 
+		religion = catholic
+		size = 180 
 	}
 
 	clergymen = {
 		culture = veleti
-		religion = protestant
-		size = 225
+		religion = catholic
+		size = 200
 	}
 
 	artisans = {
 		culture = veleti
-		religion = protestant
-		size = 1125
+		religion = catholic
+		size = 1000
 	}
 
 	soldiers = {
 		culture = veleti
-		religion = protestant
+		religion = catholic
 		size = 1000
 	}
 
 	farmers = {
 		culture = veleti
+		religion = catholic
+		size = 18000
+	}
+	
+	aristocrats = {
+		culture = veleti
 		religion = protestant
-		size = 19950
+		size = 20 
+	}
+
+	clergymen = {
+		culture = veleti
+		religion = protestant
+		size = 25
+	}
+
+	artisans = {
+		culture = veleti
+		religion = protestant
+		size = 125
+	}
+
+	farmers = {
+		culture = veleti
+		religion = protestant
+		size = 1950
 	}
 }
 #Hannover Region (1288000)

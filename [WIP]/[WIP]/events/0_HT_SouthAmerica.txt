@@ -320,7 +320,7 @@ country_event = {
 #FROMCOUNTRY accepts
 country_event = {
         id = 690012
-        title = "$COUNTRYFROM$ agreed to take part in the Conference"
+        title = "$FROMCOUNTRY$ agreed to take part in the Conference"
         desc = "EVTDESC690011"
 		picture = "banquet"
         
@@ -335,7 +335,7 @@ country_event = {
 #FROMCOUNTRY rejects
 country_event = {
         id = 690013
-        title = "$COUNTRYFROM$ rejected to take part in the Conference"
+        title = "$FROMCOUNTRY$ rejected to take part in the Conference"
         desc = "EVTDESC690011"
 		picture = "banquet"
         
@@ -517,7 +517,7 @@ country_event = {
 	    }
 }
 
-#FROMCOUNTRY rejects
+#Event for natives
 country_event = {
         id = 690016
         title = "The demands of the Conference!"
@@ -531,7 +531,35 @@ country_event = {
 		    relation = { who = PNB value = -200 }
 			relation = { who = CLM value = -200 }
 			INC = { country_event = 690017 }
-			ai_chance = { factor = 99 }
+			ai_chance = { 
+			    factor = 70 
+					modifier = {
+				        factor = 1
+						tag = MRA
+			        }
+					modifier = {
+				        factor = 0.2
+						tag = KKR
+			        }
+		    }
+	    }
+		
+		option = {
+		    name = "Let them try!"
+		    relation = { who = PNB value = -200 }
+			relation = { who = CLM value = -200 }
+			relation = { who = INC value = -50 }
+			ai_chance = { 
+			    factor = 29 
+					modifier = {
+				        factor = 0
+						tag = MRA
+			        }
+					modifier = {
+				        factor = 0.8
+						tag = KKR
+			        }
+		    }
 	    }
 		
 		option = {
@@ -541,6 +569,31 @@ country_event = {
 	    }
 }
 
+#Natives ask Incas for help
+country_event = {
+        id = 690017
+        title = "$FROMCOUNTRY$ asks for protection!"
+        desc = "EVTDESC690017"
+		picture = "banquet"
+        
+        is_triggered_only = yes
+	
+        option = {
+		    name = "Grant them our protection!"
+		    create_vassal = FROM
+			relation = { who = PNB value = -200 }
+			relation = { who = CLM value = -200 }
+			set_country_flag = protection_of_amassuna_natives
+			ai_chance = { factor = 99 }
+	    }
+		
+		option = {
+		    name = "Ignore them"
+			ai_chance = { factor = 1 }
+	    }
+}
+
+#Province Events
 #Cotton
 province_event = {
         id = 690005

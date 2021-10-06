@@ -1,6 +1,6 @@
-owner = MNG
-controller = MNG
+owner = NZH
+controller = NZH
 add_core = CHI
-add_core = MNG
+add_core = NZH
 trade_goods = tea
 life_rating = 32

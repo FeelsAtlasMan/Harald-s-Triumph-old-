@@ -13908,3 +13908,1217 @@
 	}
 }
 
+#Tusi Provinces
+#Hor (5964000/1491000 POPS)
+3565 = {
+	aristocrats = {
+		culture = kham
+		religion = gelugpa
+		size = 125
+	}
+
+	clergymen = {
+		culture = kham
+		religion = gelugpa
+		size = 225
+	}
+
+	soldiers = {
+		culture = kham
+		religion = gelugpa
+		size = 2525
+	}
+
+	farmers = {
+		culture = kham
+		religion = gelugpa
+		size = 10000
+	}
+}
+#Powo (5964000/1491000 POPS)
+3566 = {
+	aristocrats = {
+		culture = kham
+		religion = gelugpa
+		size = 200
+	}
+	
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 25
+	}
+
+	clergymen = {
+		culture = kham
+		religion = gelugpa
+		size = 1225
+	}
+	
+	artisans = {
+		culture = kham
+		religion = gelugpa
+		size = 2000
+	}
+
+	soldiers = {
+		culture = kham
+		religion = gelugpa
+		size = 1525
+	}
+
+	farmers = {
+		culture = kham
+		religion = gelugpa
+		size = 23000
+	}
+	
+	farmers = {
+		culture = u_tsang
+		religion = gelugpa
+		size = 5000
+	}
+}
+#placeholder pops
+#Bithang (5964000/1491000 POPS)
+3567 = {
+	aristocrats = {
+		culture = kham
+		religion = gelugpa
+		size = 200
+	}
+	
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 15
+	}
+
+	clergymen = {
+		culture = kham
+		religion = gelugpa
+		size = 1225
+	}
+	
+	artisans = {
+		culture = kham
+		religion = gelugpa
+		size = 2000
+	}
+
+	soldiers = {
+		culture = kham
+		religion = gelugpa
+		size = 1525
+	}
+
+	farmers = {
+		culture = kham
+		religion = gelugpa
+		size = 23000
+	}
+}
+#Lithang (5964000/1491000 POPS)
+3568 = {
+	aristocrats = {
+		culture = kham
+		religion = gelugpa
+		size = 200
+	}
+	
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 15
+	}
+
+	clergymen = {
+		culture = kham
+		religion = gelugpa
+		size = 1225
+	}
+	
+	artisans = {
+		culture = kham
+		religion = gelugpa
+		size = 2000
+	}
+
+	soldiers = {
+		culture = kham
+		religion = gelugpa
+		size = 1525
+	}
+
+	farmers = {
+		culture = kham
+		religion = gelugpa
+		size = 23000
+	}
+}
+#Chakla (5964000/1491000 POPS)
+3569 = {
+	aristocrats = {
+		culture = kham
+		religion = gelugpa
+		size = 200
+	}
+	
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 15
+	}
+
+	clergymen = {
+		culture = kham
+		religion = gelugpa
+		size = 1225
+	}
+	
+	artisans = {
+		culture = kham
+		religion = gelugpa
+		size = 2000
+	}
+
+	soldiers = {
+		culture = kham
+		religion = gelugpa
+		size = 1525
+	}
+
+	farmers = {
+		culture = kham
+		religion = gelugpa
+		size = 23000
+	}
+}
+#Muli (5964000/1491000 POPS)
+3570 = {
+	aristocrats = {
+		culture = kham
+		religion = gelugpa
+		size = 200
+	}
+	
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 15
+	}
+
+	clergymen = {
+		culture = kham
+		religion = gelugpa
+		size = 1225
+	}
+	
+	artisans = {
+		culture = kham
+		religion = gelugpa
+		size = 2000
+	}
+
+	soldiers = {
+		culture = kham
+		religion = gelugpa
+		size = 1525
+	}
+
+	farmers = {
+		culture = kham
+		religion = gelugpa
+		size = 23000
+	}
+}
+#Derge (5964000/1491000 POPS)
+3571 = {
+	aristocrats = {
+		culture = kham
+		religion = gelugpa
+		size = 200
+	}
+	
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 15
+	}
+
+	clergymen = {
+		culture = kham
+		religion = gelugpa
+		size = 1225
+	}
+	
+	artisans = {
+		culture = kham
+		religion = gelugpa
+		size = 2000
+	}
+
+	soldiers = {
+		culture = kham
+		religion = gelugpa
+		size = 1525
+	}
+
+	farmers = {
+		culture = kham
+		religion = gelugpa
+		size = 23000
+	}
+}
+#Lingtsang (5964000/1491000 POPS)
+3572 = {
+	aristocrats = {
+		culture = amdo
+		religion = gelugpa
+		size = 200
+	}
+	
+	aristocrats = {
+		culture = amdo
+		religion = mahayana
+		size = 15
+	}
+
+	clergymen = {
+		culture = amdo
+		religion = gelugpa
+		size = 1225
+	}
+	
+	artisans = {
+		culture = amdo
+		religion = gelugpa
+		size = 2000
+	}
+
+	soldiers = {
+		culture = amdo
+		religion = gelugpa
+		size = 1525
+	}
+
+	farmers = {
+		culture = amdo
+		religion = gelugpa
+		size = 23000
+	}
+}
+#Drango (5964000/1491000 POPS)
+3573 = {
+	aristocrats = {
+		culture = amdo
+		religion = gelugpa
+		size = 200
+	}
+	
+	aristocrats = {
+		culture = amdo
+		religion = mahayana
+		size = 15
+	}
+
+	clergymen = {
+		culture = amdo
+		religion = gelugpa
+		size = 1225
+	}
+	
+	artisans = {
+		culture = amdo
+		religion = gelugpa
+		size = 2000
+	}
+
+	soldiers = {
+		culture = amdo
+		religion = gelugpa
+		size = 1525
+	}
+
+	farmers = {
+		culture = amdo
+		religion = gelugpa
+		size = 23000
+	}
+}
+#Nangchen (5964000/1491000 POPS)
+3574 = {
+	aristocrats = {
+		culture = amdo
+		religion = gelugpa
+		size = 200
+	}
+	
+	aristocrats = {
+		culture = amdo
+		religion = mahayana
+		size = 15
+	}
+
+	clergymen = {
+		culture = amdo
+		religion = gelugpa
+		size = 1225
+	}
+	
+	artisans = {
+		culture = amdo
+		religion = gelugpa
+		size = 2000
+	}
+
+	soldiers = {
+		culture = amdo
+		religion = gelugpa
+		size = 1525
+	}
+
+	farmers = {
+		culture = amdo
+		religion = gelugpa
+		size = 23000
+	}
+}
+#Ngolok (5964000/1491000 POPS)
+3575 = {
+	aristocrats = {
+		culture = amdo
+		religion = gelugpa
+		size = 200
+	}
+	
+	aristocrats = {
+		culture = amdo
+		religion = mahayana
+		size = 15
+	}
+
+	clergymen = {
+		culture = amdo
+		religion = gelugpa
+		size = 1225
+	}
+	
+	artisans = {
+		culture = amdo
+		religion = gelugpa
+		size = 2000
+	}
+
+	soldiers = {
+		culture = amdo
+		religion = gelugpa
+		size = 1525
+	}
+
+	farmers = {
+		culture = amdo
+		religion = gelugpa
+		size = 23000
+	}
+}
+#Chuosijia (5964000/1491000 POPS)
+3576 = {
+	aristocrats = {
+		culture = amdo
+		religion = gelugpa
+		size = 200
+	}
+	
+	aristocrats = {
+		culture = amdo
+		religion = mahayana
+		size = 15
+	}
+
+	clergymen = {
+		culture = amdo
+		religion = gelugpa
+		size = 1225
+	}
+	
+	artisans = {
+		culture = amdo
+		religion = gelugpa
+		size = 2000
+	}
+
+	soldiers = {
+		culture = amdo
+		religion = gelugpa
+		size = 1525
+	}
+
+	farmers = {
+		culture = amdo
+		religion = gelugpa
+		size = 23000
+	}
+}
+#Meu (5964000/1491000 POPS)
+3577 = {
+	aristocrats = {
+		culture = amdo
+		religion = gelugpa
+		size = 200
+	}
+	
+	aristocrats = {
+		culture = amdo
+		religion = mahayana
+		size = 15
+	}
+
+	clergymen = {
+		culture = amdo
+		religion = gelugpa
+		size = 1225
+	}
+	
+	artisans = {
+		culture = amdo
+		religion = gelugpa
+		size = 2000
+	}
+
+	soldiers = {
+		culture = amdo
+		religion = gelugpa
+		size = 1525
+	}
+
+	farmers = {
+		culture = amdo
+		religion = gelugpa
+		size = 23000
+	}
+}
+#Suomo (5964000/1491000 POPS)
+3578 = {
+	aristocrats = {
+		culture = amdo
+		religion = gelugpa
+		size = 200
+	}
+	
+	aristocrats = {
+		culture = amdo
+		religion = mahayana
+		size = 15
+	}
+
+	clergymen = {
+		culture = amdo
+		religion = gelugpa
+		size = 1225
+	}
+	
+	artisans = {
+		culture = amdo
+		religion = gelugpa
+		size = 2000
+	}
+
+	soldiers = {
+		culture = amdo
+		religion = gelugpa
+		size = 1525
+	}
+
+	farmers = {
+		culture = amdo
+		religion = gelugpa
+		size = 23000
+	}
+}
+#Rongwo (5964000/1491000 POPS)
+3579 = {
+	aristocrats = {
+		culture = amdo
+		religion = gelugpa
+		size = 200
+	}
+	
+	aristocrats = {
+		culture = amdo
+		religion = mahayana
+		size = 15
+	}
+
+	clergymen = {
+		culture = amdo
+		religion = gelugpa
+		size = 1225
+	}
+	
+	artisans = {
+		culture = amdo
+		religion = gelugpa
+		size = 2000
+	}
+
+	soldiers = {
+		culture = amdo
+		religion = gelugpa
+		size = 1525
+	}
+
+	farmers = {
+		culture = amdo
+		religion = gelugpa
+		size = 23000
+	}
+}
+#Ngulra (5964000/1491000 POPS)
+3580 = {
+	aristocrats = {
+		culture = amdo
+		religion = gelugpa
+		size = 200
+	}
+	
+	aristocrats = {
+		culture = amdo
+		religion = mahayana
+		size = 15
+	}
+
+	clergymen = {
+		culture = amdo
+		religion = gelugpa
+		size = 1225
+	}
+	
+	artisans = {
+		culture = amdo
+		religion = gelugpa
+		size = 2000
+	}
+
+	soldiers = {
+		culture = amdo
+		religion = gelugpa
+		size = 1525
+	}
+
+	farmers = {
+		culture = amdo
+		religion = gelugpa
+		size = 23000
+	}
+}
+#Labrang (5964000/1491000 POPS)
+3581 = {
+	aristocrats = {
+		culture = amdo
+		religion = gelugpa
+		size = 200
+	}
+	
+	aristocrats = {
+		culture = amdo
+		religion = mahayana
+		size = 15
+	}
+
+	clergymen = {
+		culture = amdo
+		religion = gelugpa
+		size = 1225
+	}
+	
+	artisans = {
+		culture = amdo
+		religion = gelugpa
+		size = 2000
+	}
+
+	soldiers = {
+		culture = amdo
+		religion = gelugpa
+		size = 1525
+	}
+
+	farmers = {
+		culture = amdo
+		religion = gelugpa
+		size = 23000
+	}
+}
+#Choni (5964000/1491000 POPS)
+3582 = {
+	aristocrats = {
+		culture = amdo
+		religion = gelugpa
+		size = 200
+	}
+	
+	aristocrats = {
+		culture = amdo
+		religion = mahayana
+		size = 15
+	}
+
+	clergymen = {
+		culture = amdo
+		religion = gelugpa
+		size = 1225
+	}
+	
+	artisans = {
+		culture = amdo
+		religion = gelugpa
+		size = 2000
+	}
+
+	soldiers = {
+		culture = amdo
+		religion = gelugpa
+		size = 1525
+	}
+
+	farmers = {
+		culture = amdo
+		religion = gelugpa
+		size = 23000
+	}
+}
+#Dasima (5964000/1491000 POPS)
+3583 = {
+	aristocrats = {
+		culture = amdo
+		religion = gelugpa
+		size = 200
+	}
+	
+	aristocrats = {
+		culture = amdo
+		religion = mahayana
+		size = 15
+	}
+
+	clergymen = {
+		culture = amdo
+		religion = gelugpa
+		size = 1225
+	}
+	
+	artisans = {
+		culture = amdo
+		religion = gelugpa
+		size = 2000
+	}
+
+	soldiers = {
+		culture = amdo
+		religion = gelugpa
+		size = 1525
+	}
+
+	farmers = {
+		culture = amdo
+		religion = gelugpa
+		size = 23000
+	}
+}
+#Salar (5964000/1491000 POPS)
+3584 = {
+	aristocrats = {
+		culture = amdo
+		religion = gelugpa
+		size = 200
+	}
+	
+	aristocrats = {
+		culture = amdo
+		religion = mahayana
+		size = 15
+	}
+
+	clergymen = {
+		culture = amdo
+		religion = gelugpa
+		size = 1225
+	}
+	
+	artisans = {
+		culture = amdo
+		religion = gelugpa
+		size = 2000
+	}
+
+	soldiers = {
+		culture = amdo
+		religion = gelugpa
+		size = 1525
+	}
+
+	farmers = {
+		culture = amdo
+		religion = gelugpa
+		size = 23000
+	}
+}
+#Shuidong (5964000/1491000 POPS)
+3585 = {
+	aristocrats = {
+		culture = miao
+		religion = animist
+		size = 200
+	}
+	
+	aristocrats = {
+		culture = miao
+		religion = animist
+		size = 15
+	}
+
+	clergymen = {
+		culture = miao
+		religion = animist
+		size = 1225
+	}
+	
+	artisans = {
+		culture = miao
+		religion = animist
+		size = 2000
+	}
+
+	soldiers = {
+		culture = miao
+		religion = animist
+		size = 1525
+	}
+
+	farmers = {
+		culture = miao
+		religion = gelugpa
+		size = 23000
+	}
+}
+
+#Mugebaizhage (5964000/1491000 POPS)
+3586 = {
+	aristocrats = {
+		culture = miao
+		religion = animist
+		size = 200
+	}
+	
+	aristocrats = {
+		culture = miao
+		religion = mahayana
+		size = 15
+	}
+
+	clergymen = {
+		culture = miao
+		religion = animist
+		size = 1225
+	}
+	
+	artisans = {
+		culture = miao
+		religion = animist
+		size = 2000
+	}
+
+	soldiers = {
+		culture = miao
+		religion = animist
+		size = 1525
+	}
+
+	farmers = {
+		culture = miao
+		religion = animist
+		size = 23000
+	}
+}
+
+#Miaotusi (5964000/1491000 POPS)
+3587 = {
+	aristocrats = {
+		culture = miao
+		religion = animist
+		size = 200
+	}
+	
+	aristocrats = {
+		culture = miao
+		religion = mahayana
+		size = 15
+	}
+
+	clergymen = {
+		culture = miao
+		religion = animist
+		size = 1225
+	}
+	
+	artisans = {
+		culture = miao
+		religion = gelugpa
+		size = 2000
+	}
+
+	soldiers = {
+		culture = miao
+		religion = animist
+		size = 1525
+	}
+
+	farmers = {
+		culture = miao
+		religion = animist
+		size = 23000
+	}
+}
+#Yongning (5964000/1491000 POPS)
+3588 = {
+	aristocrats = {
+		culture = kham
+		religion = gelugpa
+		size = 200
+	}
+	
+	aristocrats = {
+		culture = kham
+		religion = mahayana
+		size = 15
+	}
+
+	clergymen = {
+		culture = kham
+		religion = gelugpa
+		size = 1225
+	}
+	
+	artisans = {
+		culture = kham
+		religion = gelugpa
+		size = 2000
+	}
+
+	soldiers = {
+		culture = kham
+		religion = gelugpa
+		size = 1525
+	}
+
+	farmers = {
+		culture = kham
+		religion = gelugpa
+		size = 23000
+	}
+}
+#Mongmit (5964000/1491000 POPS)
+3589 = {
+	aristocrats = {
+		culture = shan
+		religion = theravada
+		size = 200
+	}
+	
+	aristocrats = {
+		culture = shan
+		religion = theravada
+		size = 15
+	}
+
+	clergymen = {
+		culture = shan
+		religion = theravada
+		size = 1225
+	}
+	
+	artisans = {
+		culture = shan
+		religion = theravada
+		size = 2000
+	}
+
+	soldiers = {
+		culture = shan
+		religion = theravada
+		size = 1525
+	}
+
+	farmers = {
+		culture = shan
+		religion = theravada
+		size = 23000
+	}
+}
+#Sipsongpanna (5964000/1491000 POPS)
+3590 = {
+	aristocrats = {
+		culture = tai
+		religion = theravada
+		size = 200
+	}
+	
+	aristocrats = {
+		culture = tai
+		religion = theravada
+		size = 15
+	}
+
+	clergymen = {
+		culture = tai
+		religion = theravada
+		size = 1225
+	}
+	
+	artisans = {
+		culture = tai
+		religion = theravada
+		size = 2000
+	}
+
+	soldiers = {
+		culture = tai
+		religion = theravada
+		size = 1525
+	}
+
+	farmers = {
+		culture = tai
+		religion = theravada
+		size = 23000
+	}
+}
+#Kungkeng (5964000/1491000 POPS)
+3591 = {
+	aristocrats = {
+		culture = shan
+		religion = theravada
+		size = 200
+	}
+	
+	aristocrats = {
+		culture = shan
+		religion = theravada
+		size = 15
+	}
+
+	clergymen = {
+		culture = shan
+		religion = theravada
+		size = 1225
+	}
+	
+	artisans = {
+		culture = shan
+		religion = theravada
+		size = 2000
+	}
+
+	soldiers = {
+		culture = shan
+		religion = theravada
+		size = 1525
+	}
+
+	farmers = {
+		culture = shan
+		religion = theravada
+		size = 23000
+	}
+}
+#Pangyang (5964000/1491000 POPS)
+3592 = {
+	aristocrats = {
+		culture = shan
+		religion = theravada
+		size = 200
+	}
+	
+	aristocrats = {
+		culture = shan
+		religion = theravada
+		size = 15
+	}
+
+	clergymen = {
+		culture = shan
+		religion = theravada
+		size = 1225
+	}
+	
+	artisans = {
+		culture = shan
+		religion = theravada
+		size = 2000
+	}
+
+	soldiers = {
+		culture = shan
+		religion = theravada
+		size = 1525
+	}
+
+	farmers = {
+		culture = shan
+		religion = theravada
+		size = 23000
+	}
+}
+#Hsipaw (5964000/1491000 POPS)
+3593 = {
+	aristocrats = {
+		culture = shan
+		religion = theravada
+		size = 200
+	}
+	
+	aristocrats = {
+		culture = shan
+		religion = theravada
+		size = 15
+	}
+
+	clergymen = {
+		culture = shan
+		religion = theravada
+		size = 1225
+	}
+	
+	artisans = {
+		culture = shan
+		religion = theravada
+		size = 2000
+	}
+
+	soldiers = {
+		culture = shan
+		religion = theravada
+		size = 1525
+	}
+
+	farmers = {
+		culture = shan
+		religion = theravada
+		size = 23000
+	}
+}
+#Kengtung (5964000/1491000 POPS)
+3594 = {
+	aristocrats = {
+		culture = shan
+		religion = theravada
+		size = 200
+	}
+	
+	aristocrats = {
+		culture = shan
+		religion = theravada
+		size = 15
+	}
+
+	clergymen = {
+		culture = shan
+		religion = theravada
+		size = 1225
+	}
+	
+	artisans = {
+		culture = shan
+		religion = theravada
+		size = 2000
+	}
+
+	soldiers = {
+		culture = shan
+		religion = theravada
+		size = 1525
+	}
+
+	farmers = {
+		culture = shan
+		religion = theravada
+		size = 23000
+	}
+}
+#Lawksawk (5964000/1491000 POPS)
+3595 = {
+	aristocrats = {
+		culture = shan
+		religion = theravada
+		size = 200
+	}
+	
+	aristocrats = {
+		culture = shan
+		religion = theravada
+		size = 15
+	}
+
+	clergymen = {
+		culture = shan
+		religion = theravada
+		size = 1225
+	}
+	
+	artisans = {
+		culture = shan
+		religion = theravada
+		size = 2000
+	}
+
+	soldiers = {
+		culture = shan
+		religion = theravada
+		size = 1525
+	}
+
+	farmers = {
+		culture = shan
+		religion = theravada
+		size = 23000
+	}
+}
+#Mongpan (5964000/1491000 POPS)
+3596 = {
+	aristocrats = {
+		culture = shan
+		religion = theravada
+		size = 200
+	}
+	
+	aristocrats = {
+		culture = shan
+		religion = theravada
+		size = 15
+	}
+
+	clergymen = {
+		culture = shan
+		religion = theravada
+		size = 1225
+	}
+	
+	artisans = {
+		culture = shan
+		religion = theravada
+		size = 2000
+	}
+
+	soldiers = {
+		culture = shan
+		religion = theravada
+		size = 1525
+	}
+
+	farmers = {
+		culture = shan
+		religion = theravada
+		size = 23000
+	}
+}

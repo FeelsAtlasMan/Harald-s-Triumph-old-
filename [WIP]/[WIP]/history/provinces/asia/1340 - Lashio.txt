@@ -1,6 +1,5 @@
-owner = SHA
-controller = SHA
-add_core = BUR
-add_core = SHA
+owner = HSN
+controller = HSN
+add_core = HSN
 trade_goods = tropical_wood
 life_rating = 33

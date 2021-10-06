@@ -432,4 +432,37 @@ political_decisions = {
 		}
 		ai_will_do = { factor = 1 }
 	}
+	
+	#Incan Claims in the Amassuna
+	inca_amassuna_claims = {
+	    picture = amazonas_gaming
+	    potential = {
+		    tag = INC
+			OR = {
+			    has_country_flag = cucked_out_of_ac
+				has_country_flag = rejected_ac
+		    }
+			NOT = { has_country_flag = inca_amassuna_claims_proc }
+		}
+		
+		allow = {
+			war = no
+		}
+		
+		effect = {
+			2417 = { add_core = INC }
+			3480 = { add_core = INC }
+			2407 = { add_core = INC }
+			2401 = { add_core = INC }
+			2263 = { add_core = INC }
+			2235 = { add_core = INC }
+			2289 = { add_core = INC }
+			2549 = { add_core = INC }
+			2404 = { add_core = INC }
+			2405 = { add_core = INC }
+			secede_province = 2407
+			set_country_flag = inca_amassuna_claims_proc
+		}
+		ai_will_do = { factor = 1 }
+	}
 }

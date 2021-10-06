@@ -1,9 +1,9 @@
 capital = 1334
 primary_culture = burmese
 religion = theravada
-government = absolute_monarchy
+government = colonial_company
 plurality = 0.0
-nationalvalue = nv_tradition
+nationalvalue = tradition
 literacy = 0.03
 non_state_culture_literacy = 0.01
 
