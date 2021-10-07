@@ -271,33 +271,57 @@
 #Baker/Repulse Bay/ Echo Bay - Now Guantanamo Bay (5036/1259 POPS)
 44 = {
 	aristocrats = {
-		culture = cupan
+		culture = takic
 		religion = animist
 		size = 205
 	}
 
 	clergymen = {
-		culture = cupan
+		culture = takic
 		religion = animist
 		size = 110
 	}
 
 	artisans = {
-		culture = cupan
+		culture = takic
 		religion = animist
 		size = 225
 	}
 
 	soldiers = {
-		culture = cupan
+		culture = takic
 		religion = animist
 		size = 1100
 	}
 
 	farmers = {
-		culture = cupan
+		culture = takic
 		religion = animist
 		size = 30240
+	}
+	
+	clergymen = {
+		culture = ute_lang
+		religion = animist
+		size = 10
+	}
+
+	artisans = {
+		culture = ute_lang
+		religion = animist
+		size = 25
+	}
+
+	soldiers = {
+		culture = ute_lang
+		religion = animist
+		size = 100
+	}
+
+	farmers = {
+		culture = ute_lang
+		religion = animist
+		size = 3240
 	}
 }
 

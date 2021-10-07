@@ -4950,6 +4950,17 @@ uto_nahuatl = {
 		Huanitzin Itzel Ixtlilxochitl Jiménez Matlacuahuac Mayahuel Moxo Muñoz Nahui Ocelotl
 		Panecatl Tlaxca Tletla Tzehe Valeriano Xaxalpa Zicoténcatl Xochitl Zapata Zapotitla }
 	}
+	
+	takic = {
+		color = {50 95 80}
+		first_names = { Antonio Charles Diego Emiliano Emilio Felipe Fernando Francisco Gaspar Hernando
+		Hilario Ignacio Isaac Jacinto Jesús José Juan Julio Lorenzo Manuel
+		Marcial Mario Martín Natalio Oliverio Pedro Roberto Rodolfo Santiago Víctor }
+
+		last_names = { Ahuactzin Altamirano Atlanteco Badiano Bernardino Coaguila Coyotl Cuautlaxahue Gutiérrez Hernández
+		Huanitzin Itzel Ixtlilxochitl Jiménez Matlacuahuac Mayahuel Moxo Muñoz Nahui Ocelotl
+		Panecatl Tlaxca Tletla Tzehe Valeriano Xaxalpa Zicoténcatl Xochitl Zapata Zapotitla }
+	}
 }
 
 #Oto-Manguean 
@@ -5275,6 +5286,128 @@ cuitlatec_group = {
 		last_names = { Ak'ab'al Cal Canek Canul Carrillo Ceh Chee Chi Choc Coc
 		Curruchic Ixquiac López Manzanero Mas Menchú Mérida Mes Osorio Pek
 		Poot Pop Puk Shal Sho Tecú Teul Tuyuc Xicara Xiloj }
+	}
+}
+
+#Chumash 
+chumash_group = {
+	leader = nativeamerican
+	is_overseas = no
+	chumash = {
+		color = {130 20 90}
+		first_names = { John Paul José Louis Mariano James David Jack Joel Charles Henry Ganado Herandez
+		}
+		last_names = { Piche Ross Alvarez Smith Crane Mayes Thompson Delgado Dagardo Lafayet
+		}
+	}
+}
+
+#Yuki-Wappo 
+yuki_wappo_group = {
+	leader = nativeamerican
+	is_overseas = no
+	yuki_wappo = {
+		color = {130 120 10}
+		first_names = { John Paul José Louis Mariano James David Jack Joel Charles Henry Ganado Herandez
+		}
+		last_names = { Piche Ross Alvarez Smith Crane Mayes Thompson Delgado Dagardo Lafayet
+		}
+	}
+}
+
+#Penutian
+penutian = {
+	leader = nativeamerican
+	is_overseas = no
+	#Plateau
+	klamath_modoc = {
+		color = {230 120 10}
+		first_names = { John Paul José Louis Mariano James David Jack Joel Charles Henry Ganado Herandez
+		}
+		last_names = { Piche Ross Alvarez Smith Crane Mayes Thompson Delgado Dagardo Lafayet
+		}
+	}
+	
+	molola = {
+		color = {200 140 30}
+		first_names = { John Paul José Louis Mariano James David Jack Joel Charles Henry Ganado Herandez
+		}
+		last_names = { Piche Ross Alvarez Smith Crane Mayes Thompson Delgado Dagardo Lafayet
+		}
+	}
+	
+	sahaptian = {
+		color = {170 160 50}
+		first_names = { John Paul José Louis Mariano James David Jack Joel Charles Henry Ganado Herandez
+		}
+		last_names = { Piche Ross Alvarez Smith Crane Mayes Thompson Delgado Dagardo Lafayet
+		}
+	}
+	
+	#Yok-Utian
+	miwok = {
+		color = {190 130 70}
+		first_names = { John Paul José Louis Mariano James David Jack Joel Charles Henry Ganado Herandez
+		}
+		last_names = { Piche Ross Alvarez Smith Crane Mayes Thompson Delgado Dagardo Lafayet
+		}
+	}
+	
+	ohlone = {
+		color = {210 100 90}
+		first_names = { John Paul José Louis Mariano James David Jack Joel Charles Henry Ganado Herandez
+		}
+		last_names = { Piche Ross Alvarez Smith Crane Mayes Thompson Delgado Dagardo Lafayet
+		}
+	}
+	
+	yokuts = {
+		color = {240 70 110}
+		first_names = { John Paul José Louis Mariano James David Jack Joel Charles Henry Ganado Herandez
+		}
+		last_names = { Piche Ross Alvarez Smith Crane Mayes Thompson Delgado Dagardo Lafayet
+		}
+	}
+	
+	#Maiduan
+	maiduan = {
+		color = {220 90 50}
+		first_names = { John Paul José Louis Mariano James David Jack Joel Charles Henry Ganado Herandez
+		}
+		last_names = { Piche Ross Alvarez Smith Crane Mayes Thompson Delgado Dagardo Lafayet
+		}
+	}
+	#Wintuan
+	wintuan = {
+		color = {180 90 50}
+		first_names = { John Paul José Louis Mariano James David Jack Joel Charles Henry Ganado Herandez
+		}
+		last_names = { Piche Ross Alvarez Smith Crane Mayes Thompson Delgado Dagardo Lafayet
+		}
+	}
+	#Chinook
+	chinook = {
+		color = {150 70 40}
+		first_names = { John Paul José Louis Mariano James David Jack Joel Charles Henry Ganado Herandez
+		}
+		last_names = { Piche Ross Alvarez Smith Crane Mayes Thompson Delgado Dagardo Lafayet
+		}
+	}
+	#Tsimshian
+	tsimshian = {
+		color = {180 100 40}
+		first_names = { John Paul José Louis Mariano James David Jack Joel Charles Henry Ganado Herandez
+		}
+		last_names = { Piche Ross Alvarez Smith Crane Mayes Thompson Delgado Dagardo Lafayet
+		}
+	}
+	#Alsea-Siuslaw-Coosan
+	alsea_siuslaw_coosan = {
+		color = {230 170 40}
+		first_names = { John Paul José Louis Mariano James David Jack Joel Charles Henry Ganado Herandez
+		}
+		last_names = { Piche Ross Alvarez Smith Crane Mayes Thompson Delgado Dagardo Lafayet
+		}
 	}
 }
 
