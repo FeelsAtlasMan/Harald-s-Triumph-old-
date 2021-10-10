@@ -362,136 +362,232 @@
 13 = {
 	clergymen = {
 		culture = new_scots
-		religion = protestant
+		religion = catholic
 		size = 10
 	}
 
 	artisans = {
 		culture = new_scots
-		religion = protestant
+		religion = catholic
 		size = 10
 	}
 	
 	officers = {
 		culture = new_scots
-		religion = protestant
+		religion = catholic
 		size = 5
 	}
 
 	soldiers = {
 		culture = new_scots
-		religion = protestant
-		size = 10
+		religion = catholic
+		size = 310
 	}
 	
 	farmers = {
 		culture = new_scots
-		religion = protestant
+		religion = catholic
 		size = 50
 	}
 	
-	farmers = {
-		culture = native_american_minor
+	clergymen = {
+		culture = halkomelem
 		religion = animist
-		size = 2460
+		size = 310
+	}
+
+	artisans = {
+		culture = halkomelem
+		religion = animist
+		size = 2010
+	}
+	
+	farmers = {
+		culture = halkomelem
+		religion = animist
+		size = 38460
+	}
+	
+	clergymen = {
+		culture = ntlakapmuk
+		religion = animist
+		size = 80
+	}
+
+	artisans = {
+		culture = ntlakapmuk
+		religion = animist
+		size = 10
+	}
+	
+	farmers = {
+		culture = ntlakapmuk
+		religion = animist
+		size = 4460
 	}
 
 }
 #Vancouver Island (8000/2000 POPS)
 14 = {
 	clergymen = {
-		culture = new_scots
-		religion = protestant
-		size = 10
+		culture = wakashan
+		religion = animist
+		size = 310
 	}
 
 	artisans = {
-		culture = new_scots
-		religion = protestant
-		size = 10
+		culture = wakashan
+		religion = animist
+		size = 310
 	}
 
 	soldiers = {
-		culture = new_scots
-		religion = protestant
-		size = 10
-	}
-	
-	farmers = {
-		culture = new_scots
-		religion = protestant
-		size = 50
+		culture = wakashan
+		religion = animist
+		size = 510
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = wakashan
 		religion = animist
-		size = 2130
+		size = 18130
+	}
+	
+	clergymen = {
+		culture = halkomelem
+		religion = animist
+		size = 210
+	}
+
+	artisans = {
+		culture = halkomelem
+		religion = animist
+		size = 210
+	}
+
+	soldiers = {
+		culture = halkomelem
+		religion = animist
+		size = 510
+	}
+
+	farmers = {
+		culture = halkomelem
+		religion = animist
+		size = 11130
 	}
 }
 #Prince Rupert (8000/2000 POPS)
 15 = {
 	clergymen = {
-		culture = new_scots
-		religion = protestant
+		culture = wakashan
+		religion = animist
 		size = 3
 	}
 
 	artisans = {
-		culture = new_scots
-		religion = protestant
+		culture = wakashan
+		religion = animist
 		size = 3
 	}
 
 	soldiers = {
-		culture = new_scots
-		religion = protestant
+		culture = wakashan
+		religion = animist
 		size = 3
-	}
-	
-	farmers = {
-		culture = new_scots
-		religion = protestant
-		size = 10
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = wakashan
 		religion = animist
-		size = 3115
+		size = 8115
+	}  
+	
+	farmers = {
+		culture = lillooet
+		religion = animist
+		size = 7115
+	}  
+	
+	farmers = {
+		culture = dakelh_witsuwiten
+		religion = animist
+		size = 1115
+	}
+	
+	farmers = {
+		culture = chilcotin_nicola
+		religion = animist
+		size = 6115
+	}
+	
+	farmers = {
+		culture = nuxalk
+		religion = animist
+		size = 7115
+	}
+	
+	farmers = {
+		culture = tsimshian
+		religion = animist
+		size = 7115
+	}
+	
+	farmers = {
+		culture = halkomelem
+		religion = animist
+		size = 1115
 	}
 }
 #Glenora (4000/1000 POPS)
 16 = {
 
 	clergymen = {
-		culture = new_scots
-		religion = protestant
-		size = 3
+		culture = cordillera
+		religion = animist
+		size = 31
 	}
 
 	artisans = {
-		culture = new_scots
-		religion = protestant
-		size = 3
+		culture = cordillera
+		religion = animist
+		size = 13
 	}
 
 	soldiers = {
-		culture = new_scots
-		religion = protestant
-		size = 3
+		culture = cordillera
+		religion = animist
+		size = 13
 	}
 	
 	farmers = {
-		culture = new_scots
-		religion = protestant
-		size = 10
+		culture = cordillera
+		religion = animist
+		size = 4010
+	}
+	
+	clergymen = {
+		culture = dakelh_witsuwiten
+		religion = animist
+		size = 31
+	}
+
+	artisans = {
+		culture = dakelh_witsuwiten
+		religion = animist
+		size = 13
+	}
+
+	soldiers = {
+		culture = dakelh_witsuwiten
+		religion = animist
+		size = 13
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = dakelh_witsuwiten
 		religion = animist
-		size = 990
+		size = 10990
 	}
 }
 #Atlin (4000/1000 POPS)
@@ -561,31 +657,31 @@
 #Prince George (8000/2000 POPS)
 19 = {
 	clergymen = {
-		culture = new_scots
-		religion = protestant
-		size = 5
+		culture = shuswap
+		religion = animist
+		size = 55
 	}
 
 	artisans = {
-		culture = new_scots
-		religion = protestant
-		size = 5
+		culture = shuswap
+		religion = animist
+		size = 55
 	}
 
 	soldiers = {
-		culture = new_scots
-		religion = protestant
-		size = 5
+		culture = shuswap
+		religion = animist
+		size = 55
 	}
 	
 	farmers = {
-		culture = new_scots
-		religion = protestant
-		size = 15
+		culture = shuswap
+		religion = animist
+		size = 18015
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = cordillera
 		religion = animist
 		size = 1950
 	}
@@ -593,66 +689,114 @@
 #Kelowna (8000/2000 POPS)
 20 = {
 	clergymen = {
-		culture = new_scots
-		religion = protestant
-		size = 5
+		culture = nsilxcin
+		religion = animist
+		size = 35
 	}
 
 	artisans = {
-		culture = new_scots
-		religion = protestant
-		size = 5
+		culture = nsilxcin
+		religion = animist
+		size = 25
 	}
 
 	soldiers = {
-		culture = new_scots
-		religion = protestant
-		size = 5
-	}
-	
-	farmers = {
-		culture = new_scots
-		religion = protestant
-		size = 15
+		culture = nsilxcin
+		religion = animist
+		size = 205
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = nsilxcin
 		religion = animist
-		size = 1950
+		size = 4950
+	}
+	
+	clergymen = {
+		culture = chilcotin_nicola
+		religion = animist
+		size = 35
+	}
+
+	artisans = {
+		culture = chilcotin_nicola
+		religion = animist
+		size = 25
+	}
+
+	soldiers = {
+		culture = chilcotin_nicola
+		religion = animist
+		size = 205
+	}
+
+	farmers = {
+		culture = chilcotin_nicola
+		religion = animist
+		size = 8950
+	}
+	
+	clergymen = {
+		culture = ntlakapmuk
+		religion = animist
+		size = 35
+	}
+
+	artisans = {
+		culture = ntlakapmuk
+		religion = animist
+		size = 25
+	}
+
+	soldiers = {
+		culture = ntlakapmuk
+		religion = animist
+		size = 205
+	}
+
+	farmers = {
+		culture = ntlakapmuk
+		religion = animist
+		size = 8950
 	}
 }
 #Vernon (8000/2000 POPS)
 21 = {
 
 	clergymen = {
-		culture = new_scots
-		religion = protestant
-		size = 5
-	}
-
-	artisans = {
-		culture = new_scots
-		religion = protestant
-		size = 5
-	}
-
-	soldiers = {
-		culture = new_scots
-		religion = protestant
-		size = 5
-	}
-	
-	farmers = {
-		culture = new_scots
-		religion = protestant
+		culture = nsilxcin
+		religion = animist
 		size = 15
 	}
 
-	farmers = {
-		culture = native_american_minor
+	soldiers = {
+		culture = nsilxcin
 		religion = animist
-		size = 1950
+		size = 115
+	}
+	
+	farmers = {
+		culture = nsilxcin
+		religion = animist
+		size = 1115
+	}
+	
+	clergymen = {
+		culture = ktunaxa
+		religion = animist
+		size = 65
+	}
+
+	soldiers = {
+		culture = ktunaxa
+		religion = animist
+		size = 905
+	}
+
+	farmers = {
+		culture = ktunaxa
+		religion = animist
+		size = 11950
 	}
 
 }
@@ -885,48 +1029,53 @@
 	}
 }
 #Edmonton - Denwood (8000/2000 POPS)
-27 = {
-
+27 = {  
+	aristocrats = {
+		culture = sahaptian
+		religion = animist
+		size = 4005
+	}
+	
 	clergymen = {
-		culture = hvitian
-		religion = protestant
-		size = 5
+		culture = sahaptian
+		religion = animist
+		size = 2005
 	}
 
 	artisans = {
-		culture = hvitian
-		religion = protestant
-		size = 5
+		culture = sahaptian
+		religion = animist
+		size = 3005
 	}
 	
 	officers = {
-		culture = hvitian
-		religion = protestant
-		size = 5
+		culture = sahaptian
+		religion = animist
+		size = 55
 	}
 
 	soldiers = {
-		culture = hvitian
-		religion = protestant
-		size = 5
+		culture = sahaptian
+		religion = animist
+		size = 3005
 	}
 	
 	farmers = {
-		culture = hvitian
-		religion = protestant
-		size = 15
-	}
-
-	farmers = {
-		culture = native_american_minor
+		culture = sahaptian
 		religion = animist
-		size = 710
+		size = 65015
 	}
 
 	farmers = {
-		culture = metis
-		religion = catholic
-		size = 185
+		culture = chinook
+		religion = animist
+		size = 14000
+	}
+
+	farmers = {
+		culture = molola
+		religion = animist
+		size = 7185
 	}
 }
 #Fort MacLeod (8000/2000 POPS)

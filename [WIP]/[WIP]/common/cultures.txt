@@ -5315,6 +5315,19 @@ yuki_wappo_group = {
 	}
 }
 
+#Wakashan 
+wakashan_group = {
+	leader = nativeamerican
+	is_overseas = no
+	wakashan = {
+		color = {240 20 10}
+		first_names = { John Paul José Louis Mariano James David Jack Joel Charles Henry Ganado Herandez
+		}
+		last_names = { Piche Ross Alvarez Smith Crane Mayes Thompson Delgado Dagardo Lafayet
+		}
+	}
+}
+
 #Penutian
 penutian = {
 	leader = nativeamerican
@@ -5404,6 +5417,101 @@ penutian = {
 	#Alsea-Siuslaw-Coosan
 	alsea_siuslaw_coosan = {
 		color = {230 170 40}
+		first_names = { John Paul José Louis Mariano James David Jack Joel Charles Henry Ganado Herandez
+		}
+		last_names = { Piche Ross Alvarez Smith Crane Mayes Thompson Delgado Dagardo Lafayet
+		}
+	}
+}
+
+#Salish
+salish_group = {
+	leader = nativeamerican
+	is_overseas = no
+	#Nuxalk
+	nuxalk = {
+		color = {130 100 230}
+		first_names = { John Paul José Louis Mariano James David Jack Joel Charles Henry Ganado Herandez
+		}
+		last_names = { Piche Ross Alvarez Smith Crane Mayes Thompson Delgado Dagardo Lafayet
+		}
+	}
+	
+	#Coast Salish
+	comox = {
+		color = {110 90 210}
+		first_names = { John Paul José Louis Mariano James David Jack Joel Charles Henry Ganado Herandez
+		}
+		last_names = { Piche Ross Alvarez Smith Crane Mayes Thompson Delgado Dagardo Lafayet
+		}
+	}
+	halkomelem = {
+		color = {90 80 190}
+		first_names = { John Paul José Louis Mariano James David Jack Joel Charles Henry Ganado Herandez
+		}
+		last_names = { Piche Ross Alvarez Smith Crane Mayes Thompson Delgado Dagardo Lafayet
+		}
+	}
+	lushootseed = {
+		color = {70 70 170}
+		first_names = { John Paul José Louis Mariano James David Jack Joel Charles Henry Ganado Herandez
+		}
+		last_names = { Piche Ross Alvarez Smith Crane Mayes Thompson Delgado Dagardo Lafayet
+		}
+	}
+	tsamosan = {
+		color = {50 60 160}
+		first_names = { John Paul José Louis Mariano James David Jack Joel Charles Henry Ganado Herandez
+		}
+		last_names = { Piche Ross Alvarez Smith Crane Mayes Thompson Delgado Dagardo Lafayet
+		}
+	}
+	tillamook = {
+		color = {30 50 140}
+		first_names = { John Paul José Louis Mariano James David Jack Joel Charles Henry Ganado Herandez
+		}
+		last_names = { Piche Ross Alvarez Smith Crane Mayes Thompson Delgado Dagardo Lafayet
+		}
+	}
+	#Interior Salish
+	shuswap = {
+		color = {110 190 210}
+		first_names = { John Paul José Louis Mariano James David Jack Joel Charles Henry Ganado Herandez
+		}
+		last_names = { Piche Ross Alvarez Smith Crane Mayes Thompson Delgado Dagardo Lafayet
+		}
+	}
+	lillooet = {
+		color = {100 170 190}
+		first_names = { John Paul José Louis Mariano James David Jack Joel Charles Henry Ganado Herandez
+		}
+		last_names = { Piche Ross Alvarez Smith Crane Mayes Thompson Delgado Dagardo Lafayet
+		}
+	}
+	ntlakapmuk = {
+		color = {90 150 170}
+		first_names = { John Paul José Louis Mariano James David Jack Joel Charles Henry Ganado Herandez
+		}
+		last_names = { Piche Ross Alvarez Smith Crane Mayes Thompson Delgado Dagardo Lafayet
+		}
+	}
+	salish = {
+		color = {70 130 150}
+		first_names = { John Paul José Louis Mariano James David Jack Joel Charles Henry Ganado Herandez
+		}
+		last_names = { Piche Ross Alvarez Smith Crane Mayes Thompson Delgado Dagardo Lafayet
+		}
+	}
+	nsilxcin = {
+		color = {50 110 130}
+		first_names = { John Paul José Louis Mariano James David Jack Joel Charles Henry Ganado Herandez
+		}
+		last_names = { Piche Ross Alvarez Smith Crane Mayes Thompson Delgado Dagardo Lafayet
+		}
+	}
+	#Ktunaxa (prob. isolate)
+	ktunaxa = {
+		color = {110 110 130}
 		first_names = { John Paul José Louis Mariano James David Jack Joel Charles Henry Ganado Herandez
 		}
 		last_names = { Piche Ross Alvarez Smith Crane Mayes Thompson Delgado Dagardo Lafayet
@@ -5601,14 +5709,6 @@ na_dene = {
 		}
 	} 
 	
-	kwalhioqua_tlatskanai = {
-		color = {100 130 120}
-		first_names = { Narbona Mariano Zarcillos Manuelito Herrero Barboncito Ganado "Henry Chee" "Digul Chee"
-		}
-		last_names = { Naat'aa Martinez Ch'ilhanjini Largos Delagado Grande Da'ghaaii To'tso'nii Dodge 
-		}
-	} 
-	
 	#Eyak
 	eyak = {
 		color = {160 60 120}
@@ -5628,6 +5728,194 @@ na_dene = {
 	}
 }
 
+#Algic
+algic = {
+	leader = nativeamerican
+	is_overseas = no
+	#Yoruk-Wiyot
+	yoruk = {
+		color = {150 245 150}
+		first_names = { Louis Maskipitonew Alexis Samson Joe James Baptiste Felix Jacob
+		}
+		last_names = { Piche Kiskiyew Crane Saddleback Buffalo Rain
+		}
+	}
+	
+	#Plains Algonquian
+	siksika = { #blackfoot
+		color = {130 205 130}
+		first_names = { Louis Maskipitonew Alexis Samson Joe James Baptiste Felix Jacob
+		}
+		last_names = { Piche Kiskiyew Crane Saddleback Buffalo Rain
+		}
+	}
+	
+	arapahoan = {
+		color = {130 205 160}
+		first_names = { Louis Maskipitonew Alexis Samson Joe James Baptiste Felix Jacob
+		}
+		last_names = { Piche Kiskiyew Crane Saddleback Buffalo Rain
+		}
+	}
+	
+	cheyenne = {
+		color = {130 205 190}
+		first_names = { Louis Maskipitonew Alexis Samson Joe James Baptiste Felix Jacob
+		}
+		last_names = { Piche Kiskiyew Crane Saddleback Buffalo Rain
+		}
+	}
+	
+	#Central Algonquian
+	cree = {
+		color = {130 245 100}
+		first_names = { Louis Maskipitonew Alexis Samson Joe James Baptiste Felix Jacob
+		}
+		last_names = { Piche Kiskiyew Crane Saddleback Buffalo Rain
+		}
+	}
+	ojibwe = {
+		color = {100 225 70}
+		first_names = { Louis Maskipitonew Alexis Samson Joe James Baptiste Felix Jacob
+		}
+		last_names = { Piche Kiskiyew Crane Saddleback Buffalo Rain
+		}
+	}
+	potawatomi = {
+		color = {80 225 50}
+		first_names = { Louis Maskipitonew Alexis Samson Joe James Baptiste Felix Jacob
+		}
+		last_names = { Piche Kiskiyew Crane Saddleback Buffalo Rain
+		}
+	}
+	shawnee = {
+		color = {70 205 40}
+		first_names = { Louis Maskipitonew Alexis Samson Joe James Baptiste Felix Jacob
+		}
+		last_names = { Piche Kiskiyew Crane Saddleback Buffalo Rain
+		}
+	}
+	meskwaki = { #fox
+		color = {40 185 10}
+		first_names = { Louis Maskipitonew Alexis Samson Joe James Baptiste Felix Jacob
+		}
+		last_names = { Piche Kiskiyew Crane Saddleback Buffalo Rain
+		}
+	}
+	illinois = {
+		color = {40 185 10}
+		first_names = { Louis Maskipitonew Alexis Samson Joe James Baptiste Felix Jacob
+		}
+		last_names = { Piche Kiskiyew Crane Saddleback Buffalo Rain
+		}
+	}
+	#Eastern
+	#Absenakian
+	mikmaq = {
+		color = {230 245 150}
+		first_names = { Louis Maskipitonew Alexis Samson Joe James Baptiste Felix Jacob
+		}
+		last_names = { Piche Kiskiyew Crane Saddleback Buffalo Rain
+		}
+	}
+	absenaki = {
+		color = {210 225 140}
+		first_names = { Louis Maskipitonew Alexis Samson Joe James Baptiste Felix Jacob
+		}
+		last_names = { Piche Kiskiyew Crane Saddleback Buffalo Rain
+		}
+	}
+	maliseet = {
+		color = {190 205 130}
+		first_names = { Louis Maskipitonew Alexis Samson Joe James Baptiste Felix Jacob
+		}
+		last_names = { Piche Kiskiyew Crane Saddleback Buffalo Rain
+		}
+	}
+	#Southern New England
+	massachusett = {
+		color = {190 205 150}
+		first_names = { Louis Maskipitonew Alexis Samson Joe James Baptiste Felix Jacob
+		}
+		last_names = { Piche Kiskiyew Crane Saddleback Buffalo Rain
+		}
+	}
+	narragansett_secatogue = {
+		color = {170 185 130}
+		first_names = { Louis Maskipitonew Alexis Samson Joe James Baptiste Felix Jacob
+		}
+		last_names = { Piche Kiskiyew Crane Saddleback Buffalo Rain
+		}
+	}
+	quiripi = {
+		color = {150 175 110}
+		first_names = { Louis Maskipitonew Alexis Samson Joe James Baptiste Felix Jacob
+		}
+		last_names = { Piche Kiskiyew Crane Saddleback Buffalo Rain
+		}
+	}
+	nipmuc  = {
+		color = {130 155 90}
+		first_names = { Louis Maskipitonew Alexis Samson Joe James Baptiste Felix Jacob
+		}
+		last_names = { Piche Kiskiyew Crane Saddleback Buffalo Rain
+		}
+	}
+	#Delawaran
+	mohican  = {
+		color = {110 135 70}
+		first_names = { Louis Maskipitonew Alexis Samson Joe James Baptiste Felix Jacob
+		}
+		last_names = { Piche Kiskiyew Crane Saddleback Buffalo Rain
+		}
+	}
+	delaware  = {
+		color = {90 115 50}
+		first_names = { Louis Maskipitonew Alexis Samson Joe James Baptiste Felix Jacob
+		}
+		last_names = { Piche Kiskiyew Crane Saddleback Buffalo Rain
+		}
+	}
+	#Delawaran
+	mohican  = {
+		color = {110 135 70}
+		first_names = { Louis Maskipitonew Alexis Samson Joe James Baptiste Felix Jacob
+		}
+		last_names = { Piche Kiskiyew Crane Saddleback Buffalo Rain
+		}
+	}
+	lenape  = {
+		color = {90 115 50}
+		first_names = { Louis Maskipitonew Alexis Samson Joe James Baptiste Felix Jacob
+		}
+		last_names = { Piche Kiskiyew Crane Saddleback Buffalo Rain
+		}
+	}
+	#Nanticocke
+	nanticocke  = {
+		color = {70 95 30}
+		first_names = { Louis Maskipitonew Alexis Samson Joe James Baptiste Felix Jacob
+		}
+		last_names = { Piche Kiskiyew Crane Saddleback Buffalo Rain
+		}
+	}
+	#other shit
+	powhatan  = {
+		color = {50 75 10}
+		first_names = { Louis Maskipitonew Alexis Samson Joe James Baptiste Felix Jacob
+		}
+		last_names = { Piche Kiskiyew Crane Saddleback Buffalo Rain
+		}
+	}
+	
+	pamlico  = {
+		color = {20 55 5}
+		first_names = { Louis Maskipitonew Alexis Samson Joe James Baptiste Felix Jacob
+		}
+		last_names = { Piche Kiskiyew Crane Saddleback Buffalo Rain
+		}
+	}
+}
 #Native Americans (WIP)
 native_american = {
 	leader = nativeamerican
@@ -5674,34 +5962,6 @@ native_american = {
 		first_names = { Peter Ipeelee Jose Steve David Jack Goo Germaine James Pitseolak Kenojuak Ernie Caubvick
 		}
 		last_names = { Alakannuark Arreak Ashoona Enuaraq Evaloarjuk Ipeelee Irgittuq Keenainak Kunuk Kusugak Maksagak Nutarak Paniloo Piugattuk Pudluk Tiktaalaaq Ungallaq
-		}
-	}
-	cree = {
-		color = {127 244 100}
-		first_names = { Louis Maskipitonew Alexis Samson Joe James Baptiste Felix Jacob
-		}
-		last_names = { Piche Kiskiyew Crane Saddleback Buffalo Rain
-		}
-	}
-	ojibwe = {
-		color = {127 244 10}
-		first_names = { Louis Maskipitonew Alexis Samson Joe James Baptiste Felix Jacob
-		}
-		last_names = { Piche Kiskiyew Crane Saddleback Buffalo Rain
-		}
-	}
-	illinois = {
-		color = {57 144 10}
-		first_names = { Louis Maskipitonew Alexis Samson Joe James Baptiste Felix Jacob
-		}
-		last_names = { Piche Kiskiyew Crane Saddleback Buffalo Rain
-		}
-	}
-	shawnee = {
-		color = {157 44 10}
-		first_names = { Louis Maskipitonew Alexis Samson Joe James Baptiste Felix Jacob
-		}
-		last_names = { Piche Kiskiyew Crane Saddleback Buffalo Rain
 		}
 	}
 	native_american_minor = {

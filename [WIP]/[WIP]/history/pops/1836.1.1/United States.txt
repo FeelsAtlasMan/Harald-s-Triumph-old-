@@ -185,46 +185,188 @@
 #Seattle (12000/3000 POPS)
 78 = {
 
-    farmers = {
+    artisans = {
 		culture = new_scots
-		religion = protestant
+		religion = catholic
 		size = 110
+	}
+	
+	aristocrats = {
+		culture = lushootseed
+		religion = animist
+		size = 150
+	}
+
+	clergymen = {
+		culture = lushootseed
+		religion = animist
+		size = 75
+	}
+	
+	soldiers = {
+		culture = lushootseed
+		religion = animist
+		size = 225
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = lushootseed
 		religion = animist
-		size = 3110
+		size = 63110
+	}
+	
+	farmers = {
+		culture = halkomelem
+		religion = animist
+		size = 10000
 	}
 }
 #Spokane (4000/1000 POPS)
 79 = {
-
-	farmers = {
-		culture = native_american_minor
+    aristocrats = {
+		culture = sahaptian
 		religion = animist
-		size = 1000
+		size = 150
+	}
+
+	clergymen = {
+		culture = sahaptian
+		religion = animist
+		size = 75
+	}
+	
+	soldiers = {
+		culture = sahaptian
+		religion = animist
+		size = 225
+	}
+	
+	farmers = {
+		culture = sahaptian
+		religion = animist
+		size = 4000
+	}
+	
+	aristocrats = {
+		culture = salish
+		religion = animist
+		size = 350
+	}
+
+	clergymen = {
+		culture = salish
+		religion = animist
+		size = 275
+	}
+	
+	soldiers = {
+		culture = salish
+		religion = animist
+		size = 1225
+	}
+	
+	farmers = {
+		culture = salish
+		religion = animist
+		size = 18000
+	}
+	
+	aristocrats = {
+		culture = lushootseed
+		religion = animist
+		size = 350
+	}
+
+	clergymen = {
+		culture = lushootseed
+		religion = animist
+		size = 275
+	}
+	
+	soldiers = {
+		culture = lushootseed
+		religion = animist
+		size = 1225
+	}
+	
+	farmers = {
+		culture = lushootseed
+		religion = animist
+		size = 24000
 	}
 }
 #Walla Walla (4000/1000 POPS)
-80 = {
-	
+80 = {	
 	aristocrats = {
-		culture = native_american_minor
+		culture = salish
 		religion = animist
-		size = 100
+		size = 1100
+	}
+	
+	clergymen = {
+		culture = salish
+		religion = animist
+		size = 1275
 	}
 
 	soldiers = {
-		culture = native_american_minor
+		culture = salish
 		religion = animist
-		size = 100
+		size = 4100
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = salish
 		religion = animist
-		size = 900
+		size = 55900
+	}
+	
+	aristocrats = {
+		culture = nsilxcin
+		religion = animist
+		size = 100
+	}
+	
+	clergymen = {
+		culture = nsilxcin
+		religion = animist
+		size = 275
+	}
+
+	soldiers = {
+		culture = nsilxcin
+		religion = animist
+		size = 1100
+	}
+
+	farmers = {
+		culture = nsilxcin
+		religion = animist
+		size = 15900
+	}
+	
+	aristocrats = {
+		culture = ktunaxa
+		religion = animist
+		size = 10
+	}
+	
+	clergymen = {
+		culture = ktunaxa
+		religion = animist
+		size = 75
+	}
+
+	soldiers = {
+		culture = ktunaxa
+		religion = animist
+		size = 110
+	}
+
+	farmers = {
+		culture = ktunaxa
+		religion = animist
+		size = 2900
 	}
 }
 #Oregon Region (20000)
@@ -232,32 +374,81 @@
 #Portland (12000/3000 POPS)
 81 = {
 	aristocrats = {
-		culture = new_scots
-		religion = protestant
-		size = 50
+		culture = chinook
+		religion = animist
+		size = 1050
 	}
 
 	clergymen = {
-		culture = new_scots
-		religion = protestant
-		size = 175
-	}
-	farmers = {
-		culture = new_scots
+		culture = chinook
 		religion = animist
-		size = 300
+		size = 875
 	}
-
+	
 	soldiers = {
-		culture = native_american_minor
-		religion = protestant
-		size = 25
+		culture = chinook
+		religion = animist
+		size = 2025
+	}
+	
+	farmers = {
+		culture = chinook
+		religion = animist
+		size = 11300
+	}
+	
+	aristocrats = {
+		culture = alsea_siuslaw_coosan
+		religion = animist
+		size = 150
+	}
+
+	clergymen = {
+		culture = alsea_siuslaw_coosan
+		religion = animist
+		size = 75
+	}
+	
+	soldiers = {
+		culture = alsea_siuslaw_coosan
+		religion = animist
+		size = 125
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = alsea_siuslaw_coosan
 		religion = animist
-		size = 2400
+		size = 12400
+	}
+	
+	farmers = {
+		culture = molola
+		religion = animist
+		size = 5400
+	}
+	
+	aristocrats = {
+		culture = tillamook
+		religion = animist
+		size = 850
+	}
+
+	clergymen = {
+		culture = tillamook
+		religion = animist
+		size = 575
+	}
+	
+	soldiers = {
+		culture = tillamook
+		religion = animist
+		size = 1025
+	}
+
+	farmers = {
+		culture = tillamook
+		religion = animist
+		size = 14400
 	}
 }
 #Baker City (4000/1000 POPS)
@@ -314,27 +505,57 @@
 #Klamath Falls (4000/1000 POPS)
 83 = {
 	aristocrats = {
-		culture = native_american_minor
-		religion = animist
+		culture = new_scots
+		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
-		culture = native_american_minor
-		religion = animist
+		culture = new_scots
+		religion = catholic
 		size = 35
 	}
 
 	soldiers = {
-		culture = native_american_minor
-		religion = animist
+		culture = new_scots
+		religion = catholic
 		size = 15
 	}
 
-	farmers = {
-		culture = native_american_minor
+	artisans = {
+		culture = new_scots
+		religion = catholic
+		size = 90
+	}
+	
+	aristocrats = {
+		culture = yoruk
 		religion = animist
-		size = 900
+		size = 410
+	}
+
+	clergymen = {
+		culture = yoruk
+		religion = animist
+		size = 535
+	}
+
+	soldiers = {
+		culture = yoruk
+		religion = animist
+		size = 1015
+	}
+
+	farmers = {
+		culture = yoruk
+		religion = animist
+		size = 10000
+	}
+	
+	farmers = {
+		culture = wailaki_mattole
+		religion = animist
+		size = 6000
 	}
 	
 }
@@ -498,32 +719,63 @@
 #Sacramento (12000/3000 POPS)
 86 = {
 	aristocrats = {
-		culture = native_american_minor
+		culture = klamath_modoc
 		religion = animist
-		size = 50
+		size = 550
 	}
 
 	clergymen = {
-		culture = native_american_minor
+		culture = klamath_modoc
 		religion = animist
-		size = 75
+		size = 375
 	}
 
 	soldiers = {
-		culture = native_american_minor
+		culture = klamath_modoc
 		religion = animist
-		size = 25
+		size = 2025
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = klamath_modoc
 		religion = animist
-		size = 1700
+		size = 17000
 	}
+	
+	aristocrats = {
+		culture = molola
+		religion = animist
+		size = 150
+	}
+
+	clergymen = {
+		culture = molola
+		religion = animist
+		size = 175
+	}
+
+	soldiers = {
+		culture = molola
+		religion = animist
+		size = 525
+	}
+
 	farmers = {
-		culture = new_scots
-		religion = protestant
-		size = 500
+		culture = molola
+		religion = animist
+		size = 7000
+	}
+	
+	farmers = {
+		culture = alsea_siuslaw_coosan
+		religion = animist
+		size = 10500
+	}
+	
+	farmers = {
+		culture = paiute
+		religion = animist
+		size = 1500
 	}
 	
 }
@@ -766,17 +1018,58 @@
 }
 #Coeur d'Alene (4000/1000 POPS)
 92 = {
+    aristocrats = {
+		culture = sahaptian
+		religion = animist
+		size = 325
+	}
+
+	clergymen = {
+		culture = sahaptian
+		religion = animist
+		size = 450
+	}
 
 	soldiers = {
-		culture = native_american_minor
+		culture = sahaptian
 		religion = animist
-		size = 150
+		size = 1150
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = sahaptian
 		religion = animist
-		size = 900
+		size = 30900
+	}
+	
+	aristocrats = {
+		culture = molola
+		religion = animist
+		size = 125
+	}
+
+	clergymen = {
+		culture = molola
+		religion = animist
+		size = 250
+	}
+
+	soldiers = {
+		culture = molola
+		religion = animist
+		size = 350
+	}
+
+	farmers = {
+		culture = molola
+		religion = animist
+		size = 12900
+	}
+	
+	farmers = {
+		culture = shoshone
+		religion = animist
+		size = 4900
 	}
 }
 #Pocatello (12000/3000 POPS)
@@ -935,28 +1228,94 @@
 }
 #Las Vegas (4000/1000 POPS)
 96 = {
-	aristocrats = {
-		culture = native_american_minor
-		religion = animist
-		size = 10
+    aristocrats = {
+		culture = new_scots
+		religion = catholic
+		size = 120
 	}
 
 	clergymen = {
-		culture = native_american_minor
-		religion = animist
-		size = 25
+		culture = new_scots
+		religion = catholic
+		size = 125
+	}
+	
+	artisans = {
+		culture = new_scots
+		religion = catholic
+		size = 1515
 	}
 
 	soldiers = {
-		culture = native_american_minor
+		culture = new_scots
+		religion = catholic
+		size = 515
+	}
+	
+	farmers = {
+		culture = new_scots
+		religion = catholic
+		size = 2015
+	}
+
+	aristocrats = {
+		culture = tsamosan
 		religion = animist
-		size = 15
+		size = 310
+	}
+
+	clergymen = {
+		culture = tsamosan
+		religion = animist
+		size = 300
+	}
+
+	soldiers = {
+		culture = tsamosan
+		religion = animist
+		size = 515
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = tsamosan
 		religion = animist
-		size = 900
+		size = 40000
+	}
+	
+	aristocrats = {
+		culture = chinook
+		religion = animist
+		size = 110
+	}
+
+	clergymen = {
+		culture = chinook
+		religion = animist
+		size = 200
+	}
+
+	soldiers = {
+		culture = chinook
+		religion = animist
+		size = 215
+	}
+
+	farmers = {
+		culture = chinook
+		religion = animist
+		size = 20000
+	}
+	
+	farmers = {
+		culture = halkomelem
+		religion = animist
+		size = 10900
+	}
+	
+	farmers = {
+		culture = wakashan
+		religion = animist
+		size = 5950
 	}
 }
 #Utah Region (16000)
@@ -1439,27 +1798,111 @@
 #Alamosa (4000/1000 POPS)
 108 = {
 	aristocrats = {
-		culture = native_american_minor
+		culture = wailaki_mattole
 		religion = animist
-		size = 10
+		size = 500
 	}
 
 	clergymen = {
-		culture = native_american_minor
+		culture = wailaki_mattole
 		religion = animist
-		size = 25
+		size = 200
+	}
+	
+	artisans = {
+		culture = wailaki_mattole
+		religion = animist
+		size = 1015
 	}
 
 	soldiers = {
-		culture = native_american_minor
+		culture = wailaki_mattole
 		religion = animist
-		size = 15
+		size = 1015
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = wailaki_mattole
 		religion = animist
-		size = 900
+		size = 20000
+	}
+	
+	aristocrats = {
+		culture = hupa
+		religion = animist
+		size = 300
+	}
+
+	clergymen = {
+		culture = hupa
+		religion = animist
+		size = 150
+	}
+	
+	artisans = {
+		culture = hupa
+		religion = animist
+		size = 515
+	}
+
+	soldiers = {
+		culture = hupa
+		religion = animist
+		size = 315
+	}
+
+	farmers = {
+		culture = hupa
+		religion = animist
+		size = 22900
+	}
+	
+	farmers = {
+		culture = tolowa
+		religion = animist
+		size = 13000
+	}
+	
+	aristocrats = {
+		culture = yoruk
+		religion = animist
+		size = 1010
+	}
+
+	clergymen = {
+		culture = yoruk
+		religion = animist
+		size = 675
+	}
+	
+	artisans = {
+		culture = yoruk
+		religion = animist
+		size = 1500
+	}
+
+	soldiers = {
+		culture = yoruk
+		religion = animist
+		size = 1015
+	}
+
+	farmers = {
+		culture = yoruk
+		religion = animist
+		size = 22000
+	}
+	
+	farmers = {
+		culture = hokan_minor
+		religion = animist
+		size = 25900
+	}
+	
+	farmers = {
+		culture = wintuan
+		religion = animist
+		size = 8000
 	}
 }
 #Pueblo (4000/1000 POPS)
@@ -1605,7 +2048,7 @@
 		size = 150
 	}
 	
-	aristocrats = {
+	clergymen = {
 		culture = native_american_minor
 		religion = animist
 		size = 150
@@ -1625,17 +2068,52 @@
 }
 #Missoula (4000/1000 POPS)
 114 = {
-
-	soldiers = {
-		culture = native_american_minor
+    aristocrats = {
+		culture = salish
 		religion = animist
-		size = 100
+		size = 150
+	}
+	
+	clergymen = {
+		culture = salish
+		religion = animist
+		size = 150
+	}
+	
+	soldiers = {
+		culture = salish
+		religion = animist
+		size = 400
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = salish
 		religion = animist
-		size = 900
+		size = 10900
+	}
+	
+	aristocrats = {
+		culture = ktunaxa
+		religion = animist
+		size = 50
+	}
+	
+	clergymen = {
+		culture = ktunaxa 
+		religion = animist
+		size = 50
+	}
+	
+	soldiers = {
+		culture = ktunaxa
+		religion = animist
+		size = 200
+	}
+
+	farmers = {
+		culture = ktunaxa
+		religion = animist
+		size = 2900
 	}
 }
 #Great Falls (8000/2000 POPS)
@@ -9319,5 +9797,68 @@
 		culture = paiute
 		religion = animist
 		size = 30400
+	}
+}
+
+#Tolowa
+3564 = {
+    aristocrats = {
+		culture = tolowa
+		religion = animist
+		size = 550
+	}
+    
+	clergymen = {
+		culture = tolowa
+		religion = animist
+		size = 1525
+	}
+
+	artisans = {
+		culture = tolowa
+		religion = animist
+		size = 523
+	}
+
+	soldiers = {
+		culture = tolowa
+		religion = animist
+		size = 1025
+	}
+
+	farmers = {
+		culture = tolowa
+		religion = animist
+		size = 16050
+	}
+	
+	aristocrats = {
+		culture = alsea_siuslaw_coosan
+		religion = animist
+		size = 150
+	}
+
+	clergymen = {
+		culture = alsea_siuslaw_coosan
+		religion = animist
+		size = 150
+	}
+
+	artisans = {
+		culture = alsea_siuslaw_coosan
+		religion = animist
+		size = 123
+	}
+
+	soldiers = {
+		culture = alsea_siuslaw_coosan
+		religion = animist
+		size = 1025
+	}
+	
+	farmers = {
+		culture = alsea_siuslaw_coosan
+		religion = animist
+		size = 20400
 	}
 }
