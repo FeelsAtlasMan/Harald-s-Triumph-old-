@@ -1237,8 +1237,8 @@ SSX;Sioux;x
 SSX_ADJ;Sioux;x
 MIA;Miami;x
 MIA_ADJ;Miami;x
-HRN;Huron;x
-HRN_ADJ;Huron;x
+HRN;Erie;x
+HRN_ADJ;Erie;x
 FZZ;Fezzan;;;;;;;;;;;x;
 FZZ_proletarian_dictatorship;PRNS;;;;;;;;;;;;;x;
 FZZ_presidential_dictatorship;Fezzan;;;;;;;;;;;;;x;
@@ -1590,3 +1590,17 @@ UYG_absolute_monarchy_ADJ;Moghulestan;;;;;;;;;;;;;x
 UYG_prussian_constitutionalism_ADJ;Moghulestan;;;;;;;;;;;;;x
 UYG_colonial_company_ADJ;Moghulestan;;;;;;;;;;;;;x
 UYG_hms_government_ADJ;Moghul;;;;;;;;;;;;;x
+CAN;Vinland;;;;;;;;;;;;;x
+CAN_ADJ;Vinlandian;;;;;;;;;;;;;x
+CAN_absolute_monarchy;Vinland;;;;;;;;;;;;;x
+CAN_prussian_constitutionalism;Vinland;;;;;;;;;;;;;x
+CAN_colonial_company;Vinland Company;;;;;;;;;;;;;x
+CAN_hms_government;Vinland;;;;;;;;;;;;;x
+ZNI;Zuni;;;;;;;;;;;x;
+ZNI_ADJ;Zuni;;;;;;;;;;;x
+NBE;Nambe;;;;;;;;;;;x;
+NBE_ADJ;Nambe;;;;;;;;;;;x
+CCT;Cochiti;;;;;;;;;;;x;
+CCT_ADJ;Cochiti;;;;;;;;;;;x
+ISL;Isleta;;;;;;;;;;;x;
+ISL_ADJ;Isleta;;;;;;;;;;;x

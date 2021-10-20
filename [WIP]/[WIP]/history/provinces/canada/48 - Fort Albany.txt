@@ -1,5 +1,6 @@
-owner = NRD
-controller = NRD
+owner = CAN
+controller = CAN
+add_core = CAN
 trade_goods = fish
 terrain = new_world_boreal
 life_rating = 20

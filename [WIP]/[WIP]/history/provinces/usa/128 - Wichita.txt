@@ -1,6 +1,6 @@
-owner = HPI
-controller = HPI
-add_core = HPI
+owner = STE
+controller = STE
+add_core = STE
 trade_goods = grain
 life_rating = 35
 

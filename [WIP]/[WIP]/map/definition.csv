@@ -3479,7 +3479,7 @@
 3478;231;231;231;Bororo;x
 3479;236;236;236;Tshukahamai;x
 3480;241;241;241;Kawahib;x
-3481;1;222;200;Amassuna Delta;x
+3481;10;222;200;Amassuna Delta;x
 3482;1;202;222;Western Amassuna;x
 3483;1;182;242;Central Amassuna;x
 3484;1;142;252;Tafeyus;x
@@ -3595,5 +3595,17 @@
 3594;162;130;140;Kengtung;x
 3595;202;130;140;Lawksawk;x
 3596;162;50;40;Mongpan;x
+3597;162;50;20;Orayvi;x
+3598;122;50;20;Hawikuh;x
+3599;102;50;20;Nambe;x
+3600;52;20;20;Cochiti;x
+3601;52;120;20;Isleta;x
+3602;152;100;20;Acoma;x
+3603;202;100;20;Jemez;x
+3604;52;20;220;Mississippi Delta;x
+3605;52;20;240;Lower Mississippi;x
+3606;15;10;220;Upper Mississippi;x
+3607;11;10;222;Illinois;x
+3608;110;10;222;StLaurence;x
 ;111;17;244;x 
 ;111;17;248;Lake Winnebago ;x

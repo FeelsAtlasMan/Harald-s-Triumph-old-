@@ -1,7 +1,7 @@
-owner = NRD
-controller = NRD
-add_core = NEW
+owner = CAN
+controller = CAN
+add_core = CAN
 trade_goods = fish
 terrain = stjohn
 life_rating = 30
-colonial = 2
+
