@@ -8782,113 +8782,101 @@
 #Pittsburgh (332000/83000 POPS)
 227 = {
 	clergymen = {
-		culture = amerikaner
-		religion = protestant
+		culture = iroquios
+		religion = animist
 		size = 300
 	}
 
 	artisans = {
-		culture = amerikaner
-		religion = protestant
-		size = 2250
+		culture = iroquios
+		religion = animist
+		size = 250
 	}
 
 	soldiers = {
-		culture = amerikaner
-		religion = protestant
-		size = 400
+		culture = iroquios
+		religion = animist
+		size = 2400
 	}
 
 	farmers = {
-		culture = amerikaner
-		religion = protestant
+		culture = iroquios
+		religion = animist
 		size = 37300
 	}
 
 	clergymen = {
-		culture = amerikaner
-		religion = catholic
+		culture = lenape
+		religion = animist
 		size = 250
 	}
 
 	artisans = {
-		culture = amerikaner
-		religion = catholic
+		culture = lenape
+		religion = animist
 		size = 700
 	}
 
 	soldiers = {
-		culture = amerikaner
-		religion = catholic
-		size = 120
+		culture = lenape
+		religion = animist
+		size = 3120
 	}
 
 	farmers = {
-		culture = amerikaner
-		religion = catholic
-		size = 10500
+		culture = lenape
+		religion = animist
+		size = 30500
 	}
 
 	clergymen = {
-		culture = frisian
-		religion = catholic
-		size = 60
-	}
-
-	artisans = {
-		culture = frisian
-		religion = catholic
-		size = 275
-	}
-
-	farmers = {
-		culture = frisian
-		religion = catholic
-		size = 5525
-	}
-
-	clergymen = {
-		culture = afro_germanic
-		religion = protestant
+		culture = shawnee
+		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = afro_germanic
-		religion = protestant
+		culture = shawnee
+		religion = animist
 		size = 150
 	}
 
 	farmers = {
-		culture = afro_germanic
-		religion = protestant
-		size = 2800
+		culture = shawnee
+		religion = animist
+		size = 9800
 	}
 }
 #Erie (108000/27000 POPS)
 228 = {
 	clergymen = {
-		culture = vinlander
+		culture = amerikaner
 		religion = protestant
 		size = 200
 	}
 
 	artisans = {
-		culture = vinlander
+		culture = amerikaner
 		religion = protestant
-		size = 1350
+		size = 350
 	}
 
 	soldiers = {
-		culture = vinlander
+		culture = amerikaner
 		religion = protestant
 		size = 275
 	}
 
 	farmers = {
-		culture = vinlander
+		culture = amerikaner
 		religion = protestant
-		size = 25175
+		size = 3175
+	}
+	
+	farmers = {
+		culture = iroquios
+		religion = animist
+		size = 5175
 	}
 }
 #New Jersey Region (340000)  
@@ -8922,7 +8910,7 @@
 	farmers = {
 		culture = amerikaner
 		religion = protestant
-		size = 27925
+		size = 20925
 	}
 
 	clergymen = {
@@ -8946,25 +8934,31 @@
 	farmers = {
 		culture = frisian
 		religion = catholic
-		size = 3700
+		size = 10700
 	}
 
 	clergymen = {
-		culture = afro_germanic
-		religion = protestant
+		culture = lenape
+		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = afro_germanic
-		religion = protestant
+		culture = lenape
+		religion = animist
 		size = 200
 	}
 
 	farmers = {
+		culture = lenape
+		religion = animist
+		size = 3750
+	}
+	
+	farmers = {
 		culture = afro_germanic
 		religion = protestant
-		size = 3750
+		size = 750
 	}
 }
 #Trenton (96000/24000 POPS)
@@ -9002,7 +8996,7 @@
 	farmers = {
 		culture = amerikaner
 		religion = protestant
-		size = 21105
+		size = 11105
 	}
 
 	bureaucrats = {
@@ -9038,7 +9032,13 @@
 	farmers = {
 		culture = frisian
 		religion = catholic
-		size = 2735
+		size = 12735
+	}
+	
+	farmers = {
+		culture = lenape
+		religion = animist
+		size = 1105
 	}
 }
 #Atlantic City (88000/22000 POPS)
@@ -9064,7 +9064,7 @@
 	farmers = {
 		culture = frisian
 		religion = catholic
-		size = 130
+		size = 5130
 	}
 	
 	clergymen = {
@@ -9088,7 +9088,13 @@
 	farmers = {
 		culture = amerikaner
 		religion = protestant
-		size = 20525
+		size = 32000
+	}
+	
+	farmers = {
+		culture = lenape
+		religion = animist
+		size = 3525
 	}
 }
 #New York Region (2140000)  
@@ -9148,63 +9154,81 @@
 		religion = protestant
 		size = 10000
 	}
-
-	artisans = {
-		culture = amerikaner
-		religion = protestant
-		size = 10000
-	}
-
-	artisans = {
-		culture = vinlander
-		religion = protestant
-		size = 10000
-	}
-
-	artisans = {
-		culture = vinlander
-		religion = protestant
-		size = 8375
-	}
-
+	
 	soldiers = {
-		culture = vinlander
+		culture = amerikaner
 		religion = protestant
 		size = 2000
 	}
 	
 	farmers = {
-		culture = vinlander
-		religion = protestant
-		size = 40000
-	}
-
-	farmers = {
 		culture = amerikaner
 		religion = protestant
-		size = 35125
+		size = 10000
+	}
+
+	artisans = {
+		culture = amerikaner
+		religion = catholic
+		size = 10000
+	}
+	
+	capitalists = {
+		culture = amerikaner
+		religion = catholic
+		size = 125
 	}
 
 	clergymen = {
-		culture = afro_germanic
-		religion = protestant
+		culture = amerikaner
+		religion = catholic
+		size = 675
+	}
+
+	artisans = {
+		culture = amerikaner
+		religion = catholic
+		size = 10000
+	}
+
+	artisans = {
+		culture = amerikaner
+		religion = catholic
+		size = 8375
+	}
+
+	soldiers = {
+		culture = amerikaner
+		religion = catholic
+		size = 2000
+	}
+	
+	farmers = {
+		culture = amerikaner
+		religion = catholic
+		size = 40000
+	}
+
+	clergymen = {
+		culture = lenape
+		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = afro_germanic
-		religion = protestant
+		culture = lenape
+		religion = animist
 		size = 4925
 	}
 
 	clergymen = {
-		culture = frisian
+		culture = afro_germanic
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = frisian
+		culture = afro_germanic
 		religion = protestant
 		size = 3950
 	}
@@ -9212,13 +9236,13 @@
 	clergymen = {
 		culture = ashkenazi
 		religion = jewish
-		size = 10
+		size = 310
 	}
 
 	artisans = {
 		culture = ashkenazi
 		religion = jewish
-		size = 490
+		size = 7490
 	}
 }
 #Islip (100000/25000 POPS)
@@ -9247,33 +9271,32 @@
 		size = 25
 	}
 
-
 	clergymen = {
-		culture = vinlander
-		religion = protestant
+		culture = amerikaner
+		religion = catholic
 		size = 175
 	}
 
 	artisans = {
-		culture = vinlander
-		religion = protestant
+		culture = amerikaner
+		religion = catholic
 		size = 1250
 	}
 
 	soldiers = {
-		culture = vinlander
-		religion = protestant
+		culture = amerikaner
+		religion = catholic
 		size = 250
 	}
 
 	farmers = {
-		culture = vinlander
-		religion = protestant
+		culture = amerikaner
+		religion = catholic
 		size = 18325
 	}
 	
 	farmers = {
-		culture = amerikaner
+		culture = quiripi
 		religion = protestant
 		size = 5325
 	}
@@ -9315,305 +9338,498 @@
 		religion = catholic
 		size = 4475
 	}
+	
 	bureaucrats = {
-		culture = vinlander
-		religion = protestant
+		culture = amerikaner
+		religion = catholic
 		size = 975
 	}
 
 	officers = {
-		culture = vinlander
-		religion = protestant
+		culture = amerikaner
+		religion = catholic
 		size = 500
 	}
 
 	clergymen = {
-		culture = vinlander
+		culture = amerikaner
+		religion = catholic
+		size = 625
+	}
+
+	artisans = {
+		culture = amerikaner
+		religion = catholic
+		size = 3125
+	}
+
+	soldiers = {
+		culture = amerikaner
+		religion = catholic
+		size = 2000
+	}
+
+	farmers = {
+		culture = amerikaner
+		religion = catholic
+		size = 40000
+	}
+	
+	clergymen = {
+		culture = amerikaner
 		religion = protestant
 		size = 625
 	}
 
 	artisans = {
-		culture = vinlander
+		culture = amerikaner
 		religion = protestant
 		size = 3125
 	}
 
 	soldiers = {
-		culture = vinlander
+		culture = amerikaner
 		religion = protestant
 		size = 2000
 	}
 
 	farmers = {
-		culture = vinlander
+		culture = amerikaner
 		religion = protestant
-		size = 50775
+		size = 10775
 	}
 	
 	farmers = {
-		culture = amerikaner
-		religion = protestant
-		size = 20000
+		culture = mohican
+		religion = animist
+		size = 10000
 	}
 }
 #Binghamton (352000/88000 POPS)
 235 = {
 	clergymen = {
-		culture = frisian
-		religion = catholic
+		culture = iroquios
+		religion = animist
 		size = 15
 	}
 
 	artisans = {
-		culture = frisian
-		religion = catholic
+		culture = iroquios
+		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = frisian
-		religion = catholic
+		culture = iroquios
+		religion = animist
 		size = 10
 	}
-
-	farmers = {
-		culture = frisian
-		religion = catholic
-		size = 130
-	}
 	
+	farmers = {
+		culture = iroquios
+		religion = animist
+		size = 5975
+	}
+
 	clergymen = {
-		culture = vinlander
+		culture = amerikaner
 		religion = protestant
-		size = 625
+		size = 125
 	}
 
 	artisans = {
-		culture = vinlander
+		culture = amerikaner
 		religion = protestant
-		size = 4400
+		size = 400
 	}
 
 	soldiers = {
-		culture = vinlander
+		culture = amerikaner
 		religion = protestant
-		size = 2000
+		size = 200
 	}
 
-	farmers = {
-		culture = vinlander
-		religion = protestant
-		size = 70000
-	}
-	
 	farmers = {
 		culture = amerikaner
 		religion = protestant
-		size = 10975
+		size = 3000
 	}
+	
 }
 #Buffalo (244000/61000 POPS)
 236 = {
-	craftsmen = {
-		culture = vinlander
-		religion = protestant
-		size = 75
-	}
-	
 	clergymen = {
-		culture = vinlander
+		culture = amerikaner
 		religion = catholic
 		size = 15
 	}
 
 	artisans = {
-		culture = vinlander
+		culture = amerikaner
 		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
-		culture = vinlander
+		culture = amerikaner
 		religion = catholic
 		size = 10
 	}
 
 	farmers = {
-		culture = vinlander
+		culture = amerikaner
 		religion = catholic
-		size = 250
+		size = 1250
 	}
-	
-	craftsmen = {
-		culture = vinlander
-		religion = protestant
-		size = 875
-	}
-
 	
 	clergymen = {
-		culture = vinlander
-		religion = protestant
-		size = 450
+		culture = iroquios
+		religion = animist
+		size = 50
 	}
 
 	artisans = {
-		culture = vinlander
-		religion = protestant
-		size = 3050
+		culture = iroquios
+		religion = animist
+		size = 350
 	}
 
 	soldiers = {
-		culture = vinlander
-		religion = protestant
+		culture = iroquios
+		religion = animist
 		size = 625
 	}
 
 	farmers = {
-		culture = vinlander
-		religion = protestant
-		size = 56000
+		culture = iroquios
+		religion = animist
+		size = 6000
 	}
 }
 #Rochester (176000/44000 POPS)
 237 = {
 	clergymen = {
+		culture = iroquios
+		religion = catholic
+		size = 25
+	}
+
+	artisans = {
+		culture = iroquios
+		religion = catholic
+		size = 200
+	}
+
+	soldiers = {
+		culture = iroquios
+		religion = catholic
+		size = 450
+	}
+	
+	farmers = {
+		culture = iroquios
+		religion = catholic
+		size = 200
+	}
+	
+	serfs = {
+		culture = iroquios
+		religion = catholic
+		size = 1925
+	}
+	
+	serfs = {
+		culture = iroquios
+		religion = animist
+		size = 6000
+	}
+
+	farmers = {
+		culture = iroquios
+		religion = animist
+		size = 10000
+	}
+	
+	clergymen = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 325
 	}
 
 	artisans = {
 		culture = vinlander
-		religion = protestant
-		size = 2200
+		religion = catholic
+		size = 200
 	}
 
 	soldiers = {
 		culture = vinlander
-		religion = protestant
-		size = 450
+		religion = catholic
+		size = 1450
+	}
+ 
+    farmers = {
+		culture = vinlander
+		religion = catholic
+		size = 2125
 	}
 
-	farmers = {
+	serfs = {
 		culture = vinlander
+		religion = catholic
+		size = 1000
+	}
+
+	soldiers = {
+		culture = amerikaner
 		religion = protestant
-		size = 41025
+		size = 150
+	}
+ 
+    farmers = {
+		culture = amerikaner
+		religion = protestant
+		size = 1125
 	}
 }
 #Syracuse (304000/76000 POPS)
-238 = {
-	craftsmen = {
-		culture = vinlander
-		religion = catholic
-		size = 15
-	}
-	
+238 = {	
 	clergymen = {
 		culture = vinlander
 		religion = catholic
-		size = 15
-	}
-
-	artisans = {
-		culture = vinlander
-		religion = catholic
-		size = 50
-	}
-
-	soldiers = {
-		culture = vinlander
-		religion = catholic
-		size = 10
-	}
-
-	farmers = {
-		culture = vinlander
-		religion = catholic
-		size = 230
-	}
-	
-	craftsmen = {
-		culture = vinlander
-		religion = protestant
-		size = 675
-	}
-	
-	clergymen = {
-		culture = vinlander
-		religion = protestant
 		size = 525
 	}
 
 	artisans = {
 		culture = vinlander
-		religion = protestant
-		size = 3800
+		religion = catholic
+		size = 800
 	}
 
 	soldiers = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 2000
 	}
-
+	
 	farmers = {
 		culture = vinlander
+		religion = catholic
+		size = 7000
+	}
+
+	serfs = {
+		culture = vinlander
+		religion = catholic
+		size = 6000
+	}
+	
+	clergymen = {
+		culture = iroquios
+		religion = animist
+		size = 125
+	}
+
+	artisans = {
+		culture = iroquios
+		religion = animist
+		size = 200
+	}
+
+	soldiers = {
+		culture = iroquios
+		religion = animist
+		size = 200
+	}
+	
+	farmers = {
+		culture = iroquios
+		religion = animist
+		size = 10000
+	}
+
+	serfs = {
+		culture = iroquios
+		religion = catholic
+		size = 6000
+	}
+	
+	soldiers = {
+		culture = amerikaner
 		religion = protestant
-		size = 69000
+		size = 200
+	}
+	
+	farmers = {
+		culture = amerikaner
+		religion = protestant
+		size = 2000
 	}
 }
 #Watertown (116000/29000 POPS)
 239 = {
 	clergymen = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 225
 	}
 
 	artisans = {
 		culture = vinlander
-		religion = protestant
-		size = 1450
+		religion = catholic
+		size = 4450
 	}
 
 	soldiers = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 300
 	}
-
+	
 	farmers = {
 		culture = vinlander
-		religion = protestant
-		size = 27025
+		religion = catholic
+		size = 725
+	}
+
+	serfs = {
+		culture = vinlander
+		religion = catholic
+		size = 10000
+	}
+	
+	clergymen = {
+		culture = iroquios
+		religion = animist
+		size = 125
+	}
+
+	artisans = {
+		culture = iroquios
+		religion = animist
+		size = 450
+	}
+
+	soldiers = {
+		culture = iroquios
+		religion = animist
+		size = 300
+	}
+	
+	farmers = {
+		culture = iroquios
+		religion = animist
+		size = 6725
+	}
+	
+	serfs = {
+		culture = iroquios
+		religion = animist
+		size = 4000
+	}
+
+	serfs = {
+		culture = iroquios
+		religion = catholic
+		size = 10000
 	}
 }
 #Plattsburgh (76000/19000 POPS)
 240 = {
 	clergymen = {
 		culture = vinlander
+		religion = catholic
+		size = 5
+	}
+
+	artisans = {
+		culture = vinlander
+		religion = catholic
+		size = 50
+	}
+
+	soldiers = {
+		culture = vinlander
+		religion = catholic
+		size = 20
+	}
+
+	farmers = {
+		culture = vinlander
+		religion = catholic
+		size = 725
+	}
+	
+	clergymen = {
+		culture = amerikaner
 		religion = protestant
 		size = 125
 	}
 
 	artisans = {
-		culture = vinlander
+		culture = amerikaner
 		religion = protestant
-		size = 950
+		size = 1250
 	}
 
 	soldiers = {
-		culture = vinlander
+		culture = amerikaner
 		religion = protestant
-		size = 200
+		size = 120
 	}
 
 	farmers = {
-		culture = vinlander
+		culture = amerikaner
 		religion = protestant
-		size = 17725
+		size = 2725
+	}
+	
+	clergymen = {
+		culture = iroquios
+		religion = animist
+		size = 125
+	}
+
+	artisans = {
+		culture = iroquios
+		religion = animist
+		size = 50
+	}
+
+	soldiers = {
+		culture = iroquios
+		religion = animist
+		size = 120
+	}
+
+	farmers = {
+		culture = iroquios
+		religion = animist
+		size = 8725
+	}
+	
+	clergymen = {
+		culture = mohican
+		religion = animist
+		size = 125
+	}
+
+	artisans = {
+		culture = mohican
+		religion = animist
+		size = 50
+	}
+
+	soldiers = {
+		culture = mohican
+		religion = animist
+		size = 120
+	}
+
+	farmers = {
+		culture = mohican
+		religion = animist
+		size = 4725
 	}
 }
 #Connecticut Region (304000)  
@@ -9639,51 +9855,81 @@
 	}
 	
 	bureaucrats = {
-		culture = vinlander
+		culture = amerikaner
 		religion = protestant
 		size = 150
 	}
 
 	officers = {
-		culture = vinlander
+		culture = amerikaner
 		religion = protestant
 		size = 75
 	}
 
 	capitalists = {
-		culture = vinlander
+		culture = amerikaner
 		religion = protestant
 		size = 15
 	}
-
+	
 	clergymen = {
-		culture = vinlander
+		culture = amerikaner
 		religion = protestant
 		size = 550
 	}
 
 	artisans = {
-		culture = vinlander
+		culture = amerikaner
 		religion = protestant
 		size = 3050
 	}
 
 	soldiers = {
-		culture = vinlander
+		culture = amerikaner
 		religion = protestant
 		size = 2000
 	}
 
 	farmers = {
-		culture = vinlander
+		culture = amerikaner
 		religion = protestant
-		size = 30000
+		size = 5000
+	}
+
+	clergymen = {
+		culture = amerikaner
+		religion = catholic
+		size = 550
+	}
+
+	artisans = {
+		culture = amerikaner
+		religion = catholic
+		size = 3050
+	}
+
+	soldiers = {
+		culture = amerikaner
+		religion = catholic
+		size = 2000
+	}
+
+	farmers = {
+		culture = amerikaner
+		religion = catholic
+		size = 25000
 	}
 	
 	farmers = {
-		culture = amerikaner
+		culture = quiripi
+		religion = catholic
+		size = 15000
+	}
+	
+	farmers = {
+		culture = narragansett_secatogue
 		religion = protestant
-		size = 24560
+		size = 4560
 	}
 
 	clergymen = {
@@ -9709,93 +9955,69 @@
 #Providence (104000/26000 POPS)
 242 = {
 	bureaucrats = {
-		culture = vinlander
+		culture = amerikaner
 		religion = protestant
 		size = 50
 	}
 
 	officers = {
-		culture = vinlander
+		culture = amerikaner
 		religion = protestant
 		size = 25
 	}
 
 	capitalists = {
-		culture = vinlander
+		culture = amerikaner
 		religion = protestant
 		size = 25
 	}
 
 	clergymen = {
-		culture = vinlander
+		culture = amerikaner
 		religion = protestant
 		size = 175
 	}
 
 	artisans = {
-		culture = vinlander
+		culture = amerikaner
 		religion = protestant
 		size = 4175
 	}
 
 	soldiers = {
-		culture = vinlander
+		culture = amerikaner
 		religion = protestant
 		size = 250
 	}
 
 	farmers = {
-		culture = vinlander
+		culture = amerikaner
 		religion = protestant
 		size = 9000
 	}
 	
 	clergymen = {
-		culture = frisian
-		religion = catholic
+		culture = narragansett_secatogue
+		religion = protestant
 		size = 25
 	}
 	
-	farmers = {
-		culture = frisian
-		religion = catholic
-		size = 5000
-	}
-	
-	farmers = {
-		culture = amerikaner
-		religion = catholic
-		size = 3000
-	}
-	
 	artisans = {
-		culture = frisian
-		religion = catholic
+		culture = narragansett_secatogue
+		religion = protestant
 		size = 500
 	}
-
-	clergymen = {
-		culture = frisian
-		religion = catholic
-		size = 50
-	}
 	
 	farmers = {
-		culture = amerikaner
+		culture = narragansett_secatogue
 		religion = catholic
-		size = 1900
+		size = 6000
 	}
 
 	clergymen = {
 		culture = afro_germanic
 		religion = protestant
 		size = 25
-	}
-	
-	bureaucrats = {
-		culture = amerikaner
-		religion = catholic
-		size = 15
 	}
 
 	artisans = {
@@ -9814,278 +10036,212 @@
 #ruled by the USA
 #Boston (444000/111000 POPS)
 243 = {
-	clergymen = {
-		culture = frisian
-		religion = catholic
-		size = 50
-	}
-
-	clerks = {
-		culture = frisian
-		religion = catholic
-		size = 50
-	}
-
-	craftsmen = {
-		culture = frisian
-		religion = catholic
-		size = 1100
-	}
-
-	artisans = {
-		culture = frisian
-		religion = catholic
-		size = 3950
-	}
-
-	soldiers = {
-		culture = frisian
-		religion = catholic
-		size = 75
-	}
-	
-	clergymen = {
-		culture = frisian
-		religion = catholic
-		size = 25
-	}
-
-	capitalists = {
-		culture = frisian
-		religion = catholic
-		size = 15
-	}
-
 	bureaucrats = {
-		culture = frisian
-		religion = catholic
-		size = 15
-	}
-	
-	farmers = {
-		culture = frisian
-		religion = catholic
-		size = 2875
-	}
-	
-	bureaucrats = {
-		culture = vinlander
+		culture = amerikaner
 		religion = protestant
 		size = 300
 	}
 
 	officers = {
-		culture = vinlander
+		culture = amerikaner
 		religion = protestant
 		size = 150
 	}
 
 	capitalists = {
-		culture = vinlander
+		culture = amerikaner
 		religion = protestant
 		size = 350
 	}
 
 	clergymen = {
-		culture = vinlander
+		culture = amerikaner
 		religion = protestant
 		size = 675
 	}
 
 	clerks = {
-		culture = vinlander
+		culture = amerikaner
 		religion = protestant
 		size = 825
 	}
 
 	craftsmen = {
-		culture = vinlander
+		culture = amerikaner
 		religion = protestant
 		size = 16250
 	}
 
 	artisans = {
-		culture = vinlander
+		culture = amerikaner
 		religion = protestant
 		size = 10000
 	}
 
 	artisans = {
-		culture = vinlander
+		culture = amerikaner
 		religion = protestant
 		size = 10000
 	}
 	
 	artisans = {
-		culture = vinlander
-		religion = protestant
-		size = 10000
-	}
-	
-	artisans = {
-		culture = vinlander
-		religion = protestant
-		size = 10000
-	}
-	
-	artisans = {
-		culture = vinlander
+		culture = amerikaner
 		religion = protestant
 		size = 7925
 	}
 
 	soldiers = {
-		culture = vinlander
+		culture = amerikaner
 		religion = protestant
 		size = 2000
 	}
 
 	farmers = {
-		culture = vinlander
+		culture = amerikaner
 		religion = protestant
-		size = 16145
+		size = 23145
 	}
 
 	clergymen = {
-		culture = amerikaner
-		religion = catholic
+		culture = massachusett
+		religion = protestant
 		size = 75
 	}
 
 	artisans = {
-		culture = amerikaner
-		religion = catholic
-		size = 6000
+		culture = massachusett
+		religion = protestant
+		size = 600
 	}
 
 	farmers = {
-		culture = amerikaner
-		religion = catholic
-		size = 8925
-	}
-}
-#New Bedford (132000/33000 POPS)
-244 = {
-	clergymen = {
-		culture = frisian
-		religion = catholic
-		size = 25
-	}
-
-	artisans = {
-		culture = frisian
-		religion = catholic
-		size = 500
-	}
-
-	farmers = {
-		culture = frisian
-		religion = catholic
-		size = 2950
-	}
-	
-	craftsmen = {
-		culture = frisian
-		religion = catholic
-		size = 100
+		culture = massachusett
+		religion = protestant
+		size = 23925
 	}
 	
 	clergymen = {
 		culture = vinlander
-		religion = protestant
-		size = 225
-	}
-
-	clerks = {
-		culture = vinlander
-		religion = protestant
-		size = 25
-	}
-
-	craftsmen = {
-		culture = vinlander
-		religion = protestant
-		size = 300
-	}
-
-	artisans = {
-		culture = vinlander
-		religion = protestant
-		size = 1125
-	}
-
-	soldiers = {
-		culture = vinlander
-		religion = protestant
-		size = 300
-	}
-
-	farmers = {
-		culture = vinlander
-		religion = protestant
-		size = 20025
-	}
-
-	clergymen = {
-		culture = amerikaner
 		religion = catholic
-		size = 25
+		size = 175
 	}
 
 	artisans = {
-		culture = amerikaner
+		culture = vinlander
 		religion = catholic
 		size = 600
 	}
 
 	farmers = {
-		culture = amerikaner
+		culture = vinlander
 		religion = catholic
-		size = 9950
+		size = 5000
+	}
+}
+#New Bedford (132000/33000 POPS)
+244 = {
+	clergymen = {
+		culture = amerikaner
+		religion = protestant
+		size = 225
+	}
+
+	clerks = {
+		culture = amerikaner
+		religion = protestant
+		size = 25
+	}
+
+	craftsmen = {
+		culture = amerikaner
+		religion = protestant
+		size = 300
+	}
+
+	artisans = {
+		culture = amerikaner
+		religion = protestant
+		size = 1125
+	}
+
+	soldiers = {
+		culture = amerikaner
+		religion = protestant
+		size = 300
+	}
+
+	farmers = {
+		culture = amerikaner
+		religion = protestant
+		size = 15025
+	}
+
+	clergymen = {
+		culture = massachusett
+		religion = protestant
+		size = 25
+	}
+
+	artisans = {
+		culture = massachusett
+		religion = protestant
+		size = 600
+	}
+
+	farmers = {
+		culture = massachusett
+		religion = protestant
+		size = 14950
 	}
 }
 #Pittsfield (84000/21000 POPS)
-245 = {
+245 = {	
 	clergymen = {
-		culture = frisian
-		religion = catholic
-		size = 25
-	}
-	
-	farmers = {
-		culture = frisian
-		religion = catholic
-		size = 200
-	}
-	
-	clergymen = {
-		culture = vinlander
+		culture = amerikaner
 		religion = protestant
 		size = 150
 	}
 
 	artisans = {
-		culture = vinlander
+		culture = amerikaner
 		religion = protestant
 		size = 1050
 	}
 
 	soldiers = {
-		culture = vinlander
+		culture = amerikaner
 		religion = protestant
 		size = 225
 	}
 
 	farmers = {
-		culture = vinlander
+		culture = amerikaner
 		religion = protestant
-		size = 16575
+		size = 7575
+	}
+	
+	clergymen = {
+		culture = nipmuc
+		religion = protestant
+		size = 150
+	}
+
+	artisans = {
+		culture = nipmuc
+		religion = protestant
+		size = 150
+	}
+
+	soldiers = {
+		culture = nipmuc
+		religion = protestant
+		size = 225
 	}
 	
 	farmers = {
-		culture = amerikaner
+		culture = nipmuc
 		religion = protestant
-		size = 1575
+		size = 10575
 	}
 }
 #Vermont Region (284000)  
@@ -10093,87 +10249,87 @@
 #Montpelier (284000/71000 POPS)
 246 = {
 	bureaucrats = {
-		culture = vinlander
+		culture = amerikaner
 		religion = protestant
 		size = 125
 	}
 
 	officers = {
-		culture = vinlander
+		culture = amerikaner
 		religion = protestant
 		size = 75
 	}
 
 	clergymen = {
-		culture = vinlander
+		culture = amerikaner
 		religion = protestant
 		size = 500
 	}
 
 	artisans = {
-		culture = vinlander
+		culture = amerikaner
 		religion = protestant
 		size = 3150
 	}
 
 	soldiers = {
-		culture = vinlander
+		culture = amerikaner
 		religion = protestant
 		size = 650
 	}
 
 	farmers = {
-		culture = vinlander
+		culture = amerikaner
 		religion = protestant
-		size = 50200
+		size = 5200
 	}
 
 	clergymen = {
-		culture = scottish
+		culture = vinlander
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = scottish
+		culture = vinlander
 		religion = catholic
 		size = 200
 	}
 
 	soldiers = {
-		culture = scottish
+		culture = vinlander
 		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = scottish
+		culture = vinlander
 		religion = catholic
-		size = 10000
+		size = 3000
 	}
 	
 	clergymen = {
-		culture = vinlander
-		religion = catholic
+		culture = mohican
+		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = vinlander
-		religion = catholic
+		culture = mohican
+		religion = animist
 		size = 200
 	}
 
 	soldiers = {
-		culture = vinlander
-		religion = catholic
+		culture = mohican
+		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = vinlander
-		religion = catholic
-		size = 5475
+		culture = mohican
+		religion = animist
+		size = 10475
 	}
 }
 #New Hampshire Region (276000)  
@@ -10192,319 +10348,289 @@
 		size = 2000
 	}
 	
-	artisans = {
-		culture = vinlander
-		religion = catholic
-		size = 925
-	}
-	
-	craftsmen = {
-		culture = vinlander
-		religion = catholic
-		size = 1000
-	}
-	
 	bureaucrats = {
-		culture = vinlander
+		culture = amerikaner
 		religion = protestant
 		size = 150
 	}
 
 	capitalists = {
-		culture = vinlander
+		culture = amerikaner
 		religion = protestant
 		size = 100
 	}
 
 	officers = {
-		culture = vinlander
+		culture = amerikaner
 		religion = protestant
 		size = 75
 	}
 
 	clerks = {
-		culture = vinlander
+		culture = amerikaner
 		religion = protestant
 		size = 25
 	}
 
 	craftsmen = {
-		culture = vinlander
+		culture = amerikaner
 		religion = protestant
 		size = 3000
 	}
 
 	clergymen = {
-		culture = vinlander
+		culture = amerikaner
 		religion = protestant
 		size = 2150
 	}
 
 	artisans = {
-		culture = vinlander
+		culture = amerikaner
 		religion = protestant
 		size = 2925
 	}
 
 	soldiers = {
-		culture = vinlander
+		culture = amerikaner
 		religion = protestant
 		size = 2000
 	}
 
 	farmers = {
-		culture = vinlander
+		culture = amerikaner
 		religion = protestant
-		size = 55700
+		size = 35700
 	}
 	
 	clergymen = {
-		culture = scottish
-		religion = catholic
+		culture = absenaki
+		religion = animist
 		size = 500
 	}
 
 	farmers = {
-		culture = scottish
-		religion = catholic
-		size = 6000
-	}
-	
-	artisans = {
-		culture = scottish
-		religion = catholic
-		size = 3000
-	}
-	
-	craftsmen = {
-		culture = scottish
-		religion = catholic
-		size = 5000
+		culture = absenaki
+		religion = animist
+		size = 16000
 	}
 }
 #Maine Region (432000)  
 #ruled by the USA
 #Lewiston (240000/60000 POPS)
 248 = {
-	farmers = {
-		culture = vinlander
-		religion = catholic
-		size = 3500
-	}
-	
-	clergymen = {
-		culture = vinlander
-		religion = catholic
-		size = 10
-	}
-
-	artisans = {
-		culture = vinlander
-		religion = catholic
-		size = 100
-	}
-
-	soldiers = {
-		culture = vinlander
-		religion = catholic
-		size = 25
-	}
-	
 	bureaucrats = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 175
 	}
 
 	officers = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 450
 	}
 
 	artisans = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 3000
 	}
 
 	soldiers = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 600
-	}
-
-	farmers = {
-		culture = vinlander
-		religion = protestant
-		size = 35675
 	}
 	
 	farmers = {
-		culture = scottish
-		religion = catholic
-		size = 14000
-	}
-}
-#Bangor (156000/44000 POPS)
-249 = {
-	clergymen = {
 		culture = vinlander
 		religion = catholic
-		size = 10
+		size = 5675
 	}
 
-	artisans = {
+	serfs = {
 		culture = vinlander
+		religion = catholic
+		size = 20000
+	}
+	
+	farmers = {
+		culture = absenaki
+		religion = animist
+		size = 9000
+	}
+	
+	serfs = {
+		culture = absenaki
+		religion = animist
+		size = 1000
+	}
+	
+	farmers = {
+		culture = absenaki
 		religion = catholic
 		size = 100
 	}
-
-	soldiers = {
-		culture = vinlander
-		religion = catholic
-		size = 25
-	}
-
-	farmers = {
-		culture = vinlander
-		religion = catholic
-		size = 1575
-	}
 	
+	serfs = {
+		culture = absenaki
+		religion = catholic
+		size = 4000
+	}
+}
+#Bangor (156000/44000 POPS)
+249 = {	
 	clergymen = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 250
 	}
 
 	artisans = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 1900
 	}
 
 	soldiers = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 375
 	}
-
+	
 	farmers = {
 		culture = vinlander
-		religion = protestant
-		size = 35475
+		religion = catholic
+		size = 1475
+	}
+
+	serfs = {
+		culture = vinlander
+		religion = catholic
+		size = 10000
 	}
 
 	clergymen = {
-		culture = scottish
+		culture = maliseet
 		religion = catholic
 		size = 40
 	}
 
 	artisans = {
-		culture = scottish
+		culture = maliseet
 		religion = catholic
 		size = 200
 	}
 
 	soldiers = {
-		culture = scottish
+		culture = maliseet
 		religion = catholic
 		size = 75
 	}
-
+	
 	farmers = {
-		culture = scottish
+		culture = maliseet
 		religion = catholic
+		size = 100
+	}
+
+	serfs = {
+		culture = maliseet
+		religion = catholic
+		size = 6000
+	}
+	
+	farmers = {
+		culture = maliseet
+		religion = animist
+		size = 6000
+	}
+	
+	serfs = {
+		culture = maliseet
+		religion = animist
 		size = 4000
 	}
 }
 #ruled by the UK
 #Caribou (36000/9000 POPS)
-250 = {
+250 = {	
 	clergymen = {
 		culture = vinlander
 		religion = catholic
-		size = 10
-	}
-
-	artisans = {
-		culture = vinlander
-		religion = catholic
-		size = 10
-	}
-
-	soldiers = {
-		culture = vinlander
-		religion = catholic
-		size = 25
-	}
-
-	farmers = {
-		culture = vinlander
-		religion = catholic
-		size = 175
-	}
-	
-	clergymen = {
-		culture = vinlander
-		religion = protestant
 		size = 75
 	}
 
 	artisans = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 250
 	}
 
 	soldiers = {
 		culture = vinlander
-		religion = protestant
+		religion = catholic
 		size = 50
 	}
 
 	farmers = {
 		culture = vinlander
-		religion = protestant
-		size = 4625
+		religion = catholic
+		size = 225
+	}
+	
+	serfs = {
+		culture = vinlander
+		religion = catholic
+		size = 4500
 	}
 
 	clergymen = {
-		culture = norwegian
-		religion = protestant
+		culture = maliseet
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = norwegian
-		religion = protestant
+		culture = maliseet
+		religion = catholic
 		size = 200
 	}
 
 	soldiers = {
-		culture = norwegian
-		religion = protestant
+		culture = maliseet
+		religion = catholic
 		size = 25
 	}
 
 	farmers = {
-		culture = norwegian
-		religion = protestant
-		size = 525
+		culture = maliseet
+		religion = catholic
+		size = 25
+	}
+	
+	serfs = {
+		culture = maliseet
+		religion = catholic
+		size = 5000
 	}
 
 	farmers = {
-		culture = scottish
-		religion = protestant
-		size = 2725
+		culture = maliseet
+		religion = animist
+		size = 7000
+	}
+	
+	serfs = {
+		culture = maliseet
+		religion = animist
+		size = 1725
 	}
 
 }
