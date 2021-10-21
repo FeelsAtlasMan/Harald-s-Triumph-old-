@@ -25,8 +25,8 @@ sea_starts = {
 
 #Credit for the Provinces in the Incan Andes and the trading ports in Mesoamerica go to M&T
 
-#definitions = "definition.csv"   
-definitions = "../mod/[WIP]/map/definition.csv"
+definitions = "definition.csv"   
+#definitions = "../mod/[WIP]/map/definition.csv"
 provinces = "provinces.bmp"
 positions = "positions.txt"
 terrain = "terrain.bmp"

@@ -7354,45 +7354,75 @@
 #Richmond - Formerly Fort Rupert (2400/600 POPS)
 60 = {
 	aristocrats = {
-		culture = amerikaner
+		culture = tuscarora_nottoway
 		religion = protestant
 		size = 300
 	}
 
 	bureaucrats = {
-		culture = amerikaner
+		culture = tuscarora_nottoway
 		religion = protestant
 		size = 100
 	}
 
 	officers = {
-		culture = amerikaner
+		culture = tuscarora_nottoway
 		religion = protestant
 		size = 100
 	}
 
 	clergymen = {
-		culture = amerikaner
+		culture = tuscarora_nottoway
 		religion = protestant
 		size = 125
 	}
 
 	artisans = {
-		culture = amerikaner
+		culture = tuscarora_nottoway
 		religion = protestant
 		size = 550
 	}
 
 	soldiers = {
-		culture = amerikaner
+		culture = tuscarora_nottoway
 		religion = protestant
 		size = 400
 	}
 
 	farmers = {
-		culture = amerikaner
+		culture = tuscarora_nottoway
 		religion = protestant
 		size = 10075
+	}
+	
+	aristocrats = {
+		culture = amerikaner
+		religion = protestant
+		size = 30
+	}
+
+	clergymen = {
+		culture = amerikaner
+		religion = protestant
+		size = 25
+	}
+
+	artisans = {
+		culture = amerikaner
+		religion = protestant
+		size = 150
+	}
+
+	soldiers = {
+		culture = amerikaner
+		religion = protestant
+		size = 100
+	}
+
+	farmers = {
+		culture = amerikaner
+		religion = protestant
+		size = 1075
 	}
 
 	clergymen = {
@@ -7407,7 +7437,7 @@
 		size = 225
 	}
 
-	slaves = {
+	farmers = {
 		culture = afro_germanic
 		religion = protestant
 		size = 1500
@@ -7454,19 +7484,31 @@
 	farmers = {
 		culture = amerikaner
 		religion = protestant
-		size = 41400
+		size = 20000
+	}
+	
+	farmers = {
+		culture = tutelo
+		religion = animist
+		size = 21400
 	}
 
-	farmers = {
-		culture = afro_germanic
+	artisans = {
+		culture = tuscarora_nottoway
 		religion = protestant
 		size = 900
 	}
 
-	slaves = {
+	farmers = {
+		culture = tuscarora_nottoway
+		religion = protestant
+		size = 16500
+	}
+	
+	farmers = {
 		culture = afro_germanic
 		religion = protestant
-		size = 26500
+		size = 5000
 	}
 }
 #Manassas (68000/17000 POPS)
@@ -7502,15 +7544,15 @@
 	}
 
 	farmers = {
-		culture = afro_germanic
+		culture = tutelo
 		religion = protestant
-		size = 625
+		size = 2625
 	}
 
-	slaves = {
-		culture = afro_germanic
+	farmers = {
+		culture = powhatan
 		religion = protestant
-		size = 9750
+		size = 7750
 	}
 }
 #Fredericksburg (116000/29000 POPS)
@@ -7546,15 +7588,21 @@
 	}
 
 	farmers = {
-		culture = afro_germanic
+		culture = powhatan
 		religion = protestant
-		size = 400
+		size = 7400
+	}
+	
+	farmers = {
+		culture = tutelo
+		religion = protestant
+		size = 2875
 	}
 
-	slaves = {
+	farmers = {
 		culture = afro_germanic
 		religion = protestant
-		size = 12875
+		size = 3000
 	}
 }
 #Norfolk (108000/27000 POPS)
@@ -7620,15 +7668,21 @@
 	}
 
 	farmers = {
-		culture = afro_germanic
+		culture = powhatan
 		religion = protestant
-		size = 225
+		size = 6225
+	}
+	
+	farmers = {
+		culture = tuscarora_nottoway
+		religion = protestant
+		size = 3000
 	}
 
 	slaves = {
 		culture = afro_germanic
 		religion = protestant
-		size = 10225
+		size = 1225
 	}
 }
 #Staunton (60000/15000 POPS)
@@ -7660,13 +7714,13 @@
 	farmers = {
 		culture = amerikaner
 		religion = protestant
-		size = 7275
+		size = 1275
 	}
 	
 	farmers = {
-		culture = shawnee
+		culture = tutelo
 		religion = animist
-		size = 1275
+		size = 6275
 	}
 
 	farmers = {
@@ -7675,10 +7729,10 @@
 		size = 250
 	}
 
-	slaves = {
+	farmers = {
 		culture = afro_germanic
 		religion = protestant
-		size = 5400
+		size = 1400
 	}
 }
 #Roanoke (120000/30000 POPS)
@@ -7710,13 +7764,13 @@
 	farmers = {
 		culture = amerikaner
 		religion = protestant
-		size = 14675
+		size = 4675
 	}
 	
 	farmers = {
-		culture = shawnee
+		culture = tutelo
 		religion = animist
-		size = 4675
+		size = 14675
 	}
 
 	farmers = {
@@ -7725,85 +7779,85 @@
 		size = 50
 	}
 
-	slaves = {
+	farmers = {
 		culture = afro_germanic
 		religion = protestant
-		size = 9000
+		size = 1000
 	}
 }
 #became West Virginia in 1863
 #Wheeling (104000/26000 POPS)
 217 = {
 	aristocrats = {
-		culture = shawnee
+		culture = tutelo
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-	    culture = shawnee
+	    culture = tutelo
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = shawnee
+		culture = tutelo
 		religion = animist
 		size = 200
 	}
 
 
 	farmers = {
-		culture = shawnee
+		culture = tutelo
 		religion = animist
 		size = 3625
 	}
 	
 	aristocrats = {
-		culture = amerikaner
-		religion = protestant
+		culture = lenape
+		religion = animist
 		size = 200
 	}
 
 	clergymen = {
-		culture = amerikaner
-		religion = protestant
+		culture = lenape
+		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = amerikaner
-		religion = protestant
+		culture = lenape
+		religion = animist
 		size = 500
 	}
 
 	soldiers = {
-		culture = amerikaner
-		religion = protestant
+		culture = lenape
+		religion = animist
 		size = 1175
 	}
 
 	farmers = {
-		culture = amerikaner
-		religion = protestant
+		culture = lenape
+		religion = animist
 		size = 9800
 	}
 	
 	farmers = {
-		culture = amerikaner
-		religion = protestant
-		size = 11500
+		culture = iroquios
+		religion = animist
+		size = 7500
 	}
 
 	farmers = {
-		culture = afro_germanic
-		religion = protestant
-		size = 250
+		culture = nanticocke
+		religion = animist
+		size = 5250
 	}
 
-	slaves = {
-		culture = afro_germanic
-		religion = protestant
+	farmers = {
+		culture = tuscarora_nottoway
+		religion = animist
 		size = 3500
 	}
 }
@@ -7835,51 +7889,69 @@
 	}
 	
 	aristocrats = {
-		culture = amerikaner
-		religion = protestant
+		culture = lenape
+		religion = animist
 		size = 200
 	}
 
 	clergymen = {
-		culture = amerikaner
-		religion = protestant
+		culture = lenape
+		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = amerikaner
-		religion = protestant
+		culture = lenape
+		religion = animist
 		size = 500
 	}
 
 	soldiers = {
-		culture = amerikaner
-		religion = protestant
+		culture = lenape
+		religion = animist
 		size = 1175
 	}
 
 	farmers = {
-		culture = amerikaner
-		religion = protestant
-		size = 4125
+		culture = lenape
+		religion = animist
+		size = 10125
+	}
+	
+	soldiers = {
+		culture = mohican
+		religion = animist
+		size = 1175
 	}
 	
 	farmers = {
-		culture = amerikaner
-		religion = protestant
-		size = 10500
+		culture = mohican
+		religion = animist
+		size = 5500
+	}
+	
+	soldiers = {
+		culture = nanticocke
+		religion = animist
+		size = 1175
 	}
 
 	farmers = {
-		culture = afro_germanic
-		religion = protestant
-		size = 250
+		culture = nanticocke
+		religion = animist
+		size = 4250
+	}
+	
+	soldiers = {
+		culture = iroquios
+		religion = animist
+		size = 1175
 	}
 
-	slaves = {
-		culture = afro_germanic
-		religion = protestant
-		size = 1000
+	farmers = {
+		culture = iroquios
+		religion = animist
+		size = 6000
 	}
 }
 #Maryland Region (452000)
@@ -7887,93 +7959,81 @@
 #Baltimore (212000/53000 POPS)
 219 = {
 	clergymen = {
-		culture = frisian
-		religion = catholic
+		culture = amerikaner
+		religion = protestant
 		size = 15
 	}
 
 	artisans = {
-		culture = frisian
-		religion = catholic
+		culture = amerikaner
+		religion = protestant
 		size = 50
 	}
 
 	soldiers = {
-		culture = frisian
-		religion = catholic
+		culture = amerikaner
+		religion = protestant
 		size = 10
 	}
 
 	farmers = {
-		culture = frisian
-		religion = catholic
+		culture = amerikaner
+		religion = protestant
 		size = 500
 	}
 	
 	aristocrats = {
-		culture = amerikaner
+		culture = nanticocke
 		religion = protestant
 		size = 525
 	}
 
 	bureaucrats = {
-		culture = amerikaner
+		culture = nanticocke
 		religion = protestant
 		size = 175
 	}
 
 	officers = {
-		culture = amerikaner
+		culture = nanticocke
 		religion = protestant
 		size = 125
 	}
 
 	clergymen = {
-		culture = amerikaner
+		culture = nanticocke
 		religion = protestant
 		size = 225
 	}
-
-	artisans = {
-		culture = frisian
-		religion = protestant
-		size = 10000
-	}
 	
 	artisans = {
-		culture = amerikaner
+		culture = nanticocke
 		religion = protestant
 		size = 700
 	}
 
 	soldiers = {
-		culture = amerikaner
+		culture = nanticocke
 		religion = protestant
 		size = 3000
 	}
 
 	farmers = {
-		culture = amerikaner
+		culture = nanticocke
 		religion = protestant
-		size = 9750
+		size = 18750
 	}
-
+	
 	farmers = {
-		culture = amerikaner
-		religion = protestant
-		size = 9000
-	}
-
-	farmers = {
-		culture = french
-		religion = protestant
+		culture = iroquios
+		religion = animist
 		size = 4875
 	}
 
-	slaves = {
+	farmers = {
 		culture = afro_germanic
 		religion = protestant
-		size = 12600
+		size = 2600
 	}
 }
 #Annapolis (184000/46000 POPS)
@@ -8008,32 +8068,44 @@
 		religion = protestant
 		size = 10000
 	}
-
+	
 	soldiers = {
 		culture = amerikaner
+		religion = catholic
+		size = 10
+	}
+
+	farmers = {
+		culture = amerikaner
+		religion = catholic
+		size = 3500
+	}
+
+	soldiers = {
+		culture = frisian
 		religion = catholic
 		size = 210
 	}
 
 	farmers = {
-		culture = amerikaner
+		culture = frisian
 		religion = catholic
-		size = 13500
+		size = 10000
+	}
+
+	farmers = {
+		culture = nanticocke
+		religion = protestant
+		size = 10520
 	}
 
 	farmers = {
 		culture = afro_germanic
 		religion = protestant
-		size = 1520
-	}
-
-	slaves = {
-		culture = afro_germanic
-		religion = protestant
-		size = 11800
+		size = 3800
 	}
 }
-#D.C. (104000/26000 POPS)
+#D.N. (Deez Nuts) (104000/26000 POPS)
 2146 = {
 	aristocrats = {
 		culture = frisian
@@ -8062,7 +8134,7 @@
 	farmers = {
 		culture = frisian
 		religion = catholic
-		size = 50
+		size = 2050
 	}
 	
 	aristocrats = {
@@ -8080,13 +8152,13 @@
 	artisans = {
 		culture = amerikaner
 		religion = protestant
-		size = 160
+		size = 1160
 	}
 
 	soldiers = {
 		culture = amerikaner
 		religion = protestant
-		size = 90
+		size = 490
 	}
 
 	farmers = {
@@ -8097,20 +8169,20 @@
 	
 	farmers = {
 		culture = amerikaner
-		religion = protestant
+		religion = catholic
 		size = 2500
+	}
+
+	farmers = {
+		culture = nanticocke
+		religion = protestant
+		size = 1380
 	}
 
 	farmers = {
 		culture = afro_germanic
 		religion = protestant
-		size = 380
-	}
-
-	slaves = {
-		culture = afro_germanic
-		religion = protestant
-		size = 4200
+		size = 1200
 	}
 }
 #Hagerstown (56000/14000 POPS)
@@ -8146,21 +8218,21 @@
 	}
 
 	farmers = {
-		culture = amerikaner
+		culture = tutelo
+		religion = animist
+		size = 4650
+	}
+	
+	farmers = {
+		culture = nanticocke
 		religion = protestant
-		size = 8000
+		size = 4500
 	}
 
 	farmers = {
 		culture = afro_germanic
 		religion = protestant
-		size = 1650
-	}
-
-	slaves = {
-		culture = afro_germanic
-		religion = protestant
-		size = 1000
+		size = 500
 	}
 }
 #Delaware Region (76000)  
@@ -8210,30 +8282,30 @@
 	}
 
 	farmers = {
-		culture = amerikaner
-		religion = protestant
-		size = 7000
+		culture = frisian
+		religion = catholic
+		size = 4000
 	}
 	
 	clergymen = {
-		culture = afro_germanic
+		culture = nanticocke
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = afro_germanic
+		culture = nanticocke
 		religion = protestant
 		size = 300
 	}
 
 	farmers = {
-		culture = afro_germanic
+		culture = nanticocke
 		religion = protestant
-		size = 5150
+		size = 8150
 	}
 
-	slaves = {
+	farmers = {
 		culture = afro_germanic
 		religion = protestant
 		size = 500
@@ -8288,7 +8360,7 @@
 	farmers = {
 		culture = amerikaner
 		religion = catholic
-		size = 15400
+		size = 5400
 	}
 	
 	bureaucrats = {
@@ -8348,7 +8420,7 @@
 	farmers = {
 		culture = amerikaner
 		religion = protestant
-		size = 66950
+		size = 50950
 	}
 
 	clergymen = {
@@ -8366,25 +8438,49 @@
 	farmers = {
 		culture = frisian
 		religion = catholic
-		size = 2950
+		size = 22950
+	}
+	
+	farmers = {
+		culture = afro_germanic
+		religion = protestant
+		size = 12950
 	}
 
 	clergymen = {
-		culture = afro_germanic
+		culture = iroquios
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = afro_germanic
+		culture = iroquios
 		religion = protestant
-		size = 2000
+		size = 200
 	}
 
 	farmers = {
-		culture = afro_germanic
+		culture = iroquios
 		religion = protestant
 		size = 5950
+	}
+    
+	clergymen = {
+		culture = lenape
+		religion = protestant
+		size = 50
+	}
+
+	artisans = {
+		culture = lenape
+		religion = protestant
+		size = 200
+	}
+
+	farmers = {
+		culture = lenape
+		religion = protestant
+		size = 6000
 	}
 
 	clergymen = {
@@ -8396,57 +8492,63 @@
 	artisans = {
 		culture = ashkenazi
 		religion = jewish
-		size = 490
+		size = 4900
 	}
 }
 #Coudersport - Formerly Fort Chimo (2400/600 POPS)
 2627 = {
 	clergymen = {
-		culture = amerikaner
+		culture = iroquios
 		religion = protestant
 		size = 100
 	}
 
 	artisans = {
-		culture = amerikaner
+		culture = iroquios
 		religion = protestant
 		size = 500
 	}
 
 	soldiers = {
-		culture = amerikaner
+		culture = iroquios
 		religion = protestant
 		size = 150
 	}
+	
+	farmers = {
+		culture = iroquios
+		religion = protestant
+		size = 400
+	}
 
 	farmers = {
-		culture = amerikaner
-		religion = protestant
-		size = 14000
+		culture = iroquios
+		religion = animist
+		size = 8600
 	}
 
 	clergymen = {
 		culture = amerikaner
-		religion = catholic
+		religion = protestant
 		size = 25
 	}
 
 	artisans = {
 		culture = amerikaner
-		religion = catholic
+		religion = protestant
 		size = 200
 	}
 
 	soldiers = {
 		culture = amerikaner
-		religion = catholic
+		religion = protestant
 		size = 55
 	}
 
 	farmers = {
 		culture = amerikaner
-		religion = catholic
-		size = 6225
+		religion = protestant
+		size = 1225
 	}
 
 	clergymen = {
@@ -8464,57 +8566,105 @@
 	farmers = {
 		culture = frisian
 		religion = catholic
-		size = 1000
+		size = 4000
 	}
 }
 #Scranton (164000/41000 POPS)
 224 = {
 	clergymen = {
-		culture = amerikaner
+		culture = frisian
 		religion = catholic
 		size = 15
 	}
 
 	artisans = {
-		culture = amerikaner
+		culture = frisian
 		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
-		culture = amerikaner
+		culture = frisian
 		religion = catholic
 		size = 10
 	}
 
 	farmers = {
-		culture = amerikaner
+		culture = frisian
 		religion = catholic
+		size = 5100
+	}
+	
+	clergymen = {
+		culture = iroquios
+		religion = animist
+		size = 30
+	}
+
+	artisans = {
+		culture = iroquios
+		religion = animist
+		size = 50
+	}
+
+	soldiers = {
+		culture = iroquios
+		religion = animist
+		size = 25
+	}
+
+	farmers = {
+		culture = iroquios
+		religion = animist
+		size = 4225
+	}
+	
+	clergymen = {
+		culture = lenape
+		religion = animist
+		size = 27
+	}
+
+	artisans = {
+		culture = lenape
+		religion = animist
 		size = 100
+	}
+
+	soldiers = {
+		culture = lenape
+		religion = animist
+		size = 400
+	}
+
+	farmers = {
+		culture = lenape
+		religion = animist
+		size = 6000
 	}
 	
 	clergymen = {
 		culture = amerikaner
 		religion = protestant
-		size = 300
+		size = 270
 	}
 
 	artisans = {
 		culture = amerikaner
 		religion = protestant
-		size = 2050
+		size = 1000
 	}
 
 	soldiers = {
 		culture = amerikaner
 		religion = protestant
-		size = 425
+		size = 400
 	}
 
 	farmers = {
 		culture = amerikaner
 		religion = protestant
-		size = 38225
+		size = 8000
 	}
 }
 #Williamsport (172000/43000 POPS)
@@ -8540,45 +8690,57 @@
 	farmers = {
 		culture = amerikaner
 		religion = protestant
-		size = 40100
+		size = 10100
+	}
+	
+	farmers = {
+		culture = shawnee
+		religion = animist
+		size = 4100
+	}
+	
+	farmers = {
+		culture = iroquios
+		religion = animist
+		size = 6000
 	}
 }
 #Harrisburg (292000/73000 POPS)
 226 = {
 	clergymen = {
-		culture = amerikaner
+		culture = frisian
 		religion = catholic
 		size = 15
 	}
 
 	artisans = {
-		culture = amerikaner
+		culture = frisian
 		religion = catholic
 		size = 50
 	}
-
+	
 	soldiers = {
-		culture = amerikaner
+		culture = frisian
 		religion = catholic
-		size = 10
+		size = 550
 	}
 
-	farmers = {
-		culture = amerikaner
+	artisans = {
+		culture = frisian
 		religion = catholic
-		size = 130
+		size = 14000
 	}
 	
 	clergymen = {
 		culture = amerikaner
 		religion = protestant
-		size = 550
+		size = 815
 	}
 
 	artisans = {
 		culture = amerikaner
 		religion = protestant
-		size = 3650
+		size = 6050
 	}
 
 	soldiers = {
@@ -8590,7 +8752,31 @@
 	farmers = {
 		culture = amerikaner
 		religion = protestant
-		size = 66800
+		size = 40000
+	}
+	
+	clergymen = {
+		culture = iroquios
+		religion = animist
+		size = 115
+	}
+
+	artisans = {
+		culture = iroquios
+		religion = animist
+		size = 650
+	}
+
+	soldiers = {
+		culture = iroquios
+		religion = animist
+		size = 200
+	}
+
+	farmers = {
+		culture = iroquios
+		religion = animist
+		size = 10000
 	}
 }
 #Pittsburgh (332000/83000 POPS)

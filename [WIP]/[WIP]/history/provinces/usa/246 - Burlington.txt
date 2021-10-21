@@ -1,5 +1,5 @@
-owner = CAN
-controller = CAN
-add_core = CAN
+owner = NEN
+controller = NEN
+add_core = NEN
 trade_goods = timber
 life_rating = 35
