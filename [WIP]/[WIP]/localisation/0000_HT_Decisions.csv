@@ -352,6 +352,10 @@ con_cossacks_desc;While the Kazani Raids are over the tribes of Astrakhan and Cr
 proclaim_tsardom_title;Proclaim the Tsardom of Russia;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 proclaim_tsardom_desc;Now that we control a realm stretching from the Urals to the Steppes, we can proclaim the the Tsardom of Russia. While this title will probably not be recognized by the other Great Powers, this will certainly support our Pan-Russian Ambitions.;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 form_russia_title;Unite Russia;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+reform_the_oblast_sytem_title;Reform the Oblast System;x
+reform_the_oblast_sytem_desc;The Oblast System was the result of years of feudalism and carefull balancing of power between the diffrent landlords and the crown. Such medival traditions only hinder our nations, so it is only natural that we should get rid of it.;x
+claim_kieaven_legacy_title;Claim The Legacy of Kieaven Rus;x
+claim_kieaven_legacy_desc;The Kings of Ruthenia claim their legacy from the Kieaven Rus, which used to rule the lands from Kiev to Novgorod. As their direct decendents we should annouce to the world our ambition to rule over those lands;x
 form_russia_desc;The russian states have been disunited ever since the collapse of the Kievian Rus'. However, now that we managed to build a power base and established ourselves as the leading force in russian unification it is time to reclaim our lost glory and, after centuries, shake of the Tatar Joke!;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 form_ruthenia_title;Restore the Rus;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 form_ruthenia_desc;The russian states have been disunited ever since the collapse of the Kievian Rus'. However, now that we managed to build a power base and established ourselves as the leading force in russian unification it is time to reclaim our lost glory and, after centuries, shake of the Tatar Joke!;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
@@ -476,7 +480,7 @@ call_to_arms_in_poland_title;Hej kto Polak na bagnety!;x
 call_to_arms_in_poland_desc;Today is a day of blood and glory, Let it be a day of resurrection! Gazing at France's rainbow, The White Eagle launches into flight. Inspired by the sun of July, He calls to us from above: "Arise, oh Poland, break your chains, Today is a day of your victory or death!";x
 reforms_prince_drucki_libecki_title;Economic Reforms of Prince Drucki-Lubecki;x
 reforms_prince_drucki_libecki_desc;Prince Drucki-Lubecki, commonly nicknamed "The Small Prince" is a prominent politician in the duchy of Masovia. His economic policys of interventionism as well as plans to abolish tariffs between Bohemia and Masovia may present a great opportunity to enrich our small dominion greatly.;x
-god_unity_independence_title;Istenem, egyseg, fuggetlenseg!;x
+god_unity_independence_title;Istenem, Egyseg, Fuggetlenseg!;x
 god_unity_independence_desc;The Revolutions of past years in Germany and the subsiquant reformation of states around us has proven that remnants of any feudal administration are a great weakness of a state. Therefore to preserve our integrity and unity, under the guidance of god, the following laws will pass into immediete effect.;x
 banat_form_croatia_title;Become Croatia;x
 banat_form_croatia_desc;Free of Hungarian yoke we can finally govern ourselves freely;x
@@ -498,8 +502,8 @@ protect_frisia_title;Protect Frisia;x
 protect_frisia_desc;Frisians had always been a close ally of ours against the Saxons. It's poor people have always been plauged by the invasions of their neighbours and the attempts to incorporate the state into our Confederation under equal laws, most notably by King Olaf the Wise in 1729. The offer was obviously declined, due to the fear of marginalisation of the state in such a union. Now However with the Saxon Menace growing in strength, perhaps we should again reach an agreement with the Frisians?;x
 create_the_nordic_monetary_union_title;Create the Nordic Monetary Union;x
 create_the_nordic_monetary_union_desc;Although each memeber Kingdom of the North Sea Empire uses the same treasury, each usues a diffrent kind of margloo currency. If we aim to end centralise the confederation, we should perhaps create a proper monetary union to pave the way for use of singal currency in the future;x
-the_matter_of_angosaxons_title;The Matter of Anglosaxons;x
-the_matter_of_angosaxons_desc;Over the Years Norse settlers bought out or took over the Anglo-Saxon lands and begun to create their own communitys, mainly in the north-west. This process has largely stopped by th 14th century and an Anglo-Saxon identity had begun to form. Many uprisings, settler commissions and even exiles to North America later, and the Anglo-Saxon people are seen as anything but equal in the Union. Perhaps the time has come to change that?;x
+the_matter_of_anglosaxons_title;The Matter of Anglosaxons;x
+the_matter_of_anglosaxons_desc;Over the Years Norse settlers bought out or took over the Anglo-Saxon lands and begun to create their own communitys, mainly in the north-west. This process has largely stopped by th 14th century and an Anglo-Saxon identity had begun to form. Many uprisings, settler commissions and even exiles to North America later, and the Anglo-Saxon people are seen as anything but equal in the Union. Perhaps the time has come to change that?;x
 north_sea_protectorate_title;The North Sea Protectorate;x
 north_sea_protectorate_desc;"[...] And so we shall spread our Empire like a Black Raven spreads it's wings across pray, and non shall stand in it's way." The Idea of a North Sea Protectorate had been prevelent throughout Anglo-Norse history. Whenever the North Sea Empire was not busy fighting to reunite itself, it attempted to conquer the North Sea's coast to secure it's trade intrests. The idea is still prevelent in politics today, largely supported by the conservative wings.;x
 greater_france_title;Claim French Natural Borders;x
@@ -525,9 +529,9 @@ greater_polabia_desc;Polabian Kings have always dreamed of an empire streatich a
 baltic_centralisation_title;Centralize the Baltic Guvernorskaps;x
 baltic_centralisation_desc;The Baltic Governorships have existed since the end of the 17th century and had proven to be quite a dated creation for today's times. We should centralise them to gain greater control and influence in the region;x
 revise_treaty_of_malmo_title;Revise the Treaty of Malmo;x
-revise_treaty_of_malmo_desc;The Treaty of Malmo signed in 1801 forced Sweden to relinquish many of it claims on the land of Kingdom of Norway and Denmark. The treaty was singed after the death of King Charles the XIV, a great general who suffered a fatal wound in the battle of Oslo against the Norse meanace. Following his death, his heir immedietly signed this shamefull peace treaty, but finally we stand in a strong enough position to lay our claims back on those lands.;x
+revise_treaty_of_malmo_desc;The Treaty of Malmo signed in 1801 forced Sweden to relinquish many of it claims on the lands of Kingdom of Norway and Denmark. The treaty was singed after the death of King Charles the XIV, a great general who suffered a fatal wound in the battle of Oslo against the Norse meanace. Following his death, his heir immedietly signed this shamefull peace treaty, but finally we stand in a strong enough position to lay our claims back on those lands.;x
 enact_the_column_of_charles_xiv_title;Fund the Column of Charles XIV;x
-enact_the_column_of_charles_xiv_desc;Charles the XIV was probably the last great King-General of Sweden. He assumed the throne in 1782 and ruled until his death 1800. His reign was characterised by many succesfull military campaigns deep into ruthenian lands, bringing sweden much needed wealth. His luck run out when he attempted to recover Lost Swedish territory of Malmo in 1798. An uprising in Norway had conviced him that it was the best time to strike the North Sea Empire and assumed personal leadership in a campaign to Norway. He died in the battle of Oslo in 1800, teaking a shot to the chest and later bleeding out to death in his tent.;x
+enact_the_column_of_charles_xiv_desc;Charles the XIV was probably the last great King-General of Sweden. He assumed the throne in 1782 and ruled until his death 1800. His reign was characterised by many succesfull military campaigns deep into Ruthenian lands, bringing Sweden much needed wealth. His luck run out when he attempted to recover the lost Swedish territory of Scania in 1798. An uprising in Norway had conviced him that it was the best time to strike the North Sea Empire and he assumed personal leadership in a campaign to Norway. He died in the battle of Oslo in 1800, after taking a shot to the chest and later bleeding out to death in his tent.;x
 baltic_dominium_title;Dominium Mare Baltici;x
 baltic_dominium_desc;The Baltic Dominion has been the goal of Swedish foreign policys since the 14th century. The idea says that Baltic sea should be made into a Swedish in-land Sea, granting us greater control over trade in the region. Our great victories over the past few years will surely allow us to purse this policy more througly now that we teaken all our rightfull lands and centralized our administration;x
 moderinise_the_caroleans_title;Carolean Infantry Modernization and Conscription Reform;x
@@ -631,3 +635,34 @@ conquest_of_anatolia_title;The Conquest of Anatolia;x
 conquest_of_anatolia_desc;The Turks of Anatolia have long been either vassals or close allies. Since we embraced our Turkic heritage it is only right to incorparte this area, which has close historic, cultural and linguistic ties to us!;x,,,,,,,,,,,,,,,,
 take_control_mamluks_title;Remove the Caliph from Power;x
 take_control_mamluks_desc;The Caliphs of Cairo have been growing more and more powerful. However with our reforms and newly placed limitations we have gained the change to limit his power once again to a puppet figure. It's time to take this step!;x,,,,,,,,,,,,,,,,
+milanese_newspaper_title;Voce Libera Che Protegge La Liberta;x
+milanese_newspaper_desc;The Ambrosian Republic was always a cradle of new ideologies, ideas and knowledge. It is only natural then, that we'd support the developing of free press, so hampered in the other european countries.;x
+reform_lombard_leauge_title;A New Lombard League!;x
+reform_lombard_leauge_desc;Much like in the days of the old we face a threat to the very independence of italy from verious angles. Only uniting the fractured italian duchys and republics and ensure our survival and perhaps lead us to a new unified Italian State?;x
+form_piedmont_title;Declare The Kingdom Of Piedmont;x
+form_piedmont_desc;As We expand our nation it seems logical that we properly represent the area we rule, and so the tiny nation of $THIS$ shall now be known as the Kingdom Of Piemont!;x
+form_tuscany_title;Declare the Grand Duchy Of Tuscany;x
+form_tuscany_desc;Not since the days of the Margraviate of Tuscany has a single power controlled as much of the the Tuscan lands as we do. Let us adopt a new title to better reflect our new standing among the states of Italy.;x
+riorganizzazione_title;Riorganizzazione;x
+riorganizzazione_desc;The 18th century was Catastrophic to the Venetian Republic. The loss of the Peloponese peninsula along with most of the ageans sea islands left us cut off from the many trade routes that one brought wealth to the city. We must find a new place in the world and bring our Republic much needed stability and wealth once again.;x
+SIC_last_royal_marriage_title;Reconnect With France;x
+SIC_last_royal_marriage_desc;The House of Hohenstaufer-Valois came to power in early 12 century and have maneged to cling to the throne in Naples until today. The same unfortunetly cannot be said to the Kingdom of Naples itself, as the dynastys ascentioned marked a downhill turn in the Neapolitan luck in foreign politics. The Kingdom lost the isle of sicily as well as the city of Brindisi and every attempt of recovery of those areas have ended in failure. Perhaps a reconnection with the French Valois Dynasty and aligning ourselves with the French foreign policy will give us the ability to recover those lands?;x
+restore_naples_title;Restore The Kingdom of Naples;x
+restore_naples_desc;The Time has come for Naples to return to it's formed glory and restore the ownership over it's rightfull possesion of sicily!;x
+restore_sicily_title;Unite Two Sicilies;x
+restore_sicily_desc;Naples and Sicily have been divided and squabbled over by the great powers of Europe for too long. We must reunite the Sicilies and become a great power in our own right.;x
+restore_naples_desc;The Time has come for Naples to return to it's formed glory and restore the ownership over it's rightfull possesion of sicily!;x
+restore_charlamagne_realm_title;Restore Papal States;x
+restore_charlamagne_realm_desc;In the 17th century the papacy lost controll over the dominions Charlamagne himself had granted them. The Bloody Venetions were responsible, but since the republic's fall we still have recovered neither the land nor the respect that we deserve.;x
+gregorian_golden_bulla_title;"Non Expedit" - Gregorian Golden Bulla of $YEAR$;x
+gregorian_golden_bulla_desc;Non Expedit (Latin for "It is not expedient") were the words with which the Holy See enjoined upon Italian Catholics the policy of abstention from the polls in parliamentary elections. With the formation of the Lombard leauge it is critical for us to secure our dominance in Italy and have it be led by his holiness and not some liberal scum.;x
+form_kindom_of_god_title;Declare The Kingdom Of God On Earth;x
+form_kindom_of_god_desc;With the lands of Northern Italy under the temporal power of the Holy Father rather than any Emperor or King it is now justified to declare this state the Kingdom of God on Earth.;x
+surrender_to_lom_title;Surrender to Italian Nationalism;x
+surrender_to_lom_desc;There is no way for us to recover our position in italy any longer, we should let the italians in our borders join the future confederation being created in the north.;x
+sell_brindisi_ANC_title;Sell Brindisi;x
+sell_brindisi_ANC_desc;Brindisi is undefendable and we cannot properly secure our hold over it, perhaps selling it would be much better.;x
+sell_corsica_GEN_title;Sell Claims to Corsica;x
+sell_corsica_GEN_desc;We have lost corsica, with no hope of getting it back, perhaps selling our claims to it can recover some of the losses we suffered?;x
+restore_kingdom_of_africa_title;Restore The Kingdom Of Africa;x
+restore_kingdom_of_africa_desc;Many centuries ago we secured our grip on the old lands of carthage which have since been lost. With the rise of Imperialism and European presence in Africa, perhaps we too should secure a place in the sun for us?;x

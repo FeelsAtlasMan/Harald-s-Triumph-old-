@@ -1,7 +1,8 @@
 capital = 580
 primary_culture = north_german
-culture = swiss_german
 culture = south_german
+culture = swiss_german
+culture = dutch
 religion = protestant
 government = absolute_monarchy
 plurality = 25.0

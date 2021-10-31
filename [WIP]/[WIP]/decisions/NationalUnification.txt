@@ -275,7 +275,7 @@ political_decisions = {
 			factor = 1
 		}
 	}	
-		
+
 	form_germany = {
 		news = yes
 		news_desc_long = "form_germany_NEWS_LONG"
@@ -299,8 +299,6 @@ political_decisions = {
 				war_with = FRA 
 			}
 			OR = {
-				has_country_flag = ems_dispatch_sent 
-				has_global_flag = germany_has_renamed_elsass 
 				ALS = {
 					all_core = {
 						OR = {

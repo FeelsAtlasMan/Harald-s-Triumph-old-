@@ -2681,12 +2681,13 @@ dour_economist = {
 	icon = 17
 }
 
-otto_von_bismarck = {
+fredrich_hecker = {
 	prestige = 0.02
 	core_pop_militancy_modifier = -0.05
 	diplomatic_points_modifier = 0.25
 	influence_modifier = 0.2
 	ruling_party_support = 0.35
+	mobilisation_size = 0.05
 	badboy = -0.05
 	icon = 17
 }
@@ -3424,4 +3425,8 @@ charcoal_production = {
 hemp_production = {
 	local_RGO_output = -0.25
 	icon = 13
+}
+illigitimate_crown = {
+	core_pop_militancy_modifier = 0.11
+	prestige = -0.2
 }

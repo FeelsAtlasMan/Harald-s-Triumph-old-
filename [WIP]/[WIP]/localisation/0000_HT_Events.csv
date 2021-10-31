@@ -275,3 +275,13 @@ EVTDESC410010;Enterprising arms dealers from $FROMCOUNTRY$ have managed to smugg
 EVTOPTA410010;We will put these guns to good use.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 EVTDESC179200;Our time has come, no longer can we abide by the grievnaces of the Saxon king or any king for that matter! No longer will we suffer at the hands of a monarch who oppresses us and silences us we will shatter Saxony and free all of Germany and it's peoples no matter the cost!;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,
 EVTDESC130801;Queen Dobrovka I has finally ascended to the throne,Despite her ancestor and namesake marriage to the first king of Poland starting the Bohemian-Polish alliance which would eventually unite the Poland under the Bohemian crown the Poles have never seen themselves as our subjects. Hopefully, Queen Dobrovka like her ancestor can bring unity between our two peoples.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,
+EVTDESC130801;Queen Dobrovka I has finally ascended to the throne,Despite her ancestor and namesake marriage to the first king of Poland starting the Bohemian-Polish alliance which would eventually unite the Poland under the Bohemian crown the Poles have never seen themselves as our subjects. Hopefully, Queen Dobrovka like her ancestor can bring unity between our two peoples.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,
+EVTDESC181600;Much like in the days of the old we face a threat to the very independence of italy from verious angles. Only uniting the fractured italian duchys and republics and ensure our survival and perhaps lead us to a new unified Italian State?;x
+EVTNAME181601;$FROMCOUNTRY$ joins the Lombard League!;x
+EVTDESC181601;$FROMCOUNTRY$ has joined the Lombard League and promised to defend italy from foreign invaders.;x
+EVTDESC181602;We have claimed the Crown of Piemont, but many people still view as as illegitimate. Perhaps appealing to the pope will give us the legitimacy we despretly need?;x
+EVTDESC181603;We have claimed the title of duke of Tuscany, but many people still view as as illegitimate. Perhaps appealing to the pope will give us the legitimacy we despretly need?;x
+EVTNAME181604;An Aspiring Monarch;x
+EVTDESC181604;$FROMCOUNTRY$ has approached us about the possibility of legitimizing their recent conquests and granting approval from the papacy, so as to not couse any distress to their neighbours.;x
+EVTNAME181605;Coronation Ceremony!;x
+EVTDESC181605;We've been granted to crown we despretly needed in a elaborate ceremony organized by the pope!;x

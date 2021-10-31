@@ -713,6 +713,19 @@ vassal = {
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }
+#Ruthenia
+vassal = {
+	first = RTH
+	second = GLM
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+vassal = {
+	first = RTH
+	second = MNK
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
 
 #Lunda Empire
 vassal = {

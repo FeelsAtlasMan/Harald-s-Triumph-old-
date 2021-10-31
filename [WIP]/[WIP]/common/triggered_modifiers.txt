@@ -721,17 +721,16 @@ help_ai_russia = {
 	war_exhaustion = -0.5
 }
 
-help_ai_usa = {
+help_ai_saxony = {
 	trigger = {
-		owns = 2146
-		centralization = regionalism
+		owns = 580
 		ai = yes
 	}
 	icon = 10
 	tax_efficiency = 0.05
 	supply_consumption = -0.15
-	influence_modifier = -0.05
-	mobilisation_size = 0.01
+	influence_modifier = 0.16
+	mobilisation_size = 0.08
 }
 
 yellow_river = {

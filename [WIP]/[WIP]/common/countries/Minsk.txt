@@ -1,4 +1,5 @@
 color = { 112 79 97 }
+colonial_company = { 124  183  151 }
 graphical_culture = Generic
 
 party = {

@@ -354,6 +354,10 @@ CCT	    = "countries/Cochiti.txt"
 ISL	    = "countries/Isleta.txt"
 ACO	    = "countries/Acoma.txt"
 JMZ	    = "countries/Jemez.txt"
+PIE		= "countries/Piemont.txt"
+TSC		= "countries/The Kingdom of Tuscany.txt"
+PRO		= "countries/Provance.txt"
+GOD		= "countries/GOD.txt"
 
 ##HFM New Nations
 #ATB	= "countries/Saxe-Altenburg.txt"

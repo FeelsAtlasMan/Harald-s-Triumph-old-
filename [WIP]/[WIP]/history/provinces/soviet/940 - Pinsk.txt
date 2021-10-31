@@ -1,5 +1,6 @@
-owner = UKR
-controller = UKR
+owner = RTH
+controller = RTH
+add_core = RTH
 add_core = RUS
 add_core = MNK
 add_core = UKR

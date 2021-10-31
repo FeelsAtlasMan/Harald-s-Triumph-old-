@@ -49,4 +49,24 @@ political_decisions = {
 			}
 		}
 	}
+	
+	appoint_hecker = {
+		picture = hecker
+		potential = {
+			tag = SAX
+			NOT = { has_country_flag = appointed_hecker }
+			year = 1846
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			prestige = 15
+			set_country_flag = appointed_hecker
+			add_country_modifier = {
+				name = fredrich_hecker
+				duration = 7300
+			}
+		}
+	}
 }

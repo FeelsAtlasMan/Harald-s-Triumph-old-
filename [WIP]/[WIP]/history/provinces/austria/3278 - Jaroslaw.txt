@@ -1,5 +1,6 @@
 owner = GLM
 controller = GLM
+add_core = RTH
 add_core = RUS
 add_core = GLM
 add_core = POL

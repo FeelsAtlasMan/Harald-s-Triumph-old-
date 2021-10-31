@@ -1606,3 +1606,12 @@ CCT;Cochiti;;;;;;;;;;;x;
 CCT_ADJ;Cochiti;;;;;;;;;;;x
 ISL;Isleta;;;;;;;;;;;x;
 ISL_ADJ;Isleta;;;;;;;;;;;x
+TSC;Tuscany;x
+TSC_ADJ;Tuscan;x
+PIE;Piedmont;x
+PIE_ADJ;Piedmonese;x
+PRO;Provance;x
+PRO_democracy;Marsillie Republic;x
+PRO_ADJ;Provance;x
+GOD;Kingdom of God;x
+GOD_ADJ;Holy;x
