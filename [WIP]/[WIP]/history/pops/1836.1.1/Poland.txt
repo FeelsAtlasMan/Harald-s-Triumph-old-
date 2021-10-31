@@ -2349,7 +2349,7 @@
 	serfs = {
 		culture = polish
 		religion = catholic
-		size = 50000
+		size = 40000
 	}
 
 	clergymen = {
@@ -2422,6 +2422,36 @@
 		culture = czech
 		religion = catholic
 		size = 1825
+	}
+	
+	aristocrats = {
+		culture = romanian
+		religion = orthodox
+		size = 50
+	}
+
+	clergymen = {
+		culture = romanian
+		religion = orthodox
+		size = 70 
+	}
+
+	artisans = {
+		culture = romanian
+		religion = orthodox
+		size = 400
+	}
+
+	soldiers = {
+		culture = romanian
+		religion = orthodox
+		size = 200
+	}
+
+	farmers = {
+		culture = romanian
+		religion = orthodox
+		size = 10000
 	}
 }
 #Tarnow (616000/154000 POPS)

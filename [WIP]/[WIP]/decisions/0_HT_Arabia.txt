@@ -1150,7 +1150,7 @@ political_decisions = {
 		           has_country_flag = sold_australia
 				   has_country_flag = lost_australia
 				 }
-				 AI = yes
+				 ai = yes
 		      }
 			  AND = {
 			     has_country_flag = abb_western_advisors
@@ -1159,13 +1159,13 @@ political_decisions = {
 		           has_country_flag = sold_australia
 				   has_country_flag = lost_australia
 				 }
-				 AI = yes
+				 ai = yes
 		      }
 			  AND = {
 			     has_country_flag = abb_mamluk_advisors
 			     has_country_flag = abb_mamluk_administration
 		         has_country_flag = abb_australia
-				 AI = yes
+				 ai = yes
 		      }
 		  }
 		}
@@ -1173,7 +1173,7 @@ political_decisions = {
 		   primary_culture = mamluki
 		   add_accepted_culture = misri
 		   add_accepted_culture = abaza
-		   add_accepted_culture = adyghe
+		   add_accepted_culture = circassian
 		   clr_country_flag = shadow_caliphate
 		   change_tag = MML
 		   prestige = 10
@@ -1210,7 +1210,7 @@ political_decisions = {
 	  	   TUR_878 = { add_core = THIS }
 		   TUR_3339 = { add_core = THIS }
 		   TUR_876 = { add_core = THIS }
-		   TUR_883 = { add_core = THIS }
+		   #TUR_883 = { add_core = THIS }
 		   TUR_880 = { add_core = THIS }
 		   prestige = 10
 		   badboy = 10
@@ -1238,7 +1238,7 @@ political_decisions = {
 			   3282 = { owned_by = THIS }
 			}
 			NOT = { has_country_flag = claimed_palmyra }
-			NOT = { 1867 = { owned_by = 907 } }
+			NOT = { 907 = { owned_by = THIS } }
 		}
 		
 		allow = {
@@ -1320,13 +1320,11 @@ political_decisions = {
 		}
 		
 		allow = {
-			AND = {
-			   1766 = { owned_by = THIS }
-			   1771 = { owned_by = THIS }
-			   1837 = { owned_by = THIS }
-			   1836 = { owned_by = THIS }
-			   1835 = { owned_by = THIS }
-			}
+			1766 = { owned_by = THIS }
+			1771 = { owned_by = THIS }
+			1837 = { owned_by = THIS }
+			1836 = { owned_by = THIS }
+			1835 = { owned_by = THIS }
 			war = no
 		}
 		effect = {
@@ -1541,13 +1539,11 @@ political_decisions = {
 		}
 		
 		allow = {
-			   AND = {
-			       1155 = { owned_by = THIS }
-			       1178 = { owned_by = THIS }
-			       1176 = { owned_by = THIS }
-			       1173 = { owned_by = THIS }
-			       3442 = { owned_by = THIS }
-			   }
+			1155 = { owned_by = THIS }
+			1178 = { owned_by = THIS }
+		    1176 = { owned_by = THIS }
+			1173 = { owned_by = THIS }
+			3442 = { owned_by = THIS }
 			war = no
 		}
 		effect = {
@@ -1573,11 +1569,9 @@ political_decisions = {
 		}
 		
 		allow = {
-			   AND = {
-			       3441 = { owned_by = THIS }
-			       3442 = { owned_by = THIS }
-			       1157 = { owned_by = THIS }
-			   }
+	        3441 = { owned_by = THIS }
+	        3442 = { owned_by = THIS }
+	        1157 = { owned_by = THIS }
 			war = no
 		}
 		effect = {
@@ -1643,11 +1637,9 @@ political_decisions = {
 		}
 		
 		allow = {
-			AND = {
-			       1170 = { owned_by = THIS }
-			       1171 = { owned_by = THIS }
-			       1172 = { owned_by = THIS }
-			}
+   	        1170 = { owned_by = THIS }
+	        1171 = { owned_by = THIS }
+	        1172 = { owned_by = THIS }
 			OR = {
 			   tag = ABB
 			   civilized = yes
@@ -1680,14 +1672,12 @@ political_decisions = {
 		}
 		
 		allow = {
-			AND = {
-			   1759 = { owned_by = THIS }
-			   1760 = { owned_by = THIS }
-			   1761 = { owned_by = THIS }
-			   1766 = { owned_by = THIS }
-			   3411 = { owned_by = THIS }
-			   2585 = { owned_by = THIS }
-			}
+		    1759 = { owned_by = THIS }
+		    1760 = { owned_by = THIS }
+		    1761 = { owned_by = THIS }
+		    1766 = { owned_by = THIS }
+		    3411 = { owned_by = THIS }
+		    2585 = { owned_by = THIS }
 			OR = {
 			   electricity = 1
 			   year = 1900
@@ -1717,11 +1707,9 @@ political_decisions = {
 		}
 		
 		allow = {
-			AND = {
-			   2585 = { owned_by = THIS }
-			   1742 = { owned_by = THIS }
-			   1741 = { owned_by = THIS }
-			}
+		    2585 = { owned_by = THIS }
+		    1742 = { owned_by = THIS }
+		    1741 = { owned_by = THIS }
 			OR = {
 			   electricity = 1
 			   year = 1900
@@ -1752,12 +1740,10 @@ political_decisions = {
 		}
 		
 		allow = {
-			AND = {
-			   1817 = { owned_by = THIS }
-			   1824 = { owned_by = THIS }
-			   1821 = { owned_by = THIS }
-			   1826 = { owned_by = THIS }
-			}
+		    1817 = { owned_by = THIS }
+		    1824 = { owned_by = THIS }
+		    1821 = { owned_by = THIS }
+		    1826 = { owned_by = THIS }
 			OR = {
 			   electricity = 1
 			   year = 1900
@@ -1789,13 +1775,11 @@ political_decisions = {
 		}
 		
 		allow = {
-			AND = {
-			   1835 = { owned_by = THIS }
-			   1806 = { owned_by = THIS }
-			   1739 = { owned_by = THIS }
-			   1842 = { owned_by = THIS }
-			   1826 = { owned_by = THIS }
-			}
+			1835 = { owned_by = THIS }
+			1806 = { owned_by = THIS }
+			1739 = { owned_by = THIS }
+			1842 = { owned_by = THIS }
+			1826 = { owned_by = THIS }
 			OR = {
 			   electricity = 1
 			   year = 1900
@@ -1825,11 +1809,9 @@ political_decisions = {
 		}
 		
 		allow = {
-			AND = {
-			   1719 = { owned_by = THIS }
-			   3413 = { owned_by = THIS }
-			   1741 = { owned_by = THIS }
-			}
+			1719 = { owned_by = THIS }
+			3413 = { owned_by = THIS }
+			1741 = { owned_by = THIS }
 			OR = {
 			   electricity = 1
 			   year = 1900
@@ -1858,10 +1840,8 @@ political_decisions = {
 		}
 		
 		allow = {
-			AND = {
-			   1711 = { owned_by = THIS }
-			   1712 = { owned_by = THIS }
-			}
+			1711 = { owned_by = THIS }
+			1712 = { owned_by = THIS }
 			OR = {
 			   electricity = 1
 			   year = 1900
@@ -1948,15 +1928,13 @@ political_decisions = {
 		}
 		
 		allow = {
-			AND = {
-			   1716 = { owned_by = THIS }
-			   1717 = { owned_by = THIS }
-			   3407 = { owned_by = THIS }
-			   1781 = { owned_by = THIS }
-			   1696 = { owned_by = THIS }
-			   1773 = { owned_by = THIS }
-			   3403 = { owned_by = THIS }
-			}
+			1716 = { owned_by = THIS }
+			1717 = { owned_by = THIS }
+			3407 = { owned_by = THIS }
+			1781 = { owned_by = THIS }
+			1696 = { owned_by = THIS }
+			1773 = { owned_by = THIS }
+			3403 = { owned_by = THIS }
 			OR = {
 			   electricity = 1
 			   year = 1900
@@ -1987,11 +1965,9 @@ political_decisions = {
 		}
 		
 		allow = {
-			AND = {
-			   1696 = { owned_by = THIS }
-			   1773 = { owned_by = THIS }
-			   1775 = { owned_by = THIS }
-			}
+			1696 = { owned_by = THIS }
+			1773 = { owned_by = THIS }
+			1775 = { owned_by = THIS }
 			OR = {
 			   electricity = 1
 			   year = 1900

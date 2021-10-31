@@ -107,7 +107,7 @@ political_decisions = {
 			1498 = { secede_province = THIS change_controller = THIS }
 			add_country_modifier = { name = chinese_treaty_port duration = 1095 }
 			1493 = { remove_province_modifier = canton_system }
-			random_country = { limit = { tag = QNG exists = yes } set_variable = { which = china_destablization value = 1 } }
+			random_country = { limit = { tag = SHN exists = yes } set_variable = { which = china_destablization value = 1 } }
 		}
 		ai_will_do = {
 			factor = 1
@@ -194,7 +194,7 @@ political_decisions = {
 			1538 = { secede_province = THIS change_controller = THIS }
 			add_country_modifier = { name = chinese_treaty_port duration = 1095 }
 			1493 = { remove_province_modifier = canton_system }
-			random_country = { limit = { tag = QNG exists = yes } set_variable = { which = china_destablization value = 1 } }
+			random_country = { limit = { tag = SHN exists = yes } set_variable = { which = china_destablization value = 1 } }
 		}
 		ai_will_do = {
 			factor = 1
@@ -203,7 +203,7 @@ political_decisions = {
 					tag = ENG
 					NOT = { owns = 1496 }
 					NOT = { has_country_flag = treaty_of_tientsin }
-					QNG = {
+					SHN = {
 						exists = yes
 						owns = 1496
 					}
@@ -249,7 +249,7 @@ political_decisions = {
 			1566 = { secede_province = THIS change_controller = THIS }
 			add_country_modifier = { name = chinese_treaty_port duration = 1095 }
 			1493 = { remove_province_modifier = canton_system }
-			random_country = { limit = { tag = QNG exists = yes } set_variable = { which = china_destablization value = 1 } }
+			random_country = { limit = { tag = SHN exists = yes } set_variable = { which = china_destablization value = 1 } }
 		}
 		ai_will_do = {
 			factor = 1
@@ -306,7 +306,7 @@ political_decisions = {
 			1481 = { secede_province = THIS change_controller = THIS add_province_modifier = { name = treaty_port duration = -1 } }
 			add_country_modifier = { name = chinese_treaty_port duration = 1095 }
 			1493 = { remove_province_modifier = canton_system }
-			random_country = { limit = { tag = QNG exists = yes } set_variable = { which = china_destablization value = 1 } }
+			random_country = { limit = { tag = SHN exists = yes } set_variable = { which = china_destablization value = 1 } }
 		}
 		ai_will_do = {
 			factor = 1
@@ -356,7 +356,7 @@ political_decisions = {
 			1569 = { secede_province = THIS change_controller = THIS }
 			add_country_modifier = { name = chinese_treaty_port duration = 1095 }
 			1493 = { remove_province_modifier = canton_system }
-			random_country = { limit = { tag = QNG exists = yes } set_variable = { which = china_destablization value = 1 } }
+			random_country = { limit = { tag = SHN exists = yes } set_variable = { which = china_destablization value = 1 } }
 		}
 		ai_will_do = {
 			factor = 1
@@ -408,7 +408,7 @@ political_decisions = {
 			1606 = { secede_province = THIS change_controller = THIS add_province_modifier = { name = treaty_port duration = -1 } }
 			add_country_modifier = { name = chinese_treaty_port duration = 1095 }
 			1493 = { remove_province_modifier = canton_system }
-			random_country = { limit = { tag = QNG exists = yes } set_variable = { which = china_destablization value = 1 } }
+			random_country = { limit = { tag = SHN exists = yes } set_variable = { which = china_destablization value = 1 } }
 		}
 		ai_will_do = {
 			factor = 1
@@ -475,7 +475,7 @@ political_decisions = {
 			2681 = { secede_province = THIS change_controller = THIS }
 			add_country_modifier = { name = chinese_treaty_port duration = 1095 }
 			1493 = { remove_province_modifier = canton_system }
-			random_country = { limit = { tag = QNG exists = yes } set_variable = { which = china_destablization value = 1 } }
+			random_country = { limit = { tag = SHN exists = yes } set_variable = { which = china_destablization value = 1 } }
 		}
 		
 		ai_will_do = {
@@ -523,7 +523,7 @@ political_decisions = {
 			1499 = { secede_province = THIS change_controller = THIS add_province_modifier = { name = treaty_port duration = -1 } }
 			add_country_modifier = { name = chinese_treaty_port duration = 1095 }
 			1493 = { remove_province_modifier = canton_system }
-			random_country = { limit = { tag = QNG exists = yes } set_variable = { which = china_destablization value = 1 } }
+			random_country = { limit = { tag = SHN exists = yes } set_variable = { which = china_destablization value = 1 } }
 		}
 		ai_will_do = {
 			factor = 1
@@ -583,7 +583,7 @@ political_decisions = {
 			2632 = { secede_province = THIS change_controller = THIS }
 			add_country_modifier = { name = chinese_treaty_port duration = 1095 }
 			1493 = { remove_province_modifier = canton_system }
-			random_country = { limit = { tag = QNG exists = yes } set_variable = { which = china_destablization value = 1 } }
+			random_country = { limit = { tag = SHN exists = yes } set_variable = { which = china_destablization value = 1 } }
 		}
 		ai_will_do = {
 			factor = 1
@@ -640,7 +640,7 @@ political_decisions = {
 			1608 = { secede_province = THIS change_controller = THIS add_province_modifier = { name = treaty_port duration = -1 } }
 			add_country_modifier = { name = chinese_treaty_port duration = 1095 }
 			1493 = { remove_province_modifier = canton_system }
-			random_country = { limit = { tag = QNG exists = yes } set_variable = { which = china_destablization value = 1 } }
+			random_country = { limit = { tag = SHN exists = yes } set_variable = { which = china_destablization value = 1 } }
 		}
 		ai_will_do = {
 			factor = 1
@@ -692,7 +692,7 @@ political_decisions = {
 			3249 = { secede_province = THIS change_controller = THIS add_province_modifier = { name = treaty_port duration = -1 } }
 			add_country_modifier = { name = chinese_treaty_port duration = 1095 }
 			1493 = { remove_province_modifier = canton_system }
-			random_country = { limit = { tag = QNG exists = yes } set_variable = { which = china_destablization value = 1 } }
+			random_country = { limit = { tag = SHN exists = yes } set_variable = { which = china_destablization value = 1 } }
 		}
 		ai_will_do = {
 			factor = 1

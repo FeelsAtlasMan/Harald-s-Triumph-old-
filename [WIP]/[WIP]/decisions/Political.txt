@@ -540,7 +540,7 @@ political_decisions = {
 			}
 			modifier = {
 				factor = 0
-				tag = QNG
+				tag = SHN
 			}
 		}
 	}

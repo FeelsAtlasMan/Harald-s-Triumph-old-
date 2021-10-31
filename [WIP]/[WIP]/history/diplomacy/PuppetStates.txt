@@ -217,6 +217,13 @@ substate = {
 	end_date = 1937.1.1
 }
 
+substate = {
+	first = HUN
+	second = SZE
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
 #Slavic Bans
 vassal = {
 	first = HUN
@@ -348,13 +355,6 @@ vassal = {
 vassal = {
 	first = OIR
 	second = BRY
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-
-vassal = {
-	first = OIR
-	second = SHU
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }

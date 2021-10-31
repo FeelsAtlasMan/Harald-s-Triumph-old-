@@ -1,7 +1,5 @@
-owner = BZN
-controller = BZN
-add_core = BZN
-add_core = ROM
+owner = SZE
+controller = SZE
 add_core = SIE
 add_core = SZE
 trade_goods = wool

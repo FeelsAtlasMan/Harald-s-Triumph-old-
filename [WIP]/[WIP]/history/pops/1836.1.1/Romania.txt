@@ -5,19 +5,13 @@
 	clergymen = {
 		culture = pecenak
 		religion = orthodox
-		size = 1250  
-	}
-	
-	bureaucrats = {
-		culture = pecenak
-		religion = orthodox
-		size = 750 
+		size = 400  
 	}
 
 	artisans = {
 		culture = pecenak
 		religion = orthodox
-		size = 6500  
+		size = 2500  
 	}
 
 	soldiers = {
@@ -29,13 +23,37 @@
 	farmers = {
 		culture = pecenak
 		religion = orthodox
-		size = 36900   
+		size = 6900   
+	}
+	
+	clergymen = {
+		culture = romanian
+		religion = orthodox
+		size = 850  
+	}
+
+	artisans = {
+		culture = romanian
+		religion = orthodox
+		size = 4000  
+	}
+
+	soldiers = {
+		culture = romanian
+		religion = orthodox
+		size = 1000
+	}
+
+	farmers = {
+		culture = romanian
+		religion = orthodox
+		size = 10000   
 	}
 	
 	serfs = {
-		culture = pecenak
+		culture = romanian
 		religion = orthodox
-		size = 40000   
+		size = 35000   
 	}
 	
 	serfs = {
@@ -175,25 +193,49 @@
 	clergymen = {
 		culture = pecenak
 		religion = orthodox
-		size = 500  
+		size = 100  
 	}
 
 	artisans = {
 		culture = pecenak
 		religion = orthodox
-		size = 2500  
+		size = 200  
 	}
 
 	soldiers = {
 		culture = pecenak
 		religion = orthodox
-		size = 550
+		size = 150
 	}
 
 	serfs = {
 		culture = pecenak
 		religion = orthodox
-		size = 40450  
+		size = 5450  
+	}
+	
+	clergymen = {
+		culture = romanian
+		religion = orthodox
+		size = 300  
+	}
+
+	artisans = {
+		culture = romanian
+		religion = orthodox
+		size = 1300  
+	}
+
+	soldiers = {
+		culture = romanian
+		religion = orthodox
+		size = 400
+	}
+
+	serfs = {
+		culture = romanian
+		religion = orthodox
+		size = 15000  
 	}
 	
 	serfs = {
@@ -723,19 +765,13 @@
 	clergymen = {
 		culture = pecenak
 		religion = orthodox
-		size = 225 
-	}
-
-	bureaucrats = {
-		culture = pecenak
-		religion = catholic
-		size = 450
+		size = 50 
 	}
 	
 	artisans = {
 		culture = pecenak
 		religion = orthodox
-		size = 1200
+		size = 200
 	}
 
 	soldiers = {
@@ -747,7 +783,31 @@
 	serfs = {
 		culture = pecenak
 		religion = orthodox
-		size = 15325 
+		size = 1325 
+	}
+	
+	clergymen = {
+		culture = romanian
+		religion = orthodox
+		size = 50 
+	}
+	
+	artisans = {
+		culture = romanian
+		religion = orthodox
+		size = 200
+	}
+
+	soldiers = {
+		culture = romanian
+		religion = orthodox
+		size = 250
+	}
+
+	serfs = {
+		culture = romanian
+		religion = orthodox
+		size = 4000 
 	}
 	
 	serfs = {
@@ -795,7 +855,7 @@
 	farmers = {
 		culture = hungarian
 		religion = catholic
-		size = 2375  
+		size = 12375  
 	}
 
 	aristocrats = {
@@ -841,43 +901,31 @@
 	}
 
 	aristocrats = {
-		culture = hungarian
+		culture = siebenburger
 		religion = protestant
-		size = 350   
-	}
-
-	bureaucrats = {
-		culture = hungarian
-		religion = protestant
-		size = 250  
-	}
-
-	officers = {
-		culture = hungarian
-		religion = protestant
-		size = 100 
+		size = 150   
 	}
 
 	clergymen = {
-		culture = hungarian
+		culture = siebenburger
 		religion = protestant
 		size = 80    
 	}
 
 	artisans = {
-		culture = hungarian
+		culture = siebenburger
 		religion = protestant
 		size = 850  
 	}
 
 	soldiers = {
-		culture = hungarian
+		culture = siebenburger
 		religion = protestant
 		size = 50
 	}
 
 	farmers = {
-		culture = hungarian
+		culture = siebenburger
 		religion = protestant
 		size = 3320   
 	}
@@ -949,6 +997,12 @@
 		religion = orthodox
 		size = 10000 
 	}
+	
+	serfs = {
+		culture = pecenak
+		religion = orthodox
+		size = 15000 
+	}
 
 	aristocrats = {
 		culture = hungarian
@@ -977,7 +1031,7 @@
 	farmers = {
 		culture = hungarian
 		religion = catholic
-		size = 10100   
+		size = 30100   
 	}
 
 	aristocrats = {
@@ -1212,12 +1266,6 @@
 		size = 350 
 	}
 
-	bureaucrats = {
-		culture = siebenburger
-		religion = catholic
-		size = 750
-	}
-
 	artisans = {
 		culture = romanian
 		religion = orthodox
@@ -1233,7 +1281,13 @@
 	serfs = {
 		culture = romanian
 		religion = orthodox
-		size = 11500
+		size = 8500
+	}
+	
+	serfs = {
+		culture = pecenak
+		religion = orthodox
+		size = 9500
 	}
 	
 	serfs = {
@@ -1379,7 +1433,7 @@
 	serfs = {
 		culture = romanian
 		religion = orthodox
-		size = 7275
+		size = 27275
 	}
 	
 	serfs = {
@@ -1389,62 +1443,68 @@
 	}
 
 	aristocrats = {
-		culture = hungarian
-		religion = catholic
+		culture = pecenak
+		religion = orthodox
 		size = 200   
 	}
 
 	clergymen = {
-		culture = hungarian
-		religion = catholic
+		culture = pecenak
+		religion = orthodox
 		size = 50   
 	}
 
 	artisans = {
-		culture = hungarian
-		religion = catholic
+		culture = pecenak
+		religion = orthodox
 		size = 400  
 	}
 
 	soldiers = {
-		culture = hungarian
-		religion = catholic
+		culture = pecenak
+		religion = orthodox
 		size = 25
 	}
 
 	farmers = {
-		culture = hungarian
-		religion = catholic
+		culture = pecenak
+		religion = orthodox
 		size = 1325    
+	}
+	
+	farmers = {
+		culture = pecenak
+		religion = orthodox
+		size = 11325    
 	}
 
 	aristocrats = {
 		culture = hungarian
-		religion = protestant
+		religion = catholic
 		size = 250  
 	}
 
 	clergymen = {
 		culture = hungarian
-		religion = protestant
+		religion = catholic
 		size = 75      
 	}
 
 	artisans = {
 		culture = hungarian
-		religion = protestant
+		religion = catholic
 		size = 3800    
 	}
 
 	soldiers = {
 		culture = hungarian
-		religion = protestant
+		religion = catholic
 		size = 50
 	}
 
 	farmers = {
 		culture = hungarian
-		religion = protestant
+		religion = catholic
 		size = 17825      
 	}
 
@@ -1469,13 +1529,13 @@
 	soldiers = {
 		culture = siebenburger
 		religion = protestant
-		size = 100
+		size = 1100
 	}
 
 	farmers = {
 		culture = siebenburger
 		religion = protestant
-		size = 46075   
+		size = 36075   
 	}
 
 	clergymen = {
@@ -1527,6 +1587,12 @@
 		religion = orthodox
 		size = 7450
 	}
+	
+	serfs = {
+		culture = romanian
+		religion = orthodox
+		size = 1450
+	}
 
 	serfs = {
 		culture = gypsy
@@ -1566,31 +1632,31 @@
 
 	aristocrats = {
 		culture = hungarian
-		religion = protestant
+		religion = catholic
 		size = 600  
 	}
 
 	clergymen = {
 		culture = hungarian
-		religion = protestant
+		religion = catholic
 		size = 300      
 	}
 
 	artisans = {
 		culture = hungarian
-		religion = protestant
+		religion = catholic
 		size = 1550    
 	}
 
 	soldiers = {
 		culture = hungarian
-		religion = protestant
+		religion = catholic
 		size = 300
 	}
 
 	farmers = {
 		culture = hungarian
-		religion = protestant
+		religion = catholic
 		size = 29250      
 	}
 
@@ -1642,152 +1708,6 @@
 		size = 1175     
 	}
 }
-#Beszterce (300000/75000 POPS)  
-661 = {
-	clergymen = {
-		culture = pecenak
-		religion = orthodox
-		size = 500 
-	}
-
-	artisans = {
-		culture = pecenak
-		religion = orthodox
-		size = 2500
-	}
-
-	soldiers = {
-		culture = pecenak
-		religion = orthodox
-		size = 500
-	}
-
-	farmers = {
-		culture = pecenak
-		religion = orthodox
-		size = 19500 
-	}
-
-	serfs = {
-		culture = pecenak
-		religion = orthodox
-		size = 20000 
-	}
-	
-	aristocrats = {
-		culture = hungarian
-		religion = catholic
-		size = 350   
-	}
-
-	clergymen = {
-		culture = hungarian
-		religion = catholic
-		size = 50  
-	}
-
-	artisans = {
-		culture = hungarian
-		religion = catholic
-		size = 200  
-	}
-
-	soldiers = {
-		culture = hungarian
-		religion = catholic
-		size = 50
-	}
-
-	farmers = {
-		culture = hungarian
-		religion = catholic
-		size = 3350   
-	}
-
-	aristocrats = {
-		culture = hungarian
-		religion = protestant
-		size = 600  
-	}
-
-	clergymen = {
-		culture = hungarian
-		religion = protestant
-		size = 75      
-	}
-
-	artisans = {
-		culture = hungarian
-		religion = protestant
-		size = 400    
-	}
-
-	soldiers = {
-		culture = hungarian
-		religion = protestant
-		size = 75
-	}
-
-	farmers = {
-		culture = hungarian
-		religion = protestant
-		size = 6850      
-	}
-
-	aristocrats = {
-		culture = hungarian
-		religion = protestant
-		size = 400  
-	}
-
-	clergymen = {
-		culture = hungarian
-		religion = protestant
-		size = 75    
-	}
-
-	artisans = {
-		culture = hungarian
-		religion = protestant
-		size = 425  
-	}
-
-	soldiers = {
-		culture = hungarian
-		religion = protestant
-		size = 75
-	}
-
-	farmers = {
-		culture = hungarian
-		religion = protestant
-		size = 17025  
-	}
-
-	clergymen = {
-		culture = ashkenazi
-		religion = jewish
-		size = 50   
-	}
-
-	artisans = {
-		culture = ashkenazi
-		religion = jewish
-		size = 800  
-	}
-
-	soldiers = {
-		culture = ashkenazi
-		religion = jewish
-		size = 25
-	}
-
-	farmers = {
-		culture = ashkenazi
-		religion = jewish
-		size = 10521    
-	}
-}
 #Targu Mures (344000/86000 POPS)  
 2533 = {
 	clergymen = {
@@ -1811,7 +1731,31 @@
 	serfs = {
 		culture = pecenak
 		religion = orthodox
-		size = 24150 
+		size = 20000 
+	}
+	
+	clergymen = {
+		culture = romanian
+		religion = orthodox
+		size = 50 
+	}
+
+	artisans = {
+		culture = romanian
+		religion = orthodox
+		size = 300
+	}
+
+	soldiers = {
+		culture = romanian
+		religion = orthodox
+		size = 300
+	}
+
+	serfs = {
+		culture = romanian
+		religion = orthodox
+		size = 4150 
 	}
 	
 	farmers = {
@@ -1956,10 +1900,10 @@
 		size = 250
 	}
 
-	farmers = {
+	serfs = {
 		culture = romanian
 		religion = orthodox
-		size = 20000 
+		size = 8000 
 	}
 	
 	clergymen = {
@@ -1983,31 +1927,31 @@
 	farmers = {
 		culture = pecenak
 		religion = orthodox
-		size = 4250 
+		size = 2250 
 	}
 
 	clergymen = {
-		culture = ukrainian
-		religion = orthodox
+		culture = hungarian
+		religion = catholic
 		size = 125   
 	}
 
 	artisans = {
-		culture = ukrainian
-		religion = orthodox
+		culture = hungarian
+		religion = catholic
 		size = 700 
 	}
 
 	soldiers = {
-		culture = ukrainian
-		religion = orthodox
-		size = 150
+		culture = hungarian
+		religion = catholic
+		size = 1150
 	}
 
 	serfs = {
-		culture = ukrainian
-		religion = orthodox
-		size = 14025   
+		culture = hungarian
+		religion = catholic
+		size = 5025   
 	}
 
 	aristocrats = {
@@ -2041,27 +1985,27 @@
 	}
 
 	clergymen = {
-		culture = south_german
-		religion = catholic
+		culture = siebenburger
+		religion = protestant
 		size = 50 
 	}
 
 	artisans = {
-		culture = ukrainian
-		religion = catholic
-		size = 600  
+		culture = siebenburger
+		religion = protestant
+		size = 100  
 	}
 
 	soldiers = {
-		culture = ukrainian
-		religion = catholic
+		culture = siebenburger
+		religion = protestant
 		size = 50
 	}
 
 	farmers = {
-		culture = ukrainian
-		religion = catholic
-		size = 4300    
+		culture = siebenburger
+		religion = protestant
+		size = 1300    
 	}
 
 	clergymen = {
@@ -2323,25 +2267,25 @@
 	farmers = {
 		culture = pecenak
 		religion = orthodox
-		size = 48000
+		size = 44000
 	}
 	
 	artisans = {
-		culture = siebenburger
-		religion = protestant
+		culture = romanian
+		religion = orthodox
 		size = 150
 	}
 
 	soldiers = {
-		culture = siebenburger
-		religion = protestant
+		culture = romanian
+		religion = orthodox
 		size = 100
 	}
 
 	farmers = {
-		culture = siebenburger
-		religion = protestant
-		size = 4025
+		culture = romanian
+		religion = orthodox
+		size = 8025
 	}
 
 	farmers = {
@@ -2940,5 +2884,445 @@
 		culture = ukrainian
 		religion = orthodox
 		size = 2825
+	}
+}
+
+#Beszterce (272000/68000 POPS)  
+661 = {
+	clergymen = {
+		culture = pecenak
+		religion = orthodox
+		size = 50 
+	}
+
+	artisans = {
+		culture = pecenak
+		religion = orthodox
+		size = 50
+	}
+
+	soldiers = {
+		culture = pecenak
+		religion = orthodox
+		size = 50
+	}
+
+	farmers = {
+		culture = pecenak
+		religion = orthodox
+		size = 100 
+	}
+
+	serfs = {
+		culture = pecenak
+		religion = orthodox
+		size = 2000 
+	}
+	
+	aristocrats = {
+		culture = hungarian
+		religion = catholic
+		size = 50   
+	}
+
+	clergymen = {
+		culture = hungarian
+		religion = catholic
+		size = 20  
+	}
+
+	artisans = {
+		culture = hungarian
+		religion = catholic
+		size = 100  
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = catholic
+		size = 20
+	}
+
+	farmers = {
+		culture = hungarian
+		religion = catholic
+		size = 7350   
+	}
+
+	aristocrats = {
+		culture = hungarian
+		religion = protestant
+		size = 60  
+	}
+
+	clergymen = {
+		culture = hungarian
+		religion = protestant
+		size = 25      
+	}
+
+	artisans = {
+		culture = hungarian
+		religion = protestant
+		size = 100    
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = protestant
+		size = 75
+	}
+
+	farmers = {
+		culture = hungarian
+		religion = protestant
+		size = 1850      
+	}
+
+	aristocrats = {
+		culture = siebenburger
+		religion = protestant
+		size = 400  
+	}
+
+	clergymen = {
+		culture = siebenburger
+		religion = protestant
+		size = 75    
+	}
+
+	artisans = {
+		culture = siebenburger
+		religion = protestant
+		size = 4425  
+	}
+
+	soldiers = {
+		culture = siebenburger
+		religion = protestant
+		size = 175
+	}
+
+	farmers = {
+		culture = siebenburger
+		religion = protestant
+		size = 8025  
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 50   
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 2800  
+	}
+
+	soldiers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 25
+	}
+
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 6521    
+	}
+}
+#Zalau (300000/75000 POPS)  
+3609 = {
+	clergymen = {
+		culture = pecenak
+		religion = orthodox
+		size = 20 
+	}
+
+	artisans = {
+		culture = pecenak
+		religion = orthodox
+		size = 50
+	}
+
+	soldiers = {
+		culture = pecenak
+		religion = orthodox
+		size = 200
+	}
+
+	farmers = {
+		culture = pecenak
+		religion = orthodox
+		size = 500 
+	}
+
+	serfs = {
+		culture = pecenak
+		religion = orthodox
+		size = 2000 
+	}
+	
+	clergymen = {
+		culture = romanian
+		religion = orthodox
+		size = 40 
+	}
+
+	artisans = {
+		culture = romanian
+		religion = orthodox
+		size = 50
+	}
+
+	soldiers = {
+		culture = romanian
+		religion = orthodox
+		size = 300
+	}
+
+	farmers = {
+		culture = romanian
+		religion = orthodox
+		size = 1000 
+	}
+
+	serfs = {
+		culture = romanian
+		religion = orthodox
+		size = 3000 
+	}
+	
+	aristocrats = {
+		culture = hungarian
+		religion = catholic
+		size = 350   
+	}
+
+	clergymen = {
+		culture = hungarian
+		religion = catholic
+		size = 550  
+	}
+
+	artisans = {
+		culture = hungarian
+		religion = catholic
+		size = 1200  
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = catholic
+		size = 1050
+	}
+
+	farmers = {
+		culture = hungarian
+		religion = catholic
+		size = 32350   
+	}
+
+	aristocrats = {
+		culture = hungarian
+		religion = protestant
+		size = 400  
+	}
+
+	clergymen = {
+		culture = siebenburger
+		religion = protestant
+		size = 75    
+	}
+
+	artisans = {
+		culture = siebenburger
+		religion = protestant
+		size = 425  
+	}
+
+	soldiers = {
+		culture = siebenburger
+		religion = protestant
+		size = 75
+	}
+
+	farmers = {
+		culture = siebenburger
+		religion = protestant
+		size = 2025  
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 50   
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 80  
+	}
+
+	soldiers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 25
+	}
+
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 521    
+	}
+}
+
+#Zalau (300000/75000 POPS)  
+3610 = {
+	clergymen = {
+		culture = pecenak
+		religion = orthodox
+		size = 20 
+	}
+
+	artisans = {
+		culture = pecenak
+		religion = orthodox
+		size = 50
+	}
+
+	soldiers = {
+		culture = pecenak
+		religion = orthodox
+		size = 200
+	}
+
+	farmers = {
+		culture = pecenak
+		religion = orthodox
+		size = 500 
+	}
+
+	serfs = {
+		culture = pecenak
+		religion = orthodox
+		size = 2000 
+	}
+	
+	clergymen = {
+		culture = romanian
+		religion = orthodox
+		size = 40 
+	}
+
+	artisans = {
+		culture = romanian
+		religion = orthodox
+		size = 50
+	}
+
+	soldiers = {
+		culture = romanian
+		religion = orthodox
+		size = 300
+	}
+
+	farmers = {
+		culture = romanian
+		religion = orthodox
+		size = 1000 
+	}
+
+	serfs = {
+		culture = romanian
+		religion = orthodox
+		size = 3000 
+	}
+	
+	aristocrats = {
+		culture = hungarian
+		religion = catholic
+		size = 5   
+	}
+
+	clergymen = {
+		culture = hungarian
+		religion = catholic
+		size = 10  
+	}
+
+	artisans = {
+		culture = hungarian
+		religion = catholic
+		size = 10  
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = catholic
+		size = 50
+	}
+
+	farmers = {
+		culture = hungarian
+		religion = catholic
+		size = 350   
+	}
+
+	aristocrats = {
+		culture = hungarian
+		religion = protestant
+		size = 400  
+	}
+
+	clergymen = {
+		culture = siebenburger
+		religion = protestant
+		size = 75    
+	}
+
+	artisans = {
+		culture = siebenburger
+		religion = protestant
+		size = 425  
+	}
+
+	soldiers = {
+		culture = siebenburger
+		religion = protestant
+		size = 675
+	}
+
+	farmers = {
+		culture = siebenburger
+		religion = protestant
+		size = 2025  
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 50   
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 80  
+	}
+
+	soldiers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 25
+	}
+
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 521    
 	}
 }

@@ -578,8 +578,6 @@ political_decisions = {
 						tag = DNB
 						tag = BAN
 						tag = UBD
-						tag = LIE
-						tag = VLG
 						tag = SIE
 						capital_scope = { continent = africa }
 						capital_scope = { continent = west_africa }
@@ -695,8 +693,6 @@ political_decisions = {
 						tag = DNB
 						tag = BAN
 						tag = UBD
-						tag = VLG
-						tag = LIE
 						tag = SIE
 						tag = GCF
 					}
@@ -737,8 +733,6 @@ political_decisions = {
 						tag = DNB
 						tag = BAN
 						tag = UBD
-						tag = VLG
-						tag = LIE
 						tag = SIE
 						tag = GCF
 						capital_scope = { continent = africa }

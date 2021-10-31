@@ -27,27 +27,27 @@
 	}
 
 	clergymen = {
-		culture = ukrainian
+		culture = romanian
 		religion = orthodox
 		size = 200   
 	}
 
 	artisans = {
-		culture = ukrainian
+		culture = romanian
 		religion = orthodox
 		size = 1100 
 	}
 
 	soldiers = {
-		culture = ukrainian
+		culture = romanian
 		religion = orthodox
 		size = 200
 	}
 
 	serfs = {
-		culture = ukrainian
+		culture = romanian
 		religion = orthodox
-		size = 19600   
+		size = 10600   
 	}
 
 	aristocrats = {
@@ -93,37 +93,37 @@
 	}
 
 	bureaucrats = {
-		culture = ukrainian
+		culture = pecenak
 		religion = orthodox
 		size = 35
 	}
 
 	officers = {
-		culture = ukrainian
+		culture = pecenak
 		religion = orthodox
 		size = 40  
 	}
 
 	clergymen = {
-		culture = ukrainian
+		culture = pecenak
 		religion = orthodox
 		size = 50 
 	}
 
 	artisans = {
-		culture = ukrainian
+		culture = pecenak
 		religion = orthodox
 		size = 200  
 	}
 
 	soldiers = {
-		culture = ukrainian
+		culture = pecenak
 		religion = orthodox
 		size = 25
 	}
 
 	farmers = {
-		culture = ukrainian
+		culture = pecenak
 		religion = orthodox
 		size = 2650   
 	}
@@ -660,27 +660,27 @@
 	}
 
 	clergymen = {
-		culture = ukrainian
+		culture = romanian
 		religion = orthodox
 		size = 125  
 	}
 
 	artisans = {
-		culture = ukrainian
+		culture = romanian
 		religion = orthodox
 		size = 750 
 	}
 
 	soldiers = {
-		culture = ukrainian
+		culture = romanian
 		religion = orthodox
-		size = 150
+		size = 2150
 	}
 
-	farmers = {
-		culture = ukrainian
+	serfs = {
+		culture = romanian
 		religion = orthodox
-		size = 12975
+		size = 11975
 	}
 }
 

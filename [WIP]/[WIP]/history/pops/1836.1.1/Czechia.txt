@@ -812,25 +812,49 @@
 	clergymen = {
 		culture = czech
 		religion = catholic
-		size = 2025 
+		size = 2000 
 	}
 
 	artisans = {
 		culture = czech
 		religion = catholic
-		size = 10550
+		size = 10450
 	}
 
 	soldiers = {
 		culture = czech
 		religion = catholic
-		size = 2100
+		size = 2000
 	}
 
 	farmers = {
 		culture = czech
 		religion = catholic
-		size = 94000 
+		size = 88000 
+	}
+	
+	clergymen = {
+		culture = romanian
+		religion = orthodox
+		size = 25 
+	}
+
+	artisans = {
+		culture = romanian
+		religion = orthodox
+		size = 100
+	}
+
+	soldiers = {
+		culture = romanian
+		religion = orthodox
+		size = 100
+	}
+
+	farmers = {
+		culture = romanian
+		religion = orthodox
+		size = 6000 
 	}
 	
 	artisans = {
