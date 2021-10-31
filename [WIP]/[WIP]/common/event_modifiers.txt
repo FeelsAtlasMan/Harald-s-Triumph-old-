@@ -3364,7 +3364,7 @@ moderinized_caroleans = {
 	supply_consumption = 0.25
 	land_organisation = 0.1
 	org_regain = 0.3
-	mobilisation_size 0.1
+	mobilisation_size = 0.1
 	icon = 7
 }
 
