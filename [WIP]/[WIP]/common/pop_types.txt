@@ -510,7 +510,7 @@ migration_chance = {
 	modifier = {
 		factor = 0.25
 		THIS = { 
-			is_culture_group = germanic 
+			is_culture_group = continental_west_germanic 
 		}
 		location = { 
 			controlled_by = owner
@@ -530,27 +530,23 @@ migration_chance = {
 	modifier = {
 		factor = 0.4
 		THIS = { 
-			is_culture_group = polish_culture_group
+			is_culture_group = western_slavic
 		}
 		#NOT = { unemployment = 0.1 }
 		location = { 
-			AND = {
-				controlled_by = owner
-				OR = {
-					state_id = 701
-					state_id = 682
-					state_id = 690
-					state_id = 695
-				}
+			controlled_by = owner
+			OR = {
+				state_id = 701
+				state_id = 682
+				state_id = 690
+				state_id = 695
 			}
 		}
 		country = { 
-			AND = { 
-				is_greater_power = yes
-				is_culture_group = germanic
-				NOT = { war_exhaustion = 1 }
-				has_country_flag = ruhr_polen
-			}
+			is_greater_power = yes
+			is_culture_group = continental_west_germanic
+			NOT = { war_exhaustion = 1 }
+			has_country_flag = ruhr_polen
 		}
 	}
 
@@ -667,10 +663,7 @@ migration_chance = {
 	modifier = {
 		factor = 10
 		THIS = { 
-			OR = {
-				has_pop_culture = french
-				has_pop_culture = swiss_french
-			}
+			has_pop_culture = french
 		}
 		location = { 
 			OR = {
@@ -752,10 +745,8 @@ colonialmigration_chance = {
 
 	modifier = {
 		factor = -0.5
-		AND = { 
-			is_primary_culture = no
-			is_accepted_culture  = no
-		}
+		is_primary_culture = no
+		is_accepted_culture  = no
 	}
 
 	group = {
@@ -1037,10 +1028,8 @@ emigration_chance = {
 		
 	modifier = {
 		factor = 1.5
-		AND = { 
-			is_primary_culture = no
-			is_accepted_culture  = no
-		}
+		is_primary_culture = no
+		is_accepted_culture  = no
 		country = { has_country_flag = preparations_to_kill }
 	}
 		
@@ -1232,20 +1221,20 @@ emigration_chance = {
 	
 	modifier = {
 		factor = -0.15
-		THIS = { NOT = { is_culture_group = polish_culture_group } }
+		THIS = { NOT = { is_culture_group = western_slavic } }
 		country = { debt_law = serfdom }
 	}
 	
 	modifier = {
 		factor = -0.1
-		THIS = { NOT = { is_culture_group = polish_culture_group } }
+		THIS = { NOT = { is_culture_group = western_slavic } }
 		country = { debt_law = peonage }
 	}
 	
 	modifier = {
 		factor = 1.1
 		THIS = { 
-			is_culture_group = germanic 
+			is_culture_group = continental_west_germanic 
 		}
 		NOT = { unemployment = 0.1 }
 		NOT = { year = 1900 }
@@ -1260,16 +1249,14 @@ emigration_chance = {
 			}
 		}
 		country = { 
-			AND = { 
-				is_greater_power = yes
-				is_culture_group = germanic
-				NOT = { vassal_of = RUS }
-				NOT = { primary_culture = south_german }
-				NOT = { war_exhaustion = 1 }
-				NOT = { average_consciousness = 7 }
-				#NOT = { has_country_flag = liberal_revolution_fired }
-				#NOT = { has_country_flag = liberal_revolution_in_progress }
-			}
+			is_greater_power = yes
+			is_culture_group = continental_west_germanic
+			NOT = { vassal_of = RUS }
+			NOT = { primary_culture = south_german }
+			NOT = { war_exhaustion = 1 }
+			NOT = { average_consciousness = 7 }
+			#NOT = { has_country_flag = liberal_revolution_fired }
+			#NOT = { has_country_flag = liberal_revolution_in_progress }
 		}
 	}
 	
@@ -1284,20 +1271,18 @@ emigration_chance = {
 			controlled_by = owner
 		}
 		country = { 
-			AND = { 
-				is_greater_power = yes
-				NOT = { war_exhaustion = 1 }
-				NOT = { average_consciousness = 8 }
-				#NOT = { has_country_flag = liberal_revolution_fired }
-				#NOT = { has_country_flag = liberal_revolution_in_progress }
-			}
+			is_greater_power = yes
+			NOT = { war_exhaustion = 1 }
+			NOT = { average_consciousness = 8 }
+			#NOT = { has_country_flag = liberal_revolution_fired }
+			#NOT = { has_country_flag = liberal_revolution_in_progress }
 		}
 	}
 	
 	modifier = {
 		factor = 0.7
 		THIS = { 
-			is_culture_group = germanic 
+			is_culture_group = continental_west_germanic 
 		}
 		NOT = { unemployment = 0.1 }
 		NOT = { year = 1905 }
@@ -1305,37 +1290,31 @@ emigration_chance = {
 			controlled_by = owner
 		}
 		country = {
-			AND = { 
-				is_greater_power = no
-				is_culture_group = germanic
-				NOT = { vassal_of = RUS }
-				NOT = { war_exhaustion = 1 }
-				NOT = { average_consciousness = 7 }
-			}
+			is_greater_power = no
+			is_culture_group = continental_west_germanic
+			NOT = { vassal_of = RUS }
+			NOT = { war_exhaustion = 1 }
+			NOT = { average_consciousness = 7 }
 		}
 	}
 	
 	modifier = {
 		factor = -0.1
 		THIS = { 
-			is_culture_group = germanic
+			is_culture_group = continental_west_germanic
 		}
 		location = { 
-			AND = {
-				controlled_by = owner
-				OR = {
-					state_id = 701
-					state_id = 682
-					state_id = 690
-					state_id = 695
-				}
+			controlled_by = owner
+			OR = {
+				state_id = 701
+				state_id = 682
+				state_id = 690
+				state_id = 695
 			}
 		}
 		country = { 
-			AND = { 
-				is_greater_power = yes
-				is_culture_group = germanic
-			}
+			is_greater_power = yes
+			is_culture_group = continental_west_germanic
 		}
 	}
 	
@@ -1454,7 +1433,7 @@ emigration_chance = {
 	
 	modifier = {
 		factor = 0.3
-		THIS = { is_culture_group = germanic }
+		THIS = { is_culture_group = continental_west_germanic }
 		location = { controlled_by = owner }
 		NOT = { unemployment = 0.1 }
 		country = { 
@@ -1472,10 +1451,8 @@ emigration_chance = {
 		NOT = { year = 1905 }
 		THIS = { NOT = { is_culture_group = east_asian } }
 		country = { 
-			AND = { 
-				NOT = { war_exhaustion = 1 }
-				NOT = { average_consciousness = 5 }
-			}
+			NOT = { war_exhaustion = 1 }
+			NOT = { average_consciousness = 5 }
 		}
 	}
 	
@@ -1645,7 +1622,7 @@ assimilation_chance = {
 	#}
 	
 	modifier = {
-		factor = 1.0
+		factor = 1
 		has_pop_culture = ainu
 		country = { primary_culture = japanese }
 	}
@@ -1782,7 +1759,6 @@ conversion_chance = {
 			country = { capital_scope = { pop_majority_religion = protestant } }
 			country = { capital_scope = { pop_majority_religion = catholic } }
 			country = { capital_scope = { pop_majority_religion = orthodox } }
-			country = { capital_scope = { is_culture_group = southeast_asian } }
 		}
 		OR = {
 			has_pop_religion = catholic
