@@ -358,6 +358,9 @@ PIE		= "countries/Piemont.txt"
 TSC		= "countries/The Kingdom of Tuscany.txt"
 PRO		= "countries/Provance.txt"
 GOD		= "countries/GOD.txt"
+TSR	    = "countries/Tuscarora.txt"
+NTC	    = "countries/Nanticoke.txt"
+MKG	    = "countries/Muskogee.txt"
 
 ##HFM New Nations
 #ATB	= "countries/Saxe-Altenburg.txt"

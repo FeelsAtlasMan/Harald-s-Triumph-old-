@@ -1,6 +1,6 @@
-owner = CHE
-controller = CHE
-add_core = CHE
-trade_goods = cotton
+owner = MKG
+controller = MKG
+add_core = MKG
+trade_goods = grain
 life_rating = 35
-terrain = atlanta
+
