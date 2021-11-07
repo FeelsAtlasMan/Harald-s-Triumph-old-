@@ -966,6 +966,20 @@ vassal = {
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }
+#Indian Reserevations
+vassal = {
+	first = NEN
+	second = NTC
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+	
+}
+vassal = {
+	first = NEN
+	second = TSR
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
 #Tibet
 vassal = {
 	first = NEP

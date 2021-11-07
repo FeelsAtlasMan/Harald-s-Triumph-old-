@@ -1,5 +1,5 @@
-owner = SHE
-controller = SHE
-add_core = SHE
-trade_goods = cattle
+owner = YCH
+controller = YCH
+add_core = YCH
+trade_goods = grain
 life_rating = 35

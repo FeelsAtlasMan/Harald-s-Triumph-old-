@@ -595,30 +595,30 @@ TTN_hms_government;Tatistan;;;;;;;;;;;;x
 TTN_prussian_constitutionalism;Tatistan;;;;;;;;;;;;x
 TTN_ADJ;Tat;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 TLY;Talyshistan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-TLY_absolute_monarchy;Talyshistan;;;;;;;;;;;;x
-TLY_hms_government;Talyshistan;;;;;;;;;;;;x
-TLY_prussian_constitutionalism;Talyshistan;;;;;;;;;;;;x
+TLY_absolute_monarchy;Talysh Khanate;;;;;;;;;;;;x
+TLY_hms_government;Talysh Khanate;;;;;;;;;;;;x
+TLY_prussian_constitutionalism;Talysh Khanate;;;;;;;;;;;;x
 TLY_ADJ;Talysh;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 MKU;Maku;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 MKU_absolute_monarchy;Maku Khanate;;;;;;;;;;;;x
 MKU_hms_government;Maku Khanate;;;;;;;;;;;;x
 MKU_prussian_constitutionalism;Maku Khanate;;;;;;;;;;;;x
 MKU_ADJ;Makuyan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-FRS;Fars;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-FRS_absolute_monarchy;Fars;;;;;;;;;;;;x
-FRS_hms_government;Fars;;;;;;;;;;;;x
-FRS_prussian_constitutionalism;Fars;;;;;;;;;;;;x
-FRS_ADJ;Farsian;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+FRS;Ilkhasids;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+FRS_absolute_monarchy;Ilkhasids;;;;;;;;;;;;x
+FRS_hms_government;Ilkhasids;;;;;;;;;;;;x
+FRS_prussian_constitutionalism;Ilkhasids;;;;;;;;;;;;x
+FRS_ADJ;Ilkhasid;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 AJM;Ajam;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 AJM_absolute_monarchy;Ajam;;;;;;;;;;;;x
 AJM_hms_government;Ajam;;;;;;;;;;;;x
 AJM_prussian_constitutionalism;Ajam;;;;;;;;;;;;x
 AJM_ADJ;Ajami;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-YZD;Yazd;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-YZD_absolute_monarchy;Yazd;;;;;;;;;;;;x
-YZD_hms_government;Yazd;;;;;;;;;;;;x
-YZD_prussian_constitutionalism;Yazd;;;;;;;;;;;;x
-YZD_ADJ;Yazdi;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+YZD;Rustamids;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+YZD_absolute_monarchy;Rustamids;;;;;;;;;;;;x
+YZD_hms_government;Rustamids;;;;;;;;;;;;x
+YZD_prussian_constitutionalism;Rustamids;;;;;;;;;;;;x
+YZD_ADJ;Rustamid;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 LUR;Luristan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 LUR_absolute_monarchy;Luristan;;;;;;;;;;;;x
 LUR_hms_government;Luristan;;;;;;;;;;;;x
@@ -1615,3 +1615,11 @@ PRO_democracy;Marsillie Republic;x
 PRO_ADJ;Provance;x
 GOD;Kingdom of God;x
 GOD_ADJ;Holy;x
+TSR;Tuscarora;;;;;;;;;;;x;
+TSR_colonial_company;Tuscarora Reservation;;;;;;;;;;;x;
+TSR_ADJ;Tuscaroran;;;;;;;;;;;x
+NTC;Nanticoke;;;;;;;;;;;x;
+NTC_colonial_company;Nanticoke Reservation;;;;;;;;;;;x;
+NTC_ADJ;Nanticoke;;;;;;;;;;;x
+MKG;Muskogee;;;;;;;;;;;x;
+MKG_ADJ;Muskogee;;;;;;;;;;;x
