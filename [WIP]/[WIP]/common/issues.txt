@@ -14,10 +14,12 @@ party_issues = {
 	}
 	economic_policy = {
 		laissez_faire = {
-			max_tax = 0.5
+			max_tax = 0.75
 			factory_owner_cost = 0.25
 			factory_output = 0.1
 			import_cost = -0.25
+			commerce_tech_research_bonus = 0.10
+			industry_tech_research_bonus = 0.05
 			
 			rules = {
 				build_factory = no
@@ -91,8 +93,9 @@ party_issues = {
 		planned_economy = {
 			import_cost = 0.75
 			min_tax = 0.5
-			factory_throughput = 0.05
-			factory_owner_cost = -1	#negative costs, can't build.
+			factory_throughput = 0.15
+			education_efficiency_modifier = 0.5
+			factory_owner_cost = 0	#negative costs, can't build.
 			
 			rules = {
 				build_factory = yes

@@ -51,7 +51,7 @@ country = {
 	ECONOMIC_REFORM_UH_FACTOR = -0.40,
 	MILITARY_REFORM_UH_FACTOR = -0.40,
 	WRONG_REFORM_RADICAL_IMPACT = 15,
-	TECH_YEAR_SPAN = 150,
+	TECH_YEAR_SPAN = 100,
 	TECH_FACTOR_VASSAL = 0.5, -- cost reduction factor if overlord has research the tech
 	MAX_SUPPRESSION = 100,
 	PRESTIGE_HIT_ON_BREAK_COUNTRY = -0.20, -- percentage reduction when country gets taken by rebels
@@ -124,7 +124,7 @@ economy = {
 	TRADE_CAP_LOW_LIMIT_LAND = 0.1, 				-- the lowest % the slider can go for land units
 	TRADE_CAP_LOW_LIMIT_NAVAL = 0.2, 			-- the lowest % the slider can go for naval units
 	TRADE_CAP_LOW_LIMIT_CONSTRUCTIONS = 0.15, 		-- the lowest % the slider can go for constructions
-	FACTORY_PURCHASE_MIN_FACTOR = 0.50,			-- the lowest % of its daily needs a factory will purchase
+	FACTORY_PURCHASE_MIN_FACTOR = 1,			-- the lowest % of its daily needs a factory will purchase
 	FACTORY_PURCHASE_DRAWDOWN_FACTOR = 0.01		-- the % a factory will reduce its input purchases each day if it did not sell all its goods (also used for scaling up production if all goods are sold)
 },
 
@@ -145,7 +145,7 @@ military = {
 	POP_MIN_SIZE_FOR_REGIMENT_COLONY_MULTIPLIER = 4,
 	POP_MIN_SIZE_FOR_REGIMENT_NONCORE_MULTIPLIER = 3, -- VALUE * POP_MIN_SIZE_FOR_REGIMENT is min for noncores
 	GAS_ATTACK_MODIFIER = 3,
-	COMBATLOSS_WAR_EXHAUSTION = 3, -- base war exhaustion in combat
+	COMBATLOSS_WAR_EXHAUSTION = 6, -- base war exhaustion in combat
 	LEADER_MAX_RANDOM_PRESTIGE = 0.05, -- max percent of prestige, when randomizing stats for leaders.
 	LEADER_AGE_DEATH_FACTOR = 4, -- higher value means leaders live longer
 	LEADER_PRESTIGE_TO_MORALE_FACTOR = 0.9, -- f.ex. 100% of prestige = +10% morale
@@ -509,10 +509,10 @@ diplomacy = {
 	
 	GUNBOAT_DIPLOMATIC_COST = 1,
 	GUNBOAT_RELATION_ON_ACCEPT = 1,
-	WARGOAL_JINGOISM_REQUIREMENT = 0.055,
+	WARGOAL_JINGOISM_REQUIREMENT = 0.0,
 
 	LIBERATE_STATE_RELATION_INCREASE = 50,
-	DISHONORED_CALLALLY_PRESTIGE_PENALTY = -3,
+	DISHONORED_CALLALLY_PRESTIGE_PENALTY = -10,
 	BASE_TRUCE_MONTHS = 12,
 	MAX_INFLUENCE = 100,
 	WARSUBSIDIES_PERCENT = 0.30, -- How many percent of imports you are going to pay each day(mil. constructions and mil. maintainence)
@@ -672,7 +672,7 @@ pops = {
 	
 	POP_TO_LEADERSHIP = 0.0001, -- how much leadership every 1000 officers gives each day.
 	ARTISAN_MIN_PRODUCTIVITY = 5, -- Minimum efficiency of an artisan
-	SLAVE_GROWTH_DIVISOR = 10, -- Slaves have N times lower growth
+	SLAVE_GROWTH_DIVISOR = -2.5, -- Slaves have N times lower growth
 	
 	MIL_HIT_FROM_CONQUEST = 4, -- how much militancy grows in a province if taken without being core.
 	LUXURY_CON_CHANGE = 0.001, -- con boost from over-buying luxury goods
@@ -687,14 +687,14 @@ pops = {
 	POPULATION_MOVEMENT_RADICAL_FACTOR = 300,
 	NATIONALIST_MOVEMENT_MIL_CAP = 3.0,
 	MOVEMENT_SUPPORT_UH_FACTOR = 3, --  3x means 30% country support equals full UH support
-	REBEL_OCCUPATION_STRENGTH_BONUS = 0.01, -- the amount of strength given to rebel movements when they occupy a province
+	REBEL_OCCUPATION_STRENGTH_BONUS = 0.05, -- the amount of strength given to rebel movements when they occupy a province
 	LARGE_POPULATION_LIMIT = 9000000,
 	LARGE_POPULATION_INFLUENCE_PENALTY_CHUNK = 250000,
 },
 
 ai =
 {
-	COLONY_WEIGHT = 4.0, -- ai weight for colonising
+	COLONY_WEIGHT = 5.0, -- ai weight for colonising
 	ADMINISTRATOR_WEIGHT = 15.0, -- ai weight for new bureaucrat
 	INDUSTRYWORKER_WEIGHT = 10.0, -- ai weight for new industry workers
 	EDUCATOR_WEIGHT = 25.0, -- ai weigth for new clergy
@@ -707,10 +707,10 @@ ai =
 	POP_PROJECT_INVESTMENT_MAX_BUDGET_FACTOR = 0.25, -- how much % of our current budget can be spend on the pop project investments.
 	RELATION_LIMIT_NO_ALLIANCE_OFFER = 0, -- if relation lower then this value, AI will not ally
 	NAVAL_SUPPLY_PENALTY_LIMIT = 0.2, -- AI will allow to have max X% of supply penalty (when too little naval bases)
-	CHANCE_BUILD_RAILROAD = 0.5, -- chances in % of AI decisions (max value 1.0)
+	CHANCE_BUILD_RAILROAD = 0.75, -- chances in % of AI decisions (max value 1.0)
 	CHANCE_BUILD_NAVAL_BASE = 1.0,
-	CHANCE_BUILD_FORT = 0.5,
-	CHANCE_INVEST_POP_PROJ = 0.25,
+	CHANCE_BUILD_FORT = 0.75,
+	CHANCE_INVEST_POP_PROJ = 0.5,
 	CHANCE_FOREIGN_INVEST = 0.4,
 	TWS_AWARENESS_SCORE_LOW_CAP = 0.2, -- AI will always add CBs if current warscore is less then that number (including TWS)
 	TWS_AWARENESS_SCORE_ASPECT = 0.5, -- AI will not add any more CBs when TWS is more then X% of total WS. (to not destroy the progress)
@@ -721,14 +721,14 @@ ai =
 	PEACE_WAR_EXHAUSTION_FACTOR = 0.5, -- AI willingness to peace based on war exhaustion
 	PEACE_WAR_DIRECTION_FACTOR = 1.0, -- AI willingness to peace based on who's making gains in the war
 	PEACE_WAR_DIRECTION_WINNING_MULT = 5.0, -- Multiplies AI emphasis on war direction if it's the one making gains
-	PEACE_FORCE_BALANCE_FACTOR = 0.3, -- AI willingness to peace based on strength estimation of both sides
+	PEACE_FORCE_BALANCE_FACTOR = 0.5, -- AI willingness to peace based on strength estimation of both sides
 	PEACE_ALLY_BASE_RELUCTANCE_MULT = 2.0, -- Multiplies PEACE_BASE_RELUCTANCE for allies in a war
 	PEACE_ALLY_TIME_MULT = 0, -- Multiplies PEACE_TIME_FACTOR for allies in a war
 	PEACE_ALLY_WAR_EXHAUSTION_MULT = 1.0, -- Multiplies PEACE_WAR_EXHAUSTION_FACTOR for allies in a war
 	PEACE_ALLY_WAR_DIRECTION_MULT = 0, -- Multiplies PEACE_WAR_DIRECTION_FACTOR for allies in a war
 	PEACE_ALLY_FORCE_BALANCE_MULT = 0, -- Multiplies PEACE_FORCE_BALANCE_FACTOR for allies in a war
-	AGGRESSION_BASE = 8, -- general AI aggression
-	AGGRESSION_UNCIV_BONUS = 10, -- additional AI civ aggression against uncivs
+	AGGRESSION_BASE = 15, -- general AI aggression
+	AGGRESSION_UNCIV_BONUS = 20, -- additional AI civ aggression against uncivs
 	FLEET_SIZE = 50, -- AI will attempt to keep fleets of roughly this size (fewer fleets generally results in more competent naval AI)
 	MIN_FLEETS = 1, -- Minimum amount of main fleets the AI will divide its navy into (does not include specialized fleets such as blockades and naval invasions)
 	MAX_FLEETS = 10, -- Maximal amount of main fleets the AI will divide its navy into (does not include specialized fleets such as blockades and naval invasions)

@@ -1729,7 +1729,7 @@ kartvelian = {
 
 pontic_caucasian = {
 	leader = arab
-	is_overseas = no
+	is_overseas = yes
 	unit = MiddleEasternGC
 		#north_caucasian = {
 		#color = {252 255 161}
@@ -1807,7 +1807,7 @@ pontic_caucasian = {
 
 caspian_caucasian = {
 	leader = arab
-	is_overseas = no
+	is_overseas = yes
 	unit = MiddleEasternGC
 	chechen = {
 		color = {50 110 100}
@@ -1891,7 +1891,7 @@ caspian_caucasian = {
 #Turkic Languages
 oghuz = {
 	leader = arab
-	is_overseas = no
+	is_overseas = yes
 	unit = OttomanGC
 	turkish = {
 		color = {240 160 90}
@@ -2018,7 +2018,7 @@ oghuz = {
 
 oghur = {
 	leader = arab
-	is_overseas = no
+	is_overseas = yes
 	unit = OttomanGC
 	chuvashian = {
 		color = {160 185 55}
@@ -2033,7 +2033,7 @@ oghur = {
 
 arghu = {
 	leader = arab
-	is_overseas = no
+	is_overseas = yes
 	unit = MiddleEasternGC
 	khalaj = {
 		color = {20 130 20}
@@ -2048,7 +2048,7 @@ arghu = {
 
 siberian_turkic = {
 	leader = asian
-	is_overseas = no
+	is_overseas = yes
 	unit = AsianGC
 	yakut = {
 		color = {80 90 90}
@@ -2132,7 +2132,7 @@ siberian_turkic = {
 
 karluk = {
     leader = arab
-	is_overseas = no
+	is_overseas = yes
 	unit = MiddleEasternGC
 	uzbek = {
 		color = {150 70 55}
@@ -2201,7 +2201,7 @@ karluk = {
 
 kipchak = {
     leader = arab
-	is_overseas = no
+	is_overseas = yes
 	unit = MiddleEasternGC
 	kazak = {
 		color = {80 100 45}
@@ -2353,7 +2353,7 @@ kipchak = {
 #Afro-Asiatic Languages
 arab = {
 	leader = arab
-	is_overseas = no
+	is_overseas = yes
 	unit = MoroccoGC
 	misri = {
 		color = {0 100 40}
@@ -2777,7 +2777,7 @@ arab = {
 
 neo_aramaeic = {
     leader = arab
-	is_overseas = no
+	is_overseas = yes
 	unit = MiddleEasternGC
 	assyrian = {
 		color = {20 205 85}
@@ -2817,7 +2817,7 @@ neo_aramaeic = {
 
 amazigh = {
     leader = arab
-	is_overseas = no
+	is_overseas = yes
 	unit = MiddleEasternGC
 	#Eastern Berber
 	berber = { #now Tisiwit
@@ -3010,7 +3010,7 @@ amazigh = {
 
 eastern_south_semetic = {
 	leader = arab
-	is_overseas = no
+	is_overseas = yes
 	unit = MiddleEasternGC
 	soqotri = {
 		color = {100 100 10}
@@ -3082,7 +3082,7 @@ eastern_south_semetic = {
 
 chadic_languages = {
 	leader = african
-	is_overseas = no
+	is_overseas = yes
 	unit = AfricanGC
 	#150 Languages, fuck this bs
 	hausa = {
@@ -3129,7 +3129,7 @@ chadic_languages = {
 
 cushitic_group = {
     leader = african
-	is_overseas = no
+	is_overseas = yes
 	unit = AfricanGC
 	rendille = {
 		color = {180 75 150}
@@ -3207,7 +3207,7 @@ cushitic_group = {
 
 ethiosemitic = {
     leader = african
-	is_overseas = no
+	is_overseas = yes
 	unit = AfricanGC
 	harari = {
 		color = {130 100 90}
@@ -3256,7 +3256,7 @@ ethiosemitic = {
 #Indo-Iranian Languages
 iranian_turanian = {
 	leader = arab
-	is_overseas = no
+	is_overseas = yes
 	unit = MiddleEasternGC
 	persian = {
 		color = {0 100 165}
@@ -3744,7 +3744,7 @@ iranian_turanian = {
 
 kafiri = {
 	leader = arab
-	is_overseas = no
+	is_overseas = yes
 	unit = MiddleEasternGC
 	nuristani = {
 		color = {110 200 220}
@@ -3915,7 +3915,7 @@ indo_aryan = {
 #Isolated Languages
 burushaskic = {
 	leader = arab
-	is_overseas = no
+	is_overseas = yes
 	unit = MiddleEasternGC
 	burushaski = {
 		color = {10 60 120}
@@ -3930,7 +3930,7 @@ burushaskic = {
 
 navkh_group = {
 	leader = asian
-	is_overseas = no
+	is_overseas = yes
 	unit = AsianGC
 	siberian = {
 		color = {40 240 240}
@@ -3973,7 +3973,7 @@ tungusic = {
 #(Para-)Mongolic
 central_asian = {
 	leader = asian
-	is_overseas = no
+	is_overseas = yes
 	unit = AsianGC
 	mongol = {
 		color = {230 230 45}
@@ -4056,7 +4056,7 @@ central_asian = {
 #Tibeto-Burmanese
 tibetic = {
 	leader = asian
-	is_overseas = no
+	is_overseas = yes
 	unit = AsianGC
 	u_tsang = {
 		color = {100 40 90}
@@ -4117,7 +4117,7 @@ tibetic = {
 
 kamarupan = {
 	leader = asian
-	is_overseas = no
+	is_overseas = yes
 	unit = AsianGC
 	kachin = {
 		color = {255 100 75}
@@ -4165,7 +4165,7 @@ kamarupan = {
 
 eastern_tibeto_burman = {
 	leader = asian
-	is_overseas = no
+	is_overseas = yes
 	unit = AsianGC
 	burmese = {
 		color = {100 90 30}
@@ -4748,7 +4748,7 @@ far_east_asian = {
 #Polynesian (WIP)
 oceanic = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	polynesian = {
 		color = {89 35 168}
 		first_names = { Finau Ulukalala Taufa'ahau Tupou Taupe Havaiki Lika Longotahi Vaopuka "Te Taulu" Tavita Malietoa Iosefo William 
@@ -4796,7 +4796,7 @@ oceanic = {
 #Uto-Nahuatl
 uto_nahuatl = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	nahua = {
 		color = {90 175 160}
 		first_names = { Antonio Charles Diego Emiliano Emilio Felipe Fernando Francisco Gaspar Hernando
@@ -4955,7 +4955,7 @@ uto_nahuatl = {
 #Oto-Manguean 
 oto_manguean  = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	manguean  = {
 		color = {255 230 220}
 		first_names = { Agustín Akbal Alejandro Andrés Aníbal Antonio Armando Bernardo Carlos Crescencio
@@ -5048,7 +5048,7 @@ oto_manguean  = {
 #Hokan
 hokan = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	tolan = {
 		color = {230 190 40}
 		first_names = { Agustín Akbal Alejandro Andrés Aníbal Antonio Armando Bernardo Carlos Crescencio
@@ -5125,7 +5125,7 @@ hokan = {
 #Mayan
 mayan_group = {
 leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	mayan = { #now Yucatec
 		color = {100 90 140}
 		first_names = { Ixmacane Zipacna Ix Xamaniqinqu Vucub-Caquix Gukumatz Tecumbalam Balam Yunuen Yaxkin
@@ -5190,7 +5190,7 @@ leader = nativeamerican
 #Totozoquean 
 totozoquean = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	mixe = {
 		color = {160 40 90}
 		first_names = { Ixmacane Zipacna Ix Xamaniqinqu Vucub-Caquix Gukumatz Tecumbalam Balam Yunuen Yaxkin
@@ -5233,7 +5233,7 @@ totozoquean = {
 #Tarascan/Purepuche 
 tarascan_group = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	tarascan = {
 		color = {150 200 5}
 		first_names = { Agustín Alberto Alfredo Antonio Armando Arturo Carlos Cenobio Daniel Diego
@@ -5249,7 +5249,7 @@ tarascan_group = {
 #Wave
 wave_group = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	wave = {
 		color = {150 10 5}
 		first_names = { Agustín Alberto Alfredo Antonio Armando Arturo Carlos Cenobio Daniel Diego
@@ -5266,7 +5266,7 @@ wave_group = {
 #Cuitlatec 
 cuitlatec_group = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	cuitlatec = {
 		color = {30 40 90}
 		first_names = { Ixmacane Zipacna Ix Xamaniqinqu Vucub-Caquix Gukumatz Tecumbalam Balam Yunuen Yaxkin
@@ -5281,7 +5281,7 @@ cuitlatec_group = {
 #Chumash 
 chumash_group = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	chumash = {
 		color = {130 20 90}
 		first_names = { John Paul José Louis Mariano James David Jack Joel Charles Henry Ganado Herandez
@@ -5294,7 +5294,7 @@ chumash_group = {
 #Yuki-Wappo 
 yuki_wappo_group = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	yuki_wappo = {
 		color = {130 120 10}
 		first_names = { John Paul José Louis Mariano James David Jack Joel Charles Henry Ganado Herandez
@@ -5307,7 +5307,7 @@ yuki_wappo_group = {
 #Wakashan 
 wakashan_group = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	wakashan = {
 		color = {240 20 10}
 		first_names = { John Paul José Louis Mariano James David Jack Joel Charles Henry Ganado Herandez
@@ -5320,7 +5320,7 @@ wakashan_group = {
 #Keres 
 keres_group = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	keres = {
 		color = {140 220 110}
 		first_names = { John Paul José Louis Mariano James David Jack Joel Charles Henry Ganado Herandez
@@ -5333,7 +5333,7 @@ keres_group = {
 #Zuni 
 zuni_group = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	zuni = {
 		color = {140 20 110}
 		first_names = { John Paul José Louis Mariano James David Jack Joel Charles Henry Ganado Herandez
@@ -5346,7 +5346,7 @@ zuni_group = {
 #Tanoan 
 tanoan = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	kiowa = {
 		color = {120 100 180}
 		first_names = { John Paul José Louis Mariano James David Jack Joel Charles Henry Ganado Herandez
@@ -5383,7 +5383,7 @@ tanoan = {
 #Penutian
 penutian = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	#Plateau
 	klamath_modoc = {
 		color = {230 120 10}
@@ -5479,7 +5479,7 @@ penutian = {
 #Salish
 salish_group = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	#Nuxalk
 	nuxalk = {
 		color = {130 100 230}
@@ -5574,7 +5574,7 @@ salish_group = {
 #Xincan
 xincan_group = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	xincan = {
 		color = {30 40 90}
 		first_names = { Ixmacane Zipacna Ix Xamaniqinqu Vucub-Caquix Gukumatz Tecumbalam Balam Yunuen Yaxkin
@@ -5589,7 +5589,7 @@ xincan_group = {
 #Lenka
 lenka_group = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	lenka = {
 		color = {60 40 90}
 		first_names = { Agustín Akbal Alejandro Andrés Aníbal Antonio Armando Bernardo Carlos Crescencio
@@ -5605,7 +5605,7 @@ lenka_group = {
 #Misumalpa
 misumalpa_group = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	misumalpa = {
 		color = {200 90 40}
 		first_names = { Agustín Akbal Alejandro Andrés Aníbal Antonio Armando Bernardo Carlos Crescencio
@@ -5621,7 +5621,7 @@ misumalpa_group = {
 #Yuchi
 yuchi_group = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	yuchi = { 
 		color = {210 110 250}
 		first_names = { Narbona Mariano Zarcillos Manuelito Herrero Barboncito Ganado "Henry Chee" "Digul Chee"
@@ -5634,7 +5634,7 @@ yuchi_group = {
 #Ays
 ays_group = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	ays_lang = { 
 		color = {10 10 200}
 		first_names = { Narbona Mariano Zarcillos Manuelito Herrero Barboncito Ganado "Henry Chee" "Digul Chee"
@@ -5647,7 +5647,7 @@ ays_group = {
 #Everglades Group
 everglades_group = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	calusa = { 
 		color = {10 10 120}
 		first_names = { Narbona Mariano Zarcillos Manuelito Herrero Barboncito Ganado "Henry Chee" "Digul Chee"
@@ -5660,7 +5660,7 @@ everglades_group = {
 #Timucua
 timucua_group = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	timucua = { 
 		color = {210 10 190}
 		first_names = { Narbona Mariano Zarcillos Manuelito Herrero Barboncito Ganado "Henry Chee" "Digul Chee"
@@ -5673,7 +5673,7 @@ timucua_group = {
 #Na-Dene 
 na_dene = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	#Southern Athabaskan
 	navajo = { #Apache
 		color = {80 110 190}
@@ -5835,7 +5835,7 @@ na_dene = {
 #Algic
 algic = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	#Yoruk-Wiyot
 	yoruk = {
 		color = {150 245 150}
@@ -6025,7 +6025,7 @@ algic = {
 #Siouan
 siouan = {
     leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	#Siouan Proper
 	mandan = {
 		color = {210 165 75}
@@ -6095,7 +6095,7 @@ siouan = {
 #Iroquoian
 iroquoian = {
     leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	#Lake Iroquoian
 	iroquios = {
 		color = {10 5 75}
@@ -6124,7 +6124,7 @@ iroquoian = {
 #Caddoan
 caddoan_group = {
     leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	caddoan = {
 		color = {10 55 10}
 		first_names = { John Paul José Louis Mariano James David Jack Joel Charles Henry Ganado Herandez
@@ -6161,7 +6161,7 @@ caddoan_group = {
 #Gulf Group (Isolates?)
 gulf_group = {
     leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	atakapa = {
 		color = {0 0 10}
 		first_names = { John Paul José Louis Mariano James David Jack Joel Charles Henry Ganado Herandez
@@ -6190,7 +6190,7 @@ gulf_group = {
 #Muskogean
 muskogean = {
     leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	muskogee = {
 		color = {140 0 15}
 		first_names = { John Paul José Louis Mariano James David Jack Joel Charles Henry Ganado Herandez
@@ -6242,7 +6242,7 @@ muskogean = {
 #Native Americans (WIP)
 native_american = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	amazonian = {
 		color = {4 255 84}
 		first_names = { Aníbal Augusto Bento Bernardo César Daniel David Donato Duarte Ernesto
@@ -6286,7 +6286,7 @@ native_american = {
 #Moseten-Chon Languages
 chon_group = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	moseten_tsimane = { 
 		color = {70 80 110}
 		first_names = { Agustín Antonio Aquiles Arturo Aurelio Bernardo Carlos Claudio Diego Facundo
@@ -6368,7 +6368,7 @@ chon_group = {
 #Charruan
 charruan_group = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	charruas = {
 		color = {100 10 30}
 		first_names = { Agustín Antonio Aquiles Arturo Aurelio Bernardo Carlos Claudio Diego Facundo
@@ -6428,7 +6428,7 @@ charruan_group = {
 #Fuegian Isolates
 fuegian_group = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	yaghan = {
 		color = {30 10 130}
 		first_names = { Agustín Antonio Aquiles Arturo Aurelio Bernardo Carlos Claudio Diego Facundo
@@ -6466,7 +6466,7 @@ fuegian_group = {
 #Araucanian
 araucanian  = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	mapuche = {
 		color = {80 20 80}
 		first_names = { Agustín Antonio Aquiles Arturo Aurelio Bernardo Carlos Claudio Diego Facundo
@@ -6526,7 +6526,7 @@ araucanian  = {
 #Huarpe-Comechingon - unclassifiable Languages of Central Argentina
 huarpe_comechingon  = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	huarpe = {
 		color = {75 100 70}
 		first_names = { Agustín Antonio Aquiles Arturo Aurelio Bernardo Carlos Claudio Diego Facundo
@@ -6564,7 +6564,7 @@ huarpe_comechingon  = {
 #Lule–Vilela languages
 lule_vilela  = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	lule = {
 		color = {175 200 170}
 		first_names = { Agustín Antonio Aquiles Arturo Aurelio Bernardo Carlos Claudio Diego Facundo
@@ -6602,7 +6602,7 @@ lule_vilela  = {
 #Matacoan Languages
 matacoan  = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	nivacle  = {
 		color = {75 10 70}
 		first_names = { Agustín Antonio Aquiles Arturo Aurelio Bernardo Carlos Claudio Diego Facundo
@@ -6629,7 +6629,7 @@ matacoan  = {
 #Guaykuruan Languages
 guaykuruan  = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	mbaya  = {
 		color = {75 50 170}
 		first_names = { Agustín Antonio Aquiles Arturo Aurelio Bernardo Carlos Claudio Diego Facundo
@@ -6678,7 +6678,7 @@ guaykuruan  = {
 #Lengua Group
 lengua_group  = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	lengua  = {
 		color = {25 150 170}
 		first_names = { Agustín Antonio Aquiles Arturo Aurelio Bernardo Carlos Claudio Diego Facundo
@@ -6694,7 +6694,7 @@ lengua_group  = {
 #Zamucoan Group
 zamucoan_group  = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	zamucoan = {
 		color = {55 10 10}
 		first_names = { Agustín Antonio Aquiles Arturo Aurelio Bernardo Carlos Claudio Diego Facundo
@@ -6711,7 +6711,7 @@ zamucoan_group  = {
 #Shucuru-Payacu
 shucuru_payacu_group  = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	shucuru_payacu = {
 		color = {190 180 175}
 		first_names = { Aniceto Antonio Bartolomé Camilo Carlos Claudio David Emiliano Eugenio Felipe
@@ -6727,7 +6727,7 @@ shucuru_payacu_group  = {
 #Nambikwara
 nambikwara_group  = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	nambikwara = {
 		color = {170 160 155}
 		first_names = { Aniceto Antonio Bartolomé Camilo Carlos Claudio David Emiliano Eugenio Felipe
@@ -6743,7 +6743,7 @@ nambikwara_group  = {
 #Chiquito
 chiquito_group  = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	tarapecosi = {
 		color = {150 140 135}
 		first_names = { Aniceto Antonio Bartolomé Camilo Carlos Claudio David Emiliano Eugenio Felipe
@@ -6759,7 +6759,7 @@ chiquito_group  = {
 #Yuracare
 yuracare_group  = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	yuracare = {
 		color = {130 120 115}
 		first_names = { Aniceto Antonio Bartolomé Camilo Carlos Claudio David Emiliano Eugenio Felipe
@@ -6775,7 +6775,7 @@ yuracare_group  = {
 #Movima
 movima_group  = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	movima = {
 		color = {110 100 95}
 		first_names = { Aniceto Antonio Bartolomé Camilo Carlos Claudio David Emiliano Eugenio Felipe
@@ -6791,7 +6791,7 @@ movima_group  = {
 #Itonama
 itonama_group  = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	itonama = {
 		color = {110 100 95}
 		first_names = { Aniceto Antonio Bartolomé Camilo Carlos Claudio David Emiliano Eugenio Felipe
@@ -6807,7 +6807,7 @@ itonama_group  = {
 #Chapacuran
 chapacuran_group  = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	chapacura = {
 		color = {190 80 75}
 		first_names = { Aniceto Antonio Bartolomé Camilo Carlos Claudio David Emiliano Eugenio Felipe
@@ -6835,7 +6835,7 @@ chapacuran_group  = {
 #Atacaman-Diaguitan
 atacaman_diaguitan_group  = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	kunza = {
 		color = {135 150 110}
 		first_names = { Aniceto Antonio Bartolomé Camilo Carlos Claudio David Emiliano Eugenio Felipe
@@ -6862,7 +6862,7 @@ atacaman_diaguitan_group  = {
 #Uru-Chipaya (+Chango)
 uru_chipaya_group  = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	uru = {
 		color = {150 70 70}
 		first_names = { Aniceto Antonio Bartolomé Camilo Carlos Claudio David Emiliano Eugenio Felipe
@@ -6900,7 +6900,7 @@ uru_chipaya_group  = {
 #Pukina (+Leco)
 pukina_group  = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	pukina = {
 		color = {20 100 160}
 		first_names = { Aniceto Antonio Bartolomé Camilo Carlos Claudio David Emiliano Eugenio Felipe
@@ -6927,7 +6927,7 @@ pukina_group  = {
 #Angara
 angara_group  = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	angara = {
 		color = {130 150 150}
 		first_names = { Aniceto Antonio Bartolomé Camilo Carlos Claudio David Emiliano Eugenio Felipe
@@ -6943,7 +6943,7 @@ angara_group  = {
 #Harakmbut-Katukinan
 harakmbut_katukinan  = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	harakmbut = {
 		color = {50 200 150}
 		first_names = { Aniceto Antonio Bartolomé Camilo Carlos Claudio David Emiliano Eugenio Felipe
@@ -6981,7 +6981,7 @@ harakmbut_katukinan  = {
 #Panoan-Tacanan
 panoan_tacanan  = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	panoan = {
 		color = {50 200 250}
 		first_names = { Aniceto Antonio Bartolomé Camilo Carlos Claudio David Emiliano Eugenio Felipe
@@ -7008,7 +7008,7 @@ panoan_tacanan  = {
 #Cholon
 cholon_group  = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	cholon = {
 		color = {250 250 50}
 		first_names = { Aniceto Antonio Bartolomé Camilo Carlos Claudio David Emiliano Eugenio Felipe
@@ -7046,7 +7046,7 @@ cholon_group  = {
 #Barbacoan (+includes Esmeraldeno, Manta and Paez; all unclassified/isolates)
 barbacoan  = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	takame  = {
 		color = {100 145 60}
 		first_names = { Aniceto Antonio Bartolomé Camilo Carlos Claudio David Emiliano Eugenio Felipe
@@ -7128,7 +7128,7 @@ barbacoan  = {
 #Chimuan 
 chimuan  = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	chimu  = {
 		color = {15 95 100}
 		first_names = { Aniceto Antonio Bartolomé Camilo Carlos Claudio David Emiliano Eugenio Felipe
@@ -7166,7 +7166,7 @@ chimuan  = {
 #Quechua
 quechua_group  = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	quechua = {
 		color = {125 180 215}
 		first_names = { Aniceto Antonio Bartolomé Camilo Carlos Claudio David Emiliano Eugenio Felipe
@@ -7215,7 +7215,7 @@ quechua_group  = {
 #Aymara
 aymara_group  = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	aimara = {
 		color = {155 25 160}
 		first_names = { Agustín Alejandro Antonio Bartolomé Carlos David Eduardo Enrique Evo Facundo
@@ -7243,7 +7243,7 @@ aymara_group  = {
 #Shuwar (+Cahuapanan)
 shawar_group  = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	shawar = {
 		color = {200 130 30}
 		first_names = { Agustín Alejandro Antonio Bartolomé Carlos David Eduardo Enrique Evo Facundo
@@ -7281,7 +7281,7 @@ shawar_group  = {
 #Zaparoan Family
 zaparoan_group  = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	zaparoan = {
 		color = {150 40 40}
 		first_names = { Agustín Alejandro Antonio Bartolomé Carlos David Eduardo Enrique Evo Facundo
@@ -7297,7 +7297,7 @@ zaparoan_group  = {
 #Candoshi
 candoshi_group  = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	candoshi = {
 		color = {150 140 140}
 		first_names = { Agustín Alejandro Antonio Bartolomé Carlos David Eduardo Enrique Evo Facundo
@@ -7313,7 +7313,7 @@ candoshi_group  = {
 #Urarina
 urarina_group  = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	urarina = {
 		color = {50 40 40}
 		first_names = { Agustín Alejandro Antonio Bartolomé Carlos David Eduardo Enrique Evo Facundo
@@ -7329,7 +7329,7 @@ urarina_group  = {
 #Mura
 mura_group  = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	mura = {
 		color = {50 240 40}
 		first_names = { Agustín Alejandro Antonio Bartolomé Carlos David Eduardo Enrique Evo Facundo
@@ -7345,7 +7345,7 @@ mura_group  = {
 #Tukano Family
 tukano_group  = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	tukano = {
 		color = {255 225 190}
 		first_names = { Agustín Alejandro Antonio Bartolomé Carlos David Eduardo Enrique Evo Facundo
@@ -7361,7 +7361,7 @@ tukano_group  = {
 #Witoto Family
 witoto_group  = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	witoto = {
 		color = {60 50 50}
 		first_names = { Agustín Alejandro Antonio Bartolomé Carlos David Eduardo Enrique Evo Facundo
@@ -7377,7 +7377,7 @@ witoto_group  = {
 #Yanomamo Family
 yanomamo_group  = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	yanomamo = {
 		color = {100 55 160}
 		first_names = { Agustín Alejandro Antonio Bartolomé Carlos David Eduardo Enrique Evo Facundo
@@ -7393,7 +7393,7 @@ yanomamo_group  = {
 #Betoi-Saliban Family
 betoi_saliban_group  = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	saliban = {
 		color = {100 55 160}
 		first_names = { Agustín Alejandro Antonio Bartolomé Carlos David Eduardo Enrique Evo Facundo
@@ -7420,7 +7420,7 @@ betoi_saliban_group  = {
 #Guahibo Family
 guahibo_group  = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	guahibo = {
 		color = {50 120 130}
 		first_names = { Agustín Alejandro Antonio Bartolomé Carlos David Eduardo Enrique Evo Facundo
@@ -7436,7 +7436,7 @@ guahibo_group  = {
 #Maku Family
 maku_group  = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	maku = {
 		color = {60 10 50}
 		first_names = { Agustín Alejandro Antonio Bartolomé Carlos David Eduardo Enrique Evo Facundo
@@ -7453,7 +7453,7 @@ maku_group  = {
 #Peba–Yaguan
 peba_yaguan_group  = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	yagua = {
 		color = {150 210 210}
 		first_names = { Agustín Alejandro Antonio Bartolomé Carlos David Eduardo Enrique Evo Facundo
@@ -7481,7 +7481,7 @@ peba_yaguan_group  = {
 #Otomac
 otomac_group  = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	otomac = {
 		color = {30 130 30}
 		first_names = { Agustín Alejandro Antonio Bartolomé Carlos David Eduardo Enrique Evo Facundo
@@ -7497,7 +7497,7 @@ otomac_group  = {
 #Timote
 timote_group  = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	timote = {
 		color = {50 210 210}
 		first_names = { Agustín Alejandro Antonio Bartolomé Carlos David Eduardo Enrique Evo Facundo
@@ -7513,7 +7513,7 @@ timote_group  = {
 #Malibu
 malibu_group  = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	tayrona = {
 		color = {105 40 40}
 		first_names = { Agustín Alejandro Antonio Bartolomé Carlos David Eduardo Enrique Evo Facundo
@@ -7529,7 +7529,7 @@ malibu_group  = {
 #Choco
 choco_group  = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	choco = {
 		color = {15 10 40}
 		first_names = { Agustín Alejandro Antonio Bartolomé Carlos David Eduardo Enrique Evo Facundo
@@ -7545,7 +7545,7 @@ choco_group  = {
 #Chibcha
 malibu_group  = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	chibcha = { #Muisca -other groups in Colombia are extinct
 		color = {120 150 5}
 		first_names = { Baltasar Bernardo Carlos Celestino Diego Emilio Felipe Fernando Fidel Francisco
@@ -7602,7 +7602,7 @@ malibu_group  = {
 #Nuclear Guarani
 guarani_group  = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	guarani = {
 		color = {90 80 175}
 		first_names = { Aniceto Antonio Bartolomé Camilo Carlos Claudio David Emiliano Eugenio Felipe
@@ -7662,7 +7662,7 @@ guarani_group  = {
 #Guarayo
 guarayo_group  = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	guarayo = {
 		color = {255 0 150}
 		first_names = { Álvaro André Carlos Diogo Emilio Eusébio Fábio Fernando Filipe Francisco
@@ -7698,7 +7698,7 @@ guarayo_group  = {
 #Nuclear Tupi
 tupi_group  = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	tupinamba = {
 		color = {250 50 220}
 		first_names = { Álvaro André Carlos Diogo Emilio Eusébio Fábio Fernando Filipe Francisco
@@ -7778,7 +7778,7 @@ tupi_group  = {
 #Minor Tupi Languages
 minor_tupi_group  = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	arikem = {
 		color = {250 150 220}
 		first_names = { Álvaro André Carlos Diogo Emilio Eusébio Fábio Fernando Filipe Francisco
@@ -7864,7 +7864,7 @@ minor_tupi_group  = {
 #Macro-Je Family
 je_group  = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	#Je Proper - includes Southern, Central, Northern Je and Jeiko
 	#Northern
 	kayapo = {
@@ -8068,7 +8068,7 @@ je_group  = {
 #Arawakian
 arawak_group  = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	#Southern
 	 #Western
 	 yanesha  = {
@@ -8274,7 +8274,7 @@ arawak_group  = {
 #Caribbean Isolates
 caribbean_isolates  = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	warao  = {
 		color = {250 170 20}
 		first_names = { Agustín Antonio Aquiles Arturo Aurelio Bernardo Carlos Claudio Diego Facundo
@@ -8312,7 +8312,7 @@ caribbean_isolates  = {
 #Cariban
 cariban  = {
 	leader = nativeamerican
-	is_overseas = no
+	is_overseas = yes
 	#Pekodian
 	kuikuro  = {
 		color = {250 170 20}
@@ -8401,7 +8401,7 @@ cariban  = {
 #Languages/Dialects, that divegered, because of colonisation. Seperate groups for gameplay reasons
 american_cultures = {
 	leader = european
-	is_overseas = no
+	is_overseas = yes
 	amerikaner = {
 		color = { 110 80 80 }
 		first_names = { Adolf Albrecht Alexander Alfons Alois Anton Arthur Bernhard Christian
@@ -8467,7 +8467,7 @@ american_cultures = {
 
 neo_arabic_cultures = {
 leader = arabic
-is_overseas = no
+is_overseas = yes
     amazuni = {
     color = {10 60 20}
 	    first_names = { 
@@ -8534,7 +8534,7 @@ is_overseas = no
 
 neo_european_cultures = {
 	leader = european
-	is_overseas = no
+	is_overseas = yes
 	boer = {
 		color = {220 145 145}
 		first_names = { Sarel Rudolf Andries Hendrik Piet Racheltjie Dirkie Siener Koos Danie Christiaan Louis Petrus Paul Eugene Joubert
@@ -8674,7 +8674,7 @@ neo_european_cultures = {
 
 latin_american_cultures = {
 	leader = southamerican
-	is_overseas = no
+	is_overseas = yes
 	unit = SouthAmericanGC
 	mexican = {
 		color = {51 117 62}
@@ -8794,7 +8794,7 @@ latin_american_cultures = {
 
 african_diaspora_cultures = {
 	leader = african
-	is_overseas = no
+	is_overseas = yes
 	unit = AfricanGC
 	afro_american = {
 		color = {42 42 42}
@@ -8904,7 +8904,7 @@ african_diaspora_cultures = {
 #Nilo-Saharan Languages
 nilotic_group = {
 	leader = african
-	is_overseas = no
+	is_overseas = yes
 	unit = AfricanGC
 	#Slave Culture
 	nilotic = {
@@ -9040,7 +9040,7 @@ nilotic_group = {
 
 songhai_group = {
     leader = african
-	is_overseas = no
+	is_overseas = yes
 	unit = AfricanGC
 	#Northwest Songhai
 	korandje = {
@@ -9141,7 +9141,7 @@ songhai_group = {
 
 daju_group = { 
 	leader = african
-	is_overseas = no
+	is_overseas = yes
 	unit = AfricanGC
 	kordofan_daju = {
 		color = {200 120 20}
@@ -9179,7 +9179,7 @@ daju_group = {
 
 eastern_sudanic_minors = { 
 	leader = african
-	is_overseas = no
+	is_overseas = yes
 	unit = AfricanGC
 	surmic = {
 		color = {120 120 220}
@@ -9201,7 +9201,7 @@ eastern_sudanic_minors = {
 
 fur_group = { 
 	leader = african
-	is_overseas = no
+	is_overseas = yes
 	unit = AfricanGC
 	fur = {
 		color = {85 75 90}
@@ -9223,7 +9223,7 @@ fur_group = {
 
 maban_group = { 
 	leader = african
-	is_overseas = no
+	is_overseas = yes
 	unit = AfricanGC
 	baguirmi = { #now Runga
 		color = {130 50 175}
@@ -9254,7 +9254,7 @@ maban_group = {
 
 funj_group = { 
 	leader = african
-	is_overseas = no
+	is_overseas = yes
 	unit = AfricanGC
 	funj = {
 		color = {20 20 80}
@@ -9268,7 +9268,7 @@ funj_group = {
 
 east_african = { #now Nubic
 	leader = african
-	is_overseas = no
+	is_overseas = yes
 	unit = AfricanGC
 	kefficho = {
 		color = {100 0 15}
@@ -9314,7 +9314,7 @@ east_african = { #now Nubic
 
 kunama_group = { 
 	leader = african
-	is_overseas = no
+	is_overseas = yes
 	unit = AfricanGC
 	kunama = {
 		color = {100 20 160}
@@ -9328,7 +9328,7 @@ kunama_group = {
 
 central_african = {
 	leader = african
-	is_overseas = no
+	is_overseas = yes
 	unit = AfricanGC
 	lendu = { #now Lengu-Manbetu
 		color = { 40 5 60 }
@@ -9354,7 +9354,7 @@ central_african = {
 
 saharan_group = {
 	leader = african
-	is_overseas = no
+	is_overseas = yes
 	unit = AfricanGC
 	teda = {
 		color = {230 180 210}
@@ -9384,7 +9384,7 @@ saharan_group = {
 
 komuz = {
     leader = african
-	is_overseas = no
+	is_overseas = yes
 	unit = AfricanGC
 	koman = {
 		color = {30 100 90}
@@ -9407,7 +9407,7 @@ komuz = {
 #Niger-Congo Languages
 adamawa_group = {
 	leader = african
-	is_overseas = no
+	is_overseas = yes
 	unit = AfricanGC
 	tula_waja = {
 		color = {75 255 60}
@@ -9461,7 +9461,7 @@ adamawa_group = {
 
 ubangian_group = {
 	leader = african
-	is_overseas = no
+	is_overseas = yes
 	unit = AfricanGC
 	ubangian = { #now Gbaya
 		color = {100 20 20}
@@ -9517,7 +9517,7 @@ ubangian_group = {
 
 west_african = { #now Benue-Congo
 	leader = african
-	is_overseas = no
+	is_overseas = yes
 	unit = AfricanGC
 	#Cross River Languages, heavily dumbed down
 	ibibio = {
@@ -9568,7 +9568,7 @@ west_african = { #now Benue-Congo
 
 bantoid_group = {
 	leader = african
-	is_overseas = no
+	is_overseas = yes
 	unit = AfricanGC
 	tiv = {
 		color = {255 255 160}
@@ -9638,7 +9638,7 @@ bantoid_group = {
 
 ijawoid = {
     leader = african
-    is_overseas = no
+    is_overseas = yes
 	unit = AfricanGC
 	ijaw = {
 		color = {200 200 200}
@@ -9652,7 +9652,7 @@ ijawoid = {
 
 volta_niger_group = {
     leader = african
-	is_overseas = no
+	is_overseas = yes
 	unit = AfricanGC
 	#Gbe Languages
 	ewe = {
@@ -9808,7 +9808,7 @@ volta_niger_group = {
 
 gur_group = {
     leader = african
-	is_overseas = no
+	is_overseas = yes
 	unit = AfricanGC
 	#Oti-Volta Group
 	gur = { #now Gurma
@@ -9944,7 +9944,7 @@ gur_group = {
 
 senufo_group = {
     leader = african
-	is_overseas = no
+	is_overseas = yes
 	unit = AfricanGC
 	senufo = { #now Suppire-Mamara
 		color = {80 190 60}
@@ -9994,7 +9994,7 @@ senufo_group = {
 
 dogon = {
     leader = african
-	is_overseas = no
+	is_overseas = yes
 	unit = AfricanGC
 	western_nigritic = { #now Dogon
 		color = {250 200 205}
@@ -10008,7 +10008,7 @@ dogon = {
 
 mande_group = {
     leader = african
-	is_overseas = no
+	is_overseas = yes
 	unit = AfricanGC
 	#extremely simplified
 	#Southern/Southeastern Mande
@@ -10140,7 +10140,7 @@ mande_group = {
 
 senegambian = {
     leader = african
-	is_overseas = no
+	is_overseas = yes
 	unit = AfricanGC
 	#Bak-Bidyogo
 	bak_bidyogo = { 
@@ -10225,7 +10225,7 @@ senegambian = {
 
 mel_limba = {
     leader = african
-	is_overseas = no
+	is_overseas = yes
 	unit = AfricanGC
 	#Temne
 	temne = { 
@@ -10290,7 +10290,7 @@ mel_limba = {
 
 kru_group = {
     leader = african
-	is_overseas = no
+	is_overseas = yes
 	unit = AfricanGC
 	kru = { #now Kuwaa
 		color = {245 230 70}
@@ -10380,7 +10380,7 @@ kru_group = {
 
 kwa_group = {
     leader = african
-	is_overseas = no
+	is_overseas = yes
 	unit = AfricanGC
 	#Potou-Tano (Akanic)
 	#Potou
@@ -10500,7 +10500,7 @@ kwa_group = {
 
 bantu_s_group = {
       leader = african
-	  is_overseas = no
+	  is_overseas = yes
 	  unit = AfricanGC
 	 #Shona Group 
 	 shona = {
@@ -10601,7 +10601,7 @@ bantu_s_group = {
 
 bantu_n_group = {
       leader = african
-	  is_overseas = no
+	  is_overseas = yes
 	  unit = AfricanGC
 	  chewa = {
 		color = {80 80 80}
@@ -10631,7 +10631,7 @@ bantu_n_group = {
 
 bantu_m_group = {
       leader = african
-	  is_overseas = no
+	  is_overseas = yes
 	  unit = AfricanGC
 	  bemba = {
 		color = {20 80 80}
@@ -10701,7 +10701,7 @@ bantu_m_group = {
 
 bantu_k_group = {
       leader = african
-	  is_overseas = no
+	  is_overseas = yes
 	  unit = AfricanGC
 	  chokwe = {
 		color = {140 145 120}
@@ -10719,7 +10719,7 @@ bantu_k_group = {
 
 bantu_r_group = {
       leader = african
-	  is_overseas = no
+	  is_overseas = yes
 	  unit = AfricanGC
 	  ovambo = {
 		color = {180 35 120}
@@ -10747,7 +10747,7 @@ bantu_r_group = {
 
 bantu_h_group = {
       leader = african
-	  is_overseas = no
+	  is_overseas = yes
 	  unit = AfricanGC
 	  bakongo = {
 		color = {90 155 60}
@@ -10777,7 +10777,7 @@ bantu_h_group = {
 
 bantu_l_group = {
       leader = african
-	  is_overseas = no
+	  is_overseas = yes
 	  unit = AfricanGC
 	  #Pende Group
 	  pende = {
@@ -10858,7 +10858,7 @@ bantu_l_group = {
 
 bantu_j_group = {
       leader = african
-	  is_overseas = no
+	  is_overseas = yes
 	  unit = AfricanGC
 	  konzo = {
 		color = {87 4 2}
@@ -10980,7 +10980,7 @@ bantu_j_group = {
 
 bantu_f_group = {
       leader = african
-	  is_overseas = no
+	  is_overseas = yes
 	  unit = AfricanGC
 	  tongwe = {
 		color = {90 115 0}
@@ -11018,7 +11018,7 @@ bantu_f_group = {
 
 bantu_p_group = {
       leader = african
-	  is_overseas = no
+	  is_overseas = yes
 	  unit = AfricanGC
 	  yao = {
 		color = {10 20 50}
@@ -11056,7 +11056,7 @@ bantu_p_group = {
 
 bantu_g_e_group = {
       leader = african
-	  is_overseas = no
+	  is_overseas = yes
 	  unit = AfricanGC
 	  swahili = {
 		color = {85 100 205}
@@ -11182,7 +11182,7 @@ bantu_g_e_group = {
 
 bantu_c_group = {
       leader = african
-	  is_overseas = no
+	  is_overseas = yes
 	  unit = AfricanGC
 	  #Ngondi-Ngiri Group
 	  mongo = {
@@ -11379,7 +11379,7 @@ bantu_c_group = {
 }
 bantu_d_group = {
       leader = african
-	  is_overseas = no
+	  is_overseas = yes
 	  unit = AfricanGC
 	  #Mbole-Enya Group
 	  mbole = {
@@ -11452,7 +11452,7 @@ bantu_d_group = {
 
 bantu_b_group = {
       leader = african
-	  is_overseas = no
+	  is_overseas = yes
 	  unit = AfricanGC
 	  #Kele Group
 	  kele = {
@@ -11529,7 +11529,7 @@ bantu_b_group = {
 
 bantu_a_group = {
       leader = african
-	  is_overseas = no
+	  is_overseas = yes
 	  unit = AfricanGC
 	  #Oroko Group
 	  oroko = {
@@ -11614,7 +11614,7 @@ bantu_a_group = {
 #Nilo-Saharan, Isolates and Niger-Congo
 kordofanian_group = { 
 	leader = african
-	is_overseas = no
+	is_overseas = yes
 	unit = AfricanGC
 	heiban = {
 		color = {200 20 160}
@@ -11677,7 +11677,7 @@ kordofanian_group = {
 #Trash Base Vic2/HP/FM cultures
 bantu_minors = {
     leader = african
-	is_overseas = no
+	is_overseas = yes
 	unit = AfricanGC
 	lacustrine_bantu = {
 		color = {128 175 93}
@@ -11717,7 +11717,7 @@ bantu_minors = {
 
 southern_african = {
 	leader = african
-	is_overseas = no
+	is_overseas = yes
 	unit = ZuluGC
 	malagasy = {
 		color = {25 115 44}
