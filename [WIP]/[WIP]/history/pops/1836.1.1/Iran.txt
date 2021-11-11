@@ -3827,8 +3827,8 @@
 	}
 	
 	clergymen = {
-		culture = persian
-		religion = bashkardi
+		culture = bashkardi
+		religion = shiite
 		size = 100
 	}
 
