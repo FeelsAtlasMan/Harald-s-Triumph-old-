@@ -1,9 +1,0 @@
-owner = DUL
-controller = DUL
-add_core = DUL
-add_core = ABB
-add_core = KDS
-add_core = SYR
-trade_goods = grain
-life_rating = 35
-

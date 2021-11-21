@@ -1,8 +1,7 @@
-owner = TIM
-controller = TIM
-add_core = TIM
+owner = NRD
+controller = NRD
 add_core = FRS
-add_core = PER
+add_core = TIM
 terrain = plains
 trade_goods = fish
 life_rating = 35

@@ -1,7 +1,7 @@
-owner = TIM
-controller = TIM
+owner = TTN
+controller = TTN
 add_core = TTN
 add_core = GMZ
 trade_goods = silk
 life_rating = 35
-
+terrain = hills

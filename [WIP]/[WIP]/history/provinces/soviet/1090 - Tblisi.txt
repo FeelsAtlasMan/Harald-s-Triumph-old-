@@ -1,5 +1,5 @@
-owner = TIM
-controller = TIM
+owner = KRT
+controller = KRT
 add_core = GEO
 add_core = KRT
 trade_goods = fruit

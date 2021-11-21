@@ -1,8 +1,0 @@
-owner = MTC
-controller = MTC
-add_core = MTC
-add_core = ILL
-trade_goods = grain
-terrain = steppe
-life_rating = 30
-

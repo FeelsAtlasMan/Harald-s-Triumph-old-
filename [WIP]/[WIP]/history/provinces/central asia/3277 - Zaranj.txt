@@ -1,8 +1,7 @@
-owner = TIM
-controller = TIM
-add_core = SST
+owner = SST
+controller = SST
 add_core = BLC
-add_core = AFG
-trade_goods = wool
-terrain = desert
-life_rating = 25
+add_core = SST
+trade_goods = grain
+terrain = semidesert
+life_rating = 30

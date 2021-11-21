@@ -1,4 +1,5 @@
 color = { 80 140 205 }
+colonial_company = { 220 20 50 } 
 graphical_culture = RussianGC
 
 party = {

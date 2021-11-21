@@ -1,7 +1,7 @@
-owner = TIM
-controller = TIM
-add_core = TIM
+owner = IRV
+controller = IRV
 add_core = ARM
-add_core = MKU
+add_core = IRV
 trade_goods = cattle
 life_rating = 35
+terrain = mountain

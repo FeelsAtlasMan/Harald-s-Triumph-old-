@@ -1,6 +1,6 @@
-owner = GMZ
-controller = GMZ
-add_core = GMZ
+owner = TSK
+controller = TSK
+add_core = TSK
 trade_goods = cattle
 life_rating = 35
-
+terrain = mountain

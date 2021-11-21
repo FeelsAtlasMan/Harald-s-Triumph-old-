@@ -1,13 +1,6 @@
 #Timurd Vassals/Substates
 substate = {
 	first = TIM
-	second = AKK
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-
-substate = {
-	first = TIM
 	second = PNJ
 	start_date = 1836.1.1
 	end_date = 1937.1.1
@@ -20,18 +13,104 @@ substate = {
 	end_date = 1937.1.1
 }
 
-substate = {
-	first = TIM
-	second = OMA
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
 vassal = {
 	first = BOH
 	second = CPL
 	start_date = 1836.1.1
 	end_date = 1936.1.1
 }
+
+vassal = {
+	first = TIM
+	second = LZG
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = TIM
+	second = TSK
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = TIM
+	second = KTG
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = TIM
+	second = KSN
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = TIM
+	second = AKK
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = TIM
+	second = RSH
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = TIM
+	second = HSR
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = TIM
+	second = GLG
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = TIM
+	second = KFR
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = TIM
+	second = HSR
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = TIM
+	second = WKH
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = TIM
+	second = KRB
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = TIM
+	second = TAJ
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
 vassal = {
 	first = TIM
 	second = KWT
@@ -41,7 +120,7 @@ vassal = {
 
 vassal = {
 	first = TIM
-	second = ALH
+	second = LUR
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }
@@ -167,14 +246,211 @@ vassal = {
 
 vassal = {
 	first = TIM
-	second = KRM
+	second = SST
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }
 
 vassal = {
 	first = TIM
+	second = FRS
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = TIM
+	second = KHZ
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = TIM
+	second = CRL
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = TIM
+	second = MZN
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = TIM
+	second = GLN
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = TIM
+	second = TLY
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = TIM
+	second = IRQ
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = TIM
+	second = RDL
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = TIM
+	second = BNB
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = TIM
+	second = SRN
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = TIM
+	second = BDN
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = TIM
+	second = MKU
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = TIM
+	second = BTL
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = TIM
+	second = BHT
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = TIM
+	second = TTN
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = TIM
+	second = IRV
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = TIM
+	second = KKH
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = TIM
+	second = GNJ
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = TIM
+	second = NKH
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = TIM
+	second = SMZ
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = TIM
+	second = KRT
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = TIM
+	second = TKM
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = TIM
+	second = MFQ
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = TIM
+	second = KHL
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = TIM
+	second = HKK
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = TIM
+	second = ASY
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+#Beghdilids
+vassal = {
+	first = KRM
 	second = DUL
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = KRM
+	second = RMZ
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = KRM
+	second = KLS
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }

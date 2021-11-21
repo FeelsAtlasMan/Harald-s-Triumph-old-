@@ -3275,6 +3275,36 @@ categories =  {
 		combat_width = -0.33
 	}
 	
+	dry_mountains = {
+        movement_cost = 1.5
+        defence = 3
+        color = { 68 20 6 }
+        farm_rgo_size = -0.2
+        farm_rgo_eff = -0.0
+        mine_rgo_size = 0.1
+        mine_rgo_eff = 0.0
+        supply_limit = 2
+        min_build_railroad = 3
+
+        combat_width = -0.6
+    }
+	
+	semi_desert_mountains = {
+        movement_cost = 1.5
+        defence = 3.0
+        ##attrition = 0.25
+        color = { 92 82 7 }
+        farm_rgo_size = -0.3
+        farm_rgo_eff = -0.3
+        mine_rgo_size = 0.1
+        mine_rgo_eff = 0.0
+        min_build_naval_base = 1
+        min_build_railroad = 3
+        #immigrant_attract = -1.5
+        supply_limit = 2
+        combat_width = -0.6
+    }
+	
 	marsh = {
 		movement_cost = 1.4
 		attrition = 1

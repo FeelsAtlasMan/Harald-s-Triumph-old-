@@ -1,7 +1,8 @@
 capital = 1118
-primary_culture = kurdish
+primary_culture = gorani
+culture = sorani
 religion = shiite
-government = absolute_monarchy
+government = colonial_company
 plurality = 0
 nationalvalue = nv_tradition
 literacy = 0.01

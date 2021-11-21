@@ -322,7 +322,7 @@
 		size = 1675
 	}
 }
-#Gaza (44000/11000 POPS) - now Al-Raqa
+#Gaza (44000/11000 POPS) - now Al-Raqqa
 920 = {
 	aristocrats = {
 		culture = mashriqi
@@ -367,33 +367,63 @@
 	}
 	
 	aristocrats = {
-		culture = kurmanji
-		religion = sunni
+		culture = turkish
+		religion = shiite
+		size = 30
+	}
+
+	clergymen = {
+		culture = turkish
+		religion = shiite
+		size = 75
+	}
+
+	artisans = {
+		culture = turkish
+		religion = shiite
 		size = 150
+	}
+
+	soldiers = {
+		culture = turkish
+		religion = shiite
+		size = 150
+	}
+
+	farmers = {
+		culture = turkish
+		religion = shiite
+		size = 3967
+	}
+	
+	aristocrats = {
+		culture = kurmanji
+		religion = shiite
+		size = 10
 	}
 
 	clergymen = {
 		culture = kurmanji
-		religion = sunni
-		size = 125
+		religion = shiite
+		size = 15
 	}
 
 	artisans = {
 		culture = kurmanji
-		religion = sunni
-		size = 650
+		religion = shiite
+		size = 50
 	}
 
 	soldiers = {
 		culture = kurmanji
-		religion = sunni
-		size = 1750
+		religion = shiite
+		size = 150
 	}
 
 	farmers = {
 		culture = kurmanji
-		religion = sunni
-		size = 9067
+		religion = shiite
+		size = 967
 	}
 	
 	clergymen = {

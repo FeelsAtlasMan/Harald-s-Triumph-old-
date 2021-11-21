@@ -202,7 +202,7 @@
 	farmers = {
 		culture = hazara
 		religion = shiite
-		size = 4000
+		size = 3000
 	}
 	
 	soldiers = {
@@ -214,7 +214,7 @@
 	farmers = {
 		culture = pamiri
 		religion = shiite
-		size = 1000
+		size = 6000
 	}
 	
 	soldiers = {
@@ -331,7 +331,7 @@
 		size = 2825
 	}
 
-	serfs = {
+	farmers = {
 		culture = baluchi
 		religion = sunni
 		size = 8500
@@ -379,7 +379,7 @@
 	farmers = {
 		culture = sindi
 		religion = sunni
-		size = 2025
+		size = 1025
 	}
 	
 	farmers = {
@@ -391,7 +391,7 @@
 	farmers = {
 		culture = baluchi
 		religion = sunni
-		size = 2000
+		size = 3000
 	}
 }
 
@@ -412,27 +412,205 @@
 	artisans = {
 		culture = baluchi
 		religion = sunni
-		size = 1100
+		size = 100
 	}
 
 	soldiers = {
 		culture = baluchi
 		religion = sunni
-		size = 5000
+		size = 500
 	}
 
 	farmers = {
 		culture = baluchi
 		religion = sunni
-		size = 13000
+		size = 6000
+	}
+	
+	aristocrats = {
+		culture = persian
+		religion = sunni
+		size = 5
+	}
+
+	clergymen = {
+		culture = persian
+		religion = sunni
+		size = 5
+	}
+
+	artisans = {
+		culture = persian
+		religion = sunni
+		size = 10
+	}
+
+	soldiers = {
+		culture = persian
+		religion = sunni
+		size = 10
+	}
+
+	farmers = {
+		culture = persian
+		religion = sunni
+		size = 200
+	}
+	
+	aristocrats = {
+		culture = pashtun
+		religion = sunni
+		size = 5
+	}
+
+	clergymen = {
+		culture = pashtun
+		religion = sunni
+		size = 5
+	}
+
+	artisans = {
+		culture = pashtun
+		religion = sunni
+		size = 10
+	}
+
+	soldiers = {
+		culture = pashtun
+		religion = sunni
+		size = 10
+	}
+	
+	farmers = {
+		culture = pashtun
+		religion = sunni
+		size = 100
+	}
+	
+	aristocrats = {
+		culture = brahui
+		religion = sunni
+		size = 5
+	}
+
+	clergymen = {
+		culture = brahui
+		religion = sunni
+		size = 5
+	}
+
+	artisans = {
+		culture = brahui
+		religion = sunni
+		size = 10
+	}
+
+	soldiers = {
+		culture = brahui
+		religion = sunni
+		size = 10
 	}
 	
 	farmers = {
 		culture = brahui
 		religion = sunni
-		size = 2500
+		size = 500
 	}
 }
+
+#Kharan (88000/22000 POPS)
+3626 = {
+	aristocrats = {
+		culture = baluchi
+		religion = sunni
+		size = 150
+	}
+
+	clergymen = {
+		culture = baluchi
+		religion = sunni
+		size = 150
+	}
+
+	artisans = {
+		culture = baluchi
+		religion = sunni
+		size = 100
+	}
+
+	soldiers = {
+		culture = baluchi
+		religion = sunni
+		size = 500
+	}
+
+	farmers = {
+		culture = baluchi
+		religion = sunni
+		size = 11000
+	}
+	
+	aristocrats = {
+		culture = persian
+		religion = sunni
+		size = 50
+	}
+
+	clergymen = {
+		culture = persian
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = persian
+		religion = sunni
+		size = 50
+	}
+
+	soldiers = {
+		culture = persian
+		religion = sunni
+		size = 210
+	}
+
+	farmers = {
+		culture = persian
+		religion = sunni
+		size = 4200
+	}
+	
+	aristocrats = {
+		culture = brahui
+		religion = sunni
+		size = 5
+	}
+
+	clergymen = {
+		culture = brahui
+		religion = sunni
+		size = 5
+	}
+
+	artisans = {
+		culture = brahui
+		religion = sunni
+		size = 10
+	}
+
+	soldiers = {
+		culture = brahui
+		religion = sunni
+		size = 10
+	}
+	
+	farmers = {
+		culture = brahui
+		religion = sunni
+		size = 500
+	}
+}
+
 #Kalat (104000/26000 POPS)
 1221 = {
 	aristocrats = {
@@ -462,19 +640,19 @@
 	artisans = {
 		culture = baluchi
 		religion = sunni
-		size = 1250
+		size = 250
 	}
 
 	soldiers = {
 		culture = baluchi
 		religion = sunni
-		size = 5000
+		size = 1000
 	}
 
 	farmers = {
 		culture = baluchi
 		religion = sunni
-		size = 9500
+		size = 12500
 	}
 	
 	aristocrats = {
@@ -510,13 +688,13 @@
 	farmers = {
 		culture = brahui
 		religion = sunni
-		size = 8925
+		size = 11925
 	}
 
 	slaves = {
-		culture = kilombero #african_minor
+		culture = swahili 
 		religion = animist
-		size = 4000
+		size = 1000
 	}
 }
 #Under the Rule of Makran 1836
@@ -567,13 +745,19 @@
 	farmers = {
 		culture = brahui
 		religion = sunni
-		size = 3800
+		size = 2800
+	}
+	
+	farmers = {
+		culture = sindi
+		religion = sunni
+		size = 5000
 	}
 
 	slaves = {
-		culture = kilombero #african_minor
+		culture = swahili
 		religion = animist
-		size = 5000
+		size = 1000
 	}
 }
 #Kashmir Region (1208000)
@@ -716,65 +900,65 @@
 
 	aristocrats = {
 		culture = kashmiri
-		religion = sunni
+		religion = shiite
 		size = 450
 	}
 
 	clergymen = {
 		culture = kashmiri
-		religion = sunni
+		religion = shiite
 		size = 425
 	}
 
 	artisans = {
 		culture = kashmiri
-		religion = sunni
+		religion = shiite
 		size = 2000
 	}
 
 	soldiers = {
 		culture = kashmiri
-		religion = sunni
+		religion = shiite
 		size = 400
 	}
 
 	farmers = {
 		culture = kashmiri
-		religion = sunni
-		size = 36725
+		religion = shiite
+		size = 16725
 	}
 
 	aristocrats = {
 		culture = u_tsang
-		religion = mahayana
+		religion = shiite
 		size = 200
 	}
 
 	clergymen = {
 		culture = u_tsang
-		religion = mahayana
+		religion = shiite
 		size = 225
 	}
 
 	artisans = {
 		culture = u_tsang
-		religion = mahayana
+		religion = shiite
 		size = 800
 	}
 
 	soldiers = {
 		culture = u_tsang
-		religion = mahayana
+		religion = shiite
 		size = 200
 	}
 
 	farmers = {
 		culture = u_tsang
-		religion = mahayana
-		size = 19575
+		religion = shiite
+		size = 9575
 	}
 }
-#Gilgit (264000/66000 POPS)
+#Karimabad (264000/66000 POPS)
 3395 = {
 	aristocrats = {
 		culture = pamiri
@@ -827,7 +1011,33 @@
 	farmers = {
 		culture = burushaski
 		religion = shiite
-		size = 1725
+		size = 3725
+	}
+}
+#Gilgit (264000/66000 POPS)
+3623 = {
+	aristocrats = {
+		culture = kashmiri
+		religion = shiite
+		size = 150
+	}
+
+	clergymen = {
+		culture = kashmiri
+		religion = shiite
+		size = 150
+	}
+
+	soldiers = {
+		culture = kashmiri
+		religion = shiite
+		size = 150
+	}
+
+	farmers = {
+		culture = kashmiri
+		religion = shiite
+		size = 8600
 	}
 }
 #Leh (196000/49000 POPS)

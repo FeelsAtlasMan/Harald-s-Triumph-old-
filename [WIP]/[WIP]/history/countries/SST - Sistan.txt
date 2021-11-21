@@ -1,7 +1,8 @@
 capital = 1214
-primary_culture = pashtun
+primary_culture = persian
+culture = pashtun
 religion = sunni
-government = absolute_monarchy
+government = colonial_company
 plurality = 0.0
 nationalvalue = nv_tradition
 literacy = 0.01
@@ -60,11 +61,4 @@ flintlock_rifles = 1
 consciousness = 0
 nonstate_consciousness = 0
 
-oob = "MAK_oob.txt"
-1861.1.1 = {
-	oob = "/1861/MAK_oob.txt"
-	literacy = 0.04
-	non_state_culture_literacy = 0.02
-	foreign_weapons = yes_foreign_weapons
-	flintlock_rifles = 1
-}
+#oob = "MAK_oob.txt"

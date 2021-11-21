@@ -2,7 +2,7 @@ capital = 1120
 primary_culture = lurish
 culture = laki
 religion = shiite
-government = absolute_monarchy
+government = colonial_company
 plurality = 15.0
 nationalvalue = nv_tradition
 literacy = 0.2
@@ -64,7 +64,7 @@ military_constructions = yes_military_constructions
 #western_shipyards = yes_western_shipyards
 #foreign_artillery = yes_foreign_artillery
 
-ruling_party = AZB_reactionary
+ruling_party = KDS_reactionary
 upper_house = {
 	fascist = 0
 	liberal = 13

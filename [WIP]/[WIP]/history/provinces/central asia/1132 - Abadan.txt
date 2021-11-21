@@ -1,8 +1,7 @@
-owner = TIM
-controller = TIM
-add_core = TIM
-add_core = IRQ
+owner = KHZ
+controller = KHZ
+add_core = KHZ
 trade_goods = fish
 life_rating = 35
 naval_base = 1
-colonial = 2
+

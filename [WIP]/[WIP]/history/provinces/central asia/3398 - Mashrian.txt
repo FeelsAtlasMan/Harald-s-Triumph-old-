@@ -1,6 +1,5 @@
-owner = TIM
-controller = TIM
-add_core = TIM
+owner = TKM
+controller = TKM
 add_core = TKM
 terrain = semidesert
 trade_goods = fish

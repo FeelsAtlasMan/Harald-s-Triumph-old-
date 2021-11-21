@@ -1,5 +1,0 @@
-owner = BBB
-controller = BBB
-add_core = BBB
-trade_goods = grain
-life_rating = 35

@@ -1,6 +1,6 @@
-owner = TIM
-controller = TIM
-add_core = TIM
+owner = RSH
+controller = RSH
+add_core = RSH
 add_core = BDK
 trade_goods = cattle
 life_rating = 35

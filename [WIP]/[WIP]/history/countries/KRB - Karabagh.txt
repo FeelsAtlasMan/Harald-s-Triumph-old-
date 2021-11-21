@@ -2,10 +2,10 @@ capital = 1106
 primary_culture = azeri
 culture = persian
 religion = shiite
-government = absolute_monarchy
+government = colonial_company
 plurality = 15.0
 nationalvalue = nv_tradition
-literacy = 0.2
+literacy = 0.09
 civilized = no
 
 # Political reforms

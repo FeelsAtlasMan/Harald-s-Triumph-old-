@@ -1,5 +1,0 @@
-owner = AKK
-controller = AKK
-add_core = AKK
-trade_goods = fish
-life_rating = 35

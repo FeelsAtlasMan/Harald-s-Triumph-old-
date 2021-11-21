@@ -297,6 +297,18 @@ spriteTypes = {
 		texturefile = "gfx\\interface\\terrain_dryhills.tga"
 		norefcount = yes
 	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_dry_mountains"
+		texturefile = "gfx\\interface\\terrain_dry_mountains.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_semi_desert_mountains"
+		texturefile = "gfx\\interface\\terrain_semi_desert_mountains.tga"
+		norefcount = yes
+	}
 		
 	spriteType = {
 		name = "GFX_terrainimg_marsh"
@@ -707,11 +719,11 @@ spriteTypes = {
 		norefcount = yes
 	}
 
-	#spriteType = {
-	#	name = "GFX_terrainimg_tehran"
-	#	texturefile = "gfx\\interface\\terrain_tehran.tga"
-	#	norefcount = yes
-	#}
+	spriteType = {
+		name = "GFX_terrainimg_tehran"
+		texturefile = "gfx\\interface\\terrain_tehran.tga"
+		norefcount = yes
+	}
 
 	spriteType = {
 		name = "GFX_terrainimg_rennes"

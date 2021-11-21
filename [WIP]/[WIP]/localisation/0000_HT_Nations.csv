@@ -34,8 +34,11 @@ MUS_anarcho_liberal;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 MUS_socialist;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 MUS_communist;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 MUS_fascist;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-KRM;Karamanids;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-KRM_ADJ;Karamanid;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+KRM;Beghdilids;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+KRM_absolute_monarchy;Beghdilid Empire;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+KRM_hms_government;Beghdilid Empire;;;;;;;;;;;;x
+KRM_prussian_monarchy;Beghdilid Empire;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+KRM_ADJ;Beghdili;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 KRM_conservative;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 KRM_liberal;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 KRM_reactionary;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
@@ -43,15 +46,8 @@ KRM_anarcho_liberal;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 KRM_socialist;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 KRM_communist;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 KRM_fascist;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-AKK;Aq Qoyunlu;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-AKK_ADJ;Qoyunlu;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-AKK_conservative;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-AKK_liberal;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-AKK_reactionary;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-AKK_anarcho_liberal;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-AKK_socialist;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-AKK_communist;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-AKK_fascist;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+AKK;Donboli Khanate;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+AKK_ADJ;Donboli;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 TIM_absolute_monarchy;The Timurid Empire;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 TIM_hms_government;The Timurid Empire;;;;;;;;;;;;x
 TIM_prussian_monarchy;The Timurid Empire;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
@@ -62,7 +58,7 @@ TIM_liberal;Etehad-e Daneshju va Ostad;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 TIM_reactionary;Hezb-e Molla;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 TIM_anarcho_liberal;Bazari;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 TIM_socialist;Hezb-e 'Adl-e Mardom;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-TIM_communist;Hezb-e Tude-ye Iran va Turan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TIM_communist;Hezb-e Tudeh-ye Iran va Turan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 TIM_fascist;Hezb-e Turki-ye Bozorg;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 DUL;Dulkadiroghlu;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 DUL_colonial_company;Dulkadiroghlu Beylerbek;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
@@ -590,9 +586,10 @@ GNJ_hms_government;Ganjeh Khanate;;;;;;;;;;;;x
 GNJ_prussian_constitutionalism;Ganjeh Khanate;;;;;;;;;;;;x
 GNJ_ADJ;Ganjeh Khanate;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 TTN;Tatistan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-TTN_absolute_monarchy;Tatistan;;;;;;;;;;;;x
-TTN_hms_government;Tatistan;;;;;;;;;;;;x
-TTN_prussian_constitutionalism;Tatistan;;;;;;;;;;;;x
+TTN_colonial_company;Shirvan;;;;;;;;;;;;x
+TTN_absolute_monarchy;Shirvan;;;;;;;;;;;;x
+TTN_hms_government;Shirvan;;;;;;;;;;;;x
+TTN_prussian_constitutionalism;Shirvan;;;;;;;;;;;;x
 TTN_ADJ;Tat;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 TLY;Talyshistan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 TLY_absolute_monarchy;Talysh Khanate;;;;;;;;;;;;x
@@ -604,11 +601,12 @@ MKU_absolute_monarchy;Maku Khanate;;;;;;;;;;;;x
 MKU_hms_government;Maku Khanate;;;;;;;;;;;;x
 MKU_prussian_constitutionalism;Maku Khanate;;;;;;;;;;;;x
 MKU_ADJ;Makuyan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-FRS;Ilkhasids;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-FRS_absolute_monarchy;Ilkhasids;;;;;;;;;;;;x
-FRS_hms_government;Ilkhasids;;;;;;;;;;;;x
-FRS_prussian_constitutionalism;Ilkhasids;;;;;;;;;;;;x
-FRS_ADJ;Ilkhasid;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+FRS;Zohrabids;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+FRS_colonial_company;Fars Vilayat;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+FRS_absolute_monarchy;Zohrabid Empire;;;;;;;;;;;;x
+FRS_hms_government;Zohrabid Empire;;;;;;;;;;;;x
+FRS_prussian_constitutionalism;Zohrabid Empire;;;;;;;;;;;;x
+FRS_ADJ;Zohrabi;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 AJM;Ajam;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 AJM_absolute_monarchy;Ajam;;;;;;;;;;;;x
 AJM_hms_government;Ajam;;;;;;;;;;;;x
@@ -619,20 +617,65 @@ YZD_absolute_monarchy;Rustamids;;;;;;;;;;;;x
 YZD_hms_government;Rustamids;;;;;;;;;;;;x
 YZD_prussian_constitutionalism;Rustamids;;;;;;;;;;;;x
 YZD_ADJ;Rustamid;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+HSR;Hissar Bekdom;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+HSR_absolute_monarchy;Hissar Bekdom;;;;;;;;;;;;x
+HSR_hms_government;Hissar Bekdom;;;;;;;;;;;;x
+HSR_prussian_constitutionalism;Hissar Bekdom;;;;;;;;;;;;x
+HSR_ADJ;Hissari;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TAJ;Darvaz Bekdom;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TAJ_absolute_monarchy;Darvaz Bekdom;;;;;;;;;;;;x
+TAJ_hms_government;Darvaz Bekdom;;;;;;;;;;;;x
+TAJ_prussian_constitutionalism;Darvaz Bekdom;;;;;;;;;;;;x
+TAJ_ADJ;Darvazi;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+RSH;Shighnan Bekdom;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+RSH_absolute_monarchy;Shighnan Bekdom;;;;;;;;;;;;x
+RSH_hms_government;Shighnan Bekdom;;;;;;;;;;;;x
+RSH_prussian_constitutionalism;Shighnan Bekdom;;;;;;;;;;;;x
+RSH_ADJ;Shighnani;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+WKH;Wakhan Bekdom;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+WKH_absolute_monarchy;Wakhan Bekdom;;;;;;;;;;;;x
+WKH_hms_government;Wakhan Bekdom;;;;;;;;;;;;x
+WKH_prussian_constitutionalism;Wakhan Bekdom;;;;;;;;;;;;x
+WKH_ADJ;Wakhani;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+KSN;Kohistan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+KSN_colonial_company;Yusufzai Amirdom;;;;;;;;;;;;x
+KSN_absolute_monarchy;Yusufzai Amirdom;;;;;;;;;;;;x
+KSN_hms_government;Yusufzai Amirdom;;;;;;;;;;;;x
+KSN_prussian_constitutionalism;Yusufzai Amirdom;;;;;;;;;;;;x
+KSN_ADJ;Kohistani;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+KFR;Kafirestan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+KFR_ADJ;Kafirestani;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+GLG;Gilgit;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+GLG_ADJ;Gilgiti;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 LUR;Luristan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-LUR_absolute_monarchy;Luristan;;;;;;;;;;;;x
-LUR_hms_government;Luristan;;;;;;;;;;;;x
-LUR_prussian_constitutionalism;Luristan;;;;;;;;;;;;x
+LUR_colonial_company:Khorshids;;;;;;;;;;;;x
+LUR_absolute_monarchy;Khorshids;;;;;;;;;;;;x
+LUR_hms_government;Khorshids;;;;;;;;;;;;x
+LUR_prussian_constitutionalism;Khorshids;;;;;;;;;;;;x
+LUR_colonial_company_ADJ:Khorshidi;;;;;;;;;;;;x
+LUR_absolute_monarchy_ADJ;Khorshidi;;;;;;;;;;;;x
+LUR_hms_government_ADJ;Khorshidi;;;;;;;;;;;;x
+LUR_prussian_constitutionalism_ADJ;Khorshidi;;;;;;;;;;;;x
 LUR_ADJ;Lurish;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 GLN;Gilan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-GLN_absolute_monarchy;Gilan;;;;;;;;;;;;x
-GLN_hms_government;Gilan;;;;;;;;;;;;x
-GLN_prussian_constitutionalism;Gilan;;;;;;;;;;;;x
+GLN_colonial_company;Ishaqvands;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+GLN_absolute_monarchy;Ishaqvands;;;;;;;;;;;;x
+GLN_hms_government;Ishaqvands;;;;;;;;;;;;x
+GLN_prussian_constitutionalism;Ishaqvands;;;;;;;;;;;;x
+GLN_colonial_company_ADJ;Ishaqvandi;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+GLN_absolute_monarchy_ADJ;Ishaqvandi;;;;;;;;;;;;x
+GLN_hms_government_ADJ;Ishaqvandi;;;;;;;;;;;;x
+GLN_prussian_constitutionalism_ADJ;Ishaqvandi;;;;;;;;;;;;x
 GLN_ADJ;Gilaki;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 MZN;Mazandaran;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-MZN_absolute_monarchy;Mazandaran;;;;;;;;;;;;x
-MZN_hms_government;Mazandaran;;;;;;;;;;;;x
-MZN_prussian_constitutionalism;Mazandaran;;;;;;;;;;;;x
+MZN_colonial_company;Mar'ashids;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+MZN_absolute_monarchy;Mar'ashids;;;;;;;;;;;;x
+MZN_hms_government;Mar'ashids;;;;;;;;;;;;x
+MZN_prussian_constitutionalism;Mar'ashids;;;;;;;;;;;;x
+MZN_colonial_company_ADJ;Mar'ashi;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+MZN_absolute_monarchy_ADJ;Mar'ashi;;;;;;;;;;;;x
+MZN_hms_government_ADJ;Mar'ashi;;;;;;;;;;;;x
+MZN_prussian_constitutionalism_ADJ;Mar'ashi;;;;;;;;;;;;x
 MZN_ADJ;Mazandarani;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 KND;Maymaneh;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 KND_absolute_monarchy;Maymaneh Khanate;;;;;;;;;;;;x
@@ -645,10 +688,47 @@ BDK_hms_government;Badakhshan Khanate;;;;;;;;;;;;x
 BDK_prussian_constitutionalism;Badakhshan Khanate;;;;;;;;;;;;x
 BDK_ADJ;Badakhshani;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 SST;Sistan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-SST_absolute_monarchy;Abdali Shahdom;;;;;;;;;;;;x
-SST_hms_government;Abdali Shahdom;;;;;;;;;;;;x
-SST_prussian_constitutionalism;Abdali Shahdom;;;;;;;;;;;;x
-SST_ADJ;Abdali;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+SST_colonial_company;Mihrabanids;;;;;;;;;;;;x
+SST_absolute_monarchy;Mihrabanids;;;;;;;;;;;;x
+SST_hms_government;Mihrabanids;;;;;;;;;;;x
+SST_prussian_constitutionalism;Mihrabanids;;;;;;;;;;;;x+
+SST_colonial_company_ADJ;Mihrabani;;;;;;;;;;;;x
+SST_absolute_monarchy_ADJ;Mihrabani;;;;;;;;;;;;x
+SST_hms_government_ADJ;Mihrabani;;;;;;;;;;;x
+SST_prussian_constitutionalism_ADJ;Mihrabani;;;;;;;;;;;;x
+SST_ADJ;Sistani;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+MFQ;al-Muntafiq;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+MFQ_colonial_company;al-Muntafiq;;;;;;;;;;;;x
+MFQ_absolute_monarchy;al-Muntafiq;;;;;;;;;;;;x
+MFQ_hms_government;al-Muntafiq;;;;;;;;;;;x
+MFQ_prussian_constitutionalism;al-Muntafiq;;;;;;;;;;;;x
+MFQ_ADJ;Muntafiq;;;;;;;;;;;;x
+IRQ;Iraq;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+IRQ_colonial_company;Baghdad Vilayat;;;;;;;;;;;;x
+IRQ_absolute_monarchy;Iraq;;;;;;;;;;;;x
+IRQ_hms_government;Iraq;;;;;;;;;;;x
+IRQ_prussian_constitutionalism;Iraq;;;;;;;;;;;;x
+IRQ_ADJ;Iraq;;;;;;;;;;;;x
+TKM;Turkmenistan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+TKM_colonial_company;Yomuds;;;;;;;;;;;;x
+TKM_absolute_monarchy;Yomuds;;;;;;;;;;;;x
+TKM_hms_government;Yomuds;;;;;;;;;;;x
+TKM_prussian_constitutionalism;Yomuds;;;;;;;;;;;;x
+TKM_colonial_company_ADJ;Yomud;;;;;;;;;;;;x
+TKM_absolute_monarchy_ADJ;Yomud;;;;;;;;;;;;x
+TKM_hms_government_ADJ;Yomud;;;;;;;;;;;x
+TKM_prussian_constitutionalism_ADJ;Yomud;;;;;;;;;;;;x
+TKM_ADJ;Turkmen;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+KHZ;Khuzestan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+KHZ_colonial_company;Khuzestan Vilayat;;;;;;;;;;;;x
+KHZ_absolute_monarchy;Banu Ka'ab;;;;;;;;;;;;x
+KHZ_hms_government;Banu Ka'ab;;;;;;;;;;;x
+KHZ_prussian_constitutionalism;Banu Ka'ab;;;;;;;;;;;;x
+KHZ_colonial_company_ADJ;Ka'abi;;;;;;;;;;;;x
+KHZ_absolute_monarchy_ADJ;Ka'abi;;;;;;;;;;;;x
+KHZ_hms_government_ADJ;Ka'abi;;;;;;;;;;;x
+KHZ_prussian_constitutionalism_ADJ;Ka'abi;;;;;;;;;;;;x
+KHZ_ADJ;Khuzi;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 BLA;Bela;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 BLA_absolute_monarchy;Bela;;;;;;;;;;;;x
 BLA_hms_government;Bela;;;;;;;;;;;;x

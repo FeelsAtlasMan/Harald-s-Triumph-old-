@@ -1,6 +1,7 @@
-owner = KAL
-controller = KAL
-add_core = KAL
+owner = SST
+controller = SST
 add_core = BLC
+add_core = SST
 trade_goods = wool
-life_rating = 25
+life_rating = 15
+terrain = desert

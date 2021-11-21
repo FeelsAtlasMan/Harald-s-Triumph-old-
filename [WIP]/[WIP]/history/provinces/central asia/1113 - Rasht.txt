@@ -1,7 +1,6 @@
-owner = TIM
-controller = TIM
-add_core = TIM
+owner = GLN
+controller = GLN
 add_core = GLN
-add_core = PER
-trade_goods = timber
+trade_goods = silk
 life_rating = 35
+terrain = montane_forest
