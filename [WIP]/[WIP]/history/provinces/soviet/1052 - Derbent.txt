@@ -1,5 +1,5 @@
-owner = TIM
-controller = TIM
+owner = KMY
+controller = KMY
 add_core = TTN
 add_core = GMZ
 trade_goods = fruit

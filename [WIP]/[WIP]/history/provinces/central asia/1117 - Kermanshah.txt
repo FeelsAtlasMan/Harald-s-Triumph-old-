@@ -1,6 +1,7 @@
-owner = TIM
-controller = TIM
-add_core = TIM
+owner = RDL
+controller = RDL
+add_core = RDL
 add_core = KDS
 trade_goods = wool
 life_rating = 35
+terrain = mountain

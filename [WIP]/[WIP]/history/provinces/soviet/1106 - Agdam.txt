@@ -1,7 +1,8 @@
-owner = TIM
-controller = TIM
+owner = KRB
+controller = KRB
 add_core = ARM
 add_core = KRB
 add_core = ALW
 trade_goods = wool
 life_rating = 35
+terrain = steppe

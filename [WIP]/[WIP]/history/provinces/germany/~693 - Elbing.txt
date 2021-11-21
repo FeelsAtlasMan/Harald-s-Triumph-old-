@@ -1,6 +1,0 @@
-owner = BOH
-controller = BOH
-add_core = PRU
-add_core = UBD
-trade_goods = cattle
-life_rating = 35

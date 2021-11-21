@@ -1,7 +1,7 @@
 capital = 1113
 primary_culture = gilaki
 religion = shiite
-government = absolute_monarchy
+government = colonial_company
 plurality = 15.0
 nationalvalue = nv_tradition
 literacy = 0.6

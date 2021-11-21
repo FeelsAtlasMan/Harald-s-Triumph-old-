@@ -6,10 +6,7 @@ political_decisions = {
 				   primary_culture = novgorodian
 				   primary_culture = russian
 				}
-                NOT = { has_country_flag = cossack_nation }				
-				NOT = {
-					exists = RTH
-				}
+                NOT = { has_country_flag = cossack_nation }
 				NOT = {
 					exists = RUS
 				}

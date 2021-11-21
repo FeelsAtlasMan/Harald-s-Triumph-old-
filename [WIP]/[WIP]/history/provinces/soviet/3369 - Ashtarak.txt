@@ -1,6 +1,7 @@
-owner = TIM
-controller = TIM
+owner = IRV
+controller = IRV
 add_core = ARM
 add_core = IRV
-trade_goods = coal
+trade_goods = grain
 life_rating = 35
+terrain = mountain

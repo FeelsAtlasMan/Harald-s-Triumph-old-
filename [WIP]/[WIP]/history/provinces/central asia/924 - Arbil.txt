@@ -1,7 +1,8 @@
-owner = TIM
-controller = TIM
-add_core = TIM
+owner = BDN
+controller = BDN
+add_core = BDN
 add_core = ASY
 add_core = KDS
 trade_goods = wool
 life_rating = 35
+terrain = dryhills

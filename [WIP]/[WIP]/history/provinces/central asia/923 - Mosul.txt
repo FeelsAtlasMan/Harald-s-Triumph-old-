@@ -1,8 +1,8 @@
 owner = TIM
 controller = TIM
-add_core = TIM
+add_core = KDS
 add_core = IRQ
 add_core = ASY
 trade_goods = sulphur
 life_rating = 35
-colonial = 2
+terrain = plains

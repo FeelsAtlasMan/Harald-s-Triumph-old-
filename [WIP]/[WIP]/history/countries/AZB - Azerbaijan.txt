@@ -1,8 +1,8 @@
 capital = 1108
 primary_culture = adari
 culture = persian
-religion = shiite
-government = absolute_monarchy
+religion = sunni
+government = colonial_company
 plurality = 15.0
 nationalvalue = nv_order
 literacy = 0.6

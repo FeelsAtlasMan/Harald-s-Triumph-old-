@@ -1,7 +1,0 @@
-owner = ABB
-controller = ABB
-add_core = AST
-trade_goods = fruit
-terrain = dryhills
-life_rating = 30
-colonial = 2

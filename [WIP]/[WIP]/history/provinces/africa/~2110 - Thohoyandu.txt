@@ -1,6 +1,0 @@
-owner = VND
-controller = VND
-add_core = VND
-terrain = mountain
-trade_goods = grain
-life_rating = 35

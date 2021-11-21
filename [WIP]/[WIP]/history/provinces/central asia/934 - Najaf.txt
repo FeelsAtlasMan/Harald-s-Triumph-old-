@@ -1,6 +1,7 @@
-owner = TIM
-controller = TIM
-add_core = TIM
+owner = MFQ
+controller = MFQ
+add_core = MFQ
 add_core = IRQ
 trade_goods = fruit
 life_rating = 35
+terrain = steppe

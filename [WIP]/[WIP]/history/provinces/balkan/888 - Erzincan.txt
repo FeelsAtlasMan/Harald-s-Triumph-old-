@@ -1,7 +1,8 @@
-owner = AKK
-controller = AKK
-add_core = AKK
+owner = KRM
+controller = KRM
+add_core = KRM
 add_core = ARM
 add_core = KDS
 trade_goods = iron
 life_rating = 35
+terrain = mountain

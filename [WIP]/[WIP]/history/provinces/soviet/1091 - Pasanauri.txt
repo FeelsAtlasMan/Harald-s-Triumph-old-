@@ -1,7 +1,8 @@
-owner = TIM
-controller = TIM
+owner = KRT
+controller = KRT
 add_core = GEO
-add_core = ALN
 add_core = KRT
+add_core = ALN
 trade_goods = wool
 life_rating = 35
+terrain = mountain

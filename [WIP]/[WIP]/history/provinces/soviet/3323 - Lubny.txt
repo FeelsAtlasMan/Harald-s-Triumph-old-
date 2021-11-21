@@ -1,5 +1,6 @@
-owner = CHC
-controller = CHC
+owner = RTH
+controller = RTH
+add_core = RTH
 add_core = RUS
 add_core = CHC
 trade_goods = grain

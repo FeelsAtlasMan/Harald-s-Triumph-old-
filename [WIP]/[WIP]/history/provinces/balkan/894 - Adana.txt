@@ -1,5 +1,6 @@
-owner = DUL
-controller = DUL
-add_core = DUL
+owner = RMZ
+controller = RMZ
+add_core = RMZ
 trade_goods = wool
 life_rating = 35
+terrain = plains

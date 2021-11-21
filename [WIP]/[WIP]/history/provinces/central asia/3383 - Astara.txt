@@ -1,7 +1,7 @@
-owner = TIM
-controller = TIM
-add_core = TIM
-add_core = PER
+owner = GLN
+controller = GLN
+add_core = GLN
 add_core = TLY
-trade_goods = tobacco
+trade_goods = grain
 life_rating = 35
+terrain = montane_forest

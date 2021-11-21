@@ -1,4 +1,4 @@
-color = { 51  84  154 }
+color = { 124  183  151 }
 proletarian_dictatorship = { 150 10 40 }
 graphical_culture = RussianGC
 

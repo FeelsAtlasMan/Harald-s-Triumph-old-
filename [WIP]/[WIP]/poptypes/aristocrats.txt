@@ -106,76 +106,46 @@ country_migration_target = {
 	}
 	
 	modifier = {
-		factor = 1.5
-		OR = {
-			AND = {
-				THIS = { is_culture_group = germanic }
-				OR = { 
-					is_culture_group = american_cultures
-					AND = {
-						primary_culture = dutch
-						is_vassal = yes
-					}
-				}
-			}
-			
-			AND = {
-				THIS = { is_culture_group = polish_culture_group }
-				is_culture_group = french
-			}
-		}
-	}
-	
-	modifier = {
 		factor = 2.81
 		OR = {
 			##is_culture_group = THIS
 			AND = {
 				THIS = { is_culture_group = iberian }
 				is_culture_group = latin_american_cultures
+                primary_culture = iberiano
 			}
 			AND = {
-				THIS = { has_pop_culture = dutch }
-				primary_culture = boer
-			}
-			AND = {
-				OR = {
-					THIS = { is_culture_group = french }
-					THIS = { has_pop_culture = wallonian }
-				}
+				THIS = { is_culture_group = french }
 				OR = { 
-					primary_culture = french_canadian
-					primary_culture = neo_zelandais
+					primary_culture = aquitan
+					primary_culture = mexicain
 					primary_culture = french_australian
 					primary_culture = cajun
 					primary_culture = louisianan
 					primary_culture = french
-					primary_culture = wallonian
-					is_culture_group = pan_swiss
 				}
 			}
 			AND = {
-				THIS = { is_culture_group = british }
+				THIS = { is_culture_group = insular_western_germanic }
 				OR = {
-					is_culture_group = american_cultures
 					primary_culture = australian
-					primary_culture = anglo_canadian
+					primary_culture = new_scots
+					primary_culture = vinlander
 				}
 			}
 			AND = {
-				THIS = { is_culture_group = polish_culture_group }
-				OR = { 
-					is_culture_group = polish_culture_group
-					primary_culture = french
-				}	
-			}
-			AND = {
-				THIS = { is_culture_group = germanic }
+				THIS = { is_culture_group = continental_west_germanic }
 				OR = {
-					is_culture_group = germanic
-					is_culture_group = pan_swiss
+					is_culture_group = continental_west_germanic
+                    primary_culture = amerikaner
 				}
-				NOT = { continent = asia }
+			}			
+            AND = {
+				THIS = { is_culture_group = north_germanic }
+				OR = {
+					is_culture_group = north_germanic
+                    primary_culture = vinlander
+				}
 			}
 		}
 	}
@@ -193,7 +163,6 @@ country_migration_target = {
 			continent = north_america
 			continent = south_america
 			primary_culture = australian
-			primary_culture = neo_zelandais
 			primary_culture = french_australian
 		}
 		OR = {
@@ -214,7 +183,6 @@ country_migration_target = {
 			continent = north_america
 			continent = south_america
 			primary_culture = australian
-			primary_culture = neo_zelandais
 			primary_culture = french_australian
 		}
 		OR = {
@@ -326,7 +294,7 @@ migration_target = {
 	}
 	modifier = {
 		factor = 1.5
-		any_core = { is_primary_culture = yes }
+		any_core = { is_primary_culture = THIS }
 	}
 	modifier = {
 		factor = 0.75
@@ -492,7 +460,7 @@ migration_target = {
 			state_id = 409
 			state_id = 411
 		}
-		country = { is_culture_group = germanic }
+		country = { is_culture_group = continental_west_germanic }
 	}
 	
 	modifier = {
@@ -574,15 +542,6 @@ migration_target = {
 			is_core = RHO
 			is_core = CHI
 		}
-		country = { primary_culture = british }
-	}
-	
-	modifier = {
-		factor = -2.0
-		OR = { 
-			is_core = SAF
-		}
-		NOT = { year = 1855 }
 		country = { primary_culture = british }
 	}
 	
@@ -6631,21 +6590,6 @@ rehabilitation = {
 		modifier = {
 			factor = 0.5
 			country = { government = hms_government }
-		}
-		
-		modifier = {
-			factor = 2.0
-			country = { government = democracy }
-			NOT = { country = { primary_culture = yankee } }
-			NOT = { country = { primary_culture = dixie } }
-		}
-		
-		modifier = {
-			factor = 0.5
-			OR = {
-				country = { primary_culture = yankee }
-				country = { primary_culture = dixie }
-			}
 		}
 		
 		modifier = {

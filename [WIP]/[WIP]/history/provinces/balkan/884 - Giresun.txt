@@ -1,6 +1,7 @@
-owner = CND
-controller = CND
-add_core = CND
+owner = KRM
+controller = KRM
+add_core = KRM
 add_core = PNT
 trade_goods = fruit
 life_rating = 35
+terrain = hills

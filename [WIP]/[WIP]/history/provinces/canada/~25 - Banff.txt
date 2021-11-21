@@ -1,5 +1,0 @@
-owner = MTC
-controller = MTC
-add_core = MTC
-trade_goods = coal
-life_rating = 30

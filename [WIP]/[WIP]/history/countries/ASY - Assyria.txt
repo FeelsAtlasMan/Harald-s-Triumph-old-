@@ -1,9 +1,9 @@
 capital = 913
 primary_culture = assyrian
 religion = coptic
-government = democracy
+government = colonial_company
 plurality = 0.0
-nationalvalue = nv_order
+nationalvalue = nv_tradition
 literacy = 0.06
 
 # Political reforms

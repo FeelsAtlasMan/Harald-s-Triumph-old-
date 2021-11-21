@@ -1,6 +1,5 @@
-owner = ANK
-controller = ANK
-add_core = ANK
+owner = KRM
+controller = KRM
 add_core = KRM
 trade_goods = fruit
 life_rating = 35

@@ -4,3 +4,4 @@ add_core = GEO
 add_core = IMR
 trade_goods = fruit
 life_rating = 35
+terrain = hills

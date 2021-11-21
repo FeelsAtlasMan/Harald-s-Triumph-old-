@@ -1,5 +1,5 @@
-owner = TIM
-controller = TIM
+owner = TTN
+controller = TTN
 add_core = TTN
 add_core = ALW
 trade_goods = grain
